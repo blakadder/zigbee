@@ -1,0 +1,61 @@
+---
+layout: default
+---
+<div class="container">
+
+  <div class="row">
+    <div class="column">
+      <h2>{{ page.title }}
+      {% if page.template contains '131' or page.template contains '132' or page.template contains '133' or page.template contains '134' or page.template contains '135' or page.template contains '136' or page.template contains '137' or page.template contains '145' or page.template contains '146' or page.template contains '156'%}
+   Power Monitoring
+   {% endif %}
+   {{ page.type }}
+  </h2>
+  </div>
+  <!-- <div class="float-right"> -->
+  <div class="float-right" style="overflow-wrap: normal; min-width: 20%; max-width: 40%">
+    {% assign standard_list = page.standard %}
+    {% for item_standard in standard_list %}
+    <a class="button button-grey" href="{{ item_standard | downcase }}.html">{{ item_standard | upcase }}</a>
+       {% endfor %}
+    </div>
+  </div>
+  <div class="row">
+    <div class="column column-80"> 
+    <img src="{{ page.image }}" alt="{{ page.title }}" style="max-height: 350px; max-width: 450px;">
+  </div>
+  <div class="column column-20">
+    <p>
+     <b>
+   Available from:
+      </b>
+      <br>
+    <a class="menu" href="{% assign link = page.link %}{% include linkage.html %}">{{ page.link | remove_first: "http://" | remove_first: "https://" | remove_first: "www." | remove_first: "smile." | remove_first: "s.click." | split:'/' | first | capitalize}}</a>
+    <br>
+    <a class="menu" href="{% assign link = page.link2 %}{% include linkage.html %}">{{ page.link2 | remove_first: "http://" | remove_first: "https://" | remove_first: "www." | remove_first: "smile." | remove_first: "s.click." | split:'/' | first | capitalize}}</a>
+    <br><br>
+    {% if page.link3 != nil %}
+      <b>
+   Manufacturer:
+      </b>
+      <br>
+      <a class="menu" href="{% assign link = page.link3 %}{% include linkage.html %}">{{ page.link3 | remove_first: "http://" | remove_first: "https://" | remove_first: "www." | remove_first: "smile." | remove_first: "s.click." | split:'/' | first | capitalize}}</a>
+      {% endif %}
+    <br><br>
+    <b>
+      Wi-Fi Module:
+    </b>
+    <br>
+      {{ page.flash }}
+    <br>
+    </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="column column-80"><hr></div>
+    <div class="column column-20"><a class="button button-clear button-small menu" href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit on GitHub</a></div>
+  </div>
+  <b>Take a look at the sellers item description and try to avoid other items using the same description layout and images!</b>
+
+  {{ content | markdownify }} 
+  

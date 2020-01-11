@@ -1,0 +1,17 @@
+<div id="navigation" class="navigation">
+<ul class="navigation" id="navigation">
+<li>Devices by Type
+    {% assign cat = site.data.nav.toc %}
+{% for item in cat %}
+    <li><a class="{% if page.url == item.url %}active{% endif %}" href="{{ item.url | relative_url }}">{{ item.name }}</a>
+        <div style="display: flex; flex-flow: row wrap;" id="subnav">
+            {% for entry in item.subnav %}
+            <div><a class="{% if page.url == entry.url %}active{% endif %}" href="{{ entry.url | relative_url }}">{{ entry.title }} 
+                {% unless forloop.last %} |&nbsp; {% endunless %}</a></div>
+            {% endfor %}
+        </div>
+    </li>
+{% endfor %}
+<li><a href="http://tasmota.com" target="_blank">Tasmota Documentation</a></li>
+</ul>
+</div>

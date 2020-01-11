@@ -1,0 +1,43 @@
+title: Zigbee Device Compatibility Repository
+description: Database of devices compatible with Zigbee2MQTT and Zigbee2Tasmota
+url: "https://zigbee.blakadder.com"
+
+# Build settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
+remote_theme: alexander-heimbuch/millidocs
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+collections:
+  zigbee:
+    output: true
+    permalink: /:title.html
+  unsupported:
+    output: true
+    permalink: /unsupported/:title.html
+
+defaults:
+  - scope:
+      path: ""
+      type: "zigbee"
+    values:
+      layout: "zigbee"
+  - scope:
+      path: ""
+      type: "unsupported"
+    values:
+      layout: "unsupported"
+
+plugins:
+  - jekyll-seo-tag
+google_analytics: UA-140681905-3

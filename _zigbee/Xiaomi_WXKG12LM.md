@@ -3,7 +3,7 @@ model: WXKG12LM
 vendor: Xiaomi
 title: Aqara Wireless Mini Switch with Gyroscope
 category: switch
-supports: single click, double click, shake, hold, release, action, battery
+supports: single click, double click, shake action, hold, release, battery
 image: /assets/images/devices/WXKG12LM.jpg
 zigbeemodel: ['lumi.sensor_switch.aq3', 'lumi.sensor_swit']
 compatible: [z2m, zigate, conbee]

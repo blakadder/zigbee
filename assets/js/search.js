@@ -45,7 +45,7 @@
 
 		searchLink.attr('href', result.href)
 
-		searchLink.text(result.title)
+		searchLink.text(result.vendor).append(" ").append(result.title).append(" ").append(result.model)
 
 		return searchEntry
 	}

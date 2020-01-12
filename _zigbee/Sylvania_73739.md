@@ -1,10 +1,11 @@
 ---
-model: 73739  
+model: 73739
 vendor: Sylvania
 title: Smart+ BR30 810lm RGBCCT Bulb
 category: light
-functions:  on/off, brightness, color temperature, color xy
+supports: on/off, brightness, color temperature, color xy
 image: /assets/images/devices/73739.jpg
+zigbeemodel: ['LIGHTIFY BR RGBW', 'BR30 RGBW']
 compatible: [z2m]
 mlink: https://consumer.sylvania.com/our-products/smart/product-info/zigbee/smart-zigbee-adjustable-white-br30-bulb/index.jsp
 link: https://www.amazon.com/Sylvania-Smart-Home-73739-Adjustable/dp/B0196M5YAS
@@ -38,33 +39,4 @@ NOTE: This must be executed everytime you make changes to a light's attributes f
 `transition`   
 Controls the transition time (in seconds) of brightness,
 color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
-Note that this value is overridden if a `transition` value is present in the MQTT command payload.
-
-
-#### Manual Home Assistant configuration
-Although Home Assistant integration through [MQTT discovery](https://www.zigbee2mqtt.io/integration/home_assistant) is preferred,
-manual integration is possible with the following configuration:
-
-
-{% raw %}
-```yaml
-light:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    brightness: true
-    color_temp: true
-    xy: true
-    schema: "json"
-    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
-
-sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    unit_of_measurement: "-"
-    value_template: "{{ value_json.linkquality }}"
-```
-{% endraw %}
-
-
+Note that this value is overridden if a `transition` value is present in the MQTT command payload. 

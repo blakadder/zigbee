@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.vendor | escape }} {{ page.model | escape }} {{ page.title | escape }} {{ page.type | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}">
+  <meta name="description" content="{{ page.vendor | escape }} {{ page.model | escape }} {{ page.title | escape }}">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   {% include styles.html %}

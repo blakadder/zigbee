@@ -2,8 +2,8 @@
   <td class="td-first"><img src="{{ template.image }}" alt="{{ template.vendor }} {{ template.title }}" style="max-height:80px;vertical-align: middle;"></td>
   <td class="td-second"><b><a class="menu" href="{{site.baseurl}}{{ template.url }}">{{ template.vendor }} {{ template.title }}</a></b></td>
   <td>{{ template.model }}</td>
-  <td class="td-compat">{% if template.compatible contains "z2m" %}&#9989;{% else %}&#9940;{% endif %}</td>
-  <td class="td-compat">{% if template.compatible contains "conbee" %}&#9989;{% else %}&#9940;{% endif %}</td>
-  <td class="td-compat">{% if template.compatible contains "zigate" %}&#9989;{% else %}&#9940;{% endif %}</td>
-  <td class="td-compat">{% if template.compatible contains "tasmota" %}&#9989;{% else %}&#9940;{% endif %}</td>
+  <td class="td-compat">{% if template.compatible contains "z2m" %}<img src="/assets/images/z2m-icon.png">{% else %} {% endif %}</td>
+  <td class="td-compat">{% if template.compatible contains "conbee" %}<img src="/assets/images/deconz-icon.png">{% else %} {% endif %}</td>
+  <td class="td-compat">{% if template.compatible contains "zigate" %}<img src="/assets/images/zigate-icon.png">{% else %} {% endif %}</td>
+  <td class="td-compat">{% if template.compatible contains "tasmota" %}<img src="/assets/images/tasmota-icon.png">{% else %} {% endif %}</td>
 </tr>

@@ -4,16 +4,27 @@ layout: default
 <div class="container">
 
 <div class="row">
-  <div class="column-100">
-    <h2> {{ page.vendor }} {{ page.title | truncate: 45 }} {{ page.model }}</h2>
+  <div class="column column-75">
+    <h2>{{ page.title | truncate: 50 }}</h2>
 </div>
+<div class="column column-35"  style="text-align: right;">
+  <h4>Model# {{ page.model }} </h4>
+</div>
+
+</div>
+<div class="row">
+  <div class="column column-40">
+    <h4>Manufactured by {{ page.vendor }} </h4>
+</div>
+  <div class="column column-33">
+  </div>
 </div>
 <div class="row">
   <div class="column column-60"> 
   <img src="{{ page.image }}" alt="{{ page.title }}" style="max-height: 350px; max-width: 400px;">
 </div>
   <div class="column">
-    {% include functions.html %}
+    {% include supports.html %}
   </div>
   <div class="column">
     {% include links.html %}
@@ -25,4 +36,6 @@ layout: default
 </div>
 {{ content | markdownify }} 
 
- <div id="amzn-assoc-ad-c632316f-24d7-45e3-9fd2-4f1038ceddbc"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=c632316f-24d7-45e3-9fd2-4f1038ceddbc"></script>
+{% include hass.html %}
+
+<div id="amzn-assoc-ad-c632316f-24d7-45e3-9fd2-4f1038ceddbc"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=c632316f-24d7-45e3-9fd2-4f1038ceddbc"></script>

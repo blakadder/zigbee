@@ -2,13 +2,14 @@
 model: 1TST-EU 
 vendor: eCozy 
 title: Smart Heating Thermostat
-category:
-functions:  temperature, occupancy, un-/occupied heating, schedule
+category: misc
+supports: occupancy, heating, schedule, battery
 image: /assets/images/devices/1TST-EU.jpg
 mlink:
 link: https://www.amazon.de/Ecozy-Smart-Heizk%C3%B6rperthermostat-einzeln-1TST-EU/dp/B01LTG8UDW
 link2: https://www.amazon.co.uk/eCozy-1TST-EU-Smart-Heating-Thermostat/dp/B01LTG8UDW
 link3:
+zigbeemodel: 
 compatible: [z2m]
 ---
 
@@ -173,50 +174,4 @@ Get relay status log
 tz.thermostat_relay_status_log
 Get relay status log response
 tz.thermostat_relay_status_log_rsp
--->
-
-
-#### Manual Home Assistant configuration
-Although Home Assistant integration through [MQTT discovery](https://www.zigbee2mqtt.io/integration/home_assistant) is preferred,
-manual integration is possible with the following configuration:
-
-
-{% raw %}
-```yaml
-climate:
-  - platform: "mqtt"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    min_temp: "7"
-    max_temp: "30"
-    modes: 
-      - "off"
-      - "auto"
-      - "heat"
-    mode_state_topic: true
-    mode_state_template: "{{ value_json.system_mode }}"
-    mode_command_topic: true
-    current_temperature_topic: true
-    current_temperature_template: "{{ value_json.local_temperature }}"
-    temperature_state_topic: true
-    temperature_state_template: "{{ value_json.occupied_heating_setpoint }}"
-    temperature_command_topic: "occupied_heating_setpoint"
-    temp_step: 1
-
-sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    unit_of_measurement: "%"
-    device_class: "battery"
-    value_template: "{{ value_json.battery }}"
-
-sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    unit_of_measurement: "-"
-    value_template: "{{ value_json.linkquality }}"
-```
-{% endraw %}
-
-
+--> 

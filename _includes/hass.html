@@ -1,0 +1,364 @@
+<h4>Home Assistant Configuration</h4>
+Home Assistant integration through <a href="https://www.zigbee2mqtt.io/integration/home_assistant" target="_blank">MQTT discovery</a> is preferred.
+<p>
+Manual integration is done with the following configurations. Replace `[FRIENDLY_NAME]` with your <a href="https://www.zigbee2mqtt.io/information/mqtt_topics_and_message_structure.html#zigbee2mqttfriendly_name" target="_blank">device's friendly name</a>!
+<p>
+<div>
+  {%- if page.supports contains "on/off" and page.category == "remote" -%}
+  
+  {%- elsif page.supports contains "on/off" and page.supports contains "brightness" -%}
+
+Light:
+<pre><code class="language-yaml">{% raw %}light:
+    - platform: "mqtt"
+      state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+      availability_topic: "zigbee2mqtt/bridge/state"
+      brightness: true{% endraw %}{%- if page.supports contains "on/off" and page.supports contains "color temperature" -%}color_temp: true
+      {% endif %}
+      {%- if page.supports contains "on/off" and page.supports contains "color xy" -%}xy: true{% endif %}{% raw %}
+      schema: "json"
+      command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+  {% endraw %}
+</code></pre>
+
+{%- elsif page.supports contains "on/off" -%}
+
+Power ON/OFF:
+<pre><code class="language-yaml">{% raw %}switch:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_off: "OFF"
+    payload_on: "ON"
+    value_template: "{{ value_json.state }}"
+    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "water leak" -%}
+
+Water Leak Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+    - platform: "mqtt"
+      state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+      availability_topic: "zigbee2mqtt/bridge/state"
+      payload_on: true
+      payload_off: false
+      value_template: "{{ value_json.water_leak }}"
+      device_class: "moisture"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "contact" -%}
+
+Water Leak Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_on: false
+    payload_off: true
+    value_template: "{{ value_json.contact }}"
+    device_class: "door"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "temperature" -%}
+
+{%- unless page.supports contains "color" -%}
+
+Temperature Sensor:
+<pre><code class="language-yaml">{% raw %}sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    unit_of_measurement: "°C"
+    device_class: "temperature"
+    value_template: "{{ value_json.temperature }}"
+{% endraw %}
+</code></pre>
+
+{% endunless %}
+{% endif %}
+
+{%- if page.supports contains "humidity" -%}
+
+Humidity Sensor:
+<pre><code class="language-yaml">{% raw %}sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    unit_of_measurement: "%"
+    device_class: "humidity"
+    value_template: "{{ value_json.humidity }}"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "illuminance" -%}
+
+Illuminance Sensor:
+<pre><code class="language-yaml">{% raw %}sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    unit_of_measurement: "lx"
+    device_class: "illuminance"
+    value_template: "{{ value_json.illuminance }}"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "occupancy" -%}
+
+Occupancy Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_on: true
+    payload_off: false
+    value_template: "{{ value_json.occupancy }}"
+    device_class: "motion"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "click" -%}
+
+Click Sensor:
+<pre><code class="language-yaml">{% raw %}sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    icon: "mdi:toggle-switch"
+    value_template: "{{ value_json.click }}"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "action" -%}
+
+Action Sensor:
+<pre><code class="language-yaml">{% raw %}sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    icon: "mdi:gesture-double-tap"
+    value_template: "{{ value_json.action }}"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "report open" -%}
+
+Lock Open Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_on: "UNLOCK"
+    payload_off: "LOCK"
+    value_template: "{{ value_json.state}}"
+    device_class: "lock"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "report close" -%}
+
+Lock Closed Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_on: "UNLOCK"
+    payload_off: "LOCK"
+    value_template: "{{ value_json.reverse}}"
+    device_class: "lock"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "inserted" -%}
+
+Key Inserted Sensor:
+<pre><code class="language-yaml">{% raw %}sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    icon: "mdi:lock"
+    value_template: "{{ value_json.inserted }}"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "battery_low" -%}
+
+Low Battery Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_on: true
+    payload_off: false
+    value_template: "{{ value_json.battery_low}}"
+    device_class: "battery"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "power measurement" -%}
+
+Power Meter Sensor:
+<pre><code class="language-yaml">{% raw %}sensor:
+    - platform: "mqtt"
+      state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+      availability_topic: "zigbee2mqtt/bridge/state"
+      unit_of_measurement: "W"
+      icon: "mdi:factory"
+      value_template: "{{ value_json.power }}"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "position" -%}
+
+Position Sensor:
+<pre><code class="language-yaml">{% raw %}sensor:
+    - platform: "mqtt"
+      state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+      availability_topic: "zigbee2mqtt/bridge/state"
+      value_template: "{{ value_json.position }}"
+      icon: "mdi:view-array"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "open/close" -%}
+
+Cover:
+<pre><code class="language-yaml">{% raw %}cover:
+  - platform: "mqtt"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+    position_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    set_position_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+    set_position_template: "{ \"position\": {{ position }} }"
+    value_template: "{{ value_json.position }}"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "heating" -%}
+
+Climate:
+<pre><code class="language-yaml">{% raw %}climate:
+  - platform: "mqtt"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    min_temp: "7"
+    max_temp: "30"
+    modes: 
+      - "off"
+      - "auto"
+      - "heat"
+    mode_state_topic: true
+    mode_state_template: "{{ value_json.system_mode }}"
+    mode_command_topic: true
+    current_temperature_topic: true
+    current_temperature_template: "{{ value_json.local_temperature }}"
+    temperature_state_topic: true
+    temperature_state_template: "{{ value_json.occupied_heating_setpoint }}"
+    temperature_command_topic: "occupied_heating_setpoint"
+    temp_step: 1
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "fan_state" -%}
+
+Fan:
+<pre><code class="language-yaml">{% raw %}fan:
+  - platform: "mqtt"
+    state_topic: true
+    availability_topic: "zigbee2mqtt/bridge/state"
+    state_value_template: "{{ value_json.fan_state }}"
+    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+    command_topic_postfix: "fan_state"
+    speed_state_topic: true
+    speed_command_topic: true
+    speed_value_template: "{{ value_json.fan_mode }}"
+    speeds: 
+      - "off"
+      - "low"
+      - "medium"
+      - "high"
+      - "on"
+      - "auto"
+      - "smart"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "battery" -%}
+
+Batter Percentage Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+    - platform: "mqtt"
+      state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+      availability_topic: "zigbee2mqtt/bridge/state"
+      payload_on: true
+      payload_off: false
+      value_template: "{{ value_json.battery_low}}"
+      device_class: "battery"
+    {% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "state" -%}
+
+Connectivity Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_on: true
+    payload_off: false
+    value_template: "{{ value_json.state }}"
+    device_class: "connectivity"
+    {% endraw %}
+</code></pre>
+
+{% endif %}
+
+Zigbee Link Quality Sensor:
+<pre><code class="language-yaml">{% raw %}sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    unit_of_measurement: "-"
+    value_template: "{{ value_json.linkquality }}"
+{% endraw %}
+</code></pre>
+</div>

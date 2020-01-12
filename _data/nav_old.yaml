@@ -1,0 +1,11 @@
+toc:
+  - name: Bulbs amd Lights
+    url: light.html
+  - name: Switches and Relays
+    url: switch.html
+  - name: Plugs and Sockets
+    url: plug.html
+  - name: Remote Controllers
+    url: remote.html
+  - name: Sensors
+    url: sensor.html

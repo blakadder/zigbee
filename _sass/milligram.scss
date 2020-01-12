@@ -237,14 +237,14 @@ code {
 }
 
 pre {
-  border-left: 0.3rem solid #1FA3EC;
+  border-left: 0.3rem solid #EF3453;
   overflow-y: hidden;
 }
 
 pre > code {
   border-radius: 0;
   display: block;
-  padding: 1rem 1.5rem;
+  padding: 0.5rem 1.5rem;
   white-space: normal;
 }
 
@@ -617,7 +617,7 @@ th:last-child {
 
 .td-compat {
   text-align: center;
-  width: 20px;
+  width: 50px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -625,7 +625,7 @@ th:last-child {
 
 .th-compat {
   text-align: center;
-  width: 20px;
+  width: 30px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;

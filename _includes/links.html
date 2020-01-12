@@ -6,15 +6,19 @@
     <tbody>
     <tr>
         <td  style="border-bottom: none">
-            <a class="menu" href="{% assign link = page.link %}{% include linkage.html %}">{{ page.link | remove_first: "http://" | remove_first: "https://" | remove_first: "www." | remove_first: "smile." | remove_first: "s.click." | split:'/' | first | capitalize}}</a>
+            <a class="menu" href="{% assign link = page.link %}{% include linkage.html %}">{{ page.link | remove_first: "http://" | remove_first: "https://" | remove_first: "www." | remove_first: "www2." | remove_first: "smile." | remove_first: "s.click." | split:'/' | first | capitalize}}</a>
         </td></tr>
         {% if page.link2 != nil %}
         <tr><td style="border-bottom: none">
-            <a class="menu" href="{% assign link = page.link2 %}{% include linkage.html %}">{{ page.link2 | remove_first: "http://" | remove_first: "https://" | remove_first: "www." | remove_first: "smile." | remove_first: "s.click." | remove_first: "offer." | split:'/' | first | capitalize}}</a>
+            <a class="menu" href="{% assign link = page.link2 %}{% include linkage.html %}">{{ page.link2 | remove_first: "http://" | remove_first: "https://" | remove_first: "www." | remove_first: "www2." | remove_first: "smile." | remove_first: "s.click." | remove_first: "offer." | split:'/' | first | capitalize}}</a>
         </td></tr>{% endif %}
         {% if page.link3 != nil %}
         <tr><td style="border-bottom: none">
-            <a class="menu" href="{% assign link = page.link3 %}{% include linkage.html %}">{{ page.link3 | remove_first: "http://" | remove_first: "https://" | remove_first: "www." | remove_first: "smile." | remove_first: "s.click." | remove_first: "offer." | split:'/' | first | capitalize}}</a>
+            <a class="menu" href="{% assign link = page.link3 %}{% include linkage.html %}">{{ page.link3 | remove_first: "http://" | remove_first: "https://" | remove_first: "www." | remove_first: "www2." | remove_first: "smile." | remove_first: "s.click." | remove_first: "offer." | split:'/' | first | capitalize}}</a>
+        </td></tr>{% endif %}
+        {% if page.link4 != nil %}
+        <tr><td style="border-bottom: none">
+            <a class="menu" href="{% assign link = page.link4 %}{% include linkage.html %}">{{ page.link4 | remove_first: "http://" | remove_first: "https://" | remove_first: "www." | remove_first: "www2." | remove_first: "smile." | remove_first: "s.click." | remove_first: "offer." | split:'/' | first | capitalize}}</a>
         </td></tr>{% endif %}
     </tbody>
 </table>
@@ -23,12 +27,12 @@
 {% if page.mlink != nil %}
 <table>
     <thead>
-        <tr><th style="border-bottom: none">Manufacturer:</th</tr>
+        <tr><th style="border-bottom: none">Manufacturer site:</th</tr>
     </thead>
     <tbody>
     <tr>
         <td style="border-bottom: none">
-            <a class="menu" href="{% assign link = page.mlink %}{% include linkage.html %}">{{ page.mlink | remove_first: "http://" | remove_first: "https://" | remove_first: "www." | remove_first: "smile." | remove_first: "s.click." | split:'/' | first | capitalize}}</a>
+            <a class="menu" href="{% assign link = page.mlink %}{% include linkage.html %}">{{ page.mlink | remove_first: "http://" | remove_first: "https://" | remove_first: "www." | remove_first: "www2." | remove_first: "smile." | remove_first: "s.click." | split:'/' | first | capitalize}}</a>
         </td>
         </tr>
     </tbody>

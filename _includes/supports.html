@@ -1,0 +1,15 @@
+    <table>
+    <thead>
+        <tr><th style="border-bottom: none">Supports:</th></tr>
+    </thead>
+    <tbody>
+      {% assign supports = page.supports | split: ',' %}
+      {% for function in supports %}
+    <tr>
+        <td style="border-bottom: none">
+            {{ function | downcase }}
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>

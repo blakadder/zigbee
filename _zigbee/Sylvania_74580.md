@@ -1,10 +1,11 @@
 ---
-model: 74580  
+model: 74580
 vendor: Sylvania
 title: Smart+ PAR38 1050lm WW Bulb
 category: light
-functions:  on/off, brightness
+supports: on/off, brightness
 image: /assets/images/devices/74580.jpg
+zigbeemodel: ['PAR38 W 10 year']
 compatible: [z2m]
 mlink: 
 link: https://www.amazon.com/Sylvania-Smart-Home-74580-SmartThings/dp/B071L2DM4J
@@ -38,31 +39,4 @@ NOTE: This must be executed everytime you make changes to a light's attributes f
 `transition`   
 Controls the transition time (in seconds) of brightness,
 color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
-Note that this value is overridden if a `transition` value is present in the MQTT command payload.
-
-
-#### Manual Home Assistant configuration
-Although Home Assistant integration through [MQTT discovery](https://www.zigbee2mqtt.io/integration/home_assistant) is preferred,
-manual integration is possible with the following configuration:
-
-
-{% raw %}
-```yaml
-light:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    brightness: true
-    schema: "json"
-    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
-
-sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    unit_of_measurement: "-"
-    value_template: "{{ value_json.linkquality }}"
-```
-{% endraw %}
-
-
+Note that this value is overridden if a `transition` value is present in the MQTT command payload. 

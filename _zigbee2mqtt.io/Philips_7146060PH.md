@@ -1,0 +1,89 @@
+---
+model: 7146060PH
+vendor: Philips
+title: Hue Go Portable Light
+category: Light
+supports: on/off, brightness, color temperature, color xy, power-on behavior
+image: /assets/images/devices/7146060PH.jpg
+compatible: [z2m, zigate, conbee]
+mlink: 
+link: https://www.amazon.com/Philips-7146060PH-Hue-Compatible-Assistant/dp/B079TCRFC3
+link2: https://www.amazon.de/dp/B00UEMFGQM
+link3: 
+---
+### Pairing
+Factory resetting a Hue bulb can be accomplished in 4 ways.
+After resetting the bulb will automatically connect.
+
+#### Touchlink factory reset
+See [Touchlink](https://www.zigbee2mqtt.io/information/touchlink)
+
+#### Hue bridge
+When the bulb is still connected to the Hue bridge, you can simply factory reset the bulb
+by removing it from the bridge via the Hue app.
+
+#### Hue dimmer switch
+[VIDEO: Factory reset a Hue bulb with Hue dimmer switch](https://www.youtube.com/watch?v=qvlEAELiJKs).
+
+#### TRADFRI remote control
+This may also be possible with the
+[Tradfri Remote Control](https://www.ikea.com/us/en/images/products/tradfri-remote-control__0489469_PE623665_S4.JPG)
+by pressing and holding the reset button on the bottom of the remote (next to the battery).
+[This may not always work](https://github.com/Koenkk/zigbee2mqtt/issues/296#issuecomment-416923751).
+
+
+### Power-on behavior
+Allows to set the power-on behavior of the bulb.
+Note that this requires at least November/December '18 firmware update of the bulb.
+```js
+{
+    "hue_power_on_behavior": "on",          //default, on, off, recover, default = on
+    "hue_power_on_brightness": 125,         //default, same values as brightness, default = 255
+    "hue_power_on_color_temperature": 280,  //default, same values as color_temp, default = 366
+}
+```
+
+Attribute Value | Description
+----------------|-----------------------------------------------
+default         | reset to factory default value
+on              | lamps on after power loss with configured brightness, color-temperature, color (to-do)
+off             | lamps off after power loss
+recover         | last running state after power loss
+
+
+For the 7146060PH (Philips Hue Go), **the power cord has to be connected**,
+after the blinking light (**INSTEAD** of step four in the video),
+press and keep holding the button on the bottom until the device is paired (+- 60 seconds).
+While holding the button the Hue Go will give you a nice light show :smile:.
+
+
+### Device type specific configuration
+*[How to use device type specific configuration](https://www.zigbee2mqtt.io/information/configuration)*
+
+
+`transition`   
+Controls the transition time (in seconds) of brightness,
+color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+Note that this value is overridden if a `transition` value is present in the MQTT command payload. 
+{% raw %}
+```yaml
+light:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    brightness: true
+    color_temp: true
+    xy: true
+    schema: "json"
+    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+
+sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    unit_of_measurement: "-"
+    value_template: "{{ value_json.linkquality }}"
+```
+{% endraw %}
+
+

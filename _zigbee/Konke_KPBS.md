@@ -1,24 +1,22 @@
 ---
-model: 4KPBS  
+model: KPBS
 vendor: Konke
 title: Motion Sensor
-category:
-functions:  occupancy
+category: sensor
+supports: occupancy, battery, battery_low
 image: /assets/images/devices/2AJZ4KPBS.jpg
 mlink: http://www.ikonke.us/pro/kitpro/index.php#kitpro
 link: https://www.amazon.com/Konke-Smart-Automation-Monitoring-Devices/dp/B07QVXNDBS
 link2: https://www.banggood.com/KONKE-Zigbee-3_0-Open-Protocol-Smart-Home-Human-Body-Sensor-Wireless-Connection-Light-Motion-Sensor-Switch-From-Xiaomi-Eco-system-p-1551514.html
 link3: https://www.aliexpress.com/item/4000478277318.html
+zigbeemodel: ['3AFE14010402000D', '3AFE27010402000D', '3AFE28010402000D']
 compatible: [z2m]
 ---
-
 FCCID: 2AJZ-4KPBS
+
 ### Important
 Konke devices only work on Zigbee channel 15, 20 and 25.
 
-#### Manual Home Assistant configuration
-Although Home Assistant integration through [MQTT discovery](https://www.zigbee2mqtt.io/integration/home_assistant) is preferred,
-manual integration is possible with the following configuration:
 
 {% raw %}
 ```yaml

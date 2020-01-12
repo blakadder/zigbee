@@ -13,7 +13,7 @@ navigation: 19
 <BR>
 <h3>{{ group.name | capitalize }}</h3>
 <table id="{{group.name}}" width="80%">
-    <thead>
+    <!-- <thead>
     <tr>
         <th class="td-first">Picture</th>
         <th class="td-second">Manufacturer and Name</th>
@@ -23,7 +23,7 @@ navigation: 19
         <th class="th-compat">ZiGate</th>
         <th class="th-compat">Tasmota</th>
     </tr>
-    </thead>
+    </thead> -->
     <tbody>
     {% assign grouptitlesorted = group.items | sort_natural: 'vendor' %}     
     {% for template in grouptitlesorted %}

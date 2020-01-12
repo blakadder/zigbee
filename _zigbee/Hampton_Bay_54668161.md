@@ -1,10 +1,11 @@
 ---
-model: 54668161  
+model: 54668161
 vendor: Hampton Bay 
 title: 12 in. Round CCT Ceiling Light
 category: light
-functions:  on/off, brightness, color temperature
+supports: on/off, brightness, color temperature
 image: /assets/images/devices/54668161.jpg
+zigbeemodel: ['ETI 12-in Puff light']
 compatible: [z2m]
 mlink: 
 link: https://www.amazon.com/Hampton-Bay-Lighting/dp/B01NAIP7JL
@@ -18,32 +19,5 @@ link3: https://www.amazon.com/Toucan-City-Flashlight-Equivalent-Temperature/dp/B
 `transition`   
 Controls the transition time (in seconds) of brightness,
 color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
-Note that this value is overridden if a `transition` value is present in the MQTT command payload.
-
-
-#### Manual Home Assistant configuration
-Although Home Assistant integration through [MQTT discovery](https://www.zigbee2mqtt.io/integration/home_assistant) is preferred,
-manual integration is possible with the following configuration:
-
-
-{% raw %}
-```yaml
-light:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    brightness: true
-    color_temp: true
-    schema: "json"
-    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
-
-sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    unit_of_measurement: "-"
-    value_template: "{{ value_json.linkquality }}"
-```
-{% endraw %}
-
+Note that this value is overridden if a `transition` value is present in the MQTT command payload. 
 

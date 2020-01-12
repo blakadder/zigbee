@@ -3,7 +3,7 @@ model: WXKG01LM
 vendor: Xiaomi
 title: MiJia Wireless Switch
 category: switch
-supports: single click, double click, triple click, quadrupl clicke, many click, long click, long_release click, battery
+supports: single click, double click, triple click, quadruple click, many clicks, long click, long_release click, battery
 image: /assets/images/devices/WXKG01LM.jpg
 zigbeemodel: ['lumi.sensor_switch']
 compatible: [z2m, zigate, conbee, tasmota]

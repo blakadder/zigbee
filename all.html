@@ -7,16 +7,27 @@ navigation: 19
 
 <!-- ######################################################################  -->
 {% assign category = site.zigbee %}
-{% assign type_group = category | group_by: 'type' %}
-{% assign type_grouped = type_group | sort: 'name' %}
+{% assign type_group = category | group_by: 'category' | sort_natural %}
+{% assign type_grouped = type_group | sort: 'model' %}
 {% for group in type_grouped %}
 <BR>
-<h3>{{group.name}}</h3>
+<h3>{{ group.name | capitalize }}</h3>
 <table id="{{group.name}}" width="80%">
+    <thead>
+    <tr>
+        <th class="td-first">Picture</th>
+        <th class="td-second">Manufacturer and Name</th>
+        <th>Model #</th>
+        <th class="th-compat">Zigbee2MQTT</th>
+        <th class="th-compat">ConBee</th>
+        <th class="th-compat">ZiGate</th>
+        <th class="th-compat">Tasmota</th>
+    </tr>
+    </thead>
     <tbody>
-    {% assign grouptitlesorted = group.items | sort_natural: 'title' %}     
+    {% assign grouptitlesorted = group.items | sort_natural: 'vendor' %}     
     {% for template in grouptitlesorted %}
-    {% include tablerow_standard.html %}
+    {% include tablerow.html %}
     {% endfor %}
 </tbody>
 </table>

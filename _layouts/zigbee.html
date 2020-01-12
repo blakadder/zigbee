@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="container">
+
+<div class="row">
+  <div class="column-100">
+    <h2> {{ page.vendor }} {{ page.title | truncate: 45 }} {{ page.model }}</h2>
+</div>
+</div>
+<div class="row">
+  <div class="column column-60"> 
+  <img src="{{ page.image }}" alt="{{ page.title }}" style="max-height: 350px; max-width: 400px;">
+</div>
+  <div class="column">
+    {% include functions.html %}
+  </div>
+  <div class="column">
+    {% include links.html %}
+</div>
+</div>
+<div class="row">
+  <div class="column column-90"><hr></div>
+  <div class="column column-10"><a class="button button-clear button-small button-red menu" href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit on GitHub</a></div>
+</div>
+{{ content | markdownify }} 
+
+ <div id="amzn-assoc-ad-c632316f-24d7-45e3-9fd2-4f1038ceddbc"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=c632316f-24d7-45e3-9fd2-4f1038ceddbc"></script>

@@ -1,12 +1,4 @@
 toc:
-  - name: Bulbs by
-    subnav:
-      - title: Name
-        url: bulb.html
-      - title: Type
-        url: bulb-type.html
-      - title: Socket
-        url: bulb-socket.html
   - name: Switches and Relays
     url: switch.html
   - name: Lights and LEDs
@@ -17,36 +9,3 @@ toc:
     url: misc.html
   - name: Devices by Standard
     url: standard.html
-    subnav:
-      - title: EU
-        url: eu.html
-      - title: US
-        url: us.html
-      - title: UK
-        url: uk.html
-      - title: AU
-        url: au.html
-      - title: BR
-        url: br.html
-      - title: CH
-        url: ch.html
-      - title: FR
-        url: fr.html
-      - title: IL
-        url: il.html
-      - title: IN
-        url: in.html
-      - title: IT
-        url: it.html
-      - title: JP
-        url: jp.html
-      - title: ZA
-        url: za.html
-      - title: GLOBAL
-        url: global.html
-      - title: ALL
-        url: all.html
-  - name: Unsupported Devices
-    url: unsupported.html
-  - name: How to use Templates?
-    url: howto.html

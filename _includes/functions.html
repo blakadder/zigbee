@@ -1,0 +1,15 @@
+    <table>
+    <thead>
+        <tr><th style="border-bottom: none">Functions:</th></tr>
+    </thead>
+    <tbody>
+      {% assign functions = page.functions | split: ',' %}
+      {% for function in functions %}
+    <tr>
+        <td style="border-bottom: none">
+            {{ function | downcase }}
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>

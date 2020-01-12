@@ -40,4 +40,5 @@ defaults:
 
 plugins:
   - jekyll-seo-tag
+  
 google_analytics: UA-140681905-3

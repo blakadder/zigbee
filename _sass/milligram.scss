@@ -559,40 +559,90 @@ p,
 pre,
 table,
 ul {
-  margin-bottom: 2.5rem;
+  margin-bottom: 1rem;
 }
 
 table {
   border-spacing: 0;
-  width: 85%;
+  width: 100%;
 }
 
 td,
 th {
+  border-bottom: 0.1rem solid #e1e1e1;
+  padding: 0.2rem 0.5rem;
+  text-align: left;
+}
+
+td:first-child,
+th:first-child {
+  padding-left: 0;
+}
+
+td:last-child,
+th:last-child {
+  padding-right: 0;
+}
+
+.table-list {
+  border-spacing: 0;
+  width: 85%;
+}
+
+.td-list,
+.th-list {
   border-bottom: 0.1rem solid #e1e1e1;
   padding: 0.1rem 0.5rem;
   text-align: left;
   vertical-align: middle;
 }
 
-td:first-child,
-th:first-child {
+.td-first,
+.th-first {
   padding-left: 1;
   text-align: center;
+  width: 20%;
   // width: 150px;
 }
 
-td:nth-child(2),
-th:nth-child(2) {
+.td-10,
+.th-10 {
+  text-align: center;
+  width: 10%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+    // width: 150px;
+}
+
+.td-compat {
+  text-align: center;
+  width: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.th-compat {
+  text-align: center;
+  width: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 0.8rem;
+}
+.td-second,
+.th-second {
   padding-left: 0.6rem;
   // min-width: 250px;
 
 }
 
-td:last-child,
-th:last-child {
+.td-last,
+.td-last {
   padding-right:  0.6rem;
   text-align: right;
+  width: 20%
 }
 
 b,

@@ -15,7 +15,8 @@ Light:
       availability_topic: "zigbee2mqtt/bridge/state"
       brightness: true{% endraw %}{%- if page.supports contains "on/off" and page.supports contains "color temperature" -%}color_temp: true
       {% endif %}
-      {%- if page.supports contains "on/off" and page.supports contains "color xy" -%}xy: true{% endif %}{% raw %}
+      {%- if page.supports contains "on/off" and page.supports contains "color xy" -%}
+      xy: true{% endif %}{% raw %}
       schema: "json"
       command_topic: "zigbee2mqtt/[FRIENDLY_NAME]/set"
   {% endraw %}

@@ -103,6 +103,21 @@ Humidity Sensor:
 
 {% endif %}
 
+{%- if page.supports contains "pressure" -%}
+
+Pressure Sensor:
+<pre><code class="language-yaml">{% raw %}sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    unit_of_measurement: "hPa"
+    device_class: "pressure"
+    value_template: "{{ value_json.pressure }}"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
 {%- if page.supports contains "illuminance" -%}
 
 Illuminance Sensor:
@@ -208,22 +223,6 @@ Key Inserted Sensor:
 
 {% endif %}
 
-{%- if page.supports contains "battery_low" -%}
-
-Low Battery Sensor:
-<pre><code class="language-yaml">{% raw %}binary_sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    payload_on: true
-    payload_off: false
-    value_template: "{{ value_json.battery_low}}"
-    device_class: "battery"
-{% endraw %}
-</code></pre>
-
-{% endif %}
-
 {%- if page.supports contains "power measurement" -%}
 
 Power Meter Sensor:
@@ -323,7 +322,7 @@ Fan:
 
 {%- if page.supports contains "battery" -%}
 
-Batter Percentage Sensor:
+Battery Sensor:
 <pre><code class="language-yaml">{% raw %}binary_sensor:
     - platform: "mqtt"
       state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
@@ -333,6 +332,22 @@ Batter Percentage Sensor:
       value_template: "{{ value_json.battery_low}}"
       device_class: "battery"
     {% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "battery_low" -%}
+
+Low Battery Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_on: true
+    payload_off: false
+    value_template: "{{ value_json.battery_low}}"
+    device_class: "battery"
+{% endraw %}
 </code></pre>
 
 {% endif %}

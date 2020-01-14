@@ -11,13 +11,14 @@ Manual integration is done with the following configurations. Replace `[FRIENDLY
 Light:
 <pre><code class="language-yaml">{% raw %}light:
     - platform: "mqtt"
-      state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+      state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
       availability_topic: "zigbee2mqtt/bridge/state"
-      brightness: true{% endraw %}{%- if page.supports contains "on/off" and page.supports contains "color temperature" -%}color_temp: true
+      brightness: true{% endraw %}{%- if page.supports contains "on/off" and page.supports contains "color temperature" -%}
+      color_temp: true
       {% endif %}
       {%- if page.supports contains "on/off" and page.supports contains "color xy" -%}xy: true{% endif %}{% raw %}
       schema: "json"
-      command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+      command_topic: "zigbee2mqtt/[FRIENDLY_NAME]/set"
   {% endraw %}
 </code></pre>
 
@@ -26,12 +27,12 @@ Light:
 Power ON/OFF:
 <pre><code class="language-yaml">{% raw %}switch:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_off: "OFF"
     payload_on: "ON"
     value_template: "{{ value_json.state }}"
-    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+    command_topic: "zigbee2mqtt/[FRIENDLY_NAME]/set"
 {% endraw %}
 </code></pre>
 
@@ -42,7 +43,7 @@ Power ON/OFF:
 Water Leak Sensor:
 <pre><code class="language-yaml">{% raw %}binary_sensor:
     - platform: "mqtt"
-      state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+      state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
       availability_topic: "zigbee2mqtt/bridge/state"
       payload_on: true
       payload_off: false
@@ -58,7 +59,7 @@ Water Leak Sensor:
 Water Leak Sensor:
 <pre><code class="language-yaml">{% raw %}binary_sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_on: false
     payload_off: true
@@ -76,7 +77,7 @@ Water Leak Sensor:
 Temperature Sensor:
 <pre><code class="language-yaml">{% raw %}sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     unit_of_measurement: "°C"
     device_class: "temperature"
@@ -92,11 +93,26 @@ Temperature Sensor:
 Humidity Sensor:
 <pre><code class="language-yaml">{% raw %}sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     unit_of_measurement: "%"
     device_class: "humidity"
     value_template: "{{ value_json.humidity }}"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "pressure" -%}
+
+Pressure Sensor:
+<pre><code class="language-yaml">{% raw %}sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    unit_of_measurement: "hPa"
+    device_class: "pressure"
+    value_template: "{{ value_json.pressure }}"
 {% endraw %}
 </code></pre>
 
@@ -107,7 +123,7 @@ Humidity Sensor:
 Illuminance Sensor:
 <pre><code class="language-yaml">{% raw %}sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     unit_of_measurement: "lx"
     device_class: "illuminance"
@@ -122,7 +138,7 @@ Illuminance Sensor:
 Occupancy Sensor:
 <pre><code class="language-yaml">{% raw %}binary_sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_on: true
     payload_off: false
@@ -138,7 +154,7 @@ Occupancy Sensor:
 Click Sensor:
 <pre><code class="language-yaml">{% raw %}sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     icon: "mdi:toggle-switch"
     value_template: "{{ value_json.click }}"
@@ -152,7 +168,7 @@ Click Sensor:
 Action Sensor:
 <pre><code class="language-yaml">{% raw %}sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     icon: "mdi:gesture-double-tap"
     value_template: "{{ value_json.action }}"
@@ -166,7 +182,7 @@ Action Sensor:
 Lock Open Sensor:
 <pre><code class="language-yaml">{% raw %}binary_sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_on: "UNLOCK"
     payload_off: "LOCK"
@@ -182,7 +198,7 @@ Lock Open Sensor:
 Lock Closed Sensor:
 <pre><code class="language-yaml">{% raw %}binary_sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_on: "UNLOCK"
     payload_off: "LOCK"
@@ -198,26 +214,10 @@ Lock Closed Sensor:
 Key Inserted Sensor:
 <pre><code class="language-yaml">{% raw %}sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     icon: "mdi:lock"
     value_template: "{{ value_json.inserted }}"
-{% endraw %}
-</code></pre>
-
-{% endif %}
-
-{%- if page.supports contains "battery_low" -%}
-
-Low Battery Sensor:
-<pre><code class="language-yaml">{% raw %}binary_sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    payload_on: true
-    payload_off: false
-    value_template: "{{ value_json.battery_low}}"
-    device_class: "battery"
 {% endraw %}
 </code></pre>
 
@@ -228,7 +228,7 @@ Low Battery Sensor:
 Power Meter Sensor:
 <pre><code class="language-yaml">{% raw %}sensor:
     - platform: "mqtt"
-      state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+      state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
       availability_topic: "zigbee2mqtt/bridge/state"
       unit_of_measurement: "W"
       icon: "mdi:factory"
@@ -243,7 +243,7 @@ Power Meter Sensor:
 Position Sensor:
 <pre><code class="language-yaml">{% raw %}sensor:
     - platform: "mqtt"
-      state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+      state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
       availability_topic: "zigbee2mqtt/bridge/state"
       value_template: "{{ value_json.position }}"
       icon: "mdi:view-array"
@@ -258,9 +258,9 @@ Cover:
 <pre><code class="language-yaml">{% raw %}cover:
   - platform: "mqtt"
     availability_topic: "zigbee2mqtt/bridge/state"
-    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
-    position_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
-    set_position_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+    command_topic: "zigbee2mqtt/[FRIENDLY_NAME]/set"
+    position_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
+    set_position_topic: "zigbee2mqtt/[FRIENDLY_NAME]/set"
     set_position_template: "{ \"position\": {{ position }} }"
     value_template: "{{ value_json.position }}"
 {% endraw %}
@@ -302,7 +302,7 @@ Fan:
     state_topic: true
     availability_topic: "zigbee2mqtt/bridge/state"
     state_value_template: "{{ value_json.fan_state }}"
-    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+    command_topic: "zigbee2mqtt/[FRIENDLY_NAME]/set"
     command_topic_postfix: "fan_state"
     speed_state_topic: true
     speed_command_topic: true
@@ -322,10 +322,10 @@ Fan:
 
 {%- if page.supports contains "battery" -%}
 
-Batter Percentage Sensor:
+Battery Sensor:
 <pre><code class="language-yaml">{% raw %}binary_sensor:
     - platform: "mqtt"
-      state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+      state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
       availability_topic: "zigbee2mqtt/bridge/state"
       payload_on: true
       payload_off: false
@@ -336,12 +336,28 @@ Batter Percentage Sensor:
 
 {% endif %}
 
+{%- if page.supports contains "battery_low" -%}
+
+Low Battery Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_on: true
+    payload_off: false
+    value_template: "{{ value_json.battery_low}}"
+    device_class: "battery"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
 {%- if page.supports contains "state" -%}
 
 Connectivity Sensor:
 <pre><code class="language-yaml">{% raw %}binary_sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_on: true
     payload_off: false
@@ -355,7 +371,7 @@ Connectivity Sensor:
 Zigbee Link Quality Sensor:
 <pre><code class="language-yaml">{% raw %}sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     unit_of_measurement: "-"
     value_template: "{{ value_json.linkquality }}"

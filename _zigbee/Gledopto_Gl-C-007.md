@@ -2,7 +2,7 @@
 date_added: 2020-01-12
 model: GL-C-007
 vendor: Gledopto
-title: LED Controller RGBW
+title: RGBW LED Controller 
 category: light
 supports: on/off, brightness, color temperature, white, color
 image: /assets/images/devices/Gledopto_GL-C-007.jpg

@@ -1,0 +1,69 @@
+{%- unless page.supports contains "temperature" or  page.supports contains "humidity" or  page.supports contains "brightness" -%}
+
+{% else %}
+<h6>Device Type Specific Configuration</h6>
+
+{%- if page.supports contains "temperature" -%}
+<p>
+<code>temperature_precision</code> <BR>
+Controls the precision of temperature values (example: 0, 1 or 2; default is `2`).
+<br>
+<code>temperature_calibration</code> <BR>
+Allows to manually calibrate temperature values (example: 1 would add 1 degree to the temperature reported by the device; default is `0`).
+</p>
+{% endif %}
+<p>
+{%- if page.supports contains "humidity" -%}
+
+<code>humidity_precision</code><BR>
+Controls the precision of humidity values (example: 0, 1 or 2; default is `2`).
+</p>
+
+{% endif %}
+
+
+<p>
+    {%- if page.supports contains "occupancy" -%}
+
+<code>no_occupancy_since</code><br>
+Timeout (in seconds) after `no_occupancy_since` is sent. This indicates the time since last occupancy was detected. (example: `no_occupancy_since: [10, 60]` will send a `{"no_occupancy_since": 10}` after 10 seconds and a `{"no_occupancy_since": 60}` after 60 seconds.
+</p><p>
+<code>occupancy_timeout</code><br>
+Timeout (in seconds) after the `occupancy: false` message is sent. If not set, the timeout is `90` seconds. When set to `0` no `occupancy: false` is send.
+
+{% endif %}
+</p>
+
+
+<p>
+{%- if page.supports contains "illuminance" -%}
+
+<code>illuminance_calibration</code><BR>
+Allows to manually calibrate illuminance values (example: `95` would take 95% to the illuminance reported by the device; default `100`).
+</p>
+
+{% endif %}
+</p>
+
+{%- if page.supports contains "colorxy" -%}
+
+
+<code>transition</code><BR>
+Controls the transition time (in seconds) of brightness, colortemp and color. Defaults to 0 (no transition). Note that this value is overridden if a transition value is present in the MQTT command payload.</p>
+
+{%- elsif page.supports contains "colortemp" -%}
+
+<code>transition</code><BR>
+Controls the transition time (in seconds) of brightness and colortemp. Defaults to 0 (no transition). Note that this value is overridden if a transition value is present in the MQTT command payload.</p>
+    
+{%- elsif page.supports contains "brightness" -%}
+
+<code>transition</code><BR>
+Controls the transition time (in seconds) of brightness. Defaults to 0 (no transition). Note that this value is overridden if a transition value is present in the MQTT command payload.</p>
+
+{% endif %}
+ 
+<p>
+<a href="https://www.zigbee2mqtt.io/information/configuration.html#device-type-specific" target="_blank"> How to use device type specific configuration?</a>
+
+{% endunless %}

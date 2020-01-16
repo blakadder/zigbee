@@ -1,7 +1,7 @@
 ---
 model: A6121
 vendor: Xiaomi
-title: Vima Smart Lock
+title: Vima Smart Lock Cylinder
 category: misc
 supports: inserted, forgotten, key error
 image: /assets/images/devices/A6121.jpg

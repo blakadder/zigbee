@@ -1,7 +1,7 @@
 ---
 model: JTQJ-BF-01LM/BW
 vendor: Xiaomi
-title: MiJia gas leak detector 
+title: Mijia gas leak detector 
 category:
 supports: gas
 image: /assets/images/devices/JTQJ-BF-01LM-BW.jpg

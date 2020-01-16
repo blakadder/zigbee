@@ -1,0 +1,16 @@
+---
+layout: default
+title: Coordinators
+---
+<h2>{{ page.title }}</h2>
+
+<!-- ######################################################################  -->
+{% assign coordinators = site.zigbee | where: "category", "coordinator" %}
+{% assign coordinator = coordinators | sort_natural: 'vendor' %}
+{% for template in coordinator %}
+<table>
+    <tbody>
+    {% include tablerow.html %}
+</tbody>
+</table>
+{% endfor %}

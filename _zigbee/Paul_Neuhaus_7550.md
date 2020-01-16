@@ -3,7 +3,7 @@ model: 7550
 vendor: Paul Neuhaus 
 title: Q-LED E27 806lm CCT Bulb
 category: light
-supports: on/off, brightness, color temperature
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/Paul_Neuhaus-Q-LED.jpg
 zigbeemodel: 
 compatible: zigate
@@ -19,7 +19,7 @@ Article #: 100.469.65
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 
 {% raw %}
 ```yaml

@@ -3,7 +3,7 @@ model: 54668161
 vendor: Hampton Bay 
 title: 12 in. Round CCT Ceiling Light
 category: light
-supports: on/off, brightness, color temperature
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/54668161.jpg
 zigbeemodel: ['ETI 12-in Puff light']
 compatible: [z2m]
@@ -18,6 +18,6 @@ link3: https://www.amazon.com/Toucan-City-Flashlight-Equivalent-Temperature/dp/B
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 
 

@@ -3,9 +3,9 @@ model: ZNLDP12LM
 vendor: Xiaomi
 title: Aqara LED Light Bulb Tunable White
 category: light
-supports: on/off, brightness, color temperature
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/ZNLDP12LM.jpg
-zigbeemodel: https://www.amazon.de/dp/B07X2TH2QL
+zigbeemodel: ['lumi.light.aqcn02']
 compatible: [z2m,zigate]
 mlink: https://www.aqara.com/en/smart_light_bulb.html
 link: https://www.aliexpress.com/af/ZNLDP12LM-bulb.html
@@ -23,5 +23,5 @@ Switch the lamp on five times until the bulb blinks several times.
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 

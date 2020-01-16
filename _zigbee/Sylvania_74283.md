@@ -1,7 +1,7 @@
 ---
 model: 74283
 vendor: Sylvania
-title: Smart+ A19 800lm WW Bulb
+title: Smart+ Soft White Dimmable A19 Bulb
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/74283.jpg
@@ -9,7 +9,7 @@ zigbeemodel: ['LIGHTIFY A19 ON/OFF/DIM', 'LIGHTIFY A19 ON/OFF/DIM 10 Year']
 compatible: [z2m]
 mlink: 
 link: https://www.amazon.com/SYLVANIA-74283-Equivalent-SmartThings-packaging/dp/B0727WZ3L2
-link2: 
+link2: https://www.homedepot.com/p/Sylvania-SMART-ZigBee-Soft-White-Dimmable-A19-LED-Smart-Light-Bulb-74283/302789574
 link3: 
 ---
 ### Set default power on/off transition
@@ -38,5 +38,5 @@ NOTE: This must be executed everytime you make changes to a light's attributes f
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 

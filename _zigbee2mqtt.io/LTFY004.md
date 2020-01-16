@@ -3,7 +3,7 @@ model: LTFY004
 vendor: Sylvania
 title: LIGHTIFY LED gardenspot mini RGB
 category:
-supports: on/off, brightness, color xy
+supports: on/off, brightness, colorxy
 image: /assets/images/devices/LTFY004.jpg
 zigbeemodel: 
 compatible: [z2m]
@@ -38,7 +38,7 @@ NOTE: This must be executed everytime you make changes to a light's attributes f
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 
 {% raw %}
 ```yaml

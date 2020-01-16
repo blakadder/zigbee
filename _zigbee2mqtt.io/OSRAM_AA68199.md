@@ -3,7 +3,7 @@ model: AA68199
 vendor: OSRAM
 title: Lightify PAR16 50 TW 300lm GU10 CCT Bulb
 category: light
-supports: on/off, brightness, color temperature
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/AA68199.jpg
 compatible: [z2m,zigate,conbee]
 mlink: 
@@ -42,7 +42,7 @@ NOTE: This must be executed everytime you make changes to a light's attributes f
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 
 {% raw %}
 ```yaml

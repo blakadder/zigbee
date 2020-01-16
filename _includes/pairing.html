@@ -1,0 +1,52 @@
+{%- if page.vendor contains "Gledopto" -%}
+<h6>Pairing Instructions</h6>
+
+<ul>
+    <li>Switch on your device.</li>
+<li>Now switch off and on within 2 seconds.</li>
+<li>Repeat off/on four times.</li>
+<li>Reset is done when the device is switched on the fifth time and the light stays on after blinking 4 times</li>
+</ul>
+
+
+{%- elsif page.vendor contains "Xiaomi" -%}
+{%- unless page.title contains "Vima" -%}
+<h6>Pairing Instructions</h6>
+
+Press and hold the button on the device until the blue light starts blinking, release it and the pairing should begin.
+<p>
+{% endunless %}
+
+{%- elsif page.vendor contains "Philips" -%}
+
+<h6> Pairing Instructions</h6>
+Factory resetting a Hue bulb can be accomplished in one of 4 ways:
+<ol>
+<li>Touchlink factory reset - See <a href="https://www.zigbee2mqtt.io/information/touchlink">Touchlink article</a>.
+<li>Hue bridge - When the bulb is still connected to the Hue bridge, you can simply factory reset the bulb.
+by removing it from the bridge via the Hue app.
+<li>Hue dimmer switch - Factory reset a Hue bulb with Hue dimmer switch <a href="https://www.youtube.com/watch?v=qvlEAELiJKs" target="_blank">Video instructions.</a>
+<li>Trådfri remote control - Pressing and holdg the reset button on the bottom of the remote (next to the battery). This may <a href="https://github.com/Koenkk/zigbee2mqtt/issues/296#issuecomment-416923751">not always work</a>.
+</ol>
+After resetting the bulb will automatically connect.
+<p>
+<h6>Power-on Behavior</h6>
+Allows to set the power-on behavior of the bulb.
+Note that this requires at least November/December '18 firmware update of the bulb.
+<pre><code class="language-js">{
+  "hue_power_on_behavior": "on",         //default, on, off, recover, default = on
+  "hue_power_on_brightness": 125,        //default, same values as brightness, default = 255
+  "hue_power_on_color_temperature": 280, //default, same values as color_temp, default = 366
+}
+</code></pre>
+
+<table>
+    <tr><th>Attribute Value</th><th>Description</th></tr>
+    <tr><td>default</td><td>reset to factory default value</td></tr>
+    <tr><td>on</td><td>lamps on after power loss with configured brightness, color-temperature, color (to-do)</td></tr>
+    <tr><td>off</td><td>lamps off after power loss</td></tr>
+    <tr><td>recover</td><td>last running state after power loss</td></tr>
+
+</table>
+<p>
+{% endif %}

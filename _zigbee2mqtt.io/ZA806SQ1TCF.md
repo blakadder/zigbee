@@ -3,7 +3,7 @@ model: ZA806SQ1TCF
 vendor: Leedarson
 title: LED E27 tunable white
 category:
-supports: on/off, brightness, color temperature
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/ZA806SQ1TCF.jpg
 zigbeemodel: 
 compatible: [z2m]
@@ -18,7 +18,7 @@ link3:
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 
 {% raw %}
 ```yaml

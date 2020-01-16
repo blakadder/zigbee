@@ -3,7 +3,7 @@ model: 8087-16
 vendor: Paul Neuhaus 
 title: Q-Flag LED Panel 
 category: light
-supports: on/off, brightness, color temperature, color xy
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/100.110.39.jpg
 zigbeemodel: ['NLG-RGBW light ']
 compatible: z2m
@@ -17,5 +17,5 @@ Article #: 100.110.39
 *[How to use device type specific configuration](https://www.zigbee2mqtt.io/information/configuration)*
 
 `transition`   
-Controls the transition time (in seconds) of brightness, color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+Controls the transition time (in seconds) of brightness, colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 

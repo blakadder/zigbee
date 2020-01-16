@@ -3,7 +3,7 @@ model: 70998/60/PH
 vendor: Philips
 title: LivingColors Aura Decoration Lamp
 category: light
-supports: on/off, brightness, color xy, power-on behavior
+supports: on/off, brightness, colorxy, power-on behavior
 image: /assets/images/devices/7099860PH.jpg
 zigbeemodel: 
 compatible: [z2m]
@@ -58,7 +58,7 @@ recover         | last running state after power loss
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 
 {% raw %}
 ```yaml

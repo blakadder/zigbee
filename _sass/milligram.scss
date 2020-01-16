@@ -24,7 +24,7 @@ body {
   font-weight: 300;
   letter-spacing: .01em;
   line-height: 1.6;
-  height:100%;
+  height: 100%;
 }
 
 blockquote {
@@ -531,8 +531,16 @@ ol {
   list-style: decimal inside;
 }
 
+ol li 
+{
+    margin: 0px;
+    padding: 0px;
+    text-indent: -1.2em;
+    margin-left: 1.2em;
+}
+
 ul {
-  list-style: circle inside;
+  list-style: square inside;
 }
 
 .button,
@@ -601,7 +609,7 @@ th:last-child {
 .th-first {
   padding-left: 1;
   text-align: center;
-  width: 20%;
+  width: 16%;
   // width: 150px;
 }
 
@@ -617,7 +625,7 @@ th:last-child {
 
 .td-compat {
   text-align: center;
-  width: 50px;
+  width: 36px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -634,7 +642,7 @@ th:last-child {
 .td-second,
 .th-second {
   padding-left: 0.6rem;
-  // min-width: 250px;
+  width: 45%;
 
 }
 
@@ -694,9 +702,10 @@ h5 {
 }
 
 h6 {
-  font-size: 1.6rem;
-  letter-spacing: 0;
-  line-height: 1.4;
+  font-size: 2.2rem;
+  letter-spacing: -.08rem;
+  font-weight: bold;
+  line-height: 1.35;
 }
 
 img {

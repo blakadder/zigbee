@@ -1,22 +1,19 @@
 ---
 model: WXKG01LM
 vendor: Xiaomi
-title: MiJia Wireless Switch
+title: Mijia Wireless Switch
 category: switch
-supports: single click, double click, triple click, quadruple click, many clicks, long click, long_release click, battery
+supports: single click, double click, triple click, quadruple click, many clicks, long click, long_release click, lowbattery
 image: /assets/images/devices/WXKG01LM.jpg
 zigbeemodel: ['lumi.sensor_switch']
 compatible: [z2m, zigate, conbee, tasmota]
+zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/bouton
 mlink: https://www.mi.com/global/mi-smart-sensor-set
 link: https://www.banggood.com/Original-Xiaomi-Mijia-Smart-Home-Zig-bee-Wireless-Smart-Switch-Touch-Button-ON-OFF-WiFi-Remote-Control-Switch-p-1049175.html
 link2: https://www.aliexpress.com/item/32825685057.html
 link3: https://www.gearbest.com/home-appliances-accessories/pp_009587036194.html
 link4: https://www.banggood.com/Original-Xiaomi-Smart-Wireless-Switch-p-1045081.html
 ---
-### Pairing
-Press and hold the reset button on the device for +- 5 seconds (until the blue light starts blinking).
-After this the device will automatically join.
-
 
 ### Device type specific configuration
 *[How to use device type specific configuration](https://www.zigbee2mqtt.io/information/configuration)*

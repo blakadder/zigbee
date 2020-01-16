@@ -6,7 +6,8 @@ category: switch
 supports: click release/hold, on/off
 image: /assets/images/devices/QBKG04LM.jpg
 zigbeemodel: ['lumi.ctrl_neutral1']
-compatible: [z2m]
+compatible: [z2m, zigate]
+zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/interrupteurmuralsimpledoubletouche
 mlink: https://www.aqara.com/en/smart_light_switch_no_neutral.html
 link: https://www.aliexpress.com/af/QBKG04LM-switch.html
 link2: https://www.banggood.com/Aqara-Neutral-Line-Type-Remote-Control-Switch-Home-Light-Controller-Intelligent-Wall-Switch-From-Xiaomi-Eco-Sy-p-1316484.html

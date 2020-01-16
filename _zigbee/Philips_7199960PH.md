@@ -1,16 +1,38 @@
 ---
-model: 7146060PH
+date_added: 2020-01-17
+model: 71999/60/PH
 vendor: Philips
-title: Hue Go Portable Light
-category: Light
-supports: on/off, brightness, color temperature, color xy, power-on behavior
-image: /assets/images/devices/7146060PH.jpg
-compatible: [z2m, zigate, conbee]
-mlink: 
-link: https://www.amazon.com/Philips-7146060PH-Hue-Compatible-Assistant/dp/B079TCRFC3
-link2: https://www.amazon.de/dp/B00UEMFGQM
+title: Hue Iris Table Lamp
+category: light
+supports: on/off, brightness, colorxy, power-on behavior
+image: /assets/images/devices/7199960PH.jpg
+compatible: [z2m,conbee,zigate]
+zigbeemodel: ['LLC010']
+zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/ampoulesconnecteswhiteambiancee27-
+mlink: https://www2.meethue.com/en-gb/p/hue-white-and-colour-ambience-iris-table-lamp/7199960PU
+link: https://www.amazon.de/dp/B00JGONFCG
+link2: https://www.amazon.co.uk/Philips-Dimmable-Changing-Compatible-Assistant/dp/B00IVZZBDC
 link3: 
 ---
+### Pairing
+Philips LivingColors IRIS and Philips LivingColors Bloom Devices that comes with
+Philips (HUE) Remote Gen 2 (Touch Wheel) or Gen 3 (Round Click Wheel) can be paired via Zigbee.
+Devices with Gen 1 Remote don't use Zigbee and can not be paired.
+The Philips LivingColors Remote can not be paired via Zigbee because it only support ZigBee Light Link (ZLL).
+
+To Pair hold Button ON and Bottom Left Key (Favorite 1) on the Remote in Front of the Device until
+the Device Light blinks and lights Orange. If connection was succesfull the Device Light will light Green.
+
+**WARNING**: If you pair your Device to a Zigbee Network which is not using a ZLL Channel
+you can't reset the Device with the Philips LivingColors Remote Gen 3.
+The Gen 3 Remote will only try ZLL Channels to find the Device! Maybe it's possible to reset
+the Device with a Philips LivingColors Remote Gen 2 as it should try all Zigbee Channels to find the Device.
+
+[Philips LivingColors Bloom Manual](https://www.download.p4c.philips.com/files/7/7099760pu/7099760pu_dfu_eng.pdf)
+
+[Philips LivingColors Iris Manual](https://www.download.p4c.philips.com/files/7/7099930ph/7099930ph_dfu_eng.pdf)
+
+
 ### Pairing
 Factory resetting a Hue bulb can be accomplished in 4 ways.
 After resetting the bulb will automatically connect.
@@ -51,19 +73,13 @@ off             | lamps off after power loss
 recover         | last running state after power loss
 
 
-For the 7146060PH (Philips Hue Go), **the power cord has to be connected**,
-after the blinking light (**INSTEAD** of step four in the video),
-press and keep holding the button on the bottom until the device is paired (+- 60 seconds).
-While holding the button the Hue Go will give you a nice light show :smile:.
-
-
 ### Device type specific configuration
 *[How to use device type specific configuration](https://www.zigbee2mqtt.io/information/configuration)*
 
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 
 {% raw %}
 ```yaml
@@ -72,7 +88,6 @@ light:
     state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
     availability_topic: "zigbee2mqtt/bridge/state"
     brightness: true
-    color_temp: true
     xy: true
     schema: "json"
     command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"

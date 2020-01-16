@@ -1,9 +1,9 @@
 ---
 model: 74282
 vendor: Sylvania
-title: Smart+ MR16 500lm CCT Bulb
+title: Smart+ Adjustable White MR16 Bulb
 category: light
-supports: on/off, brightness, color temperature
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/74282.jpg
 zigbeemodel: ['MR16 TW']
 compatible: [z2m]
@@ -38,5 +38,5 @@ NOTE: This must be executed everytime you make changes to a light's attributes f
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 

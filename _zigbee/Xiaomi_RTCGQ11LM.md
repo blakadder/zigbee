@@ -5,30 +5,15 @@ title: Aqara Human Body Motion and Illuminance Sensor
 category: sensor
 supports: occupancy, illuminance, battery
 image: /assets/images/devices/RTCGQ11LM.jpg
-zigbeemodel: 
+zigbeemodel: ['lumi.sensor_motion.aq2']
 compatible: [z2m, zigate, conbee, tasmota]
+zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/dtecteurdemouvementaqara
 mlink: https://www.aqara.com/en/human_motion_sensor.html
 link: https://www.aliexpress.com/item/10000006173856.html
 link2: https://www.banggood.com/Original-Aqara-Zig_Bee-Wireless-Human-Body-PIR-Sensor-Smart-Home-Kit-From-Xiaomi-Eco-System-p-1177007.html
 link3: https://www.gearbest.com/alarm-systems/pp_659226.html
 link4: https://www.amazon.de/dp/B07D1CRRVF
 ---
-### Pairing
-Press and hold the reset button on the device for +- 5 seconds (until the blue light starts blinking).
-After this the device will automatically join.
-
-
-### Device type specific configuration
-*[How to use device type specific configuration](https://www.zigbee2mqtt.io/information/configuration)*
-
-* `no_occupancy_since`: Timeout (in seconds) after `no_occupancy_since` is send.
-This indicates the time since last occupancy was detected.
-For example `no_occupancy_since: [10, 60]` will send a `{"no_occupancy_since": 10}` after 10 seconds
-and a `{"no_occupancy_since": 60}` after 60 seconds.
-* `occupancy_timeout`: Timeout (in seconds) after the `occupancy: false` message is sent.
-If not set, the timeout is `90` seconds.
-When set to `0` no `occupancy: false` is send.
-
 **IMPORTANT**: `occupancy_timeout` should not be set to lower than 60 seconds.
 The reason is this: after detecting a motion the sensor ignores any movements for
 exactly 60 seconds. In case there are movements after this, a new message
@@ -38,9 +23,6 @@ To work around this, a
 [hardware modification](https://community.smartthings.com/t/making-xiaomi-motion-sensor-a-super-motion-sensor/139806)
 is needed.
 
-
-### Device type specific configuration
-*[How to use device type specific configuration](https://www.zigbee2mqtt.io/information/configuration)*
 
 
 * `illuminance_calibration`: Allows to manually calibrate illuminance values,

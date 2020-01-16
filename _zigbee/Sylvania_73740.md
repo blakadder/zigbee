@@ -1,9 +1,9 @@
 ---
 model: 73740
 vendor: Sylvania
-title: Smart+ BR30 810lm CCT Bulb
+title: Smart+ Adjustable White BR30 Bulb
 category: light
-supports: on/off, brightness, color temperature
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/73740.jpg
 zigbeemodel: ['LIGHTIFY BR Tunable White']
 compatible: [z2m]
@@ -38,5 +38,5 @@ NOTE: This must be executed everytime you make changes to a light's attributes f
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 

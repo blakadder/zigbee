@@ -4,7 +4,7 @@ model: PM-B530-ZB
 vendor: Dawon DNS
 title: IoT Smart Plug 16A
 category: plug
-supports: on/off, power measurement
+supports: on/off, power and energy measurement
 image: /assets/images/devices/Dawon_DNS_PM-B530-ZB.png
 zigbeemodel: ['PM-B530-ZB']
 compatible: [z2m]

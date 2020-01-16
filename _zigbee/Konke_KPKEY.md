@@ -3,7 +3,7 @@ model: KPKEY
 vendor: Konke
 title: Multi-function Button
 category: remote
-supports: single/double/long click, battery, battery_low
+supports: single/double/long click, battery, lowbattery
 image: /assets/images/devices/2AJZ4KPKEY.jpg
 zigbeemodel: ['3AFE170100510001']
 compatible: [z2m]

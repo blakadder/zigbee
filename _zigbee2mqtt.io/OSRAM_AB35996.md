@@ -3,7 +3,7 @@ model: AB35996
 vendor: OSRAM
 title: Smart+ Spot GU10 RGBCCT Bulb
 category: light
-supports: on/off, brightness, color temperature, color xy
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/AB35996.jpg
 zigbeemodel: 
 compatible: [z2m]
@@ -43,7 +43,7 @@ NOTE: This must be executed everytime you make changes to a light's attributes f
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 
 {% raw %}
 ```yaml

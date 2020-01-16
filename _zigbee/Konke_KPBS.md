@@ -3,7 +3,7 @@ model: KPBS
 vendor: Konke
 title: Motion Sensor
 category: sensor
-supports: occupancy, battery, battery_low
+supports: occupancy, battery, lowbattery
 image: /assets/images/devices/2AJZ4KPBS.jpg
 mlink: http://www.ikonke.us/pro/kitpro/index.php#kitpro
 link: https://www.amazon.com/Konke-Smart-Automation-Monitoring-Devices/dp/B07QVXNDBS
@@ -43,7 +43,7 @@ binary_sensor:
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_on: true
     payload_off: false
-    value_template: "{{ value_json.battery_low}}"
+    value_template: "{{ value_json.lowbattery}}"
     device_class: "battery"
 
 sensor:

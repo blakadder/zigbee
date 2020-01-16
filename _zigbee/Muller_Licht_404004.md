@@ -3,7 +3,7 @@ model: 404004
 vendor: Müller Licht 
 title: Tint A60 806lm E27 CCT Bulb
 category: light
-supports: on/off, brightness, color temperature
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/404004.jpg
 zigbeemodel: ['ZBT-ColorTemperature']
 compatible: [z2m,conbee]
@@ -23,5 +23,5 @@ it will indicate with colors that the bulb is pairing.
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 

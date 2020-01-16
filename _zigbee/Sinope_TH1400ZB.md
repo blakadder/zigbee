@@ -3,7 +3,7 @@ date_added: 2020-01-12
 model: TH1400ZB
 vendor: Sinope
 title: Low Voltage Smart Thermostat 24 Vac
-category: sensor
+category: hvac
 supports: local temp, units, keypad lockout, mode, state, backlight, outdoor temp, time
 image: /assets/images/devices/Sinope_TH1400ZB.png
 zigbeemodel: ['TH1400ZB']

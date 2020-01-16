@@ -1,4 +1,5 @@
 toc:
   - name: All Devices
     url: all.html
-
+  - name: Coordinators
+    url: coordinators.html

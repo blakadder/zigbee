@@ -1,7 +1,7 @@
-<h4>Home Assistant Configuration</h4>
+<h6>Home Assistant Configuration</h6>
 Home Assistant integration through <a href="https://www.zigbee2mqtt.io/integration/home_assistant" target="_blank">MQTT discovery</a> is preferred.
-<p>
-Manual integration is done with the following configurations. Replace `[FRIENDLY_NAME]` with your <a href="https://www.zigbee2mqtt.io/information/mqtt_topics_and_message_structure.html#zigbee2mqttfriendly_name" target="_blank">device's friendly name</a>!
+Manual integration is done with the following configurations. 
+Replace `[FRIENDLY_NAME]` with your <a href="https://www.zigbee2mqtt.io/information/mqtt_topics_and_message_structure.html#zigbee2mqttfriendly_name" target="_blank">device's friendly name</a>!
 <p>
 <div>
   {%- if page.supports contains "on/off" and page.category == "remote" -%}
@@ -13,10 +13,12 @@ Light:
     - platform: "mqtt"
       state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
       availability_topic: "zigbee2mqtt/bridge/state"
-      brightness: true{% endraw %}{%- if page.supports contains "on/off" and page.supports contains "color temperature" -%}
-      color_temp: true
-      {% endif %}
-      {%- if page.supports contains "on/off" and page.supports contains "color xy" -%}xy: true{% endif %}{% raw %}
+      brightness: true
+      {% endraw %}
+      {%- if page.supports contains "on/off" and page.supports contains "colortemp" -%}
+
+      color_temp: true{% endif %}
+      {%- if page.supports contains "on/off" and page.supports contains "colorxy" -%}xy: true{% endif %}{% raw %}
       schema: "json"
       command_topic: "zigbee2mqtt/[FRIENDLY_NAME]/set"
   {% endraw %}
@@ -144,6 +146,58 @@ Occupancy Sensor:
     payload_off: false
     value_template: "{{ value_json.occupancy }}"
     device_class: "motion"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "smoke" -%}
+
+Smoke Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_on: true
+    payload_off: false
+    value_template: "{{ value_json.smoke }}"
+    device_class: "smoke"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "smoke_density" -%}
+
+Smoke Density:
+<pre><code class="language-yaml">{% raw %}sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    value_template: "{{ value_json.smoke_density }}"
+    icon: "mdi:google-circles-communities"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "detector sensitivity" -%}
+
+The sensitivity can be changed by publishing to `zigbee2mqtt/[FRIENDLY_NAME]/set`
+`{"sensitivity": "SENSITIVITY"}` where `SENSITIVITY` is one of the following
+values: `low`, `medium`,  `high`.
+p>
+A self-test can be triggerd by publishing to `zigbee2mqtt/[FRIENDLY_NAME]/set`
+`{"selftest": ""}`.
+If the selftest is executed succesfully you will hear the device beep in 30 seconds. 
+<p>
+Sensitivity of the sensor:
+<pre><code class="language-yaml">{% raw %}sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    value_template: "{{ value_json.sensitivity }}"
+    icon: "mdi:filter-variant"
 {% endraw %}
 </code></pre>
 
@@ -329,14 +383,14 @@ Battery Sensor:
       availability_topic: "zigbee2mqtt/bridge/state"
       payload_on: true
       payload_off: false
-      value_template: "{{ value_json.battery_low}}"
+      value_template: "{{ value_json.lowbattery}}"
       device_class: "battery"
     {% endraw %}
 </code></pre>
 
 {% endif %}
 
-{%- if page.supports contains "battery_low" -%}
+{%- if page.supports contains "lowbattery" -%}
 
 Low Battery Sensor:
 <pre><code class="language-yaml">{% raw %}binary_sensor:
@@ -345,7 +399,7 @@ Low Battery Sensor:
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_on: true
     payload_off: false
-    value_template: "{{ value_json.battery_low}}"
+    value_template: "{{ value_json.lowbattery}}"
     device_class: "battery"
 {% endraw %}
 </code></pre>

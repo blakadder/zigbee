@@ -3,7 +3,7 @@ model: AA69697
 vendor: OSRAM
 title: Lightify Classic A60 810lm RGBW Bulb
 category: light
-supports: on/off, brightness, color temperature, color xy
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/AA69697.jpg
 compatible: [z2m,zigate,conbee]
 mlink: 
@@ -42,7 +42,7 @@ NOTE: This must be executed everytime you make changes to a light's attributes f
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 
 {% raw %}
 ```yaml

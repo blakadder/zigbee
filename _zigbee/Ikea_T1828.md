@@ -4,7 +4,7 @@ model: T1828
 vendor: Ikea
 title: Gunnarp LED Ceiling / Wall Lamp 40cm
 category: light
-supports: on/off, brightness, color temperature
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/Ikea_T1828.jpg
 zigbeemodel: ['GUNNARP panel round']
 compatible: [z2m]

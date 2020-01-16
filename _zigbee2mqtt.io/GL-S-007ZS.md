@@ -3,7 +3,7 @@ model: GL-S-007ZS
 vendor: Gledopto
 title: Smart RGB+CCT GU10
 category:
-supports: on/off, brightness, color, color temperature
+supports: on/off, brightness, color, colortemp
 image: /assets/images/devices/GL-S-007ZS.jpg
 zigbeemodel: 
 compatible: [z2m]
@@ -25,7 +25,7 @@ link3:
 
 `transition`   
 Controls the transition time (in seconds) of brightness,
-color temperature (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
+colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
 Note that this value is overridden if a `transition` value is present in the MQTT command payload. 
 {% raw %}
 ```yaml

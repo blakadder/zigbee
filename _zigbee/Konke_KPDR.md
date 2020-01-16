@@ -3,7 +3,7 @@ model: KPDR
 vendor: Konke
 title: Entry Sensor
 category: sensor
-supports: contact, battery, battery_low
+supports: contact, battery, lowbattery
 image: /assets/images/devices/2AJZ4KPDR.jpg
 mlink: http://www.ikonke.us/pro/kitpro/index.php#kitpro
 link: https://www.amazon.com/Konke-Smart-Automation-Monitoring-Devices/dp/B07QR87KW6

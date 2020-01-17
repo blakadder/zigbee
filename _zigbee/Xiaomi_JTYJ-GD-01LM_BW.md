@@ -3,7 +3,7 @@ model: JTYJ-GD-01LM/BW
 vendor: Xiaomi
 title: Honeywell Fire Alarm Smoke Detector
 category: sensor
-supports: smoke, battery, detector sensitivity
+supports: smoke, smoke density, battery, detector sensitivity
 image: /assets/images/devices/JTYJ-GD-01LM-BW.jpg
 zigbeemodel: ['lumi.sensor_smoke']
 compatible: [z2m, zigate]

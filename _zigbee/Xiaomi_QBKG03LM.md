@@ -1,9 +1,9 @@
 ---
 model: QBKG03LM
 vendor: Xiaomi
-title: Aqara 2 Gang No Neutral Wall Switch 
+title: Aqara No Neutral Wall Switch (Double Rocker)
 category: switch
-supports: release/hold, on/off, temperature
+supports: release/hold, on off, temperature
 image: /assets/images/devices/QBKG03LM.jpg
 zigbeemodel: ['lumi.ctrl_neutral2']
 compatible: [z2m, zigate, conbee]

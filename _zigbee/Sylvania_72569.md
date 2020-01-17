@@ -4,7 +4,7 @@ model: 72569
 vendor: Sylvania
 title: Smart+ Adjustable White Edge-Lit Under Cabinet Light
 category: light
-supports: light_onoff, brightness, colortemp
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/Sylvania_72659.jpg
 zigbeemodel: ['Edge-lit Under Cabinet TW']
 compatible: [z2m]

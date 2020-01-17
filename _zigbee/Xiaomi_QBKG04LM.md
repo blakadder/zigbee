@@ -1,7 +1,7 @@
 ---
 model: QBKG04LM
 vendor: Xiaomi
-title: Aqara 1 Gang No Neutral Wall Switch 
+title: Aqara No Neutral Wall Switch Single Key
 category: switch
 supports: click release/hold, on/off
 image: /assets/images/devices/QBKG04LM.jpg

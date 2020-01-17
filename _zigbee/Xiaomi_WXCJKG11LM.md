@@ -4,7 +4,7 @@ model: WXCJKG11LM
 vendor: Xiaomi
 title: Aqara Opple Wireless Scene Switch 2 Button
 category: switch
-supports: action, battery
+supports: action, lowbattery
 zigbeemodel: ['lumi.remote.b286opcn01']
 compatible: [z2m]
 image: /assets/images/devices/WXCJKG11LM.jpg
@@ -15,7 +15,7 @@ link3: https://www.amazon.de/dp/B081JNGNFT
 link4: https://www.amazon.de/dp/B0832KYZWC
 ---
 ### Binding
-By default the switch is bound to the coordinator but this device can also be used to directly control other lights and switches in the network. 
+By default the switch is bound to the coordinator but this device can also be used to directly control other lights and switches in the network.
 
 First you probably want to unbind it from the coordinator first, then you can bind it to any other device or group. (see https://www.zigbee2mqtt.io/information/binding.html )
 

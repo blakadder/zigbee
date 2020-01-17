@@ -1,7 +1,7 @@
 ---
 model: WXKG03LM
 vendor: Xiaomi
-title: Aqara Wireless Remote Switch Single
+title: Aqara Wireless Remote Switch (Single Rocker)
 category: switch
 supports: single click, double click, hold click, release and long click, battery
 image: /assets/images/devices/WXKG03LM.jpg

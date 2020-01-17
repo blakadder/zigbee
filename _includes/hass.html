@@ -181,12 +181,42 @@ Smoke Density:
 
 {% endif %}
 
+{%- if page.supports contains "gas" -%}
+
+Gas Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_on: true
+    payload_off: false
+    value_template: "{{ value_json.gas }}"
+    device_class: "gas"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "gas_density" -%}
+
+Gas Density:
+<pre><code class="language-yaml">{% raw %}sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    value_template: "{{ value_json.gas_density }}"
+    icon: "mdi:google-circles-communities"
+{% endraw %}
+</code></pre>
+
+{% endif %}
+
 {%- if page.supports contains "detector sensitivity" -%}
 
 The sensitivity can be changed by publishing to `zigbee2mqtt/[FRIENDLY_NAME]/set`
 `{"sensitivity": "SENSITIVITY"}` where `SENSITIVITY` is one of the following
-values: `low`, `medium`,  `high`.
-p>
+values: `low`, `medium`,  `high`.<br>
+<p>
 A self-test can be triggerd by publishing to `zigbee2mqtt/[FRIENDLY_NAME]/set`
 `{"selftest": ""}`.
 If the selftest is executed succesfully you will hear the device beep in 30 seconds. 
@@ -376,15 +406,14 @@ Fan:
 
 {%- if page.supports contains "battery" -%}
 
-Battery Sensor:
-<pre><code class="language-yaml">{% raw %}binary_sensor:
-    - platform: "mqtt"
-      state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
-      availability_topic: "zigbee2mqtt/bridge/state"
-      payload_on: true
-      payload_off: false
-      value_template: "{{ value_json.lowbattery}}"
-      device_class: "battery"
+Battery Percentage Sensor:
+<pre><code class="language-yaml">{% raw %}sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    unit_of_measurement: "%"
+    device_class: "battery"
+    value_template: "{{ value_json.battery }}"
     {% endraw %}
 </code></pre>
 

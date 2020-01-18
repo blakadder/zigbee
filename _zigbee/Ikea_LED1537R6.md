@@ -4,7 +4,7 @@ vendor: IKEA
 title: TRADFRI LED bulb GU10 400 lumen, dimmable, white spectrum
 category: light
 supports: on/off, brightness, colortemp
-image: /assets/images/devices/LED1537R6.jpg
+image: /assets/images/devices/Ikea_LED1537R6.jpg
 zigbeemodel: ['TRADFRI bulb E14 WS opal 600lm']
 compatible: [z2m]
 zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/ikeatradfrigu10

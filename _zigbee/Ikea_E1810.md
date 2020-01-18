@@ -5,7 +5,7 @@ title: TRADFRI remote control
 category: remote
 supports: action, batterypct
 image: /assets/images/devices/Ikea_E1810.jpg
-zigbeemodel: ['TRADFRI remote control']
+zigbeemodel: ['TRADFRI Remote Control']
 compatible: [z2m, zigate]
 mlink: https://www.ikea.com/nl/en/p/tradfri-remote-control-30443124/
 link: https://www.amazon.com/IKEA-ASIA-TRADFRI-Remote-Control/dp/B07KRVVFT1

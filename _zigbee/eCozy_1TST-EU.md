@@ -2,7 +2,7 @@
 model: 1TST-EU 
 vendor: eCozy 
 title: Smart Heating Thermostat
-category: misc
+category: hvac
 supports: occupancy, heating, schedule, batterypct
 image: /assets/images/devices/1TST-EU.jpg
 mlink:

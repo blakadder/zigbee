@@ -3,7 +3,7 @@ model: RTCGQ11LM
 vendor: Xiaomi
 title: Aqara Human Body Motion and Illuminance Sensor
 category: sensor
-supports: occupancy, illuminance, battery
+supports: occupancy, illuminance, batterypct
 image: /assets/images/devices/RTCGQ11LM.jpg
 zigbeemodel: ['lumi.sensor_motion.aq2']
 compatible: [z2m, zigate, conbee, tasmota]

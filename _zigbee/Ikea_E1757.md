@@ -4,7 +4,7 @@ model: E1757
 vendor: IKEA
 title: Fyrtur Block-out Roller Blind
 category: cover
-supports: open/close, stop, position, battery
+supports: open/close, stop, position, batterypct
 image: /assets/images/devices/Ikea_E1748-60.jpg
 zigbeemodel:  ['FYRTUR block-out roller blind']
 compatible: [z2m]

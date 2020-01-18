@@ -4,7 +4,7 @@ model: E1926
 vendor: IKEA
 title: Kadrilj Roller Blind
 category: cover
-supports: open/close, stop, position, battery
+supports: open/close, stop, position, batterypct
 image: /assets/images/devices/Ikea_E1748-60.jpg
 zigbeemodel:  ['KADRILJ roller blind']
 compatible: [z2m]

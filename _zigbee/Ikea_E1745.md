@@ -3,7 +3,7 @@ model: E1745
 vendor: IKEA
 title: Trådfri motion sensor
 category: sensor
-supports: occupancy, battery
+supports: occupancy, batterypct
 image: /assets/images/devices/Ikea_E1745.jpg
 zigbeemodel: ['TRADFRI motion sensor']
 compatible: [z2m]

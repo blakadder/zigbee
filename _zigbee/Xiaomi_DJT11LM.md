@@ -3,7 +3,7 @@ model: DJT11LM
 vendor: Xiaomi
 title: Aqara Vibration Sensor
 category: sensor
-supports: action, lowbattery, sensitivity 
+supports: action, batterylow, sensitivity 
 image: /assets/images/devices/DJT11LM.jpg
 zigbeemodel: ['lumi.vibration.aq1']
 compatible: [z2m, zigate, tasmota]

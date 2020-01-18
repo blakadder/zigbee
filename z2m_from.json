@@ -130,7 +130,7 @@
             return {
                 water_leak: (zoneStatus & 1) > 0,
                 tamper: (zoneStatus & 1<<2) > 0,
-                lowbattery: (zoneStatus & 1<<3) > 0,
+                batterylow: (zoneStatus & 1<<3) > 0,
             };
         },
     },
@@ -142,7 +142,7 @@
             return {
                 gas: (zoneStatus & 1) > 0,
                 tamper: (zoneStatus & 1<<2) > 0,
-                lowbattery: (zoneStatus & 1<<3) > 0,
+                batterylow: (zoneStatus & 1<<3) > 0,
             };
         },
     },
@@ -154,7 +154,7 @@
             return {
                 gas: (zoneStatus & 1<<1) > 0,
                 tamper: (zoneStatus & 1<<2) > 0,
-                lowbattery: (zoneStatus & 1<<3) > 0,
+                batterylow: (zoneStatus & 1<<3) > 0,
             };
         },
     },
@@ -166,7 +166,7 @@
             return {
                 smoke: (zoneStatus & 1) > 0,
                 tamper: (zoneStatus & 1<<2) > 0,
-                lowbattery: (zoneStatus & 1<<3) > 0,
+                batterylow: (zoneStatus & 1<<3) > 0,
             };
         },
     },
@@ -178,7 +178,7 @@
             return {
                 contact: !((zoneStatus & 1) > 0),
                 tamper: (zoneStatus & 1<<2) > 0,
-                lowbattery: (zoneStatus & 1<<3) > 0,
+                batterylow: (zoneStatus & 1<<3) > 0,
             };
         },
     },
@@ -1082,7 +1082,7 @@
             const zoneStatus = msg.data.zonestatus;
             return {
                 smoke: (zoneStatus & 1) > 0, // Bit 1 = Alarm: Smoke
-                lowbattery: (zoneStatus & 1<<3) > 0, // Bit 4 = Battery LOW indicator
+                batterylow: (zoneStatus & 1<<3) > 0, // Bit 4 = Battery LOW indicator
             };
         },
     },
@@ -1130,9 +1130,9 @@
             }
             if (battLow != null) {
                 if (battLow) {
-                    results['lowbattery'] = true;
+                    results['batterylow'] = true;
                 } else {
-                    results['lowbattery'] = false;
+                    results['batterylow'] = false;
                 }
             }
             if (voltage != null) {
@@ -1164,7 +1164,7 @@
             const zoneStatus = msg.data.zonestatus;
             return {
                 carbon_monoxide: (zoneStatus & 1) > 0, // Bit 1 = Alarm: Carbon monoxide
-                lowbattery: (zoneStatus & 1<<3) > 0, // Bit 4 = Battery LOW indicator
+                batterylow: (zoneStatus & 1<<3) > 0, // Bit 4 = Battery LOW indicator
             };
         },
     },
@@ -1765,7 +1765,7 @@
             return {
                 occupancy: (zoneStatus & 1<<1) > 0, // Bit 1 = Alarm 2: Presence Indication
                 tamper: (zoneStatus & 1<<2) > 0, // Bit 2 = Tamper status
-                lowbattery: (zoneStatus & 1<<3) > 0, // Bit 3 = Battery LOW indicator (trips around 2.4V)
+                batterylow: (zoneStatus & 1<<3) > 0, // Bit 3 = Battery LOW indicator (trips around 2.4V)
             };
         },
     },
@@ -1777,7 +1777,7 @@
             return {
                 occupancy: (zoneStatus & 1) > 0,
                 tamper: (zoneStatus & 1<<2) > 0,
-                lowbattery: (zoneStatus & 1<<3) > 0,
+                batterylow: (zoneStatus & 1<<3) > 0,
             };
         },
     },
@@ -1805,7 +1805,7 @@
             return {
                 occupancy: (zoneStatus & 1) > 0,
                 tamper: (zoneStatus & 1<<2) > 0,
-                lowbattery: (zoneStatus & 1<<3) > 0,
+                batterylow: (zoneStatus & 1<<3) > 0,
             };
         },
     },
@@ -2462,7 +2462,7 @@
                 carbon_monoxide: (zoneStatus & 1) > 0, // Bit 0 = Alarm 1: Carbon Monoxide (CO)
                 gas: (zoneStatus & 1 << 1) > 0, // Bit 1 = Alarm 2: Gas (CH4)
                 tamper: (zoneStatus & 1 << 2) > 0, // Bit 2 = Tamper
-                lowbattery: (zoneStatus & 1 << 3) > 0, // Bit 3 = Low battery alarm
+                batterylow: (zoneStatus & 1 << 3) > 0, // Bit 3 = Low battery alarm
                 trouble: (zoneStatus & 1 << 6) > 0, // Bit 6 = Trouble/Failure
                 ac_connected: !((zoneStatus & 1 << 7) > 0), // Bit 7 = AC Connected
                 test: (zoneStatus & 1 << 8) > 0, // Bit 8 = Self test
@@ -3424,9 +3424,9 @@
             if (typeof msg.data['batteryAlarmState'] == 'number') {
                 const battLow = msg.data['batteryAlarmState'];
                 if (battLow) {
-                    result['lowbattery'] = true;
+                    result['batterylow'] = true;
                 } else {
-                    result['lowbattery'] = false;
+                    result['batterylow'] = false;
                 }
             }
             return result;

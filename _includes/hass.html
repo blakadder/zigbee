@@ -404,7 +404,7 @@ Fan:
 
 {% endif %}
 
-{%- if page.supports contains "battery" -%}
+{%- if page.supports contains "batterypct" -%}
 
 Battery Percentage Sensor:
 <pre><code class="language-yaml">{% raw %}sensor:
@@ -419,7 +419,7 @@ Battery Percentage Sensor:
 
 {% endif %}
 
-{%- if page.supports contains "lowbattery" -%}
+{%- if page.supports contains "batterylow" -%}
 
 Low Battery Sensor:
 <pre><code class="language-yaml">{% raw %}binary_sensor:
@@ -428,7 +428,7 @@ Low Battery Sensor:
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_on: true
     payload_off: false
-    value_template: "{{ value_json.lowbattery}}"
+    value_template: "{{ value_json.batterylow}}"
     device_class: "battery"
 {% endraw %}
 </code></pre>

@@ -3,7 +3,7 @@ model: KPFT
 vendor: Konke
 title: Temp-Humidity Sensor
 category: sensor
-supports: temperature, humidity, battery, lowbattery
+supports: temperature, humidity, batterypct, batterylow
 image: /assets/images/devices/2AJZ4KPFT.jpg
 mlink: http://www.ikonke.us/pro/kitpro/index.php#kitpro
 link: https://www.amazon.com/Konke-Smart-Automation-Monitoring-Devices/dp/B07QVXPHR9?th=1

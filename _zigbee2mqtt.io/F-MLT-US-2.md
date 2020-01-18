@@ -46,7 +46,7 @@ binary_sensor:
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_on: true
     payload_off: false
-    value_template: "{{ value_json.lowbattery}}"
+    value_template: "{{ value_json.batterylow}}"
     device_class: "battery"
 
 sensor:

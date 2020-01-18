@@ -4,7 +4,7 @@ model: E1766
 vendor: IKEA
 title: Trådfri Open/Close Remote
 category: remote
-supports: battery, action
+supports: batterypct, action
 image: /assets/images/devices/Ikea_E1766.jpg
 zigbeemodel: ['TRADFRI open/close remote']
 compatible: [z2m]

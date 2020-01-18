@@ -4,7 +4,7 @@ model: WV704R0A0902
 vendor: Schneider Electric
 title: Wiser Smart Heating Radiator Thermostat
 category: misc
-supports: temperature, battery, keypad lock, heating demand
+supports: temperature, batterypct, keypad lock, heating demand
 image: /assets/images/devices/Schneider_Electric_WV704R0A0902.jpg
 zigbeemodel: ['iTRV']
 compatible: [z2m]

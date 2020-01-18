@@ -3,7 +3,7 @@ model: WXKG02LM
 vendor: Xiaomi
 title: Aqara Wireless Remote Switch (Double Rocker)
 category: switch
-supports: click, battery
+supports: click, batterypct
 image: /assets/images/devices/WXKG02LM.jpg
 zigbeemodel: https://www.aqara.com/en/wireless_remote_switch.html
 compatible: [z2m, zigate, conbee]

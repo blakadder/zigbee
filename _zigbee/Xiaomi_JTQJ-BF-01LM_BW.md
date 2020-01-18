@@ -3,7 +3,7 @@ model: JTQJ-BF-01LM/BW
 vendor: Xiaomi
 title: Honeywell Gas Detector 
 category: sensor
-supports: gas, gas density, battery, detector sensitivity
+supports: gas, gas density, batterypct, detector sensitivity
 image: /assets/images/devices/JTQJ-BF-01LM-BW.jpg
 zigbeemodel: ['lumi.sensor_natgas']
 compatible: [z2m]

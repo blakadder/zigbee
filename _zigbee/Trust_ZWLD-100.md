@@ -3,7 +3,7 @@ model: ZWLD-100
 vendor: Trust
 title: Water Leakage Detector
 category: sensor
-supports: water leak, battery
+supports: water leak, batterypct
 image: /assets/images/devices/ZWLD-100.jpg
 zigbeemodel: ['WATER_TPV14']
 compatible: [z2m]

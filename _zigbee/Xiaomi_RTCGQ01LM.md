@@ -3,7 +3,7 @@ model: RTCGQ01LM
 vendor: Xiaomi
 title: Mijia Human Body Sensor
 category: sensor
-supports: occupancy, lowbattery
+supports: occupancy, batterylow
 image: /assets/images/devices/RTCGQ01LM.jpg
 zigbeemodel: ['lumi.sensor_motion']
 compatible: [z2m, zigate, conbee, tasmota]

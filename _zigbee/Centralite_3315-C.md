@@ -3,7 +3,7 @@ model: 3315-C
 vendor: Centralite
 title: Water Sensor
 category: sensor
-supports: water leak, temperature, battery
+supports: water leak, temperature, batterypct
 image: /assets/images/devices/centralite_3315-C.png
 zigbeemodel: 
 compatible: [z2m]

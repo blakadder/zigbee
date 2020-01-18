@@ -3,7 +3,7 @@ model: E1743
 vendor: IKEA
 title: Trådfri ON/OFF Switch
 category: remote
-supports: click, battery, brightness
+supports: click, batterypct, brightness
 image: /assets/images/devices/E1743.jpg
 zigbeemodel: ['TRADFRI on/off switch']
 compatible: [z2m]

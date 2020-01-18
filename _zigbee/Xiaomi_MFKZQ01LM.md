@@ -3,7 +3,7 @@ model: MFKZQ01LM
 vendor: Xiaomi
 title: Aqara Cube Controller
 category: remote
-supports: action, low battery
+supports: action, low batterypct
 image: /assets/images/devices/MFKZQ01LM.jpg
 zigbeemodel: ['lumi.sensor_cube', 'lumi.sensor_cube.aqgl01']
 compatible: [z2m, zigate, conbee, tasmota]

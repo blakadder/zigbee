@@ -3,7 +3,7 @@ model: 1TST-EU
 vendor: eCozy 
 title: Smart Heating Thermostat
 category: misc
-supports: occupancy, heating, schedule, battery
+supports: occupancy, heating, schedule, batterypct
 image: /assets/images/devices/1TST-EU.jpg
 mlink:
 link: https://www.amazon.de/Ecozy-Smart-Heizk%C3%B6rperthermostat-einzeln-1TST-EU/dp/B01LTG8UDW

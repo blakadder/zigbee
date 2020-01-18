@@ -3,7 +3,7 @@ model: MCCGQ01LM
 vendor: Xiaomi
 title: Mijia Door & Window Sensor
 category: sensor
-supports: contact, lowbattery
+supports: contact, batterylow
 image: /assets/images/devices/MCCGQ01LM.jpg
 zigbeemodel: ['lumi.sensor_magnet']
 compatible: [z2m, zigate, conbee, tasmota]

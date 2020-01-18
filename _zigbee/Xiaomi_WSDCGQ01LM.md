@@ -3,7 +3,7 @@ model: WSDCGQ01LM
 vendor: Xiaomi
 title: Mijia Temperature & Humidity Sensor
 category: sensor
-supports: temperature, humidity, lowbattery
+supports: temperature, humidity, batterylow
 image: /assets/images/devices/WSDCGQ01LM.jpg
 zigbeemodel: ['lumi.sens', 'lumi.sensor_ht']
 compatible: [z2m, zigate, conbee]

@@ -4,7 +4,7 @@ model: GZCGQ01LM
 vendor: Xiaomi
 title: Mijia Light Intensity Sensor
 category: sensor
-supports: illuminance, lowbattery
+supports: illuminance, batterylow
 image: /assets/images/devices/Xiaomi_GZCGQ01LM.jpg
 zigbeemodel: ['lumi.sen_ill.mgl01']
 compatible: [z2m]

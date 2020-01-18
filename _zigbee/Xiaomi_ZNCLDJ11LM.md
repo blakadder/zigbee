@@ -2,7 +2,7 @@
 model: ZNCLDJ11LM
 vendor: Xiaomi
 title: Aqara Curtain Controller
-category: misc
+category: cover
 supports: open/close, stop, position
 image: /assets/images/devices/ZNCLDJ11LM.jpg
 zigbeemodel: ['lumi.curtain', 'lumi.curtain.aq2']

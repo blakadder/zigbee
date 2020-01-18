@@ -2,7 +2,7 @@
 model: 511.201
 vendor: Iluminize
 title: 230V HV Dimmer
-category: light
+category: dimmer
 supports: on/off, brightness
 image: /assets/images/devices/511.201.jpg
 zigbeemodel: ['511.201']

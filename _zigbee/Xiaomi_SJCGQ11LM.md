@@ -3,7 +3,7 @@ model: SJCGQ11LM
 vendor: Xiaomi
 title: Aqara Water Leak sensor
 category: sensor
-supports: water leak
+supports: water leak, batterylow
 image: /assets/images/devices/SJCGQ11LM.jpg
 zigbeemodel: ['lumi.sensor_wleak.aq1']
 compatible: [z2m]
@@ -17,32 +17,3 @@ link4: https://www.amazon.com/Aqara-11LM-SJCGQ-Water-Sensor/dp/B07D39MSZS
 ### Pairing
 Press and hold water logo on the device for +- 10 seconds until the blue light blinks
 three times, release the water logo (the blue light will blink once more) and wait.
-     {% raw %}
-```yaml
-binary_sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    payload_on: true
-    payload_off: false
-    value_template: "{{ value_json.water_leak }}"
-    device_class: "moisture"
-
-sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    unit_of_measurement: "%"
-    device_class: "battery"
-    value_template: "{{ value_json.battery }}"
-
-sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    unit_of_measurement: "-"
-    value_template: "{{ value_json.linkquality }}"
-```
-{% endraw %}
-
-

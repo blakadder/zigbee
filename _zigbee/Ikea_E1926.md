@@ -5,7 +5,7 @@ vendor: IKEA
 title: Kadrilj Roller Blind
 category: cover
 supports: open/close, stop, position, batterypct
-image: /assets/images/devices/Ikea_E1748-60.jpg
+image: /assets/images/devices/Ikea_E1926.jpg
 zigbeemodel:  ['KADRILJ roller blind']
 compatible: [z2m]
 mlink: https://www.ikea.com/nl/en/p/kadrilj-roller-blind-wireless-battery-operated-grey-20408116/

@@ -4,7 +4,7 @@ vendor: IKEA
 title: TRADFRI LED Driver for Wireless Control 10 W
 category: light
 supports: on/off, brightness
-image: /assets/images/devices/ICPSHC24-10EU-IL-1.jpg
+image: /assets/images/devices/Ikea_ICPSHC24-10EU-IL-1.jpg
 zigbeemodel: ['TRADFRI transformer 10W', 'TRADFRI Driver 10W']
 compatible: [z2m]
 mlink: https://www.ikea.com/us/en/p/tradfri-driver-for-wireless-control-gray-10356189/

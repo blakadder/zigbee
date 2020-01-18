@@ -2,7 +2,7 @@
 model: ICPSHC24-10NA-IL-1
 vendor: IKEA
 title: TRADFRI LED Driver for Wireless Control 30 W
-category: light
+category: dimmer
 supports: on/off, brightness
 image: /assets/images/devices/Ikea_ICPSHC24-10NA-IL-1.jpg
 zigbeemodel: ['TRADFRI transformer 30W', 'TRADFRI Driver 30W']

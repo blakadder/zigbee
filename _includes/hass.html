@@ -4,28 +4,27 @@ Manual integration is done with the following configurations.
 Replace `[FRIENDLY_NAME]` with your <a href="https://www.zigbee2mqtt.io/information/mqtt_topics_and_message_structure.html#zigbee2mqttfriendly_name" target="_blank">device's friendly name</a>!
 <p>
 <div>
-  {%- if page.supports contains "on/off" and page.category == "remote" -%}
+{%- if page.supports contains "on/off" and page.category == "remote" -%}
   
-  {%- elsif page.supports contains "on/off" and page.supports contains "brightness" -%}
+{%- elsif page.supports contains "on/off" and page.supports contains "brightness" -%}
 
 Light:
 <pre><code class="language-yaml">{% raw %}light:
     - platform: "mqtt"
+      schema: "json"
+      command_topic: "zigbee2mqtt/[FRIENDLY_NAME]/set"
       state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
       availability_topic: "zigbee2mqtt/bridge/state"
       brightness: true
       {% endraw %}
       {%- if page.supports contains "on/off" and page.supports contains "white" -%}
-
-      white_value: true{% endif %}
+      white_value: true
+      {% endif %}
       {%- if page.supports contains "on/off" and page.supports contains "colortemp" -%}
-
-      color_temp: true{% endif %}
-      {%- if page.supports contains "on/off" and page.supports contains "colorxy" -%}xy: true{% endif %}{% raw %}
-      schema: "json"
-      command_topic: "zigbee2mqtt/[FRIENDLY_NAME]/set"
-  {% endraw %}
-</code></pre>
+      color_temp: true
+      {% endif %}
+      {%- if page.supports contains "on/off" and page.supports contains "colorxy" -%}
+      xy: true{% endif %}</code></pre>
 
 {%- elsif page.supports contains "on/off" -%}
 
@@ -38,8 +37,7 @@ Power ON/OFF:
     payload_on: "ON"
     value_template: "{{ value_json.state }}"
     command_topic: "zigbee2mqtt/[FRIENDLY_NAME]/set"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -54,8 +52,7 @@ Water Leak Sensor:
       payload_off: false
       value_template: "{{ value_json.water_leak }}"
       device_class: "moisture"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -70,8 +67,7 @@ Water Leak Sensor:
     payload_off: true
     value_template: "{{ value_json.contact }}"
     device_class: "door"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -87,8 +83,7 @@ Temperature Sensor:
     unit_of_measurement: "°C"
     device_class: "temperature"
     value_template: "{{ value_json.temperature }}"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endunless %}
 {% endif %}
@@ -103,8 +98,7 @@ Humidity Sensor:
     unit_of_measurement: "%"
     device_class: "humidity"
     value_template: "{{ value_json.humidity }}"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -118,8 +112,7 @@ Pressure Sensor:
     unit_of_measurement: "hPa"
     device_class: "pressure"
     value_template: "{{ value_json.pressure }}"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -133,8 +126,7 @@ Illuminance Sensor:
     unit_of_measurement: "lx"
     device_class: "illuminance"
     value_template: "{{ value_json.illuminance }}"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -149,8 +141,7 @@ Occupancy Sensor:
     payload_off: false
     value_template: "{{ value_json.occupancy }}"
     device_class: "motion"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -165,8 +156,7 @@ Smoke Sensor:
     payload_off: false
     value_template: "{{ value_json.smoke }}"
     device_class: "smoke"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -179,8 +169,7 @@ Smoke Density:
     availability_topic: "zigbee2mqtt/bridge/state"
     value_template: "{{ value_json.smoke_density }}"
     icon: "mdi:google-circles-communities"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -195,8 +184,7 @@ Gas Sensor:
     payload_off: false
     value_template: "{{ value_json.gas }}"
     device_class: "gas"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -209,8 +197,7 @@ Gas Density:
     availability_topic: "zigbee2mqtt/bridge/state"
     value_template: "{{ value_json.gas_density }}"
     icon: "mdi:google-circles-communities"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -231,8 +218,7 @@ Sensitivity of the sensor:
     availability_topic: "zigbee2mqtt/bridge/state"
     value_template: "{{ value_json.sensitivity }}"
     icon: "mdi:filter-variant"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -245,8 +231,7 @@ Click Sensor:
     availability_topic: "zigbee2mqtt/bridge/state"
     icon: "mdi:toggle-switch"
     value_template: "{{ value_json.click }}"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -259,8 +244,7 @@ Action Sensor:
     availability_topic: "zigbee2mqtt/bridge/state"
     icon: "mdi:gesture-double-tap"
     value_template: "{{ value_json.action }}"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -275,8 +259,7 @@ Lock Open Sensor:
     payload_off: "LOCK"
     value_template: "{{ value_json.state}}"
     device_class: "lock"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -291,8 +274,7 @@ Lock Closed Sensor:
     payload_off: "LOCK"
     value_template: "{{ value_json.reverse}}"
     device_class: "lock"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -305,8 +287,7 @@ Key Inserted Sensor:
     availability_topic: "zigbee2mqtt/bridge/state"
     icon: "mdi:lock"
     value_template: "{{ value_json.inserted }}"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -320,8 +301,7 @@ Power Meter Sensor:
       unit_of_measurement: "W"
       icon: "mdi:factory"
       value_template: "{{ value_json.power }}"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -334,8 +314,7 @@ Position Sensor:
       availability_topic: "zigbee2mqtt/bridge/state"
       value_template: "{{ value_json.position }}"
       icon: "mdi:view-array"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -350,8 +329,7 @@ Cover:
     set_position_topic: "zigbee2mqtt/[FRIENDLY_NAME]/set"
     set_position_template: "{ \"position\": {{ position }} }"
     value_template: "{{ value_json.position }}"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -376,8 +354,7 @@ Climate:
     temperature_state_template: "{{ value_json.occupied_heating_setpoint }}"
     temperature_command_topic: "occupied_heating_setpoint"
     temp_step: 1
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -402,8 +379,7 @@ Fan:
       - "on"
       - "auto"
       - "smart"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -417,8 +393,7 @@ Battery Percentage Sensor:
     unit_of_measurement: "%"
     device_class: "battery"
     value_template: "{{ value_json.battery }}"
-    {% endraw %}
-</code></pre>
+    {% endraw %}</code></pre>
 
 {% endif %}
 
@@ -433,8 +408,7 @@ Low Battery Sensor:
     payload_off: false
     value_template: "{{ value_json.batterylow}}"
     device_class: "battery"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 
 {% endif %}
 
@@ -449,8 +423,7 @@ Connectivity Sensor:
     payload_off: false
     value_template: "{{ value_json.state }}"
     device_class: "connectivity"
-    {% endraw %}
-</code></pre>
+    {% endraw %}</code></pre>
 
 {% endif %}
 
@@ -461,6 +434,5 @@ Zigbee Link Quality Sensor:
     availability_topic: "zigbee2mqtt/bridge/state"
     unit_of_measurement: "-"
     value_template: "{{ value_json.linkquality }}"
-{% endraw %}
-</code></pre>
+{% endraw %}</code></pre>
 </div>

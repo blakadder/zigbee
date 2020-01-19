@@ -1,0 +1,25 @@
+---
+layout: default
+title: ZiGate
+---
+<h2>{{ page.title }}</h2>
+How to set up <a href="https://zigate.fr/" target="_blank">ZiGate</a>.
+<!-- ######################################################################  -->
+{% assign gateway = site.zigbee | where: "compatible", "zigate" %}
+{% assign types = gateway | group_by: 'category' | sort: "name" %} 
+    {% for type in types %}
+    <h3> {{ type.name | capitalize }} </h3>
+    <table>
+        <tbody>
+        {% assign vendor = type.items | group_by: 'vendor' %} 
+        {% assign vendors = vendor | sort: 'name' %} 
+        {% for type in vendors %}
+        {% assign type_sorted = type.items | sort_natural: 'title' %}     
+        {% for template in type_sorted %}
+        {% include tablerow_nocompatibility.html %}
+        {% endfor %}
+        {% endfor %}
+</tbody>
+</table>
+{% endfor %}
+  

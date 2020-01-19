@@ -15,14 +15,15 @@
 			self.field('vendor', { boost: 15 });
 			self.field('model', { boost: 10 });
 			self.field('title');
-			self.field('category');
+			self.field('zigbeemodel');
 			self.field('content');
 
 			Object.keys(data).forEach(function (key) {
 				self.add({
 					id: key,
 					title: data[key].title,
-					category: data[key].category,
+					model: data[key].model,
+					zigbeemodel: data[key].zigbeemodel,
 					content: data[key].content
 				});
 			})

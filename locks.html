@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Others
+title: Locks
 ---
 <h2>{{ page.title }}</h2>
 
 <!-- ######################################################################  -->
-{% assign categories = site.zigbee | where: "category", "misc" %}
+{% assign categories = site.zigbee | where: "category", "lock" %}
 {% assign vendor = categories | group_by: 'vendor' %} 
 {% assign vendors = vendor | sort: 'name' %} 
 <table>

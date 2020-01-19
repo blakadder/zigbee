@@ -6,8 +6,8 @@ category: router
 supports: on/off, RGB strip, sensors, S0 Counter, ADC, Digital I/O
 image: /assets/images/devices/ZigUP.jpg
 mlink: https://github.com/formtapez/ZigUP
-zigbeemodel: 
+zigbeemodel: ['ZigUP']
 compatible: [z2m]
 ---
 
-CC2530 based multi-purpose ZigBee Relais, Switch, Sensor and Router 
+CC2530 based multi-purpose ZigBee Relay, Switch, Sensor and Router 

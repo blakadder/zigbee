@@ -7,6 +7,8 @@ toc:
     url: hvac.html
   - name: Lights
     url: lights.html
+  - name: Locks
+    url: locks.html
   - name: Plugs
     url: plugs.html
   - name: Remote Controllers
@@ -17,7 +19,5 @@ toc:
     url: sensors.html
   - name: Switches
     url: switches.html
-  - name: Other
-    url: misc.html
   - name: All Devices
     url: all.html

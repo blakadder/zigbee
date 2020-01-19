@@ -2,7 +2,7 @@
 model: ZNMS13LM
 vendor: Xiaomi
 title: Aqara Door Lock S2 Pro
-category: misc
+category: lock
 supports: report open, report close, action
 image: /assets/images/devices/ZNMS13LM.jpg
 zigbeemodel: ['lumi.lock.acn03']

@@ -14,11 +14,4 @@ link3:
 ---
 Article #: 100.424.11  
 
-### Device type specific configuration
-*[How to use device type specific configuration](https://www.zigbee2mqtt.io/information/configuration)*
 
-
-`transition`   
-Controls the transition time (in seconds) of brightness,
-colortemp (if applicable) and color (if applicable) changes. Defaults to `0` (no transition).
-Note that this value is overridden if a `transition` value is present in the MQTT command payload. 

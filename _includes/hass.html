@@ -15,6 +15,9 @@ Light:
       availability_topic: "zigbee2mqtt/bridge/state"
       brightness: true
       {% endraw %}
+      {%- if page.supports contains "on/off" and page.supports contains "white" -%}
+
+      white_value: true{% endif %}
       {%- if page.supports contains "on/off" and page.supports contains "colortemp" -%}
 
       color_temp: true{% endif %}
@@ -307,7 +310,7 @@ Key Inserted Sensor:
 
 {% endif %}
 
-{%- if page.supports contains "power measurement" -%}
+{%- if page.supports contains "power measurement" or page.supports contains "power meter" -%}
 
 Power Meter Sensor:
 <pre><code class="language-yaml">{% raw %}sensor:

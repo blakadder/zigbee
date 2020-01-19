@@ -4,7 +4,7 @@ model: GL-C-008
 vendor: Gledopto
 title: RGBCCT LED Controller 
 category: light
-supports: on/off, brightness, colortemp, white, color
+supports: on/off, brightness, colortemp, color
 image: /assets/images/devices/Gledopto_GL-C-008.jpg
 zigbeemodel: ['GLEDOPTO']
 compatible: [z2m]

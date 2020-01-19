@@ -12,7 +12,7 @@ link3: https://www.aliexpress.com/item/4000478315927.html
 zigbeemodel: ['3AFE130104020015', '3AFE270104020015']
 compatible: [z2m]
 ---
-
 FCCID: 2AJZ4-KPDR
+
 ### Important
 Konke devices only work on Zigbee channel 15, 20 and 25. 

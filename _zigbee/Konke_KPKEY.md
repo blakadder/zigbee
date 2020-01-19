@@ -3,7 +3,7 @@ model: KPKEY
 vendor: Konke
 title: Multi-function Button
 category: remote
-supports: single/double/long click, batterypct, batterylow
+supports: click, batterypct, batterylow
 image: /assets/images/devices/2AJZ4KPKEY.jpg
 zigbeemodel: ['3AFE170100510001']
 compatible: [z2m]
@@ -14,5 +14,6 @@ link3:
 ---
 FCC ID: 2AJZ4KPKEY
 
+Click types: single, double, long 
 ### Important
 Konke devices only work on Zigbee channel 15, 20 and 25. 

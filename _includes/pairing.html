@@ -61,4 +61,17 @@ Note that this requires at least November/December '18 firmware update of the bu
   Start with bulb on, then off, and then 6 “on’s”, where you kill the light as soon as the bulb shows signs of turning on.
   <p>
 
-{% endif %}
+    {%- elsif page.vendor contains "Müller Licht " and page.category == "light" -%}
+
+    <h6> Pairing Instructions</h6>
+    Turn the light bulb five times on and off. After turning it on the sixth time, it will indicate with colors that the bulb is pairing.
+    <p>
+
+    
+        {%- elsif page.vendor contains "Müller Licht " and page.category == "light" -%}
+    
+        <h6> Pairing Instructions</h6>
+        Turn the light bulb five times on and off. After turning it on the sixth time, it will indicate with colors that the bulb is pairing.
+        <p>
+    
+      {% endif %}

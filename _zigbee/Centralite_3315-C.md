@@ -1,5 +1,5 @@
 ---
-model: 3315-G 
+model: 3315-C
 vendor: Centralite
 title: 3-Series Water Sensor
 category: sensor

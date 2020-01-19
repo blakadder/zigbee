@@ -12,9 +12,3 @@ link: https://www.amazon.de/dp/B07XCNXT2N
 link2: https://www.amazon.de/dp/B07XCNXT2N
 link3: 
 ---
-### Pairing
-Turn the light bulb five times on and off. After turning it on the sixth time,
-it will indicate with colors that the bulb is pairing.
-
-
-

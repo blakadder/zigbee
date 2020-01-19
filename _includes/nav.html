@@ -1,6 +1,6 @@
 <div id="navigation" class="navigation">
 <ul class="navigation" id="navigation">
-<li>Devices by Type
+<li><b>Sorted by Type</b>
     {% assign cat = site.data.nav.toc %}
 {% for item in cat %}
     <li><a class="{% if page.url == item.url %}active{% endif %}" href="{{ item.url | relative_url }}">{{ item.name }}</a>

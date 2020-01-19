@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Coordinators
+title: Routers
 ---
 <h2>{{ page.title }}</h2>
 
+It is safe to assume that almost every wired device will serve as a Zigbee Router.
 <!-- ######################################################################  -->
-{% assign categories = site.zigbee | where: "category", "coordinator" %}
+{% assign categories = site.zigbee | where: "category", "router" %}
 {% assign vendor = categories | group_by: 'vendor' %} 
 {% assign vendors = vendor | sort: 'name' %} 
 <table>

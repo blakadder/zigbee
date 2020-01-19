@@ -12,7 +12,7 @@ mlink: https://www.aqara.com/cn/op_switch.html
 link: https://www.aliexpress.com/af/aqara-opple-switch.html
 link2: https://www.banggood.com/Original-Aqara-OPPLE-Wireless-International-Version-Smart-Switch-Work-With-Apple-HomeKit-Xiaomi-Eco-System-p-1588700.html
 link3: https://www.amazon.de/dp/B081JNGNFT
-link4: https://www.amazon.de/dp/B0832KYZWC
+link4: https://www.gearbest.com/power-strips/pp_009267447933.html
 ---
 ### Binding
 By default the switch is bound to the coordinator but this device can also be used to directly control other lights and switches in the network.

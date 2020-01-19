@@ -29,9 +29,9 @@ title: Zigbee Device Compatibility Repository
 {% assign sorted = site.zigbee  | sort: "date_added" | reverse %}
 {% for device in sorted limit: 22 %}
 <li>
-    <a class="menu" href="{{site.baseurl}}{{ device.url }}">{{ device.vendor | truncate: 30 }} {{ device.title | truncate: 45 }}</a>
+    <a class="menu" href="{{site.baseurl}}{{ device.url }}">{{ device.vendor | truncate: 30 }} {{ device.title | truncate: 55 }}</a> (Model {{device.model}})
 </li>
 {% endfor %}
 </div>
 </div>
-<span style="font-size:0.6em;">As an Amazon Associate I earn from qualifying purchases from provided device links.</span>    
+<span style="font-size:0.6em;">As an Amazon Associate I earn from qualifying purchases from provided device links.</span>      

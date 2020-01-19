@@ -1,7 +1,7 @@
 ---
 model: LED1537R6
 vendor: IKEA
-title: TRADFRI LED bulb GU10 400 lumen, dimmable, white spectrum
+title: Trådfri LED bulb GU10 400 lumen, dimmable, white spectrum
 category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Ikea_LED1537R6.jpg

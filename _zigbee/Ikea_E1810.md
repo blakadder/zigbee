@@ -1,7 +1,7 @@
 ---
 model: E1810
 vendor: IKEA
-title: TRADFRI remote control
+title: Trådfri remote control
 category: remote
 supports: action, batterypct
 image: /assets/images/devices/Ikea_E1810.jpg

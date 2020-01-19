@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Coordinators
+title: Remote Controllers
 ---
 <h2>{{ page.title }}</h2>
 
 <!-- ######################################################################  -->
-{% assign categories = site.zigbee | where: "category", "coordinator" %}
+{% assign categories = site.zigbee | where: "category", "remote" %}
 {% assign vendor = categories | group_by: 'vendor' %} 
 {% assign vendors = vendor | sort: 'name' %} 
 <table>

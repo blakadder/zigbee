@@ -2,7 +2,7 @@
 date_added: 2020-01-12
 model: 067773
 vendor: Legrand
-title: Céliane with Netatmo Wired Switch No Neutral
+title: Céliane Wired Switch No Neutral
 category: switch
 supports: on/off
 image: /assets/images/devices/Legrand_067771.jpg

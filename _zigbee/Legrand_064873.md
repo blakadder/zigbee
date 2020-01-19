@@ -2,7 +2,7 @@
 date_added: 2020-01-12
 model: 064873
 vendor: Legrand
-title: Céliane with Netatmo Home/Away Master Switch
+title: Céliane Home/Away Master Switch
 category: switch
 supports: action
 image: /assets/images/devices/Legrand_064873.jpg

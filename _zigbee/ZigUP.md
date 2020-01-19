@@ -2,7 +2,7 @@
 model: ZigUP
 vendor: DIY 
 title: Multipurpose CC2530 Router
-category: misc
+category: router
 supports: on/off, RGB strip, sensors, S0 Counter, ADC, Digital I/O
 image: /assets/images/devices/ZigUP.jpg
 mlink: https://github.com/formtapez/ZigUP

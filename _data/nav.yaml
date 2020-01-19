@@ -1,5 +1,23 @@
 toc:
-  - name: All Devices
-    url: all.html
   - name: Coordinators
     url: coordinators.html
+  - name: Covers
+    url: covers.html
+  - name: HVAC
+    url: hvac.html
+  - name: Lights
+    url: lights.html
+  - name: Plugs
+    url: plugs.html
+  - name: Remote Controllers
+    url: remotes.html
+  - name: Routers
+    url: routers.html
+  - name: Sensors
+    url: sensors.html
+  - name: Switches
+    url: switches.html
+  - name: Other
+    url: misc.html
+  - name: All Devices
+    url: all.html

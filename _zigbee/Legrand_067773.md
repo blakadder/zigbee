@@ -2,7 +2,7 @@
 date_added: 2020-01-12
 model: 067773
 vendor: Legrand
-title: Céliane with Netatmo Wireless Switch
+title: Céliane Wireless Switch
 category: switch
 supports: action
 image: /assets/images/devices/Legrand_067773.jpg

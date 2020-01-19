@@ -1,7 +1,7 @@
 ---
 model: ICPSHC24-10NA-IL-1
 vendor: IKEA
-title: TRADFRI LED Driver for Wireless Control 30 W
+title: Trådfri LED Driver for Wireless Control 30 W
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Ikea_ICPSHC24-10NA-IL-1.jpg

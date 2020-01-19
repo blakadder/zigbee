@@ -2,7 +2,7 @@
 date_added: 2020-01-12
 model: 067776
 vendor: Legrand
-title: Céliane with Netatmo Wired Shutter Switch
+title: Céliane Wired Shutter Switch
 category: switch
 supports: open/close, stop, position, tilt
 image: /assets/images/devices/Legrand_067776.jpg

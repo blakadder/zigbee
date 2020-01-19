@@ -7,7 +7,7 @@ category: cover
 supports: open/close, stop, position, batterypct
 image: /assets/images/devices/Ikea_E1926.jpg
 zigbeemodel:  ['KADRILJ roller blind']
-compatible: [z2m]
+compatible: [z2m, zigate]
 mlink: https://www.ikea.com/nl/en/p/kadrilj-roller-blind-wireless-battery-operated-grey-20408116/
 link: 
 link2: 

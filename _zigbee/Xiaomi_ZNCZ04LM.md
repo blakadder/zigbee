@@ -1,4 +1,5 @@
 ---
+date_added: 2020-01-20
 model: ZNCZ04LM
 vendor: Xiaomi
 title: Mi Power Plug EU
@@ -8,7 +9,7 @@ image: /assets/images/devices/ZNCZ04LM.jpg
 zigbeemodel: ['lumi.plug.mmeu01']
 compatible: [z2m]
 mlink: 
-link: 
+link: https://www.aliexpress.com/item/4000641951882.html
 link2: 
 link3: 
 ---

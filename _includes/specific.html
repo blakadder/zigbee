@@ -41,6 +41,16 @@ Controls the precision of humidity values (example: 0, 1 or 2; default is `2`).
 
 {% endif %}
 
+{%- if page.supports contains "pressure" -%}
+
+<code>pressure_precision</code><BR>
+Controls the precision of `pressure` values (example `0` or `1`; default `1`).
+<p>
+<code>pressure_calibration</code><BR>
+Allows to manually calibrate pressure values (example `1` would add 1 to the pressure reported by the device; default `0`). 
+</p>
+
+{% endif %}
 
 <p>
     {%- if page.supports contains "occupancy" -%}

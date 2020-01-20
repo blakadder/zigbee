@@ -7,13 +7,13 @@ title: Zigbee Device Compatibility Repository
         <div class="column column-60">
         <h3>Zigbee Device Compatibility Repository</h3>
         </div>
-        <div class="column colum-40">
+        <div class="column colum-40 float-right">
             <span style="vertical-align: text-bottom;"><strong>{% assign counter = 0 %}{% for item in site.zigbee %}{% assign counter=counter | plus:1 %}{% endfor %}{{ counter }}</strong> Zigbee devices listed.</span>
         </div>
     </div>
     <div class="row">
         <div class="column">
-        <strong>Zigbee devices supported by Zigbee2MQTT, deCONZ, ZiGate and Zigbee2Tasmota</strong>
+        <strong>List of Zigbee devices supported by Zigbee2MQTT, deCONZ, ZiGate or Zigbee2Tasmota</strong>
         </div>
     </div>
 <div class="row">
@@ -24,14 +24,16 @@ title: Zigbee Device Compatibility Repository
 <div>
 </div>
 <div class="row">
-    <div class="column column-80">
-<h4>Recently added devices:</h4>
+    <div class="column column-90">
+<h4>Recently added:</h4>
 {% assign sorted = site.zigbee  | sort: "date_added" | reverse %}
-{% for device in sorted limit: 22 %}
-<li>
-    <a class="menu" href="{{site.baseurl}}{{ device.url }}">{{ device.vendor | truncate: 30 }} {{ device.title | truncate: 55 }}</a> (Model {{device.model}})
-</li>
-{% endfor %}
+<table>
+    <tbody>
+        {% for template in sorted limit: 9 %}
+        {% include tablerow.html %}
+        {% endfor %}
+    </tbody>
+</table>
 </div>
 </div>
 <span style="font-size:0.6em;">As an Amazon Associate I earn from qualifying purchases from provided device links.</span>         

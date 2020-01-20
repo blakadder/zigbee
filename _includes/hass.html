@@ -235,6 +235,31 @@ Click Sensor:
 
 {% endif %}
 
+{%- if page.supports contains "double_on_off" -%}
+
+Switch 1 and 2 Sensor:
+<pre><code class="language-yaml">{% raw %}switch:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_off: "OFF"
+    payload_on: "ON"
+    value_template: "{{ value_json.state_l1 }}"
+    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/l1/set"
+
+switch:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_off: "OFF"
+    payload_on: "ON"
+    value_template: "{{ value_json.state_l2 }}"
+    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/l2/set"
+
+{% endraw %}</code></pre>
+
+{% endif %}
+
 {%- if page.supports contains "action" -%}
 
 Action Sensor:
@@ -333,8 +358,49 @@ Cover:
 
 {% endif %}
 
-{%- if page.supports contains "heating" -%}
+{%- if page.supports contains "tilt" -%}
 
+Cover:
+<pre><code class="language-yaml">{% raw %}cover:
+  - platform: "mqtt"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+    set_position_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+    set_position_template: "{ \"position\": {{ position }} }"
+    tilt_command_topic: true
+    position_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    value_template: "{{ value_json.position }}"
+    tilt_status_topic: true
+    tilt_status_template: "{{ value_json.tilt }}"
+{% endraw %}</code></pre>
+
+{% endif %}
+
+{%- if page.supports contains "heating" and page.supports contains "control"-%}
+
+Climate:
+<pre><code class="language-yaml">{% raw %}climate:
+  - platform: "mqtt"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    min_temp: "5"
+    max_temp: "30"
+    modes: 
+      - "off"
+      - "auto"
+      - "heat"
+    mode_state_topic: true
+    mode_state_template: "{{ value_json.system_mode }}"
+    mode_command_topic: true
+    current_temperature_topic: true
+    current_temperature_template: "{{ value_json.local_temperature }}"
+    temperature_state_topic: true
+    temperature_state_template: "{{ value_json.current_heating_setpoint }}"
+    temperature_command_topic: "current_heating_setpoint"
+    temp_step: 0.5
+    {% endraw %}</code></pre>
+
+    {%- elsif page.supports contains "heating" -%}
+   
 Climate:
 <pre><code class="language-yaml">{% raw %}climate:
   - platform: "mqtt"

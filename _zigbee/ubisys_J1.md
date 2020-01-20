@@ -4,7 +4,7 @@ vendor: Ubisys
 title: Shutter Control 
 category: cover
 supports: open, close, stop, position, tilt
-image: /assets/images/devices/J1.jpg
+image: /assets/images/devices/ubisys_J1.jpg
 zigbeemodel: ['J1 (5502)']
 compatible: [z2m, conbee]
 mlink: https://www.ubisys.de/en/products/shading-devices/shutter-control-j1/

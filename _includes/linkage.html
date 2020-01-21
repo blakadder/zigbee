@@ -19,7 +19,7 @@
 {% elsif link contains "amazon.com.au" %}
 {{ link | append: "?tag=blakadderzigbee-22" }}
 {% elsif link contains "www.aliexpress.com" %}
-{{ link | append: "?aff_request_id=1ea588879adf4a71b69472fcc8469bea-1579460387259-01187-_sPA71V&aff_platform=link-c-tool&cpt=1579460387259&sk=_sPA71V&aff_trace_key=1ea588879adf4a71b69472fcc8469bea-1579460387259-01187-_sPA71V&terminal_id=5ab3b3bf703c438dac102dcfef054d7e" }}
+{{ link | append: "?aff_platform=link-c-tool&cpt=1579460387259&sk=_sPA71V&aff_trace_key=1ea588879adf4a71b69472fcc8469bea-1579460387259-01187-_sPA71V&terminal_id=5ab3b3bf703c438dac102dcfef054d7e" }}
 {% elsif link contains "www.alibaba.com" %}
 {{ link | uri_escape | prepend: "https://offer.alibaba.com/cps/ais1lue4?bm=cps&src=saf&url=" }}
 {% else %}

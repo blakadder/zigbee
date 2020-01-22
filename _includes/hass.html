@@ -273,6 +273,22 @@ Action Sensor:
 
 {% endif %}
 
+{%- if page.supports contains "lockout" -%}
+
+Lock:
+<pre><code class="language-yaml">{% raw %}lock:
+  - platform: "mqtt"
+    state_topic: true
+    availability_topic: "zigbee2mqtt/bridge/state"
+    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+    command_topic_postfix: "keypad_lockout"
+    payload_unlock: "0"
+    payload_lock: "1"
+    value_template: "{{ value_json.keypad_lockout }}"
+{% endraw %}</code></pre>
+
+{% endif %}
+
 {%- if page.supports contains "report open" -%}
 
 Lock Open Sensor:

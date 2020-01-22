@@ -1,4 +1,5 @@
 ---
+date_added: 2020-01-21
 model: SC1
 vendor: Securifi
 title: Almond Click

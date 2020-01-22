@@ -1,4 +1,5 @@
 ---
+date_added: 2020-01-21
 model: GP-WOU019BBDWG
 vendor: SmartThings
 title: Smart Plug (2019)

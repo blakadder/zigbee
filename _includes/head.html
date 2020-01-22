@@ -14,16 +14,16 @@
   <!-- Google / Search Engine Tags -->
   <meta itemprop="name" content="{{ page.title | strip_html | normalize_whitespace | truncate: 160 | escape }} Zigbee compatibility information">
   <meta itemprop="description" content="Check whether {{ page.title }} works with your Zigbee gateway">
-  <meta itemprop="image" content="{{ page.image }}">
+  <meta itemprop="image" content="/assets/images/devices/{{ page.image }}">
 
   <meta property="og:title" content="{{ site.title | normalize_whitespace | escape }}">
   <meta property="og:description" content="Check whether {{ page.title }} works with your Zigbee gateway">
-  <meta property="og:image" content="{{ page.image }}">
+  <meta property="og:image" content="/assets/images/devices/{{ page.image }}">
   <meta property="og:url" content="href="{{ page.url | replace:'index.html','' | absolute_url }}">
 												 
   <meta name="twitter:title" content="{{ site.title | normalize_whitespace | escape }}">
   <meta name="twitter:description" content="Zigbee compatibility info for {% if page.title %}{{ page.vendor | escape }} {{ page.model | escape }} {{ page.title | escape }} {{ page.type | escape }}{% else %}{{ site.title | escape }}{% endif %}">
-  <meta name="twitter:image" content="{{ page.image }}">
+  <meta name="twitter:image" content="/assets/images/devices/{{ page.image }}">
   <meta name="twitter:card" content="summary_large_image">
 
   {% include styles.html %}

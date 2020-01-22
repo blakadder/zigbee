@@ -8,7 +8,7 @@ image: /assets/images/devices/Ikea_LED1732G11-E26.jpg
 zigbeemodel:  ['TRADFRI bulb E26 WS opal 1000lm']
 compatible: [z2m, tasmota]
 mlink: https://www.ikea.com/us/en/p/tradfri-led-bulb-e26-1000-lumen-wireless-dimmable-white-spectrum-opal-70408492/
-link: https://www.amazon.co.uk/TR%C3%85DFRI-lumen-wireless-dimmable-white/dp/B07KM1XFZG
+link: 
 link2: 
 link3: 
 ---

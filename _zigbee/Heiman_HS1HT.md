@@ -7,7 +7,7 @@ category: sensor
 supports: temperature, humidity, batterypct
 image: /assets/images/devices/Heiman_HS1HT.jpg
 zigbeemodel: ['HT-EM']
-compatible: [z2m]
+compatible: [z2m, zha]
 mlink: http://www.heimantech.com/product/86.html
 link: https://www.aliexpress.com/item/32728836287.html
 link2: https://www.amazon.co.uk/HEIMAN-Zigbee-Temperature-Humidity-Detector/dp/B07DJ6MF53

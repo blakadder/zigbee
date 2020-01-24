@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator
 image: /assets/images/devices/coordinator_CC2531_bareboard.jpg
 zigbeeid: none
-compatible: z2m
+compatible: [z2m, iob]
 mlink: 
 link: https://www.aliexpress.com/item/4000310666663.html
 link2: https://www.aliexpress.com/item/33011691700.html

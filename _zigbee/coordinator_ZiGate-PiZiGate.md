@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator
 image: /assets/images/devices/ZiGate-PiZiGate.jpg
 zigbeeid: none
-compatible: zigate
+compatible: [zigate,zha]
 mlink: https://zigate.fr
 link: https://zigate.fr/produit/pizigate-v1-0/
 link2: https://www.amazon.fr/Zigate-Module-avec-ZigBee-Raspberry/dp/B07Z6MQJWX

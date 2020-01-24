@@ -3,7 +3,9 @@
   <td class="td-second"><b><a class="menu" href="{{site.baseurl}}{{ template.url }}">{{ template.vendor }} {{ template.title }}</a></b></td>
   <td>{{ template.model | truncate: 18, '...'}}</td>
   <td class="td-compat">{% if template.compatible contains "z2m" %}<img src="/assets/images/z2m-icon.png">{% else %} {% endif %}</td>
+  <td class="td-compat">{% if template.compatible contains "zha" %}<img src="/assets/images/zha-icon.png">{% elsif template.category == "light" %}<img src="/assets/images/zha-icon.png">{% else %} {% endif %}</td>
   <td class="td-compat">{% if template.compatible contains "conbee" %}<img src="/assets/images/deconz-icon.png">{% elsif template.category == "light" %}<img src="/assets/images/deconz-icon.png">{% else %} {% endif %}</td>
-  <td class="td-compat">{% if template.compatible contains "zigate" %}<img src="/assets/images/zigate-icon.png">{% else %} {% endif %}</td>
   <td class="td-compat">{% if template.compatible contains "tasmota" %}<img src="/assets/images/tasmota-icon.png">{% elsif template.category == "light" %}<img src="/assets/images/tasmota-icon.png">{% else %} {% endif %}</td>
+  <td class="td-compat">{% if template.compatible contains "zigate" %}<img src="/assets/images/zigate-icon.png">{% else %} {% endif %}</td>
+  <td class="td-compat">{% if template.compatible contains "iob" %}<img src="/assets/images/iobroker-icon.png">{% else %} {% endif %}</td>
 </tr>

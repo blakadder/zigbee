@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator
 image: /assets/images/devices/Phoscon_ConbeeII.jpg
 zigbeeid: none
-compatible: conbee
+compatible: [conbee,zha]
 mlink: https://phoscon.de/en/conbee2
 link: https://www.amazon.com/dp/B07PZ7ZHG5
 link2: https://www.reichelt.com/de/de/zigbee-usb-gateway-smart-home-conbee-ii-p260151.html

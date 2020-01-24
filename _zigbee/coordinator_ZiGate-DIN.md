@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator
 image: /assets/images/devices/ZiGate-DIN.jpg
 zigbeeid: none
-compatible: zigate
+compatible: [zigate,zha]
 mlink: https://zigate.fr
 link: https://zigate.fr/produit/zigate-usb-din/
 link2: https://www.amazon.fr/Zigate-Passerelle-USB-avec-ZigBee/dp/B07Z6P9HX6/

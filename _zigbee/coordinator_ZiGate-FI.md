@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator
 image: /assets/images/devices/ZiGate-WIFI.jpg
 zigbeeid: none
-compatible: zigate
+compatible: [zigate,zha]
 mlink: https://zigate.fr
 link: https://zigate.fr/produit/zigate-pack-wifi-v1-3/
 link2: https://shop.smarthome-europe.com/en/zigate/4316-zigate-universal-zigbee-gateway-wi-fi-3770014375025.html

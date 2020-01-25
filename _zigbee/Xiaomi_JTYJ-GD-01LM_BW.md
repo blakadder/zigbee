@@ -6,7 +6,7 @@ category: sensor
 supports: smoke, smoke density, batterypct, detector sensitivity
 image: /assets/images/devices/JTYJ-GD-01LM-BW.jpg
 zigbeemodel: ['lumi.sensor_smoke']
-compatible: [z2m, zigate]
+compatible: [z2m, zigate, zha]
 zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/dtecteurdefume
 mlink: http://files.xiaomi-mi.co.uk/files/MiJia_Honeywell/MiJia_Honeywell_Smoke_Detector_EN.pdf
 link: https://www.aliexpress.com/af/mijia-honeywell-fire-alarm.html

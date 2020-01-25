@@ -7,7 +7,7 @@ category: router
 supports: router
 image: /assets/images/devices/Ikea_E1746.jpg
 zigbeemodel:  ['TRADFRI signal repeater']
-compatible: [z2m]
+compatible: [z2m, zha]
 mlink: https://www.ikea.com/us/en/p/tradfri-signal-repeater-30400407/
 link: 
 link2: 

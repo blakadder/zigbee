@@ -6,7 +6,7 @@ category: sensor
 supports: occupancy, batterylow
 image: /assets/images/devices/RTCGQ01LM.jpg
 zigbeemodel: ['lumi.sensor_motion']
-compatible: [z2m, zigate, conbee, tasmota]
+compatible: [z2m, zigate, conbee, tasmota, zha]
 zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/dtecteurdemouvement
 mlink: https://www.mi.com/global/mi-smart-sensor-set
 link: https://www.aliexpress.com/item/4000067518837.html

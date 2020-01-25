@@ -6,7 +6,7 @@ category: switch
 supports: click, batterypct
 image: /assets/images/devices/WXKG02LM.jpg
 zigbeemodel: https://www.aqara.com/en/wireless_remote_switch.html
-compatible: [z2m, zigate, conbee]
+compatible: [z2m, zigate, conbee,zha]
 mlink: https://www.aqara.com/en/wireless_remote_switch.html
 link: https://www.aliexpress.com/item/32875105783.html
 link2: https://www.gearbest.com/alarm-systems/pp_610095.html

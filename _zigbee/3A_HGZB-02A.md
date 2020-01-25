@@ -3,9 +3,9 @@ date_added: 2020-01-25
 model: HGZB-02A
 vendor: Nue / 3A 
 title: Smart Light Controller
-category: light
+category: switch
 supports: on/off, brightness
-image: /assets/images/devices/HGZB-02A.jpg
+image: /assets/images/devices/3A_HGZB-02A.jpg
 zigbeemodel: ['FNB56-ZSC01LX1.2', 'FB56+ZSW05HG1.2', 'FB56+ZSC04HG1.0']
 compatible: [z2m, zha]
 mlink: https://www.3asmarthome.com/smart-in-ceiling-light-controller

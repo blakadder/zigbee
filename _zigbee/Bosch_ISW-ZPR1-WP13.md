@@ -3,7 +3,7 @@ model: ISW-ZPR1-WP13
 vendor: Bosch
 title: Wireless PIR Motion Detector
 category: sensor
-supports: occupancy, temperature, batterypct, lowbatt
+supports: occupancy, temperature, batterypct, batterylow
 image: /assets/images/devices/Bosch_ISW-ZPR1-WP13.jpg
 zigbeemodel: ['ISW-ZPR1-WP13']
 compatible: [z2m, zha]

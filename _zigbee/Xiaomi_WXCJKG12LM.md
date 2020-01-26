@@ -4,7 +4,7 @@ model: WXCJKG12LM
 vendor: Xiaomi
 title: Aqara Opple Wireless Scene Switch 4 Button
 category: switch
-supports: action, batterylowbattery
+supports: action, batterybatterylowery
 image: /assets/images/devices/WXCJKG12LM.jpg
 zigbeemodel: ['lumi.remote.b486opcn01']
 compatible: [z2m]

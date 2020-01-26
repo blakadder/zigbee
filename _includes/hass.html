@@ -145,6 +145,21 @@ Occupancy Sensor:
 
 {% endif %}
 
+{%- if page.supports contains "presence" -%}
+
+Presence Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_on: true
+    payload_off: false
+    value_template: "{{ value_json.presence }}"
+    device_class: "presence"
+{% endraw %}</code></pre>
+
+{% endif %}
+
 {%- if page.supports contains "smoke" -%}
 
 Smoke Sensor:
@@ -272,6 +287,21 @@ Action Sensor:
 {% endraw %}</code></pre>
 
 {% endif %}
+
+{%- if page.supports contains "lock/unlock" -%}
+
+Lock:
+<pre><code class="language-yaml">{% raw %}lock:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+    value_template: "{{ value_json.state }}"
+{% endraw %}</code></pre>
+
+{% endif %}
+
+
 
 {%- if page.supports contains "lockout" -%}
 

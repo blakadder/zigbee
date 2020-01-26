@@ -1,0 +1,15 @@
+---
+date_added: 2020-01-26
+model: 3000-G 
+vendor: Centralite
+title: 3-Series Pearl Thermostat
+category: hvac
+supports: 
+image: /assets/images/devices/Centralite_3000-G.jpg
+zigbeemodel: ['3157100']
+compatible: [zha]
+mlink: https://centralite.com/products/pearl-thermostat
+link: https://www.amazon.com/Centralite-3-Pearl-Touch-Thermostat/dp/B01G99KR94
+link2: https://www.amazon.com/Centralite-Humidity-Sensor-SmartThings-ZigBee/dp/B01KVDFRGC
+link3: 
+---

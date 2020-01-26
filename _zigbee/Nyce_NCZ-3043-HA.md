@@ -3,7 +3,7 @@ model: NCZ-3043-HA
 vendor: Nyce
 title: Ceiling Motion Sensor
 category: sensor
-supports: motion, humidity, temperature, batterypct, lowbatt
+supports: motion, humidity, temperature, batterypct, batterylow
 image: /assets/images/devices/Nyce_NCZ-3043-HA.jpg
 zigbeemodel: ['3043']
 compatible: [z2m]

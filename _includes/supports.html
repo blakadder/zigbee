@@ -7,7 +7,7 @@
       {% for function in supports %}
     <tr>
         <td style="border-bottom: none">
-            {{ function | replace: 'colorxy', 'color xy' | replace: 'colortemp', 'color temperature' | replace: 'batterylow', 'low battery warning' | replace: 'batterypct', 'battery percentage' }}
+            {{ function | replace: 'colorxy', 'color xy' | replace: 'colortemp', 'color temperature' | replace: 'batterylow', 'low battery warning' | replace: 'batterypct', 'battery percentage' | replace: 'double_on_off', 'left/right on/off' | replace: 'lr_on_off', 'left/right on/off' | replace: 'lrc_on_off', 'left/center/right on/off' }}
         </td>
     </tr>
     {% endfor %}

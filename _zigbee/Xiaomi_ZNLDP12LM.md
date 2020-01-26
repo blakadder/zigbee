@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/ZNLDP12LM.jpg
 zigbeemodel: ['lumi.light.aqcn02']
-compatible: [z2m, zigate]
+compatible: [z2m,zigate,iob]
 zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/ampouleaqaraznldp12lm
 mlink: https://www.aqara.com/en/smart_light_bulb.html
 link: https://www.aliexpress.com/af/ZNLDP12LM-bulb.html

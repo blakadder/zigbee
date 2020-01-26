@@ -52,6 +52,15 @@ Allows to manually calibrate pressure values (example `1` would add 1 to the pre
 
 {% endif %}
 
+    {%- if page.supports contains "occupancy" -%}
+<p>
+
+    <code>interlock</code><br>
+This option allows to inter connect the relays which will make sure that only one relay is on at a time. To do this publish to `zigbee2mqtt/[FRIENDLY_NAME]/set` payload `{"interlock": true}` or `{"interlock": false}`. By default this option is `false`. 
+    
+{% endif %}
+</p>
+
 <p>
     {%- if page.supports contains "occupancy" -%}
 
@@ -64,9 +73,8 @@ Timeout (in seconds) after the `occupancy: false` message is sent. If not set, t
 {% endif %}
 </p>
 
-
-<p>
 {%- if page.supports contains "illuminance" -%}
+<p>
 
 <code>illuminance_calibration</code><BR>
 Allows to manually calibrate illuminance values (example: `95` would take 95% to the illuminance reported by the device; default `100`).

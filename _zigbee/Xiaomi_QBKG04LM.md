@@ -6,7 +6,7 @@ category: switch
 supports: click release/hold, on/off
 image: /assets/images/devices/QBKG04LM.jpg
 zigbeemodel: ['lumi.ctrl_neutral1']
-compatible: [z2m, zigate]
+compatible: [z2m, zigate,iob]
 zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/interrupteurmuralsimpledoubletouche
 mlink: https://www.aqara.com/en/smart_light_switch_no_neutral.html
 link: https://www.aliexpress.com/af/QBKG04LM-switch.html

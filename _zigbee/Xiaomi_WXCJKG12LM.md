@@ -7,7 +7,7 @@ category: switch
 supports: action, batterybatterylowery
 image: /assets/images/devices/WXCJKG12LM.jpg
 zigbeemodel: ['lumi.remote.b486opcn01']
-compatible: [z2m]
+compatible: [z2m,iob]
 mlink: https://www.aqara.com/cn/op_switch.html
 link: https://www.aliexpress.com/af/aqara-opple-switch.html
 link2: https://www.banggood.com/Original-Aqara-OPPLE-Wireless-International-Version-Smart-Switch-Work-With-Apple-HomeKit-Xiaomi-Eco-System-p-1588700.html

@@ -6,7 +6,7 @@ category: sensor
 supports: temperature, humidity, pressure, batterylow
 image: /assets/images/devices/WSDCGQ11LM.jpg
 zigbeemodel: ['lumi.weather']
-compatible: [z2m, zigate, conbee, tasmota, zha]
+compatible: [z2m, zigate, conbee, tasmota, zha, iob]
 mlink: https://www.aqara.com/en/temperature_humidity_sensor.html
 link: https://www.aliexpress.com/item/4000067640553.html
 link2: https://www.banggood.com/Original-Aqara-Atmos-Version-Temperature-Humidity-Sensor-Smart-Home-Thermometer-Hygrometer-p-1148666.html

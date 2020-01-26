@@ -6,7 +6,7 @@ category: switch
 supports: single click, double click, batterylow
 image: /assets/images/devices/WXKG11LM.jpg
 zigbeemodel: ['lumi.sensor_switch.aq2', 'lumi.remote.b1acn01']
-compatible: [z2m, zigate, conbee, tasmota, zha]
+compatible: [z2m, zigate, conbee, tasmota, zha, iob]
 zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/boutonaqara
 mlink: https://www.aqara.com/en/smart_wireless_mini_switch.html
 link: https://www.banggood.com/Original-Xiaomi-Aqara-Smart-Wireless-Switch-Smart-Home-Kit-Remote-Control-Touch-Switch-p-1224921.html

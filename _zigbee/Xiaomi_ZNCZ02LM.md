@@ -6,7 +6,7 @@ category: plug
 supports: on/off, power measurement
 image: /assets/images/devices/ZNCZ02LM.jpg
 zigbeemodel: ['lumi.plug']
-compatible: [z2m,conbee,zha]
+compatible: [z2m,conbee,zha,iob]
 zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/prisepilote
 mlink: 
 link: https://www.aliexpress.com/item/32714912463.html

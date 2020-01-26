@@ -6,7 +6,7 @@ category: switch
 supports: single click, double click, shake action, hold, release, batterypct
 image: /assets/images/devices/WXKG12LM.jpg
 zigbeemodel: ['lumi.sensor_switch.aq3', 'lumi.sensor_swit']
-compatible: [z2m, zigate, conbee]
+compatible: [z2m,zigate,conbee,iob]
 mlink: https://www.aqara.com/cn/wireless_switch.html
 link: https://www.aliexpress.com/item/32924897476.html
 link2: https://www.banggood.com/Gyroscope-UpgraVersion-Original-Aqara-Wireless-Switch-Smart-Home-Remote-Sensor-Switch-p-1290177.html

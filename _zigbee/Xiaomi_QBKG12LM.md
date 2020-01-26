@@ -6,7 +6,7 @@ category: switch
 supports: on/off, power measurement
 image: /assets/images/devices/QBKG12LM.jpg
 zigbeemodel: ['lumi.ctrl_ln2.aq1', 'lumi.ctrl_ln2']
-compatible: [z2m, zigate, conbee, tasmota]
+compatible: [z2m, zigate, conbee, tasmota,iob]
 zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/interrupteurmuralsurpiledoubletouche
 mlink: 
 link: https://www.aliexpress.com/item/4000075319292.html

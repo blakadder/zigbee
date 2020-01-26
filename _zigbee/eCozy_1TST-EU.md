@@ -9,8 +9,8 @@ mlink:
 link: https://www.amazon.de/Ecozy-Smart-Heizk%C3%B6rperthermostat-einzeln-1TST-EU/dp/B01LTG8UDW
 link2: https://www.amazon.co.uk/eCozy-1TST-EU-Smart-Heating-Thermostat/dp/B01LTG8UDW
 link3:
-zigbeemodel: 
-compatible: [z2m]
+zigbeemodel: ['Thermostat']
+compatible: [z2m,iob]
 ---
 
 ### Controlling

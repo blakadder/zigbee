@@ -5,7 +5,7 @@ vendor: Telegesis
 title: Zigbee Transceiver Module 2.4GHz 
 category: coordinator
 supports: coordinator
-image: /assets/images/devices/coordinator_Digi_Xbee_S2C.jpg
+image: /assets/images/devices/coordinator_Telegesis_ETRX357USB-LRS+8M.jpg
 zigbeeid: none
 compatible: [zha]
 mlink: https://www.digi.com/products/models/xb24cz7witb003

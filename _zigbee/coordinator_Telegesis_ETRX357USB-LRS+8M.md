@@ -10,6 +10,6 @@ zigbeeid: none
 compatible: [zha]
 mlink: https://www.digi.com/products/models/xb24cz7witb003
 link: https://www.amazon.de/ZIGBEE-TRANSCEIVER-ETRX357USB-8M-TELEGESIS/dp/B018CQDXSO
-link2: 
+link2: https://www.alibaba.com/product-detail/Integrated-Circuits-TELEGESIS-USB-STICK-ETRX357USB_62274984167.html
 link3: 
 ---

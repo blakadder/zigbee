@@ -2,7 +2,7 @@
 model: PP-WHT-US
 vendor: Securifi
 title: Peanut Smart Plug
-category:
+category: plug
 supports: on/off, power measurement
 image: /assets/images/devices/PP-WHT-US.jpg
 zigbeemodel: 

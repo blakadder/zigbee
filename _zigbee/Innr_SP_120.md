@@ -4,7 +4,7 @@ vendor: Innr
 title: Smart Plug
 category: plug
 supports: on/off, power measurement
-image: /assets/images/devices/Innr_SP-120.jpg
+image: /assets/images/devices/Innr_SP_120.jpg
 zigbeemodel: ['SP 120']
 compatible: [z2m, conbee]
 mlink: https://shop.innrlighting.com/en/shop/134/smart-plug-

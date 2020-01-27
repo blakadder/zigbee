@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/404000.jpg
 zigbeemodel: ['ZBT-ExtendedColor']
-compatible: [z2m,conbee]
+compatible: [z2m,conbee,iob]
 mlink: https://www.mueller-licht.de/produktinformationen/artikel/404000/
 link: https://www.amazon.de/dp/B07XDNCGR5
 link2: 

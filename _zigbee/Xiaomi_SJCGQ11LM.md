@@ -1,7 +1,7 @@
 ---
 model: SJCGQ11LM
 vendor: Xiaomi
-title: Aqara Water Leak sensor
+title: Aqara Water Leak Sensor
 category: sensor
 supports: water leak, batterylow
 image: /assets/images/devices/SJCGQ11LM.jpg

@@ -5,7 +5,7 @@ vendor: Immax
 title: NEO Smart LED E27 A60 8.5W 806lm RGBW
 category: light
 supports: on/off, brightness, colortemp, colorxy
-image: /assets/images/devices/Inmax_07002L.jpg
+image: /assets/images/devices/Inmax_07004L.jpg
 zigbeemodel: ['IM-Z3.0-RGBW']
 compatible: [z2m]
 mlink: https://www.immaxneo.cz/en/products/immax-neo-smart-led-e27-85w-color-dimmable-zigbee-3-0/

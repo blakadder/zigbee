@@ -2,7 +2,7 @@
 date_added: 2020-01-25
 model: BW-IS3
 vendor: BlitzWolf
-title: Rechargeable ZigBee PIR Motion Sensor
+title: Rechargeable PIR Motion Sensor
 category: sensor
 supports: occupancy
 image: /assets/images/devices/BlitzWolf_BW-IS3.jpg

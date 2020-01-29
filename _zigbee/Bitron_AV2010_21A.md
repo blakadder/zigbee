@@ -1,7 +1,7 @@
 ---
 model: AV2010/21A
 vendor: Bitron
-title: Compact Magnetic Contact
+title: Compact Magnetic Contact Sensor
 category: sensor
 supports: contact, tamper
 image: /assets/images/devices/Bitron_AV2010_21A.jpg

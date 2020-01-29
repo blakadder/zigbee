@@ -4,7 +4,7 @@ vendor: Honyar
 title: 6 Key Scene Switch
 category: remote
 supports: action
-image: /assets/images/devices/Ikea_E1525.jpg
+image: /assets/images/devices/honyar_U86KCJ-ZP.jpg
 zigbeemodel: ['HY0017']
 compatible: [z2m]
 mlink: http://www.hongyan.com.cn/InelectricalList.aspx?id=134

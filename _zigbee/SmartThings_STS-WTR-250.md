@@ -2,7 +2,7 @@
 date_added: 2020-01-21
 model: STS-WTR-250
 vendor: SmartThings
-title: Water leak sensor (2016 model)
+title: Water Leak Sensor (2016 model)
 category: sensor
 supports: water leak, batterypct
 image: /assets/images/devices/SmartThings_STS-WTR-250.jpg

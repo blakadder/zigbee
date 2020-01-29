@@ -1,5 +1,5 @@
 ---
-date_added: 2020-02-27
+date_added: 2020-01-27
 model: HGZB-DLC4
 vendor: Zemismart
 title: ZigBee 3.0 RGBW Downlight

@@ -9,9 +9,14 @@ layout: default
 </div>
 <div class="float-right column column-25">
   {% if page.compatible contains "z2m" %}<a href="zigbee2mqtt.html"><img style="width: 4rem;" src="/assets/images/z2m-icon.png"></a>{% else %} {% endif %}
+  {% if page.compatible contains "zha" or page.category == "light"%}<a href="zha.html"><img style="width: 4rem;" src="/assets/images/zha-icon.png"></a>{% else %} {% endif %}
   {% if page.compatible contains "conbee" or page.category == "light" %}<a href="deconz.html"><img style="width: 4rem;" src="/assets/images/deconz-icon.png"></a> {% endif %}
-  {% if page.compatible contains "zigate" %}<a href="zigate.html"></a><img style="width: 4rem;" src="/assets/images/zigate-icon.png">{% else %} {% endif %}
-  {% if page.compatible contains "tasmota" or page.category == "light"%}<a href="zigbee2tasmota.html"><img style="width: 4rem;" src="/assets/images/tasmota-icon.png"></a> {% endif %}
+  {% if page.compatible contains "zigate" %}<a href="zigate.html"><img style="width: 4rem;" src="/assets/images/zigate-icon.png"></a>{% else %} {% endif %}
+  {% if page.compatible contains "tasmota" or page.category == "light"%}<a href="zigbee2tasmota.html"><img style="width: 4rem;" src="/assets/images/tasmota-icon.png"></a>{% else %} {% endif %}
+  {% if page.compatible contains "iob" %}<a href="zha.html"><img style="width: 4rem;" src="/assets/images/iobroker-icon.png"></a>{% else %} {% endif %}
+</tr>
+  {% endif %}
+  
 </div>
 </div>
 <div class="row">

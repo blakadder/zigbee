@@ -1,7 +1,7 @@
 ---
 model: HGZB-42-UK
-vendor: 3A 
-title: Two Gang Switch
+vendor: 3A  
+title: Two Gang Switch DE
 category: switch
 supports: on/off
 image: /assets/images/devices/3A_HGZB-42-DE.jpg

@@ -14,7 +14,8 @@ link3:
 ---
 Article no. 203.704.82
 
-Actions: volume up/down, play/pause, skip forward/backward
+### Actions
+ volume up/down, play/pause, skip forward/backward
 
 ### Zigbee2MQTT Notes
 This device sends multiple messages in short time period with the same payload. It's worth setting `debounce` option with `debounce_ignore: - action` to throttle them without loosing unique action payloads.

@@ -13,4 +13,5 @@ link: https://www.amazon.com/Securifi-Routers-control-devices-settings/dp/B01M7Y
 link2: 
 link3: 
 ---
-Actions: single, double and long click
+### Actions
+ single, double and long click

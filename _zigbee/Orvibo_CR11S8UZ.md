@@ -12,4 +12,5 @@ link:
 link2: 
 link3: 
 ---
-Actions: click, hold, release
+### Actions
+ click, hold, release

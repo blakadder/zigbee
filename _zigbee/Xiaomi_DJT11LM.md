@@ -14,4 +14,5 @@ link2: https://www.banggood.com/International-Version-Original-Aqara-Smart-Motio
 link3: https://www.gearbest.com/smart-home-controls/pp_009661787808.html
 link4: https://www.amazon.com/Aqara-Vibration-Sensor-Automation-Compatible/dp/B07PJT939B
 ---
-Actions: drop, tilt and touch
+### Actions
+ drop, tilt and touch

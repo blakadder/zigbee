@@ -12,4 +12,5 @@ link: https://go.tuya.com/productDetail?code=81394pzk0m5u
 link2: 
 link3: 
 ---
-Actions: scene_#
+### Actions
+ scene_#

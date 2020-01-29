@@ -13,7 +13,8 @@ link: https://www.amazon.co.uk/Trust-ZYCT-202-Smart-Compatible-Certified/dp/B074
 link2: https://www.amazon.de/dp/B0743K1CJ6
 link3: https://smarthomenz.nz/products/zigbee-remote-control-with-wall-mount
 ---
-Actions: on, off, stop, up-press, down-press
+### Actions
+ on, off, stop, up-press, down-press
 ### Pairing
 1. Factory reset the remote by holding the 0 (off) button for +-20 seconds.
 2. To establish a connection keep the remote within 2 meters from the hub.

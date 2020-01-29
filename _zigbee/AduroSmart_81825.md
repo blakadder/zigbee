@@ -12,4 +12,5 @@ link: https://www.amazon.com/AduroSmart-ERIA-Wireless-Dimming-Switch/dp/B07HJHJW
 link2: 
 link3: 
 ---
-Actions: on/off, up/down
+### Actions
+ on/off, up/down

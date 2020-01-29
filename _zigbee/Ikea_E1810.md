@@ -14,7 +14,8 @@ link3: https://www.amazon.de/dp/B0725S4YNM
 ---
 Article no. 304.431.24 and 004.431.30
 
-Actions: toggle, arrow left/right click/hold/release, brightness up/down click/hold/release
+### Actions
+ toggle, arrow left/right click/hold/release, brightness up/down click/hold/release
 
 When clicking the middle (center) button on the remote it will send a `{"click": "toggle"}`, when holding it
 it will **also** send a `{"click": "toggle_hold"}`. It is not possible to skip the `toggle` when the button is hold.

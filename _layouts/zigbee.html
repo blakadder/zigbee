@@ -63,7 +63,10 @@ layout: default
 
 {% include pairing.html %}
 
+<p>
+
 {%- if page.compatible contains "zigate" and page.zigatelink != nil -%}
+<h2>Zigate Configuration</h2>
 <a href="{{ page.zigatelink }}">Entry on ZiGate site.</a>
 {% endif %}
 

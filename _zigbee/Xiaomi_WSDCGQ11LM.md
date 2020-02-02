@@ -13,7 +13,6 @@ link2: https://www.banggood.com/Original-Aqara-Atmos-Version-Temperature-Humidit
 link3: https://www.gearbest.com/access-control/pp_626702.html
 link4: https://www.amazon.de/dp/B07PPNBVM5
 ---
-
 ### Pairing
 Press and hold the reset button on the device for +- 5 seconds (until the blue light starts blinking).
 After this the device will automatically join.

@@ -1,12 +1,12 @@
 ---
 date_added: 2020-01-12
-model: 067773
+model: 067771
 vendor: Legrand
-title: Céliane Wired Switch No Neutral
+title: Céliane Wired Switch No Neutral - titanium
 category: switch
-supports: on/off
+supports: on/off, brightness
 image: /assets/images/devices/Legrand_067771.jpg
-zigbeemodel: [' Dimmer switch w/o neutral\u0000\u0000\u0000\u0000\u0000']
+zigbeemodel: [' Dimmer switch w/o neutral']
 compatible: [z2m,zigate,conbee]
 deconz: 883
 mlink: https://www.legrand.fr/pro/catalogue/42556-version-celiane-with-netatmo/interrupteur-filaire-connecte-avec-option-variateur-celiane-with-netatmo-sans-neutre-5w-a-300w-compensateur-titane

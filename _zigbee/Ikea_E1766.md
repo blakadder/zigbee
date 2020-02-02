@@ -7,7 +7,8 @@ category: remote
 supports: batterypct, click
 image: /assets/images/devices/Ikea_E1766.jpg
 zigbeemodel: ['TRADFRI open/close remote']
-compatible: [z2m, conbee]
+compatible: [z2m,conbee]
+deconz: 853
 mlink: https://www.ikea.com/gb/en/p/tradfri-wireless-dimmer-white-00468432/
 link: 
 link2: 

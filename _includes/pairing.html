@@ -18,7 +18,7 @@ Press and hold the button on the device until the blue light starts blinking, re
 If you're having connection or pairing issues read <a href="https://community.hubitat.com/t/xiaomi-aqara-devices-pairing-keeping-them-connected/623">Xiaomi & Aqara Devices - Pairing & Keeping them connected</a>.
 {% endunless %}
 
-{%- elsif page.vendor contains "Philips" -%}
+{%- elsif page.vendor contains "Philips" and page.category == "light" -%}
 
 <h6> Pairing Instructions</h6>
 Factory resetting a Hue bulb can be accomplished in one of 4 ways:
@@ -48,21 +48,26 @@ After resetting the bulb will automatically connect.
   <h6> Pairing Instructions</h6>
   Turn the light bulb five times on and off. After turning it on the sixth time, it will indicate with colors that the bulb is pairing.
   <p>
-
     
-  {%- elsif page.vendor contains "Müller Licht " and page.category == "light" -%}
-
-  <h6> Pairing Instructions</h6>
-  Turn the light bulb five times on and off. After turning it on the sixth time, it will indicate with colors that the bulb is pairing.
-  <p>
-  
-  {%- elsif page.vendor contains "Müller Licht " and page.category == "light" -%}
+  <!-- {%- elsif page.vendor contains "Müller Licht" and page.category == "light" -%}
 
   <h6> Pairing Instructions</h6>
   <ol>1. Switch on your device.
   <ol>Now switch off and on within 2 seconds.
   <ol>Repeat off/on four times.
   <ol>Reset is done when the device is switched on in the fifth time and the light stays on after blinking 4 times
+  <p> -->
+
+{%- elsif page.vendor contains "Legrand" -%}
+Some Legrand devices work only on Zigbee channel 11. With certain devices you need the Legrand Hub to update the firmware to have all features available.
+
+<h6> Pairing Instructions</h6>
+<li>You must have access to the reset button on the device
+<li>Make sure that the gateway is not in pairing mode
+<li>Press 8s (approximately) on the reset button of the device (until it turns red) to ensure its disconnected from the network
+<li>Now switch your gateway to pairing Mode
+<li>Press the reset button 8s (approximately) to start the pairing procedure
+<li>Make successive clicks on the reset button (every second), until the LED turns green
   <p>
 
 {% endif %}

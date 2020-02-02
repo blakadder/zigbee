@@ -3,7 +3,7 @@
         <tr><th style="border-bottom: none">Supports:</th></tr>
     </thead>
     <tbody>
-      {% assign supports = page.supports | split: ',' | sort: 'name' %}
+      {% assign supports = page.supports | split: ',' | sort_natural %}
       {% for function in supports %}
     <tr>
         <td style="border-bottom: none">

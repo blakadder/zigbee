@@ -14,7 +14,7 @@ link2: https://www.banggood.com/Original-Aqara-OPPLE-Wireless-International-Vers
 link3: https://www.amazon.de/dp/B081JNGNFT
 link4: https://www.gearbest.com/power-strips/pp_009267447933.html
 ---
-### Actions
+###### Actions
 `hold`, `release`, `single`, `double`, `triple`
 
 ### Binding

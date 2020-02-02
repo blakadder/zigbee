@@ -9,7 +9,7 @@ image: /assets/images/devices/Ikea_E1746.jpg
 zigbeemodel:  ['TRADFRI signal repeater']
 compatible: [z2m,zha,iob]
 mlink: https://www.ikea.com/us/en/p/tradfri-signal-repeater-30400407/
-link: 
+link: https://www.amazon.co.uk/TRADFRI-Signal-Repeater-Lighting-Systems/dp/B07ND123RH/
 link2: 
 link3: 
 ---

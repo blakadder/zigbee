@@ -7,7 +7,7 @@ supports: contact, batterylow
 image: /assets/images/devices/MCCGQ01LM.jpg
 zigbeemodel: ['lumi.sensor_magnet']
 compatible: [z2m,zigate,conbee,tasmota,zha,iob]
-zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/dtecteurouverturedeporte
+zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/dtecteurouverturedeporte
 mlink: https://www.mi.com/global/mi-smart-sensor-set
 link: https://www.aliexpress.com/item/32829391822.html
 link2: https://www.gearbest.com/smart-light-bulb/pp_257677.html

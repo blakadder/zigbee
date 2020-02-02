@@ -3,7 +3,7 @@ model: HS1CG
 vendor: Heiman
 title: Combustible Gas Sensor
 category: sensor
-supports: gas, batterlow
+supports: gas, batterylow
 image: /assets/images/devices/Heiman_HS1CG.jpg
 zigbeemodel: ['GASSensor-EN']
 compatible: [z2m]

@@ -8,7 +8,7 @@ supports: on/off, brightness, colorxy, power-on behavior
 image: /assets/images/devices/7199960PH.jpg
 compatible: [z2m,conbee,zigate,iob]
 zigbeemodel: ['LLC010']
-zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/ampoulesconnecteswhiteambiancee27-
+zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ampoulesconnecteswhiteambiancee27-
 mlink: https://www2.meethue.com/en-gb/p/hue-white-and-colour-ambience-iris-table-lamp/7199960PU
 link: https://www.amazon.de/dp/B00JGONFCG
 link2: https://www.amazon.co.uk/Philips-Dimmable-Changing-Compatible-Assistant/dp/B00IVZZBDC

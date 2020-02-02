@@ -37,22 +37,16 @@ NOTE: This must be executed everytime you make changes to a light's attributes f
     
     </table>
 
+    
 {% endif %}
     
-{%- unless page.supports contains "temperature" or  page.supports contains "humidity" or  page.supports contains "brightness" -%}
+{%- if page.supports contains "decoupled" -%}
 
-{% else %}
-<h4>Device Type Specific Configuration</h4>
+{% capture my_include %}{% include decoupled.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
-{%- if page.supports contains "temperature" -%}
-<p>
-<code>temperature_precision</code> <BR>
-Controls the precision of temperature values (example: 0, 1 or 2; default is `2`).
-<br>
-<code>temperature_calibration</code> <BR>
-Allows to manually calibrate temperature values (example: 1 would add 1 degree to the temperature reported by the device; default is `0`).
-</p>
 {% endif %}
+
 <p>
 {%- if page.supports contains "humidity" -%}
 
@@ -61,38 +55,6 @@ Controls the precision of humidity values (example: 0, 1 or 2; default is `2`).
 </p>
 
 {% endif %}
-
-{%- if page.supports contains "pressure" -%}
-
-<code>pressure_precision</code><BR>
-Controls the precision of `pressure` values (example `0` or `1`; default `1`).
-<p>
-<code>pressure_calibration</code><BR>
-Allows to manually calibrate pressure values (example `1` would add 1 to the pressure reported by the device; default `0`). 
-</p>
-
-{% endif %}
-
-    {%- if page.supports contains "occupancy" -%}
-<p>
-
-    <code>interlock</code><br>
-This option allows to inter connect the relays which will make sure that only one relay is on at a time. To do this publish to `zigbee2mqtt/[FRIENDLY_NAME]/set` payload `{"interlock": true}` or `{"interlock": false}`. By default this option is `false`. 
-    
-{% endif %}
-</p>
-
-<p>
-    {%- if page.supports contains "occupancy" -%}
-
-<code>no_occupancy_since</code><br>
-Timeout (in seconds) after `no_occupancy_since` is sent. This indicates the time since last occupancy was detected. (example: `no_occupancy_since: [10, 60]` will send a `{"no_occupancy_since": 10}` after 10 seconds and a `{"no_occupancy_since": 60}` after 60 seconds.
-</p><p>
-<code>occupancy_timeout</code><br>
-Timeout (in seconds) after the `occupancy: false` message is sent. If not set, the timeout is `90` seconds. When set to `0` no `occupancy: false` is send.
-
-{% endif %}
-</p>
 
 {%- if page.supports contains "illuminance" -%}
 <p>
@@ -104,11 +66,66 @@ Allows to manually calibrate illuminance values (example: `95` would take 95% to
 {% endif %}
 </p>
 
+    {%- if page.supports contains "interlock" -%}
+<p>
+
+    <code>interlock</code><br>
+This option allows to inter connect the relays which will make sure that only one relay is on at a time. To do this publish to `zigbee2mqtt/[FRIENDLY_NAME]/set` payload `{"interlock": true}` or `{"interlock": false}`. By default this option is `false`. 
+    
+{% endif %}
+</p>
+
+<p>
+{%- if page.model contains "WXKG01LM" -%}
+
+<code>long_timeout</code><BR>
+The WXKG01LM only reports a button press and release.
+By default, Zigbee2mqtt publishes a long click when there is at
+least 1000 ms between both events. It could be that due to
+delays in the network the release message is received late. This causes a single
+click to be identified as a long click. If you are experiencing this you can try
+experimenting with this option (e.g. <code>long_timeout: 2000</code>). 
+
+{% endif %}
+</p>
+
+<p>
+{%- if page.supports contains "occupancy" -%}
+
+<code>no_occupancy_since</code><br>
+Timeout (in seconds) after `no_occupancy_since` is sent. This indicates the time since last occupancy was detected. (example: `no_occupancy_since: [10, 60]` will send a `{"no_occupancy_since": 10}` after 10 seconds and a `{"no_occupancy_since": 60}` after 60 seconds.
+</p><p>
+<code>occupancy_timeout</code><br>
+Timeout (in seconds) after the `occupancy: false` message is sent. If not set, the timeout is `90` seconds. When set to `0` no `occupancy: false` is send.
+
+{% endif %}
+</p>
+
+<p>
+    {%- if page.supports contains "pressure" -%}
+    
+    <code>pressure_precision</code><BR>
+    Controls the precision of `pressure` values (example `0` or `1`; default `1`).
+    <p>
+    <code>pressure_calibration</code><BR>
+    Allows to manually calibrate pressure values (example `1` would add 1 to the pressure reported by the device; default `0`). 
+    {% endif %}
+    </p>
+
+    <p>
+        {%- if page.supports contains "temperature" -%}
+        <code>temperature_precision</code> <BR>
+        Controls the precision of temperature values (example: 0, 1 or 2; default is `2`).
+        <br>
+        <code>temperature_calibration</code> <BR>
+        Allows to manually calibrate temperature values (example: 1 would add 1 degree to the temperature reported by the device; default is `0`).
+        </p>
+        {% endif %}
+<p>        
 {%- if page.supports contains "colorxy" -%}
 
-
 <code>transition</code><BR>
-Controls the transition time (in seconds) of brightness, colortemp and color. Defaults to 0 (no transition). Note that this value is overridden if a transition value is present in the MQTT command payload.</p>
+Controls the transition time (in seconds) of brightness, colortemp and color. Defaults to 0 (no transition). Note that this value is overridden if a transition value is present in the MQTT command payload.</p>>
 
 {%- elsif page.supports contains "colortemp" -%}
 
@@ -121,8 +138,7 @@ Controls the transition time (in seconds) of brightness and colortemp. Defaults 
 Controls the transition time (in seconds) of brightness. Defaults to 0 (no transition). Note that this value is overridden if a transition value is present in the MQTT command payload.</p>
 
 {% endif %}
- 
+</p>
 <p>
 <a href="https://www.zigbee2mqtt.io/information/configuration.html#device-type-specific" target="_blank"> How to use device type specific configuration?</a>
-
-{% endunless %}
+</p>

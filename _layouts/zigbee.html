@@ -39,11 +39,13 @@ layout: default
             <tr><th style="border-bottom: none">Product Code:</th></tr>
         </thead>
         <tbody>
+          {% for ean in page.EAN %}
           <tr>
-            <td style="border-bottom: none">
-              {{ page.EAN }}
-            </td>
-        </tr>
+              <td style="border-bottom: none">
+                  {{ ean }}
+              </td>
+          </tr>
+          {% endfor %}
         </tbody>
     </table>
     {% endif %}
@@ -65,17 +67,21 @@ layout: default
 
 <p>
 {%- if page.compatible contains "conbee" and page.deconz != nil -%}
-<h3>deCONZ Specific</h3>
+<h6>deCONZ</h6>
 <a href="https://github.com/dresden-elektronik/deconz-rest-plugin/issues/{{ page.deconz }}">GitHub issue thread.</a>
 {% endif %}
 <p>
-{%- if page.compatible contains "zigate" and page.zigatelink != nil -%}
-<h3>Zigate Specific</h3>
-<a href="{{ page.zigatelink }}">Entry on ZiGate site.</a>
+{%- if page.compatible contains "zigate" and page.zigate != nil -%}
+<h6>Zigate</h6>
+<a href="{{ page.zigate }}">Entry on ZiGate site.</a> 
+
+{%- if page.vendor contains "Legrand" -%}
+&nbsp; Read more about Legrand device specifics on <a href="https://github.com/pipiche38/Domoticz-Zigate-Wiki/blob/master/en-eng/Legrand-Netatmo-corner.md">Domoticz-Zigate-Wiki</a> by pipiche38.
+{% endif %}
 {% endif %}
 <p>
 {%- if page.compatible contains "z2m" -%}
-<h3>Zigbee2MQTT Configuration</h3>
+<h6>Zigbee2MQTT</h6>
 {% include specific.html %}
 
 {% include hass.html %}

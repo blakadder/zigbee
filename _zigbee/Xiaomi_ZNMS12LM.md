@@ -12,5 +12,5 @@ link: https://www.banggood.com/Aqara-S2-Smart-C-Grade-Door-40-120mm-Lock-Fingerp
 link2: https://www.aliexpress.com/af/aqara-s2-lock.html
 link3: https://www.amazon.de/dp/B0824D4VG1
 ---
-### Actions
- open, close
+###### Actions
+open, close

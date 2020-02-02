@@ -5,7 +5,7 @@ layout: default
 
   <div class="row">
   <div class="column column-67">
-    <span style="font-size: xx-large; font-weight: 500; letter-spacing: -.1rem;">{{ page.title | truncate: 57 }}</span>
+    <span style="font-size: xx-large; font-weight: 500; letter-spacing: -.1rem;">{{ page.title | truncate: 80 }}</span>
 </div>
 <div class="float-right column column-33">
   {% if page.compatible contains "z2m" %}<a href="zigbee2mqtt.html"><img style="width: 4rem;" src="/assets/images/z2m-icon.png"></a>{% endif %}
@@ -29,25 +29,25 @@ layout: default
     <img src="{{ page.image }}" alt="{{ page.title }}" style="max-height: 350px; max-width: 400px;">
   </div>
   <div class="column">
-    <!-- <table>
-      <thead>
-          <tr><th style="border-bottom: none">Zigbee IDs:</th></tr>
-      </thead>
-      <tbody>
-        {% for zmodel in page.zigbeemodel %}
-        <tr>
-          <td style="border-bottom: none">
-            {{ zmodel }}
-          </td>
-      </tr>
-      {% endfor %}
-      </tbody>
-  </table> -->
     {% include supports.html %}
-  </div>
+</div>
   <div class="column">
       {% include links.html %}
-  </div>
+      {% if page.EAN != nil %}
+      <table>
+        <thead>
+            <tr><th style="border-bottom: none">Product Code:</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="border-bottom: none">
+              {{ page.EAN }}
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    {% endif %}
+    </div>
 </div>
 <div class="row">
   <div class="column column-90">{% if page.zigbeemodel != nil %}Zigbee ID: {% for zmodel in page.zigbeemodel %}"{{ zmodel }}"{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}</div>
@@ -64,14 +64,18 @@ layout: default
 {% include pairing.html %}
 
 <p>
-
+{%- if page.compatible contains "conbee" and page.deconz != nil -%}
+<h3>deCONZ Specific</h3>
+<a href="https://github.com/dresden-elektronik/deconz-rest-plugin/issues/{{ page.deconz }}">GitHub issue thread.</a>
+{% endif %}
+<p>
 {%- if page.compatible contains "zigate" and page.zigatelink != nil -%}
-<h2>Zigate Configuration</h2>
+<h3>Zigate Specific</h3>
 <a href="{{ page.zigatelink }}">Entry on ZiGate site.</a>
 {% endif %}
-
+<p>
 {%- if page.compatible contains "z2m" -%}
-<h2>Zigbee2MQTT Configuration</h2>
+<h3>Zigbee2MQTT Configuration</h3>
 {% include specific.html %}
 
 {% include hass.html %}

@@ -6,7 +6,7 @@ category: remote
 supports: action, brightnessm, batterypct
 image: /assets/images/devices/Ikea_ICTC-G-1.jpg
 zigbeemodel: ['TRADFRI wireless dimmer']
-compatible: [z2m, zigate]
+compatible: [z2m,zigate,iob]
 zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/ikeatradfridimmer
 mlink: https://www.ikea.com/sg/en/p/tradfri-wireless-dimmer-white-10347835/
 link: https://www.amazon.com/IKEA-203-478-30-Tr%C3%A5dfri-Wireless-Dimmer/dp/B07KM9ZC2Z

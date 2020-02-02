@@ -1,5 +1,6 @@
 ---
 model: ZLED-EC2206
+EAN: 8713439711608
 vendor: Trust
 title: Dimmable E14 Candle Bulb
 category: light
@@ -12,7 +13,6 @@ link: https://www.amazon.de/dp/B0743L3WL3
 link2: https://www.amazon.co.uk/dp/B0743L3WL3
 link3: https://smarthomenz.nz/collections/shop-zigbee/products/zigbee-dimmable-led-bulb-e14-warm-flame
 ---
-EAN: 8713439711608
 
 Item Number: 71160
 

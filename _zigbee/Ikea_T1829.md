@@ -1,8 +1,9 @@
 ---
 date_added: 2020-01-18
+EAN: 503.600.71
 model: T1829 
 vendor: IKEA
-title: Gunnarp LED Ceiling / Wall Lamp 40x40 cm
+title: Gunnarp LED ceiling/wall lamp, white dimmable, white spectrum, 40x40 cm
 category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/T1829.jpg
@@ -13,4 +14,3 @@ link:
 link2: 
 link3: 
 ---
-Article no. 503.600.71

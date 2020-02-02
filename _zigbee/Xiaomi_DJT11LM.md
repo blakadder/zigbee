@@ -8,6 +8,7 @@ image: /assets/images/devices/DJT11LM.jpg
 zigbeemodel: ['lumi.vibration.aq1']
 compatible: [z2m,zigate,tasmota,zha,iob]
 zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/capteurvibration
+deconz: 748
 mlink: https://www.aqara.com/us/vibration_sensor.html
 link: https://www.aliexpress.com/item/32954158161.html
 link2: https://www.banggood.com/International-Version-Original-Aqara-Smart-Motion-Sensor-Smart-Home-Vibration-Detection-Alarm-p-1510741.html

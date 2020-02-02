@@ -7,7 +7,7 @@ category: switch
 supports: action, batterybatterylowery
 image: /assets/images/devices/WXCJKG12LM.jpg
 zigbeemodel: ['lumi.remote.b486opcn01']
-compatible: [z2m,iob,zha]
+compatible: [z2m,iob,zha,conbee]
 z2m: WXCJKG12LM
 mlink: https://www.aqara.com/cn/op_switch.html
 link: https://www.aliexpress.com/af/aqara-opple-switch.html

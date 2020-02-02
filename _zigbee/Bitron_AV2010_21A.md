@@ -1,5 +1,6 @@
 ---
 model: AV2010/21A
+EAN: 8023874396033
 vendor: Bitron
 title: Compact Magnetic Contact Sensor
 category: sensor
@@ -12,4 +13,3 @@ link: https://www.amazon.co.uk/BitronHome-902010-21A-Kompakter-Magnetkontakt/dp/
 link2: https://www.amazon.de/dp/B01LY4X4YD
 link3: 
 ---
-EAN 8023874396033

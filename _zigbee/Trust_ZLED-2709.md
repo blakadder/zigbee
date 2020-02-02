@@ -1,5 +1,6 @@
 ---
 model: ZLED-2709
+EAN: 8713439226492
 vendor: Trust
 title: Dimmable Bulb WW
 category: light

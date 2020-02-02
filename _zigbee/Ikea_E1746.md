@@ -7,13 +7,13 @@ category: router
 supports: router
 image: /assets/images/devices/Ikea_E1746.jpg
 zigbeemodel:  ['TRADFRI signal repeater']
-compatible: [z2m, zha]
+compatible: [z2m,zha,iob]
 mlink: https://www.ikea.com/us/en/p/tradfri-signal-repeater-30400407/
 link: 
 link2: 
 link3: 
 ---
-Article no. 304.004.07
+EAN: 304.004.07
 
 ### Pairing
 Push the reset button of the device with a paperclip for 5 seconds.

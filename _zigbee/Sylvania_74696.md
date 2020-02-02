@@ -1,7 +1,7 @@
 ---
 model: 74696
 vendor: Sylvania
-title: Smart+  Soft White Dimmable A19 Bulb
+title: Smart+ Soft White Dimmable A19 Bulb
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/74696.jpg

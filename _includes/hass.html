@@ -160,6 +160,21 @@ Presence Sensor:
 
 {% endif %}
 
+{%- if page.supports contains "carbon monoxide" -%}
+
+Carbon Monoxide Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_on: true
+    payload_off: false
+    value_template: "{{ value_json.carbon_monoxide }}"
+    device_class: "safety"
+{% endraw %}</code></pre>
+
+{% endif %}
+
 {%- if page.supports contains "smoke" -%}
 
 Smoke Sensor:

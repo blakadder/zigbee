@@ -6,7 +6,8 @@ category: sensor
 supports: contact, temperature, batterypct
 image: /assets/images/devices/Visonic_MCT-340-E.jpg
 zigbeemodel: ['MCT-340 E']
-compatible: [z2m,zha]
+compatible: [z2m,zha,conbee]
+deconz: 978
 mlink: 
 link: https://www.amazon.com/Visonic-MCT-340-Wireless-Window-Temperature/dp/B06XDJ3KYC
 link2: 

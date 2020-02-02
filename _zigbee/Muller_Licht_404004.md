@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/404004.jpg
 zigbeemodel: ['ZBT-ColorTemperature']
-compatible: [z2m,conbee,iob]
+compatible: [z2m,conbee,iob,conbee]
 mlink: https://www.mueller-licht.de/produktinformationen/artikel/404004/
 link: https://www.amazon.de/dp/B07XCNXT2N
 link2: https://www.amazon.de/dp/B07XCNXT2N

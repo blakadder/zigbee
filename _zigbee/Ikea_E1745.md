@@ -6,14 +6,14 @@ category: sensor
 supports: occupancy, batterypct
 image: /assets/images/devices/Ikea_E1745.jpg
 zigbeemodel: ['TRADFRI motion sensor']
-compatible: [z2m, zigate]
+compatible: [z2m,zigate,iob,conbee]
 zigatelink: https://zigate.fr/le-materiel-compatible-zigate/compatible/ikeatradfridtecteurdemouvement
 mlink: https://www.ikea.com/gb/en/p/tradfri-wireless-motion-sensor-white-70429913/
 link: https://www.amazon.de/dp/B07KMB5GG2
 link2: 
 link3: 
 ---
-Article no. 704.299.13
+EAN: 704.299.13
 
 ### Pairing
 Pair the sensor by pressing the pair button 4 times in a row.

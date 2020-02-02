@@ -1,8 +1,8 @@
 ---
 date_added: 2020-01-01
 model: BN-600107
-vendor: Phoscon
-title: ConBee II Zigbee USB Gateway
+vendor: Dresden ELektronik
+title: Phoscon ConBee II Zigbee USB Gateway
 category: coordinator
 supports: coordinator
 image: /assets/images/devices/Phoscon_ConbeeII.jpg

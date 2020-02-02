@@ -17,7 +17,7 @@ link3:
 ```yaml
 sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     unit_of_measurement: "%"
     device_class: "battery"
@@ -25,7 +25,7 @@ sensor:
 
 binary_sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_on: true
     payload_off: false
@@ -34,7 +34,7 @@ binary_sensor:
 
 sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     unit_of_measurement: "-"
     value_template: "{{ value_json.linkquality }}"

@@ -18,7 +18,7 @@ Press and hold the pairing button while plugging in the device.
 ```yaml
 sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     unit_of_measurement: "W"
     icon: "mdi:factory"
@@ -26,16 +26,16 @@ sensor:
 
 switch:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_off: "OFF"
     payload_on: "ON"
     value_template: "{{ value_json.state }}"
-    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/set"
+    command_topic: "zigbee2mqtt/[FRIENDLY_NAME]/set"
 
 sensor:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     unit_of_measurement: "-"
     value_template: "{{ value_json.linkquality }}"

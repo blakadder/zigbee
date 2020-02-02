@@ -31,25 +31,6 @@ by removing it from the bridge via the Hue app.
 </ol>
 After resetting the bulb will automatically connect.
 <p>
-<h6>Power-on Behavior</h6>
-Allows to set the power-on behavior of the bulb.
-Note that this requires at least November/December '18 firmware update of the bulb.
-<pre><code class="language-js">{
-  "hue_power_on_behavior": "on",         //default, on, off, recover, default = on
-  "hue_power_on_brightness": 125,        //default, same values as brightness, default = 255
-  "hue_power_on_color_temperature": 280, //default, same values as color_temp, default = 366
-}
-</code></pre>
-
-<table>
-    <tr><th>Attribute Value</th><th>Description</th></tr>
-    <tr><td>default</td><td>reset to factory default value</td></tr>
-    <tr><td>on</td><td>lamps on after power loss with configured brightness, color-temperature, color (to-do)</td></tr>
-    <tr><td>off</td><td>lamps off after power loss</td></tr>
-    <tr><td>recover</td><td>last running state after power loss</td></tr>
-
-</table>
-<p>
 
   {%- elsif page.vendor contains "IKEA" and page.category == "light" -%}
 

@@ -16,12 +16,33 @@ NOTE: This must be executed everytime you make changes to a light's attributes f
     "osram_remember_state": true,            // true, false (boolean)
 }</code></pre>      
 
-{% endif %}
+{%- elsif page.vendor contains "Philips" and page.category == "light" -%}
+<p>
+    <h4>Power-on Behavior</h4>
+    Allows to set the power-on behavior of the bulb.
+    Note that this requires at least November/December '18 firmware update of the bulb.
+    <pre><code class="language-js">{
+      "hue_power_on_behavior": "on",         //default, on, off, recover, default = on
+      "hue_power_on_brightness": 125,        //default, same values as brightness, default = 255
+      "hue_power_on_color_temperature": 280, //default, same values as color_temp, default = 366
+    }
+    </code></pre>
+    
+    <table>
+        <tr><th>Attribute Value</th><th>Description</th></tr>
+        <tr><td>default</td><td>reset to factory default value</td></tr>
+        <tr><td>on</td><td>lamps on after power loss with configured brightness, color-temperature, color (to-do)</td></tr>
+        <tr><td>off</td><td>lamps off after power loss</td></tr>
+        <tr><td>recover</td><td>last running state after power loss</td></tr>
+    
+    </table>
 
+{% endif %}
+    
 {%- unless page.supports contains "temperature" or  page.supports contains "humidity" or  page.supports contains "brightness" -%}
 
 {% else %}
-<h6>Device Type Specific Configuration</h6>
+<h4>Device Type Specific Configuration</h4>
 
 {%- if page.supports contains "temperature" -%}
 <p>

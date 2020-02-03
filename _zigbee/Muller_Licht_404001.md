@@ -4,7 +4,7 @@ vendor: Müller Licht
 title: Tint A60 806lm E27 WW Bulb
 category: light
 supports: on/off, brightness
-image: /assets/images/devices/404001.jpg
+image: /assets/images/devices/Muller_Licht_404001.jpg
 zigbeemodel: 
 compatible: [conbee]
 mlink: https://www.mueller-licht.de/produktinformationen/artikel/404001/

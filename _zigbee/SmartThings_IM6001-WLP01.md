@@ -6,7 +6,7 @@ vendor: SmartThings
 title: Water Leak Sensor (2018 model)
 category: sensor
 supports: water leak, temperature, batterypct
-image: /assets/images/devices/Samsung_GP-U999SJVLCAA
+image: /assets/images/devices/Samsung_GP-U999SJVLCAA.jpg
 zigbeemodel: ['water']
 compatible: [z2m,conbee]
 mlink: https://www.samsung.com/us/smart-home/smartthings/sensors/samsung-smartthings-water-leak-sensor-gp-u999sjvlcaa/

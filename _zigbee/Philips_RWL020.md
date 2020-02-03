@@ -1,7 +1,7 @@
 ---
-model: 8718696743157
+model: RWL020
 vendor: Philips
-title: Hue Dimmer Switch
+title: Hue Dimmer Switch (US)
 category: remote
 supports: action, batterypct
 image: /assets/images/devices/Philips_8718696743157.jpg

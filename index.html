@@ -4,11 +4,11 @@ title: Zigbee Device Compatibility Repository
 ---
 <div class="container">
     <div class="row">
-        <div class="column column-60">
-        <h3>Zigbee Device Compatibility Repository</h3>
+        <div class="column column-75">
+        <h4>Zigbee Device Compatibility Repository</h4>
         </div>
-        <div class="column colum-40 float-right">
-            <span style="vertical-align: text-bottom;"><strong>{% assign counter = 0 %}{% for item in site.zigbee %}{% assign counter=counter | plus:1 %}{% endfor %}{{ counter }}</strong> Zigbee devices listed.</span>
+        <div class="column colum-25 float-right">
+            <span style="vertical-align: middle;"><strong>{% assign counter = 0 %}{% for item in site.zigbee %}{% assign counter=counter | plus:1 %}{% endfor %}{{ counter }}</strong> devices listed.</span>
         </div>
     </div>
     <div class="row">
@@ -25,7 +25,7 @@ title: Zigbee Device Compatibility Repository
 </div>
 <div class="row">
     <div class="column column-90">
-<h4>Recently added:</h4>
+<h5>Recently added:</h5>
 {% assign sorted = site.zigbee  | sort: "date_added" | reverse %}
 <table>
     <tbody>
@@ -37,3 +37,4 @@ title: Zigbee Device Compatibility Repository
 </div>
 </div>
 <span style="font-size:0.6em;">As an Amazon Associate I earn from qualifying purchases from provided device links.</span>         
+  

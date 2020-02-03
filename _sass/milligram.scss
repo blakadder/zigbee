@@ -14,15 +14,15 @@
 
 html {
   box-sizing: border-box;
-  font-size: 62.5%;
+  font-size: 100%;
 }
 
 body {
   color: #606c76;
   font-family: 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
-  font-size: 1.6em;
+  font-size: 1.1em;
   font-weight: 300;
-  line-height: 1.6;
+  line-height: 1.2;
   height: 100%;
 }
 
@@ -624,10 +624,11 @@ th:last-child {
 
 .td-compat {
   text-align: center;
-  width: 36px;
+  width: 30px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  padding: 0.1rem 0rem;
 }
 
 .th-compat {

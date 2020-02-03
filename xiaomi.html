@@ -1,0 +1,20 @@
+---
+layout: default
+title: Made by Xiaomi
+---
+<h2>{{ page.title }}</h2>
+
+<!-- ######################################################################  -->
+{% assign categories = site.zigbee | where: "vendor", "Xiaomi" %}
+{% assign vendor = categories | group_by: 'category' %} 
+{% assign vendors = vendor | sort: 'name' %} 
+<table>
+    <tbody>
+    {% for type in vendors %}
+        {% assign type_sorted = type.items | sort_natural: 'title' %}     
+        {% for template in type_sorted %}
+        {% include tablerow.html %}
+        {% endfor %}
+        {% endfor %}
+    </tbody>
+</table>

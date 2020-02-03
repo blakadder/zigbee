@@ -1,5 +1,5 @@
 ---
-model: 9290012607X
+model: SML001
 vendor: Philips
 title: Hue Motion Sensor
 category: sensor

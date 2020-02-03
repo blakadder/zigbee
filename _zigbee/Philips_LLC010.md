@@ -1,6 +1,6 @@
 ---
 date_added: 2020-01-17
-model: 71999/60/PH
+model: LLC010
 vendor: Philips
 title: Hue Iris Table Lamp
 category: light
@@ -13,6 +13,10 @@ mlink: https://www2.meethue.com/en-gb/p/hue-white-and-colour-ambience-iris-table
 link: https://www.amazon.de/dp/B00JGONFCG
 link2: https://www.amazon.co.uk/Philips-Dimmable-Changing-Compatible-Assistant/dp/B00IVZZBDC
 link3: 
+EAN:
+  - 8718291480310
+  - 8718291480129
+  - 915004462301
 ---
 ### Read Before Pairing
 Philips LivingColors IRIS and Philips LivingColors Bloom Devices that comes with

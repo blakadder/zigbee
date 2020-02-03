@@ -1,5 +1,5 @@
 ---
-model: 9290019758X
+model: SML002
 vendor: Philips
 title: Hue Motion Outdoor Sensor
 category: sensor

@@ -1,6 +1,6 @@
 ---
 date_added: 2020-02-02
-model: 40906/31/P7
+model: LCP003
 vendor: Philips
 title: Hue Flourish Pendant Light RGBCCT
 category: light

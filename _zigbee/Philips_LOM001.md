@@ -1,5 +1,5 @@
 ---
-model: 929002240401
+model: LOM001
 vendor: Philips
 title: Hue Smart Plug EU
 category: plug

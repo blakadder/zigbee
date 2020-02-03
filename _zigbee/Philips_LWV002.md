@@ -1,8 +1,8 @@
 ---
 date_added: 2020-01-12
-model: 046677551780
+model: LWV002
 vendor: Philips
-title: Hue White Single Filament ST19 E26 Bulb
+title: Hue Single Filament Bulb ST19 E26 
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Philips_046677551780.jpg

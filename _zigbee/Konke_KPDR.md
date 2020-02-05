@@ -11,6 +11,7 @@ link2: https://www.banggood.com/KONKE-Zigbee-3_0-Open-Protocol-Window-Door-Senso
 link3: https://www.aliexpress.com/item/4000478315927.html
 zigbeemodel: ['3AFE130104020015', '3AFE270104020015']
 compatible: [z2m,iob]
+zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/konkedoorsensor
 ---
 FCCID: 2AJZ4-KPDR
 

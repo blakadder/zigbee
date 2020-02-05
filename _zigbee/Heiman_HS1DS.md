@@ -6,7 +6,8 @@ category: sensor
 supports: contact, batterypct
 image: /assets/images/devices/Heiman_HS1DS.jpg
 zigbeemodel: ['DoorSensor-EM']
-compatible: [z2m,conbee]
+compatible: [z2m,conbee,zigate]
+zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/dtecteurdouverturedeporte
 mlink: http://www.heimantech.com/product/83.html
 link: https://www.aliexpress.com/item/4000182104601.html
 link2: https://www.amazon.co.uk/HEIMAN-Security-Control-Magnetic-Detector/dp/B01MY6EX59

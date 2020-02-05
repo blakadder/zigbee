@@ -7,7 +7,8 @@ category: sensor
 supports: contact, tamper
 image: /assets/images/devices/Bitron_AV2010_21A.jpg
 zigbeemodel: ['902010/21A']
-compatible: [z2m]
+compatible: [z2m,zigate]
+zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/chargeurusb-
 mlink: http://bvsite.smabit.eu/index.php/produkte/smart-home-produkte/kompakter-magnetkontakt/
 link: https://www.amazon.co.uk/BitronHome-902010-21A-Kompakter-Magnetkontakt/dp/B01LY4X4YD
 link2: https://www.amazon.de/dp/B01LY4X4YD

@@ -6,8 +6,9 @@ category: hvac
 supports: temperature, heating system control
 image: /assets/images/devices/Eurotronic_SPZB0001.jpg
 zigbeemodel: ['SPZB0001']
-compatible: [z2m,conbee,iob]
+compatible: [z2m,conbee,iob,zigate]
 deconz: 1098
+zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ttethermostatiqueetspirit
 mlink: https://eurotronic.org/produkte/zigbee-heizkoerperthermostat/spirit-zigbee/
 link: https://www.amazon.de/dp/B077GCDDBY
 link2: https://www.reichelt.com/de/de/heizkoerperthermostat-spirit-zigbee-et-spirit-zigbee-p238153.html

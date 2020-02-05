@@ -2,7 +2,7 @@
 model: LED1624G9
 EAN: 304.115.66
 vendor: IKEA
-title: Trådfri LED bulb E12 600lm, wireless dimmable, color and white spectrum opal
+title: Trådfri LED bulb E12 600lm, dimmable color and white spectrum opal
 category: light
 supports: on/off, brightness, colorxy
 image: /assets/images/devices/Ikea_LED1624G9-E12.jpg

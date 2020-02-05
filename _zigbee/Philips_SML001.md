@@ -6,7 +6,7 @@ category: sensor
 supports: occupancy, temperature, illuminance, batterypct
 image: /assets/images/devices/Philips_9290012607X.jpg
 zigbeemodel: ['SML001']
-compatible: [z2m,iob,conbee]
+compatible: [z2m,iob,conbee,zigate]
 mlink: https://www2.meethue.com/en-us/p/hue-motion-sensor/046677473389
 link: https://www.amazon.com/Philips-Hue-Motion-Installation-Free-Exclusive/dp/B01KJYSOGI
 link2: https://www.amazon.de/dp/B0748NCMNW

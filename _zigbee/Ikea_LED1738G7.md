@@ -2,7 +2,7 @@
 model: LED1738G7
 EAN: 204.115.62
 vendor: IKEA
-title: Trådfri LED bulb E12 600 lumen, wireless dimmable, color and white spectrum opal
+title: Trådfri LED bulb E12 600 lumen, dimmable color and white spectrum opal
 category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Ikea_LED1738G7.jpg

@@ -2,7 +2,7 @@
 model: LED1732G11
 EAN: 604.084.83
 vendor: IKEA
-title: Trådfri LED bulb E27 1000 lumen, wireless dimmable, white spectrum opal white
+title: Trådfri LED bulb E27 1000 lumen, dimmable white spectrum opal white
 category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Ikea_LED1732G11-E27.jpg

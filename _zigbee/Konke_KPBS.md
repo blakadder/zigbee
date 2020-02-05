@@ -12,6 +12,7 @@ link3: https://www.aliexpress.com/item/4000478277318.html
 zigbeemodel: ['3AFE14010402000D', '3AFE27010402000D', '3AFE28010402000D']
 compatible: [z2m,iob,zha]
 z2m: 2AJZ4KPBS
+zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/konkemotionsensor
 ---
 FCCID: 2AJZ-4KPBS
 

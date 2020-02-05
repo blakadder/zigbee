@@ -6,8 +6,9 @@ category: switch
 supports: on/off
 image: /assets/images/devices/BASICZBR3.jpg
 zigbeemodel: ['BASICZBR3']
-compatible: [z2m,conbee,tasmota,iob]
+compatible: [z2m,conbee,tasmota,iob,zigate]
 deconz: 1950
+zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/basiczbr3
 mlink: https://www.itead.cc/sonoff-basiczbr3.html
 link: https://www.amazon.de/dp/B0813DJ477
 link2: https://www.amazon.com/SONOFF-BASICZBR3-Controller-Compatible-SmartThings/dp/B07ZPRXMMD

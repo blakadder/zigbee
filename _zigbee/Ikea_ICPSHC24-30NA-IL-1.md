@@ -9,6 +9,7 @@ image: /assets/images/devices/Ikea_ICPSHC24-10NA-IL-1.jpg
 zigbeemodel: ['TRADFRI transformer 30W', 'TRADFRI Driver 30W']
 compatible: [z2m,zigate,iob,conbee]
 deconz: 466
+zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ikeatradfritransformateurlectriqueconnect
 mlink: https://www.ikea.com/us/en/p/tradfri-driver-for-wireless-control-gray-60342661/
 link2: 
 link3: 

@@ -6,8 +6,9 @@ category: remote
 supports: click, batterypct, brightness
 image: /assets/images/devices/E1743.jpg
 zigbeemodel: ['TRADFRI on/off switch']
-compatible: [z2m,tasmota,zha,iob,conbee]
+compatible: [z2m,tasmota,zha,iob,conbee,zigate]
 deconz: 853
+zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ikeatlcommande
 mlink: https://www.ikea.com/gb/en/p/tradfri-wireless-dimmer-white-00468432/
 link: https://www.amazon.co.uk/TRADFRI-004-684-32-Smart-Wireless-Switch/dp/B07YNRYSL3/
 link2: 

@@ -6,7 +6,7 @@ category: remote
 supports: click, batterylow
 image: /assets/images/devices/WXKG01LM.jpg
 zigbeemodel: ['lumi.sensor_switch']
-compatible: [z2m, zigate, conbee, tasmota, iob]
+compatible: [z2m, zigate, deconz, tasmota, iob]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/bouton
 mlink: https://www.mi.com/global/mi-smart-sensor-set
 link: https://www.banggood.com/Original-Xiaomi-Mijia-Smart-Home-Zig-bee-Wireless-Smart-Switch-Touch-Button-ON-OFF-WiFi-Remote-Control-Switch-p-1049175.html

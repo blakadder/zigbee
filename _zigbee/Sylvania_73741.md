@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/73741.jpg
 zigbeemodel: ['RT RGBW']
-compatible: [z2m,conbee]
+compatible: [z2m,deconz]
 mlink: https://consumer.sylvania.com/our-products/smart/product-info/zigbee/sylvania-smart-zigbee-full-color-rt-56-recessed-lighting-kit/index.jsp
 link: https://www.amazon.com/SYLVANIA-Recessed-Lighting-Changing-Dimmable/dp/B0196M601A
 link2: 

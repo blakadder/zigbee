@@ -6,7 +6,7 @@ category: sensor
 supports: illuminance, temperature, humidity, occupancy
 image: /assets/images/devices/Climax_LMHT-1ZBS.jpg
 zigbeemodel: 
-compatible: [conbee]
+compatible: [deconz]
 mlink: http://www.climax.com.tw/new/lm-1zbs.php
 link: 
 link2: 

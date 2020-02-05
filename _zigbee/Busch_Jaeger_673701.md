@@ -6,7 +6,7 @@ category: switch
 supports: on/off, action
 image: /assets/images/devices/Busch_Jaeger_673701.jpg
 zigbeemodel: ['RB01']
-compatible: [conbee]
+compatible: [deconz]
 mlink: https://www.busch-jaeger.de/en/search-online-catalogue?tx_solr%5Bq%5D=light%5C+link+transmitter+4channel
 link: https://www.amazon.de/Busch-Jaeger-Wandsender-Fernbedienung-Installationsschalterprogramme-4011395189467/dp/B017KXHMDC
 link2: https://www.amazon.de/Busch-Jaeger-Wandsender-Fernbedienung-Installationsschalterprogramme-4011395189436/dp/B017KXHJPI

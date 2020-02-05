@@ -7,7 +7,7 @@ category: switch
 supports: on/off
 image: /assets/images/devices/Legrand_064888.jpg
 zigbeemodel: [' Micromodule switch']
-compatible: [z2m,zigate,conbee]
+compatible: [z2m,zigate,deconz]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/micromoduleclianenetatmopourclairageconnect300wonoffavecneutre
 deconz: 863
 mlink: https://www.legrand.fr/pro/catalogue/42561-micromodule-pour-eclairage-connecte/micromodule-connecte-pour-installation-with-netatmo-pour-eclairage-300w-onoff-avec-neutre

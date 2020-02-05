@@ -7,7 +7,7 @@ category: sensor
 supports: occupancy, batterypct, batterylow, tamper
 image: /assets/images/devices/Heiman_HS1MS.jpg
 zigbeemodel: [PIRSensor-N']
-compatible: [conbee,zigate,z2m]
+compatible: [deconz,zigate,z2m]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/dtecteurdemouvement-
 mlink: http://www.heimantech.com/product/101.html
 link: https://www.aliexpress.com/item/4000174635724.html

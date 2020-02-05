@@ -6,7 +6,7 @@ category: remote
 supports: click, batterylow
 image: /assets/images/devices/WXKG11LM.jpg
 zigbeemodel: ['lumi.sensor_switch.aq2', 'lumi.remote.b1acn01']
-compatible: [z2m, zigate, conbee, tasmota, zha, iob]
+compatible: [z2m, zigate, deconz, tasmota, zha, iob]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/boutonaqara
 deconz: 911
 mlink: https://www.aqara.com/en/smart_wireless_mini_switch.html

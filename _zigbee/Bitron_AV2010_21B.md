@@ -7,7 +7,7 @@ category: sensor
 supports: contact, tamper
 image: /assets/images/devices/Bitron_AV2010_21B.jpg
 zigbeemodel: ['902010/21B']
-compatible: [conbee]
+compatible: [deconz]
 deconz: 1100
 mlink: https://bvsite.smabit.eu/index.php/produkte/smart-home-produkte/magnetkontakt/
 link: https://www.amazon.de/Bitron-Bitronvideo-Magnetkontakt-zus%C3%A4tzlichem-Eingang/dp/B01MSJ1RW0

@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Phoscon_FLS-CT.jpg
 zigbeemodel: ['FLS-CT']
-compatible: [z2m,iob,conbee]
+compatible: [z2m,iob,deconz]
 z2m: XVV-Mega23M12
 mlink: https://www.dresden-elektronik.de/produkt/phoscon-fls-ct-lp-funk-vorschaltger%C3%A4t.html
 link: https://www.amazon.com/Wireless-Ballast-Phoscon-FLS-CT-Temperature/dp/B01MRWN2C0

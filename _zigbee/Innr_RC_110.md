@@ -6,7 +6,7 @@ category: remote
 supports: action
 image: /assets/images/devices/Innr_RC_110.jpg
 zigbeemodel: ['RC 110']
-compatible: [zigate,conbee]
+compatible: [zigate,deconz]
 deconz: 635
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/tlcommanderc11x
 mlink: https://shop.innrlighting.com/en/shop/49/remote

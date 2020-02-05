@@ -6,7 +6,7 @@ category: remote
 supports: action, brightness, batterypct
 image: /assets/images/devices/Philips_046677473372.jpg
 zigbeemodel: ['RWL021']
-compatible: [z2m, zigate, conbee, zha]
+compatible: [z2m, zigate, deconz, zha]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ampoulesconnecteswhiteambiancee27--6/
 mlink: https://www2.meethue.com/en-us/p/hue-dimmer-switch/046677473372
 link: https://www.amazon.com/Philips-Dimmer-Switch-Installation-Free-Exclusively/dp/B076MGKTGS

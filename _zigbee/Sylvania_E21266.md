@@ -6,7 +6,7 @@ category: sensor
 supports: occupancy, temperature, batterylow
 image: /assets/images/devices/Sylvania_E21266.jpg
 zigbeemodel: ['Motion Sensor-A']
-compatible: [z2m,conbee]
+compatible: [z2m,deconz]
 mlink: https://consumer.sylvania.com/our-products/smart/product-info/zigbee/sylvania-smart-zigbee-motion-and-temperature-sensor/index.jsp
 link: https://www.amazon.com/dp/B01LXPGXQ1/
 link2: 

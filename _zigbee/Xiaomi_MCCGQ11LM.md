@@ -6,7 +6,7 @@ category: sensor
 supports: contact, batterylow
 image: /assets/images/devices/MCCGQ11LM.jpg
 zigbeemodel: ['lumi.sensor_magnet.aq2']
-compatible: [z2m,zigate,conbee,tasmota,zha,iob]
+compatible: [z2m,zigate,deconz,tasmota,zha,iob]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/dtecteurouverturedeporteaqara
 mlink: https://www.aqara.com/eu/door_and_window_sensor.html
 link: https://www.aliexpress.com/af/aqara-mccgq11lm.html

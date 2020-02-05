@@ -6,7 +6,7 @@ category: sensor
 supports: water leak
 image: /assets/images/devices/Heiman_HS1WL.jpg
 zigbeemodel: ['WaterSensor-EM','WaterSensor-N']
-compatible: [z2m,conbee]
+compatible: [z2m,deconz]
 mlink: http://www.heimantech.com/product/100.html
 link: https://www.aliexpress.com/item/4000028480488.html
 link2: https://www.amazon.com/Zipato-HM-HS1WL-M-Zigbee-Smart-Sensor/dp/B075JKNH4C

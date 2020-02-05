@@ -6,7 +6,7 @@ category: sensor
 supports: occupancy, batterypct
 image: /assets/images/devices/Ikea_E1745.jpg
 zigbeemodel: ['TRADFRI motion sensor']
-compatible: [z2m,zigate,iob,conbee]
+compatible: [z2m,zigate,iob,deconz]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ikeatradfridtecteurdemouvement
 mlink: https://www.ikea.com/gb/en/p/tradfri-wireless-motion-sensor-white-70429913/
 link: https://www.amazon.de/dp/B07KMB5GG2

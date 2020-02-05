@@ -7,7 +7,7 @@ category: plug
 supports: on/off, power measurement
 image: /assets/images/devices/Develco_EMIZB-132.jpg
 zigbeemodel: ['EMISZB-132']
-compatible: [conbee]
+compatible: [deconz]
 deconz: 2127
 mlink: https://www.develcoproducts.com/products/meter-interfaces/emi-norwegian-han/
 link: https://wattle.com/support-main/wattle-devices/power-metering/emi-norwegian-han/

@@ -5,7 +5,7 @@ title: deCONZ
 <h2>{{ page.title }}</h2>
 How to set up <a href="https://www.dresden-elektronik.de/funk/software/deconz.html" target="_blank">deCONZ</a>.
 <!-- ######################################################################  -->
-{% assign gateway = site.zigbee | where: "compatible", "conbee" %}
+{% assign gateway = site.zigbee | where: "compatible", "deconz" %}
 {% assign types = gateway | group_by: 'category' | sort: "name" %} 
     {% for type in types %}
     <h3> {{ type.name | capitalize }} </h3>

@@ -6,7 +6,7 @@ category: sensor
 supports: illuminance
 image: /assets/images/devices/Climax_LM-1ZBS.jpg
 zigbeemodel: 
-compatible: [conbee]
+compatible: [deconz]
 mlink: http://www.climax.com.tw/new/lmht-1zbs.php
 link: 
 link2: 

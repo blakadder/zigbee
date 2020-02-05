@@ -6,7 +6,7 @@ category: sensor
 supports: occupancy, tamper, batterylow
 image: /assets/images/devices/Climax_IR-9ZBS.jpg
 zigbeemodel: 
-compatible: [conbee]
+compatible: [deconz]
 mlink: http://www.climax.com.tw/new/ir9zb.php
 link: 
 link2: 

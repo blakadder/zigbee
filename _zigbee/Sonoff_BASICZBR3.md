@@ -6,7 +6,7 @@ category: switch
 supports: on/off
 image: /assets/images/devices/BASICZBR3.jpg
 zigbeemodel: ['BASICZBR3']
-compatible: [z2m,conbee,tasmota,iob,zigate]
+compatible: [z2m,deconz,tasmota,iob,zigate]
 deconz: 1950
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/basiczbr3
 mlink: https://www.itead.cc/sonoff-basiczbr3.html

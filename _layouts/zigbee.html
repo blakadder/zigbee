@@ -10,7 +10,7 @@ layout: default
 <div class="float-right column column-25">
   {% if page.compatible contains "z2m" %}<a href="zigbee2mqtt.html"><img style="width: 2rem;" src="/assets/images/z2m-icon.png"></a>{% endif %}
   {% if page.compatible contains "zha" or page.category == "light"%}<a href="zha.html"><img style="width: 2rem;" src="/assets/images/zha-icon.png"></a>{% endif %}
-  {% if page.compatible contains "conbee" or page.category == "light" %}<a href="deconz.html"><img style="width: 2rem;" src="/assets/images/deconz-icon.png"></a>{% endif %}
+  {% if page.compatible contains "deconz" or page.category == "light" %}<a href="deconz.html"><img style="width: 2rem;" src="/assets/images/deconz-icon.png"></a>{% endif %}
   {% if page.compatible contains "zigate" %}<a href="zigate.html"><img style="width: 2rem;" src="/assets/images/zigate-icon.png"></a>{% endif %}
   {% if page.compatible contains "tasmota" or page.category == "light"%}<a href="zigbee2tasmota.html"><img style="width: 2rem;" src="/assets/images/tasmota-icon.png"></a>{% endif %}
   {% if page.compatible contains "iob" %}<a href="zha.html"><img style="width: 2rem;" src="/assets/images/iobroker-icon.png"></a>{% endif %}
@@ -66,7 +66,7 @@ layout: default
 {% include pairing.html %}
 
 <p>
-{%- if page.compatible contains "conbee" and page.deconz != nil -%}
+{%- if page.compatible contains "deconz" and page.deconz != nil -%}
 <h6>deCONZ</h6>
 <a href="https://github.com/dresden-elektronik/deconz-rest-plugin/issues/{{ page.deconz }}">GitHub issue thread.</a>
 {% endif %}

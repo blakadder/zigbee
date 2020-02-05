@@ -6,8 +6,8 @@ category: remote
 supports: click, batterypct
 image: /assets/images/devices/WXKG02LM.jpg
 zigbeemodel: ['lumi.sensor_86sw2', 'lumi.sensor_86sw2.es1', 'lumi.remote.b286acn01']
-compatible: [z2m,zigate,conbee,zha,iob]
-conbee: 811
+compatible: [z2m,zigate,deconz,zha,iob]
+deconz: 811
 mlink: https://www.aqara.com/en/wireless_remote_switch.html
 link: https://www.aliexpress.com/item/32875105783.html
 link2: https://www.gearbest.com/alarm-systems/pp_610095.html

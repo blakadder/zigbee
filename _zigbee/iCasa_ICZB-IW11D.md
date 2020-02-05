@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness
 image: /assets/images/devices/iCasa_ICZB-IW11D.jpg
 zigbeemodel: ['ICZB-IW11D']
-compatible: [z2m,conbee]
+compatible: [z2m,deconz]
 deconz: 1124
 mlink: https://www.icasa.io/product-page/ac-dimmer?lang=en
 link: https://www.amazon.de/dp/B07L5H4KJM

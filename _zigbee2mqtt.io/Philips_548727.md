@@ -5,7 +5,7 @@ title: Hue White and Color BR30 with Bluetooth
 category: light
 supports: on/off, brightness, colortemp, colorxy, power-on behavior
 image: /assets/images/devices/548727.jpg
-compatible: [z2m,conbee]
+compatible: [z2m,deconz]
 mlink: 
 link: https://www.amazon.ca/Ambiance-Bluetooth-Optional-downlights-activated/dp/B07RVRKBDQ
 link2: 

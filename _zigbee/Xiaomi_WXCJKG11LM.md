@@ -6,7 +6,7 @@ title: Aqara Opple Wireless Scene Switch 2 Button
 category: switch
 supports: action, batterylow
 zigbeemodel: ['lumi.remote.b286opcn01']
-compatible: [z2m,iob,zha,conbee]
+compatible: [z2m,iob,zha,deconz]
 image: /assets/images/devices/WXCJKG11LM.jpg
 mlink: https://www.aqara.com/cn/op_switch.html
 link: https://www.aliexpress.com/af/aqara-opple-switch.html

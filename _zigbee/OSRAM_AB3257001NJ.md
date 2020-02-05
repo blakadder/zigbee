@@ -6,7 +6,7 @@ category: plug
 supports: on/off
 image: /assets/images/devices/AB3257001NJ.jpg
 zigbeemodel: ['Plug 01']
-compatible: [z2m, zigate, conbee, tasmota, zha]
+compatible: [z2m, zigate, deconz, tasmota, zha]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/prisepiloteosramlightify
 mlink: https://www.ledvance.com/consumer/products/smart-home/smart-home-products-with-zigbee-technology/smart-home-components/smart-plug/index.jsp
 link: https://www.amazon.de/Osram-schaltbare-fernbedienbar-Lichtsteuerung-kompatibel/dp/B074PZLX2P

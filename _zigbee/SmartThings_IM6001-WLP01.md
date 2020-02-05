@@ -8,7 +8,7 @@ category: sensor
 supports: water leak, temperature, batterypct
 image: /assets/images/devices/Samsung_GP-U999SJVLCAA.jpg
 zigbeemodel: ['water']
-compatible: [z2m,conbee]
+compatible: [z2m,deconz]
 mlink: https://www.samsung.com/us/smart-home/smartthings/sensors/samsung-smartthings-water-leak-sensor-gp-u999sjvlcaa/
 link: https://www.amazon.com/Samsung-GP-U999SJVLCAA-Smart-things-Sensor/dp/B07F951JDP
 link2: https://www.amazon.co.uk/Samsung-SmartThings-Water-Sensor-GP-U999SJVLCAA/dp/B07F951JDP

@@ -6,7 +6,7 @@ category: sensor
 supports: contact, batterypct
 image: /assets/images/devices/Trust_ZCTS-808.jpg
 zigbeemodel: ['CSW_ADUROLIGHT']
-compatible: [z2m,iob,conbee]
+compatible: [z2m,iob,deconz]
 mlink: https://www.trust.com/en/product/71169-zigbee-wireless-contact-sensor-zcts-808
 link: https://www.amazon.co.uk/Trust-Smart-Home-Wireless-Contact/dp/B074QNJSMZ
 link2: https://www.amazon.de/dp/B074QNJSMZ

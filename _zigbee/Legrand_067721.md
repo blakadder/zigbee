@@ -7,7 +7,7 @@ category: switch
 supports: on/off
 image: /assets/images/devices/Legrand_067721.jpg
 zigbeemodel: [' Dimmer switch w/o neutral']
-compatible: [z2m,zigate,conbee]
+compatible: [z2m,zigate,deconz]
 deconz: 883
 mlink: https://www.legrand.fr/pro/catalogue/42556-version-celiane-with-netatmo/interrupteur-filaire-connecte-avec-option-variateur-celiane-with-netatmo-sans-neutre-5w-a-300w-compensateur-blanc
 link: https://www.amazon.fr/dp/B079Q34S9T

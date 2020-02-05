@@ -6,7 +6,7 @@ category: switch
 supports: action, lr_on_off, temperature, decoupled mode
 image: /assets/images/devices/QBKG03LM.jpg
 zigbeemodel: ['lumi.ctrl_neutral2']
-compatible: [z2m, zigate, conbee, iob]
+compatible: [z2m, zigate, deconz, iob]
 mlink: https://www.aqara.com/en/smart_light_switch_no_neutral.html
 link: https://www.aliexpress.com/af/QBKG03LM-switch.html
 link2: https://www.banggood.com/Aqara-Neutral-Line-Type-Remote-Control-Switch-Home-Light-Controller-Intelligent-Wall-Switch-From-Xiaomi-Eco-Sy-p-1316484.html

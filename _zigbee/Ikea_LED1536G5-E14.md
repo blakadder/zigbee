@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Ikea_LED1536G5-E14.jpg
 zigbeemodel: ['TRADFRI bulb E14 WS opal 400lm']
-compatible: [z2m,iob,conbee,zigate]
+compatible: [z2m,iob,deconz,zigate]
 mlink: https://www.ikea.com/kr/en/catalog/products/40318285/
 link: 
 link2: 

@@ -6,7 +6,7 @@ category: sensor
 supports: occupancy, illuminance, batterypct
 image: /assets/images/devices/RTCGQ11LM.jpg
 zigbeemodel: ['lumi.sensor_motion.aq2']
-compatible: [z2m, zigate, conbee, tasmota, zha, iob]
+compatible: [z2m, zigate, deconz, tasmota, zha, iob]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/dtecteurdemouvementaqara
 mlink: https://www.aqara.com/en/human_motion_sensor.html
 link: https://www.aliexpress.com/item/10000006173856.html

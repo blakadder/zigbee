@@ -6,7 +6,7 @@ category: remote
 supports: action, low batterypct
 image: /assets/images/devices/MFKZQ01LM.jpg
 zigbeemodel: ['lumi.sensor_cube', 'lumi.sensor_cube.aqgl01']
-compatible: [z2m,zigate,conbee,tasmota,zha,iob]
+compatible: [z2m,zigate,deconz,tasmota,zha,iob]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/cubemagic
 deconz: 138
 mlink: https://www.aqara.com/eu/cube.html

@@ -6,7 +6,7 @@ category: switch
 supports: action, brightness
 image: /assets/images/devices/Dresden_Elektronik_BN-600087.jpg
 zigbeemodel: ['Lighting Switch']
-compatible: [conbee]
+compatible: [deconz]
 mlink: https://www.dresden-elektronik.de/produkt/scene-switch.html
 link: https://www.amazon.de/Funktaster-Lighting-Switch-Lichtschalter-Beleuchtungssystem/dp/B01FDWZVGM
 link2: https://www.reichelt.de/gb/en/zigbee-wireless-lighting-switch-lighting-switch-p178230.html

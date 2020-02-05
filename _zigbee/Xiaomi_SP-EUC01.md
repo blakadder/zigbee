@@ -6,7 +6,7 @@ category: plug
 supports: on/off
 image: /assets/images/devices/SP-EUC01.jpg
 zigbeemodel: ['lumi.plug.maeu01']
-compatible: [z2m,zha,iob]
+compatible: [z2m,zha,iob,deconz]
 mlink: https://www.aqara.com/eu/smart_outlet.html
 link: https://aqara.ru/product/aqara-smart-plug/
 link2: 

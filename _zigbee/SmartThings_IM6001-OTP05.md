@@ -4,7 +4,7 @@ vendor: SmartThings
 title: Outlet US
 category: plug
 supports: on/off
-image: /assets/images/devices/IM6001-OTP05.jpg
+image: /assets/images/devices/SmartThings_IM6001-OTP05.jpg
 zigbeemodel: ['outlet']
 compatible: [z2m,deconz]
 mlink: https://www.samsung.com/us/smart-home/smartthings/outlets/samsung-smartthings-outlet-2018-gp-u999sjvldaa/

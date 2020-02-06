@@ -11,8 +11,8 @@ deconz: 1098
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ttethermostatiqueetspirit
 mlink: https://eurotronic.org/produkte/zigbee-heizkoerperthermostat/spirit-zigbee/
 link: https://www.amazon.de/dp/B077GCDDBY
-link2: https://www.reichelt.com/de/de/heizkoerperthermostat-spirit-zigbee-et-spirit-zigbee-p238153.html
-link3: 
+link2: https://www.amazon.co.uk/Eurotronic-Spirit-700045-Heating-Thermostat/dp/B077GCDDBY
+link3: https://www.reichelt.com/de/de/heizkoerperthermostat-spirit-zigbee-et-spirit-zigbee-p238153.html
 ---
 ### Pairing
 If you are having trouble pairing, reset the device.

@@ -8,7 +8,7 @@ image: /assets/images/devices/Huawei_LH-32ZB.jpg
 zigbeemodel: ['113D']
 compatible: [z2m,iob]
 mlink: 
-link: https://www.vmall.com/product/10086376216199.html
+link: https://www.aliexpress.com/item/4000192768667.html
 link2: 
 link3: 
 ---

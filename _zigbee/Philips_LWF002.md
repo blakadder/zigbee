@@ -1,5 +1,5 @@
 ---
-model: 
+model: LWF002
 vendor: Philips
 title: Hue White Bulb A60 E27
 category: light

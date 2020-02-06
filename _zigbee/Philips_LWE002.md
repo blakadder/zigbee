@@ -1,7 +1,7 @@
 ---
 model: LWE002
 vendor: Philips
-title: Hue White E14 BT
+title: Hue White E14 with Bluetooth
 category: light
 supports: on/off, brightness, power-on behavior
 image: /assets/images/devices/Philips_LWE002.jpg

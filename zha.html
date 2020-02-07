@@ -7,7 +7,7 @@ How to set up <a href="https://www.home-assistant.io/integrations/zha/" target="
 <!-- ######################################################################  -->
 {% assign compatibility = site.zigbee | where: "compatible", "zha" %}
 {% assign gateway = site.zigbee | where: "category", "light" | concat: compatibility | uniq %}
-{% assign types = gateway | group_by: 'category' | sort: "name"  %} 
+{% assign types = gateway | group_by: 'category' | sort_natural: "name"  %} 
     {% for type in types %}
     <h3> {{ type.name | capitalize }} </h3>
     <table>

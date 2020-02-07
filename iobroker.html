@@ -6,7 +6,7 @@ title: ioBroker.zigbee
 How to set up <a href="https://github.com/ioBroker/ioBroker.zigbee" target="_blank">ioBroker.zigbee</a>.
 <!-- ######################################################################  -->
 {% assign gateway = site.zigbee | where: "compatible", "iob" %}
-{% assign types = gateway | group_by: 'category' | sort: "name" %} 
+{% assign types = gateway | group_by: 'category' | sort_natural: "name" %} 
     {% for type in types %}
     <h3> {{ type.name | capitalize }} </h3>
     <table>

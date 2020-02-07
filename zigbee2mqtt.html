@@ -6,7 +6,7 @@ title: Zigbee2MQTT
 How to set up <a href="https://www.zigbee2mqtt.io/" target="_blank">Zigbee2MQTT</a>.
 <!-- ######################################################################  -->
 {% assign gateway = site.zigbee | where: "compatible", "z2m" %}
-{% assign types = gateway | group_by: 'category' | sort: "name" %} 
+{% assign types = gateway | group_by: 'category' | sort_natural: "name" %} 
     {% for type in types %}
     <h3> {{ type.name | capitalize }} </h3>
     <table>

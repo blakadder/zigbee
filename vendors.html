@@ -5,13 +5,13 @@ title: sorted by manufacturer
 <h2>{{ page.title }}</h2>
 <!-- ######################################################################  -->
 {% assign gateway = site.zigbee %}
-{% assign types = gateway | group_by: 'vendor' | sort: "name"  %} 
+{% assign types = gateway | group_by: 'vendor' | sort_natural: "name"  %} 
     {% for type in types %}
     <h3> {{ type.name }} </h3>
     <table>
         <tbody>
         {% assign vendor = type.items | group_by: 'vendor' %} 
-        {% assign vendors = vendor | sort: 'name' %} 
+        {% assign vendors = vendor | sort_natural: 'name' %} 
         {% for type in vendors %}
         {% assign type_sorted = type.items | sort_natural: 'title' %}     
         {% for template in type_sorted %}

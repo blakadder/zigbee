@@ -6,7 +6,7 @@ title: ZiGate
 How to set up <a href="https://zigate.fr/" target="_blank">ZiGate</a>.
 <!-- ######################################################################  -->
 {% assign gateway = site.zigbee | where: "compatible", "zigate" %}
-{% assign types = gateway | group_by: 'category' | sort: "name" %} 
+{% assign types = gateway | group_by: 'category' | sort_natural: "name" %} 
     {% for type in types %}
     <h3> {{ type.name | capitalize }} </h3>
     <table>

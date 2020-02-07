@@ -5,8 +5,9 @@ title: Zigbee2Tasmota
 <h2>{{ page.title }}</h2>
 How to set up <a href="https://tasmota.github.io/docs/#/Zigbee" target="_blank">Zigbee2Tasmota</a>.
 <!-- ######################################################################  -->
-{% assign gateway = site.zigbee | where: "compatible", "tasmota" %}
-{% assign types = gateway | group_by: 'category' | sort: "name" %} 
+{% assign compatibility = site.zigbee | where: "compatible", "tasmota" %}
+{% assign gateway = site.zigbee | where: "category", "light" | concat: compatibility | uniq %}
+{% assign types = gateway | group_by: 'category' | sort: "name"  %} 
     {% for type in types %}
     <h3> {{ type.name | capitalize }} </h3>
     <table>

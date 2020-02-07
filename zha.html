@@ -5,8 +5,9 @@ title: Zigbee Home Assistant
 <h2>{{ page.title }}</h2>
 How to set up <a href="https://www.home-assistant.io/integrations/zha/" target="_blank">Zigbee Home Assistant (ZHA)</a>.
 <!-- ######################################################################  -->
-{% assign gateway = site.zigbee | where: "compatible", "zha" %}
-{% assign types = gateway | group_by: 'category' | sort: "name" %} 
+{% assign compatibility = site.zigbee | where: "compatible", "zha" %}
+{% assign gateway = site.zigbee | where: "category", "light" | concat: compatibility | uniq %}
+{% assign types = gateway | group_by: 'category' | sort: "name"  %} 
     {% for type in types %}
     <h3> {{ type.name | capitalize }} </h3>
     <table>

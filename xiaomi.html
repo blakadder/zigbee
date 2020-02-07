@@ -5,8 +5,8 @@ title: Made by Xiaomi
 <h2>{{ page.title }}</h2>
 
 <!-- ######################################################################  -->
-{% assign categories = site.zigbee | where: "vendor", "Xiaomi" %}
-{% assign vendor = categories | group_by: 'category' %} 
+<!-- {% assign categories = site.zigbee | where: "vendor", "Xiaomi" %} -->
+{% assign vendor = site.zigbee | group_by: 'vendor' %} 
 {% assign vendors = vendor | sort: 'name' %} 
 <table>
     <tbody>

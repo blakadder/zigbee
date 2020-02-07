@@ -19,7 +19,7 @@ toc:
     url: sensors.html
   - name: Switches
     url: switches.html
+  - name: Manufacturer Sorted
+    url: vendors.html
   - name: All Devices
     url: all.html
-  - name: Made by Xiaomi
-    url: xiaomi.html

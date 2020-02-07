@@ -6,7 +6,7 @@ category: remote
 supports: action, batterypct
 image: /assets/images/devices/WXKG12LM.jpg
 zigbeemodel: ['lumi.sensor_switch.aq3', 'lumi.sensor_swit']
-compatible: [z2m,zigate,deconz,iob]
+compatible: [z2m,zigate,deconz,iob,zha]
 deconz: 915
 mlink: https://www.aqara.com/cn/wireless_switch.html
 link: https://www.aliexpress.com/item/32924897476.html

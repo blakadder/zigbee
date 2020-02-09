@@ -2,7 +2,7 @@
 model: LED1649C5
 EAN: 603.652.71
 vendor: IKEA
-title: Trådfri LED bulb E14 400 lumen, wireless dimmable warm white, chandelier opal
+title: Tradfri LED bulb E14 400 lumen, wireless dimmable warm white, chandelier opal
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Ikea_LED1649C5-E14.jpg

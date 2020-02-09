@@ -2,7 +2,7 @@
 model: LED1536G5
 EAN: 903.182.83
 vendor: IKEA
-title: Trådfri LED bulb E12 400 lumen, dimmable, white spectrum, opal white
+title: Tradfri LED bulb E12 400 lumen, dimmable, white spectrum, opal white
 category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Ikea_LED1536G5-E12.jpg

@@ -2,7 +2,7 @@
 date_added: 2020-01-18
 model: E1766
 vendor: IKEA
-title: Trådfri Open/Close Remote
+title: Tradfri Open/Close Remote
 category: remote
 supports: batterypct, click
 image: /assets/images/devices/Ikea_E1766.jpg

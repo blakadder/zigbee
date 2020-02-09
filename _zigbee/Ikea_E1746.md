@@ -2,7 +2,7 @@
 date_added: 2020-01-18
 model: E1746
 vendor: IKEA
-title: Trådfri Signal Repeater
+title: Tradfri Signal Repeater
 category: router
 supports: router
 image: /assets/images/devices/Ikea_E1746.jpg

@@ -2,7 +2,7 @@
 model: LED1836G9
 EAN: 904.087.97
 vendor: IKEA
-title: Trådfri LED bulb E27 806 lumen, dimmable, warm white
+title: Tradfri LED bulb E27 806 lumen, dimmable, warm white
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Ikea_LED1836G9.jpg

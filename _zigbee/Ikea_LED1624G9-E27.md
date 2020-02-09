@@ -2,7 +2,7 @@
 model: LED1624G9
 EAN: 004.086.12
 vendor: IKEA
-title: Trådfri LED bulb E27 600lm, dimmable colour and white spectrum opal white
+title: Tradfri LED bulb E27 600lm, dimmable colour and white spectrum opal white
 category: light
 supports: on/off, brightness, colorxy
 image: /assets/images/devices/Ikea_LED1624G9-E27.jpg

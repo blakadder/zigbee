@@ -1,7 +1,7 @@
 ---
 model: ICTC-G-1
 vendor: IKEA
-title: Trådfri Wireless Dimmer
+title: Tradfri Wireless Dimmer
 category: remote
 supports: action, brightnessm, batterypct
 image: /assets/images/devices/Ikea_ICTC-G-1.jpg

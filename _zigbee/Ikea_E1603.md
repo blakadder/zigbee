@@ -1,7 +1,7 @@
 ---
 model: E1603
 vendor: IKEA
-title: Trådfri Control Outlet
+title: Tradfri Control Outlet
 category: plug
 supports: on/off
 image: /assets/images/devices/Ikea_E1702.jpg

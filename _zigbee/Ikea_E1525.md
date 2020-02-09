@@ -1,7 +1,7 @@
 ---
 model: E1525
 vendor: IKEA
-title: Trådfri Motion Sensor
+title: Tradfri Motion Sensor
 category: sensor
 supports: occupancy, batterypct
 image: /assets/images/devices/Ikea_E1525.jpg

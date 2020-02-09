@@ -1,7 +1,7 @@
 ---
 model: LED1842G3
 vendor: IKEA
-title: Trådfri LED bulb E27 250 lumen, wireless dimmable warm glow, globe brown clear glass
+title: Tradfri LED bulb E27 250 lumen, wireless dimmable warm glow, globe brown clear glass
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Ikea_LED1842G3.jpg

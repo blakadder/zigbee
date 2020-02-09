@@ -1,7 +1,7 @@
 ---
 model: LED1623G12
 vendor: IKEA
-title: Trådfri LED bulb E27 1000 lumen, dimmable warm white globe opal white
+title: Tradfri LED bulb E27 1000 lumen, dimmable warm white globe opal white
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Ikea_LED1623G12.jpg

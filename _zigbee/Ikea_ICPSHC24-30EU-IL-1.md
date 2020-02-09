@@ -2,7 +2,7 @@
 model: ICPSHC24-10EU-IL-1
 EAN: 603.426.56
 vendor: IKEA
-title: Trådfri LED Driver for Wireless Control 30 W
+title: Tradfri LED Driver for Wireless Control 30 W
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Ikea_ICPSHC24-10EU-IL-1.jpg

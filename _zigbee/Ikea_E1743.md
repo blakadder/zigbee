@@ -1,7 +1,7 @@
 ---
 model: E1743
 vendor: IKEA
-title: Trådfri ON/OFF Switch
+title: Tradfri ON/OFF Switch
 category: remote
 supports: click, batterypct, brightness
 image: /assets/images/devices/E1743.jpg

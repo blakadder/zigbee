@@ -6,7 +6,7 @@ category: sensor
 supports: smoke, batterylow
 image: /assets/images/devices/Heiman_HS1SA.jpg
 zigbeemodel: ['SMOK_V16', 'b5db59bfd81e4f1f95dc57fdbba17931', 'SMOK_YDLV10', 'SmokeSensor-EM', 'SmokeSensor-N', 'SmokeSendor-N-3.0', 'Smoke']
-compatible: [z2m,deconz,zigbee]
+compatible: [z2m,deconz,zigbee,iob]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/minidtecteurdefume-certifice
 mlink: http://www.heimantech.com/product/89.html
 link: https://www.aliexpress.com/item/33060466600.html

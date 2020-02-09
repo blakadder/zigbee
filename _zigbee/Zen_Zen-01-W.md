@@ -8,6 +8,7 @@ supports: temperature, hvac
 image: /assets/images/devices/Zen-01-W.jpg
 zigbeemodel: ['Zen-01']
 compatible: [z2m,deconz]
+deconz: 1702
 mlink: https://zenecosystems.com/zenthermostat/
 link: https://www.amazon.com/Zen-Within-Zen-01-W-Thermostat-Edition/dp/B00XCVV8CS
 link2: 

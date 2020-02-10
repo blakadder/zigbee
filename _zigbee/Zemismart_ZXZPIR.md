@@ -2,7 +2,7 @@
 date_added: 2020-02-11
 model: ZXZPIR
 vendor: Zemismart
-title: PIR Motion Sensor
+title: PIR Sensor
 category: sensor
 supports: occupancy, batterypct
 image: /assets/images/devices/Zemismart_ZXZPIR.jpg

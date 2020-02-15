@@ -1,4 +1,5 @@
 ---
+date_added: 2020-02-15
 model: 500.48
 vendor: Paulmann
 title: YourLED Dimming and Switching Controller 60W

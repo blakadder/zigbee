@@ -125,7 +125,7 @@ Timeout (in seconds) after the `occupancy: false` message is sent. If not set, t
 {%- if page.supports contains "colorxy" -%}
 
 <code>transition</code><BR>
-Controls the transition time (in seconds) of brightness, colortemp and color. Defaults to 0 (no transition). Note that this value is overridden if a transition value is present in the MQTT command payload.</p>>
+Controls the transition time (in seconds) of brightness, colortemp and color. Defaults to 0 (no transition). Note that this value is overridden if a transition value is present in the MQTT command payload.</p>
 
 {%- elsif page.supports contains "colortemp" -%}
 
@@ -138,7 +138,6 @@ Controls the transition time (in seconds) of brightness and colortemp. Defaults 
 Controls the transition time (in seconds) of brightness. Defaults to 0 (no transition). Note that this value is overridden if a transition value is present in the MQTT command payload.</p>
 
 {% endif %}
-</p>
 <p>
 <a href="https://www.zigbee2mqtt.io/information/configuration.html#device-type-specific" target="_blank"> How to use device type specific configuration?</a>
 </p>

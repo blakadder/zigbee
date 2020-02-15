@@ -1,4 +1,5 @@
 ---
+date_added: 2020-02-15
 model: 500.49
 vendor: Paulmann
 title: YourLED RGB LED Controller

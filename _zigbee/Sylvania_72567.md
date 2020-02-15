@@ -1,4 +1,5 @@
 ---
+date_added: 2020-02-15
 model: 72567 
 vendor: Sylvania
 title: Smart+ 15" Flush Mount Adjustable White Edge-Lit Fixture

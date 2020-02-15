@@ -5,7 +5,7 @@ vendor: Paulmann
 title: YourLED Dimming and Switching Controller 60W
 category: light
 supports: on/off, brightness
-image: /assets/images/devices/50064.jpg
+image: /assets/images/devices/Paulmann_50048.jpg
 zigbeemodel: ['500.48']
 compatible: [z2m]
 mlink: https://en.paulmann.com/indoor-lighting/smart-home/zigbee/controlling/smarthome-zigbee-yourled-dimming-and-switching-controller-max.-60w/50048

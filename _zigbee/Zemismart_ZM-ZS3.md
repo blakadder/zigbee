@@ -1,6 +1,6 @@
 ---
 date_added: 2020-02-17
-model: ZM-ZS3
+model: ZM-ZS-3
 vendor: Zemismart
 title: 3 Gang Remote Switch
 category: remote

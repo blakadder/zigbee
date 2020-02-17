@@ -1,6 +1,6 @@
 ---
 date_added: 2020-02-17
-model: ZM-ZS
+model: ZM-ZS-2
 vendor: Zemismart
 title: 2 Gang Remote Switch
 category: remote

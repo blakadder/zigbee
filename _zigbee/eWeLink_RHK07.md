@@ -1,4 +1,5 @@
 ---
+date_added: 2020-02-20
 model: RHK07
 vendor: eWeLink
 title: Wireless Button

@@ -1,4 +1,5 @@
 ---
+date_added: 2020-02-20
 model: RHK08
 vendor: eWeLink
 title: Temperature and Humidity Sensor

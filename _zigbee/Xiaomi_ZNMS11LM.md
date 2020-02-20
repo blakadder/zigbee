@@ -4,7 +4,7 @@ model: ZNMS11LM
 vendor: Xiaomi
 title: Aqara Door Lock S1
 category: lock
-supports: report open, report close, operation
+supports: report open, report close, action
 image: /assets/images/devices/Xiaomi_ZNMS11LM.jpg
 zigbeemodel: ['lumi.lock.aq1']
 compatible: [z2m]

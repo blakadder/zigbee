@@ -6,7 +6,7 @@ category: remote
 supports: action, batterypct
 image: /assets/images/devices/Ikea_E1810.jpg
 zigbeemodel: ['TRADFRI Remote Control']
-compatible: [z2m, zigate, zha,deconz]
+compatible: [z2m,zigate,zha,deconz]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ikeatradfritlcommande
 mlink: https://www.ikea.com/nl/en/p/tradfri-remote-control-30443124/
 link: https://www.amazon.com/IKEA-ASIA-TRADFRI-Remote-Control/dp/B07KRVVFT1
@@ -25,6 +25,6 @@ it will **also** send a `{"click": "toggle_hold"}`. It is not possible to skip t
 Also the remote won't send anything when the button is released. See [link](https://github.com/Koenkk/zigbee2mqtt/issues/2077#issuecomment-538691885) for more details. 
 
 ###### Pairing
-Pair the remote to Zigbee2mqtt by holding it close to the coordinator and
-pressing the inside button, next to the CR2032 battery, 4 times.
+Pair the remote to your gateway by holding it close and
+pressing the inside button (next to the CR2032 battery) 4 times.
 The red light on the (front of the) remote will now flash a few times.

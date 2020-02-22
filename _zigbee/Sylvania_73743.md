@@ -5,9 +5,9 @@ title: Lightify Smart Dimming Switch
 category: remote
 supports: action
 image: /assets/images/devices/Sylvania_73743.jpg
-zigbeemodel: ['Switch 4x-LIGHTIFY','Switch 4x EU-LIGHTIFY']
+zigbeemodel: ['LIGHTIFY Dimming Switch']
 compatible: [zha]
-mlink: 
+mlink: https://consumer.sylvania.com/our-products/smart/sylvania-smart-zigbee-products-menu/index.jsp
 link: https://www.amazon.com/SYLVANIA-LIGHTIFY-Osram-Products-required/dp/B0196M620Y
 link2: 
 link3: 

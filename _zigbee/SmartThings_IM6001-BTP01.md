@@ -6,7 +6,7 @@ category: remote
 supports: click, temperature
 image: /assets/images/devices/SmartThings_IM6001-BTP01.jpg
 zigbeemodel: ['button']
-compatible: [z2m]
+compatible: [z2m,zha]
 deconz: 993
 mlink: https://www.samsung.com/us/smart-home/smartthings/buttons/samsung-smartthings-button-gp-u999sjvleaa/
 link: https://www.amazon.com/Samsung-SmartThings-GP-U999SJVLEAA-One-Touch-Appliances/dp/B07F8ZFFQK

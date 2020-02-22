@@ -1,7 +1,7 @@
 ---
 model: E11-G13
 vendor: Sengled
-title: Element Classic A19 Soft White Bulb
+title: Soft White A19 Bulb
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Sengled_E11-G13.jpg

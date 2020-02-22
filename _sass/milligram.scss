@@ -200,12 +200,12 @@ input[type='submit'].button-clear[disabled]:hover {
 
 .button-red {
   background-color: #EF3453;
-  border-color: darkslategrey;
+  border-color: white;
 }
 .button-red.button-clear,
 .button-red.button-outline {
   background-color: transparent;
-  color: salmon;
+  color: #EF3453;
 }
 .button-red.button-clear {
   border-color: transparent;
@@ -214,8 +214,8 @@ input[type='submit'].button-clear[disabled]:hover {
 /* Custom size */
 .button-small {
   font-size: .8rem;
-  height: 2.8rem;
-  line-height: 2.8rem;
+  height: 1.8rem;
+  line-height: 1.8rem;
   padding: 0 1.5rem;
 }
 

@@ -1,7 +1,7 @@
 ---
 date_added: 2020-01-31
 model: HGZB-20-UK
-vendor: 3A 
+vendor: 3A Nue
 title: Power Plug
 category: plug
 supports: on/off

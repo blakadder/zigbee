@@ -1,7 +1,7 @@
 ---
 model: HGZB-41-UK
-vendor: 3A 
-title: One Gang Switch DE
+vendor: 3A Nue
+title: Light Switch - 1 Gang DE
 category: switch
 supports: on/off
 image: /assets/images/devices/3A_HGZB-41-DE.jpg

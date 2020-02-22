@@ -7,7 +7,7 @@ category: remote
 supports: action
 image: /assets/images/devices/TERNCY-SD01.jpg
 zigbeemodel: ['TERNCY-SD01']
-compatible: [z2m]
+compatible: [z2m,iob]
 mlink: https://www.terncy.com/en-us/smartdial/
 link: https://www.aliexpress.com/item/32987793126.html
 link2: 

@@ -1,9 +1,9 @@
 ---
 model: HGZB-42-UK
-vendor: 3A 
-title: Two Gang Switch UK
+vendor: 3A Nue
+title: Light Switch - 2 Gang UK
 category: switch
-supports: on/off
+supports: tb_on_off
 image: /assets/images/devices/3A_HGZB-42-UK.jpg
 zigbeemodel: ['FNB56-ZSW01LX2.0']
 compatible: [z2m,iob]

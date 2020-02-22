@@ -1,5 +1,5 @@
 ---
-model: ZSW2
+model: ZSW02
 vendor: Feibit
 title: Light Switch - 2 Gang
 category: switch

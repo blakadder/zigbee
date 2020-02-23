@@ -2,7 +2,7 @@
 date_added: 2020-01-01
 model: 07004L
 vendor: Immax
-title: NEO Smart LED E27 A60 8.5W 806lm RGBW
+title: Neo Smart LED E27 A60 8.5W 806lm RGBW
 category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Immax_07004L.jpg

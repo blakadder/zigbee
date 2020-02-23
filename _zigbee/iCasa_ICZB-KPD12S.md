@@ -1,0 +1,18 @@
+---
+date_added: 2020-02-23
+model: ICZB-KPD12
+EAN: 7061259004723
+vendor: iCasa
+title: Pulse 2 Keypad
+category: remote
+supports: click, action, brightness, scenes
+image: /assets/images/devices/iCasa_ICZB-KPD12.jpg
+zigbeemodel: ['ICZB-KPD12']
+compatible: [deconz]
+deconz: 1124
+mlink: https://www.icasa.io/product-page/ac-dimmer?lang=en
+link: https://www.amazon.de/dp/B07K8QM2V6/
+link2: 
+link3: 
+link4: 
+---

@@ -6,7 +6,7 @@ category: switch
 supports: action, on/off, decoupled
 image: /assets/images/devices/QBKG04LM.jpg
 zigbeemodel: ['lumi.ctrl_neutral1']
-compatible: [z2m, zigate,iob]
+compatible: [z2m,zigate,iob,deconz]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/interrupteurmuralsimpledoubletouche
 mlink: https://www.aqara.com/en/smart_light_switch_no_neutral.html
 link: https://www.aliexpress.com/af/QBKG04LM-switch.html

@@ -3,7 +3,7 @@ date_added: 2020-01-12
 model: WXCJKG13LM
 vendor: Xiaomi
 title: Aqara Opple Wireless Scene Switch 6 Button
-category: switch
+category: remote
 supports: action, batterylow
 image: /assets/images/devices/WXCJKG13LM.jpg
 zigbeemodel: ['lumi.remote.b686opcn01']

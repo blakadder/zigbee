@@ -3,7 +3,7 @@ layout: default
 title: Zigbee Home Automation (ZHA)
 ---
 <h2>{{ page.title }}</h2>
-How to set up <a href="https://www.home-assistant.io/integrations/zha/" target="_blank">Zigbee Home Automation (ZHA) (ZHA)</a>.
+How to set up <a href="https://www.home-assistant.io/integrations/zha/" target="_blank">Zigbee Home Automation (ZHA)</a>.
 <!-- ######################################################################  -->
 {% assign compatibility = site.zigbee | where: "compatible", "zha" %}
 {% assign gateway = site.zigbee | where: "category", "light" | concat: compatibility | uniq %}

@@ -7,7 +7,7 @@ category: hvac
 supports: temperature
 image: /assets/images/devices/Bitron_AV2010_32.jpg
 zigbeemodel: ['902010/32']
-compatible: [zigate,iob]
+compatible: [zigate,iob,deconz]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/thermostatbitron90201032
 mlink: https://bvsite.smabit.eu/index.php/produkte/smart-home-produkte/funkthermostat/
 link: https://www.amazon.de/dp/B016V7IJRG/

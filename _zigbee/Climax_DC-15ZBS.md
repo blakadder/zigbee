@@ -5,7 +5,7 @@ title: Door Contact Sensor
 category: sensor
 supports: contact, batterylow
 image: /assets/images/devices/Climax_DC-15ZBS.jpg
-zigbeemodel: 
+zigbeemodel: ['DC_']
 compatible: [deconz]
 mlink: http://www.climax.com.tw/new/dc15zb.php
 link: 

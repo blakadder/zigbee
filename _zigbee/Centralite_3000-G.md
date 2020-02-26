@@ -6,7 +6,7 @@ title: 3-Series Pearl Thermostat
 category: hvac
 supports: hvac
 image: /assets/images/devices/Centralite_3000-G.jpg
-zigbeemodel: ['3157100']
+zigbeemodel: ['3157100','3157100-E']
 compatible: [zha,deconz]
 deconz: 1601
 mlink: https://centralite.com/products/pearl-thermostat

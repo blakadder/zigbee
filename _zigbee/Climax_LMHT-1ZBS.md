@@ -5,7 +5,7 @@ title: Ambient Light Sensor
 category: sensor
 supports: illuminance
 image: /assets/images/devices/Climax_LM-1ZBS.jpg
-zigbeemodel: 
+zigbeemodel: ['LMHT_']
 compatible: [deconz]
 mlink: http://www.climax.com.tw/new/lmht-1zbs.php
 link: 

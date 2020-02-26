@@ -9,7 +9,7 @@ image: /assets/images/devices/LifeControl_MCLH-03.jpg
 zigbeemodel: ['RICI01']
 compatible: [deconz]
 deconz: 1541
-mlink: 
+mlink: https://lifecontrol.ru/devices/smart-plug/
 link: https://www.aliexpress.com/item/10000001787687.html
 link2: 
 link3: 

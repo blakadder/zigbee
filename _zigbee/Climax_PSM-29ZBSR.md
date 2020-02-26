@@ -1,7 +1,7 @@
 ---
 model: PSM-29ZBSR
 vendor: Climax
-title: Power plug
+title: Power Plug
 category: plug
 supports: on/off
 image: /assets/images/devices/Climax_PSM-29ZBSR.jpg

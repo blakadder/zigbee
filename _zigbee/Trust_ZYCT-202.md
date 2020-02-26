@@ -6,8 +6,8 @@ title: Remote Control
 category: remote
 supports: action
 image: /assets/images/devices/Trust_ZYCT-202.jpg
-zigbeemodel: [' ']
-compatible: [z2m,iob,zigate]
+zigbeemodel: ['ZYCT-202']
+compatible: [z2m,iob,zigate,deconz]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/trust71171tlcommande
 mlink: https://www.trust.com/en/product/71171-zigbee-remote-control-zyct-202
 link: https://www.amazon.co.uk/Trust-ZYCT-202-Smart-Compatible-Certified/dp/B0743K1CJ6

@@ -1,4 +1,5 @@
 ---
+date_added: 2020-02-25
 model: ICZB-B1FC60
 vendor: iCasa
 title: Filament Bulb 60mm 7W E27 CCT

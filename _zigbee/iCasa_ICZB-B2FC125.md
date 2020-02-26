@@ -1,4 +1,5 @@
 ---
+date_added: 2020-02-25
 model: ICZB-B2FC125
 vendor: iCasa
 title: Filament Bulb 125mm 7W E27 CCT

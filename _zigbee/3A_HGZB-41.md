@@ -4,7 +4,7 @@ vendor: 3A Nue
 title: Light Switch - 1 Gang AU
 category: switch
 supports: on/off
-image: /assets/images/devices/HGZB-41.jpg
+image: /assets/images/devices/3A_HGZB-41.jpg
 zigbeemodel: ['FB56+ZSW1GKJ2.5', 'LXN-1S27LX1.0']
 compatible: [z2m]
 mlink: https://3asmarthome.com/smart-switches

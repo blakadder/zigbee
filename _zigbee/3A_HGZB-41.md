@@ -11,3 +11,4 @@ mlink: https://3asmarthome.com/smart-switches
 link: https://www.amazon.com.au/Approved-Wireless-Automation-Lighting-Control/dp/B078M49TZ4/
 link2: 
 link3: 
+---

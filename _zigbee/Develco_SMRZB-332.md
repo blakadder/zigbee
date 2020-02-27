@@ -5,7 +5,7 @@ vendor: Develco
 title: Smart Relay 16A DIN
 category: switch
 supports: on/off
-image: /assets/images/devices/Develco_SMSRZB-332.jpg
+image: /assets/images/devices/Develco_SMRZB-332.jpg
 zigbeemodel: ['SMRZB-332']
 compatible: [deconz]
 deconz: 2464

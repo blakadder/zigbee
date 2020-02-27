@@ -5,7 +5,7 @@ vendor: Philips
 title: Hue Smart Plug bluetooth
 category:
 supports: on/off
-image: /assets/images/devices/046677552343.jpg
+image: /assets/images/devices/Philips_LOM002.jpg
 zigbeemodel: ['LOM002']
 compatible: [z2m]
 mlink: https://www2.meethue.com/en-ca/p/hue-smart-plug/046677552343

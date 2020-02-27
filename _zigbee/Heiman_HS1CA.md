@@ -1,6 +1,6 @@
 ---
 model: HS1CA
-vendor: HEIMAN
+vendor: Heiman
 title: Smart Carbon Monoxide Sensor
 category: sensor
 supports: carbon monoxide, batterylow, batterypct

@@ -1,4 +1,3 @@
-
 ---
 date_added: 2020-02-07
 model: LLC006

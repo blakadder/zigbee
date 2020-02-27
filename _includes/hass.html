@@ -346,6 +346,39 @@ switch:
 
 {% endif %}
 
+{%- if page.supports contains "123_on_off" -%}
+
+Switch 1 and 2 Sensor:
+<pre><code class="language-yaml">{% raw %}switch:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_off: "OFF"
+    payload_on: "ON"
+    value_template: "{{ value_json.state_l1 }}"
+    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/l1/set"
+
+switch:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_off: "OFF"
+    payload_on: "ON"
+    value_template: "{{ value_json.state_l2 }}"
+    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/l2/set"
+
+switch:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_off: "OFF"
+    payload_on: "ON"
+    value_template: "{{ value_json.state_l3 }}"
+    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/l3/set"
+{% endraw %}</code></pre>
+
+{% endif %}
+
 {%- if page.supports contains "tb_on_off" -%}
 
 Top and Bottom Switch Sensor:

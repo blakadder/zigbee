@@ -5,7 +5,7 @@ vendor: Unbranded
 title: PA Zigbee Wireless Module
 category: coordinator
 supports: coordinator
-image: /assets/images/devices/launchxl-cc26x2r1.jpg
+image: /assets/images/devices/coordinator_CC2538-CC2592-PA.jpg
 zigbeeid: none
 compatible: [iob]
 mlink: 

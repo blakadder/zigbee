@@ -19,3 +19,4 @@ FCC ID: 2AJZ4KPKEY
 Click types: single, double, long 
 ### Important
 Konke devices only work on Zigbee channel 15, 20 and 25. 
+* On Zigate , it works also on channel 11, but pairing must first to be done on 15, then you switch the Zigate to 11 and the device will switch automatically

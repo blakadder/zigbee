@@ -5,7 +5,7 @@ vendor: Tuya
 title: Gas/Water Valve
 category: hvac
 supports: on/off
-image: /assets/images/devices/Tuya_TS0201.jpg
+image: /assets/images/devices/Tuya_valve.jpg
 zigbeemodel: 
 compatible: [zha]
 mlink: 

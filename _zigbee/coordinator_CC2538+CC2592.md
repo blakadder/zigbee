@@ -9,6 +9,6 @@ image: /assets/images/devices/launchxl-cc26x2r1.jpg
 zigbeeid: none
 compatible: [iob]
 mlink: 
-link: coordinator_CC2538-CC2592-PA.jpg
-link2: https://www.amazon.com/CC2538-CC2592-Zigbee-Wireless-Module/dp/B06XPTR2ZY
+link: https://www.amazon.com/CC2538-CC2592-Zigbee-Wireless-Module/dp/B06XPTR2ZY
+link2: 
 ---

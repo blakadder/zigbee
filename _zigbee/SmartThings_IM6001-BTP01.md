@@ -4,6 +4,7 @@ vendor: SmartThings
 title: Button
 category: remote
 supports: click, temperature
+action: single, double, hold
 image: /assets/images/devices/SmartThings_IM6001-BTP01.jpg
 zigbeemodel: ['button']
 compatible: [z2m,zha,deconz]
@@ -16,5 +17,3 @@ EAN:
   - GP-U999SJVLEAA
   - GP-U999SJVLEEA
 ---
-###### Actions
-`single`, `double`, `hold`

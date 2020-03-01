@@ -14,7 +14,3 @@ compatible: [z2m,iob,deconz]
 z2m: 2AJZ4KPFT
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/konketempsensor
 ---
-FCC ID: 2AJZ4-KPFT
-
-### Important
-Konke devices only work on Zigbee channel 15, 20 and 25. 

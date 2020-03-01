@@ -13,7 +13,3 @@ zigbeemodel: ['3AFE130104020015', '3AFE270104020015']
 compatible: [z2m,iob,deconz]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/konkedoorsensor
 ---
-FCCID: 2AJZ4-KPDR
-
-### Important
-Konke devices only work on Zigbee channel 15, 20 and 25. 

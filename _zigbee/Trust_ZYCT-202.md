@@ -5,6 +5,7 @@ vendor: Trust
 title: Remote Control
 category: remote
 supports: action
+action: on, off, stop, up-press, down-press
 image: /assets/images/devices/Trust_ZYCT-202.jpg
 zigbeemodel: ['ZYCT-202']
 compatible: [z2m,iob,zigate,deconz]
@@ -14,11 +15,3 @@ link: https://www.amazon.co.uk/Trust-ZYCT-202-Smart-Compatible-Certified/dp/B074
 link2: https://www.amazon.de/dp/B0743K1CJ6
 link3: https://smarthomenz.nz/products/zigbee-remote-control-with-wall-mount
 ---
-###### Actions
-on, off: `press`
-up, down: `hold`, `release`
-
-### Pairing
-1. Factory reset the remote by holding the 0 (off) button for +-20 seconds.
-2. To establish a connection keep the remote within 2 meters from the hub.
-3. Press and hold the smart group button (button with two bulbs) and wait until the lights, below the channels, flash. 

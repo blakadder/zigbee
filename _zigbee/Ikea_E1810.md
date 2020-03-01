@@ -4,6 +4,7 @@ vendor: IKEA
 title: Tradfri Remote Control
 category: remote
 supports: action, batterypct
+action: toggle, arrow click/hold/release, brightness up click/hold/release, brightness down click/hold/release
 image: /assets/images/devices/Ikea_E1810.jpg
 zigbeemodel: ['TRADFRI Remote Control']
 compatible: [z2m,zigate,zha,deconz]
@@ -17,14 +18,5 @@ EAN:
   - 004.431.30
 ---
 
-###### Actions
-toggle, arrow left/right click/hold/release, brightness up/down click/hold/release
 
-When clicking the middle (center) button on the remote it will send a `{"click": "toggle"}`, when holding it
-it will **also** send a `{"click": "toggle_hold"}`. It is not possible to skip the `toggle` when the button is hold.
-Also the remote won't send anything when the button is released. See [link](https://github.com/Koenkk/zigbee2mqtt/issues/2077#issuecomment-538691885) for more details. 
 
-###### Pairing
-Pair the remote to your gateway by holding it close and
-pressing the inside button (next to the CR2032 battery) 4 times.
-The red light on the (front of the) remote will now flash a few times.

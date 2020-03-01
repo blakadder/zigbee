@@ -5,6 +5,7 @@ vendor: Xiaomi
 title: Aqara Opple Wireless Scene Switch 6 Button
 category: remote
 supports: action, batterylow
+action: hold, release, single, double, triple
 image: /assets/images/devices/WXCJKG13LM.jpg
 zigbeemodel: ['lumi.remote.b686opcn01']
 z2m: WXCJKG13LM
@@ -15,8 +16,6 @@ link2: https://www.banggood.com/Original-Aqara-OPPLE-Wireless-International-Vers
 link3: https://www.amazon.de/dp/B0832NN2JJ
 link4: https://www.gearbest.com/power-strips/pp_009267447933.html
 ---
-###### Actions
-`hold`, `release`, `single`, `double`, `triple`
 ### Binding
 By default the switch is bound to the coordinator but this device can also be used to directly control other lights and switches in the network.
 

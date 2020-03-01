@@ -4,7 +4,8 @@ model: SC1
 vendor: Securifi
 title: Almond Click
 category: remote
-supports: action, 
+supports: action
+action: single, double, long click 
 image: /assets/images/devices/Securifi_SC1.jpg
 zigbeemodel: ['ZB2-BU01']
 compatible: [z2m]
@@ -13,5 +14,3 @@ link: https://www.amazon.com/Securifi-Routers-control-devices-settings/dp/B01M7Y
 link2: 
 link3: 
 ---
-###### Actions
- single, double and long click

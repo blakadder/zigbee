@@ -4,6 +4,7 @@ vendor: Müller Licht
 title: Tint Remote Control
 category: remote
 supports: action, brightness
+action: on, off, toggle, brightness up/down click/hold/release, move to colortemp, move to color, scene
 image: /assets/images/devices/Muller_Licht_404011.jpg
 zigbeemodel: ['ZBT-Remote-ALL-RGBW']
 compatible: [z2m,iob]
@@ -12,7 +13,3 @@ link: https://www.amazon.de/M%C3%9CLLER-LICHT-Fernbedienung-vorprogrammierten-in
 link2: https://www.amazon.co.uk/M%C3%BCller-Licht-Remote-Control-Plastic-White/dp/B07FMCLC2N
 link3: 
 ---
-###### Actions
- toggle, brightness, other buttons are not supported yet!
-
-

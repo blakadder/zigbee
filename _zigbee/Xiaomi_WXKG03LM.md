@@ -4,6 +4,7 @@ vendor: Xiaomi
 title: Aqara Wireless Remote Switch (Single Rocker)
 category: remote
 supports: click, batterypct
+action: single click, double click, long press
 image: /assets/images/devices/WXKG03LM.jpg
 zigbeemodel: ['lumi.sensor_86sw1', 'lumi.remote.b186acn01']
 compatible: [z2m,zigate,deconz,zha,iob]
@@ -13,9 +14,3 @@ link: https://www.aliexpress.com/item/32875105783.html
 link2: https://www.amazon.de/dp/B07F3J562X
 link3: 
 ---
-###### Actions
-`single click` 
-
-Only for model "lumi.remote.b186acn01" (Newest model)
-
-`single click` , `double click` and `long press`:

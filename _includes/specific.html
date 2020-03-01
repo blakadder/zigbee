@@ -39,7 +39,14 @@ NOTE: This must be executed everytime you make changes to a light's attributes f
 
     
 {% endif %}
-    
+
+{%- if page.vendor == "IKEA" or page.vendor == "Ubisys" or page.vendor == "OSRAM" or page.vendor == "Ledvance" -%}
+
+<h5>OTA Updates</h5>
+This device supports OTA updates. For more information see <a href="https://www.zigbee2mqtt.io/information/ota_updates.html" target="_blank">Zigbee2MQTT documentation</a>.
+
+{% endif %}
+
 {%- if page.supports contains "decoupled" -%}
 
 {% capture my_include %}{% include decoupled.md %}{% endcapture %}
@@ -66,10 +73,10 @@ Allows to manually calibrate illuminance values (example: `95` would take 95% to
 {% endif %}
 </p>
 
-    {%- if page.supports contains "interlock" -%}
+{%- if page.supports contains "interlock" -%}
 <p>
 
-    <code>interlock</code><br>
+<code>interlock</code><br>
 This option allows to inter connect the relays which will make sure that only one relay is on at a time. To do this publish to `zigbee2mqtt/[FRIENDLY_NAME]/set` payload `{"interlock": true}` or `{"interlock": false}`. By default this option is `false`. 
     
 {% endif %}
@@ -89,6 +96,43 @@ experimenting with this option (e.g. <code>long_timeout: 2000</code>).
 {% endif %}
 </p>
 
+<p>
+{%- if page.model == "E1744" -%}
+<h5>Note</h5>
+This device sends multiple messages in short time period with the same payload. It's worth setting <code>debounce</code> option with <code>debounce_ignore: - action</code> to throttle them without losing unique action payloads.
+<br>
+
+Example: devices.yaml
+
+<pre><code class="language-yaml">'0xabc457fffe679xyz':
+    friendly_name: my_remote
+    debounce: 0.5
+    debounce_ignore:
+    - action</code></pre>
+
+To find optimal "smoothness" play with debounce time or if you need all unique rotation steps consider adding <code>brightness</code> to <code>debounce_ignore</code> option
+
+<pre><code class="language-yaml">'0xabc457fffe679xyz':
+    friendly_name: my_remote
+    debounce: 0.1
+    debounce_ignore:
+    - action
+    - brightness</code></pre>
+
+{% endif %}
+</p>
+
+<p>
+    {%- if page.model == "E1810" -%}
+    <h5>Note</h5>
+    When clicking the middle (center) button on the remote it will send a <code>{"click": "toggle"}</code>, when holding it
+    it will **also** send a <code>{"click": "toggle_hold"}</code>. It is not possible to skip the <code>toggle</code> when the button is held.
+    The remote won't send anything when the button is released. <br>
+    See <a href="https://github.com/Koenkk/zigbee2mqtt/issues/2077#issuecomment-538691885" target="_blank">here</a> for more details.     <br>
+    
+    {% endif %}
+    </p>
+    
 <p>
 {%- if page.supports contains "occupancy" -%}
 
@@ -120,7 +164,7 @@ Timeout (in seconds) after the `occupancy: false` message is sent. If not set, t
         <code>temperature_calibration</code> <BR>
         Allows to manually calibrate temperature values (example: 1 would add 1 degree to the temperature reported by the device; default is `0`).
         </p>
-        {% endif %}
+    {% endif %}
 <p>        
 {%- if page.supports contains "colorxy" -%}
 
@@ -138,6 +182,10 @@ Controls the transition time (in seconds) of brightness and colortemp. Defaults 
 Controls the transition time (in seconds) of brightness. Defaults to 0 (no transition). Note that this value is overridden if a transition value is present in the MQTT command payload.</p>
 
 {% endif %}
+
+{%- if page.supports contains "brightness" or page.supports contains "pressure" or page.supports contains "temperature" or page.supports contains "occupancy" or page.model contains "WXKG01LM" or page.supports contains "interlock" or page.supports contains "illuminance" or  page.supports contains "humidity" or page.supports contains "decoupled" -%}
 <p>
 <a href="https://www.zigbee2mqtt.io/information/configuration.html#device-type-specific" target="_blank"> How to use device type specific configuration?</a>
 </p>
+
+{% endif %}

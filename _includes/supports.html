@@ -11,5 +11,16 @@
         </td>
     </tr>
     {% endfor %}
+    {%- if page.action != nil -%}
+    <tr><th style="border-bottom: none">Action types:</th></tr>
+    {% assign actions = page.action | split: ',' | sort_natural %}
+    {% for action in actions %}
+    <tr>
+        <td style="border-bottom: none">
+            <code>{{ action }}</code>
+        </td>
+    </tr>
+    {% endfor %}
+    {% endif %}
     </tbody>
 </table>

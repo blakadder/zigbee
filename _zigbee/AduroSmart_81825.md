@@ -4,6 +4,7 @@ vendor: AduroSmart
 title: ERIA Smart Wireless Dimming Switch Remote
 category: remote
 supports: action
+action: on, off, up, down
 image: /assets/images/devices/81825.jpg
 zigbeemodel: ['Adurolight_NCC']
 compatible: [z2m, zha]
@@ -12,5 +13,3 @@ link: https://www.amazon.com/AduroSmart-ERIA-Wireless-Dimming-Switch/dp/B07HJHJW
 link2: 
 link3: 
 ---
-###### Actions
- on/off, up/down

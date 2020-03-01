@@ -3,7 +3,8 @@ model: E1744
 vendor: IKEA
 title: Symfonisk Sound Controller
 category: remote
-supports: 
+supports: action, batterypct
+action: volume up, volume down, play, pause, skip forward, skip backward
 image: /assets/images/devices/E1744.jpg
 zigbeemodel: ['SYMFONISK Sound Controller']
 compatible: [z2m,zha,deconz]
@@ -13,5 +14,3 @@ link2: https://www.amazon.com/IKEA-Symfonisk-Sound-Remote-104-338-47/dp/B082W1GV
 link3: 
 EAN: 203.704.82
 ---
-###### Actions
-volume up/down, play/pause, skip forward/backward

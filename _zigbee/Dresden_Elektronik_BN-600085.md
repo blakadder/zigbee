@@ -5,6 +5,7 @@ vendor: Dresden Elektronik
 title: Scene Switch
 category: switch
 supports: action, brightness
+action: click, hold, release
 image: /assets/images/devices/Dresden_Elektronik_BN-600085.jpg
 zigbeemodel: ['Scene Switch']
 compatible: [deconz]
@@ -15,5 +16,3 @@ link3: https://en.robbshop.nl/wireless-scene-wallswitch-zigbee
 link4: 
 EAN: 4260350821144
 ---
-###### Actions
-`click`, `hold`, `release`

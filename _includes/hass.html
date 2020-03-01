@@ -1,4 +1,4 @@
-<h4>Home Assistant Configuration</h4>
+<h5>Integrating in Home Assistant</h5>
 Home Assistant integration through <a href="https://www.zigbee2mqtt.io/integration/home_assistant" target="_blank">MQTT discovery</a> is preferred.
 Manual integration is done with the following configurations. 
 Replace `[FRIENDLY_NAME]` with your <a href="https://www.zigbee2mqtt.io/information/mqtt_topics_and_message_structure.html#zigbee2mqttfriendly_name" target="_blank">device's friendly name</a>!
@@ -351,30 +351,30 @@ switch:
 Switch 1 and 2 Sensor:
 <pre><code class="language-yaml">{% raw %}switch:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_off: "OFF"
     payload_on: "ON"
     value_template: "{{ value_json.state_l1 }}"
-    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/l1/set"
+    command_topic: "zigbee2mqtt/[FRIENDLY_NAME]/l1/set"
 
 switch:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_off: "OFF"
     payload_on: "ON"
     value_template: "{{ value_json.state_l2 }}"
-    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/l2/set"
+    command_topic: "zigbee2mqtt/[FRIENDLY_NAME]/l2/set"
 
 switch:
   - platform: "mqtt"
-    state_topic: "zigbee2mqtt/<FRIENDLY_NAME>"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_off: "OFF"
     payload_on: "ON"
     value_template: "{{ value_json.state_l3 }}"
-    command_topic: "zigbee2mqtt/<FRIENDLY_NAME>/l3/set"
+    command_topic: "zigbee2mqtt/[FRIENDLY_NAME]/l3/set"
 {% endraw %}</code></pre>
 
 {% endif %}
@@ -700,12 +700,26 @@ Connectivity Sensor:
 
 {% endif %}
 
+{%- if page.vendor == "IKEA" -%}
+
+OTA Update Availability Sensor:
+<pre><code class="language-yaml">{% raw %}binary_sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    payload_on: true
+    payload_off: false
+    value_template: "{{ value_json.update_available}}"
+    {% endraw %}</code></pre>
+
+{% endif %}
+
 Zigbee Link Quality Sensor:
 <pre><code class="language-yaml">{% raw %}sensor:
   - platform: "mqtt"
     state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
     availability_topic: "zigbee2mqtt/bridge/state"
-    unit_of_measurement: "-"
+    unit_of_measurement: "lqi"
     value_template: "{{ value_json.linkquality }}"
 {% endraw %}</code></pre>
 </div>

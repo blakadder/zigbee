@@ -1,7 +1,7 @@
 ---
 date_added: 2020-02-02
 model: STHM-I1H
-vendor: Heiman
+vendor: GS
 title: Temperature and Humidity Sensor
 category: sensor
 supports: temperature, humidity, batterylow

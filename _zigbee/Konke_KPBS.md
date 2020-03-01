@@ -14,7 +14,3 @@ compatible: [z2m,iob,zha,deconz]
 z2m: 2AJZ4KPBS
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/konkemotionsensor
 ---
-FCCID: 2AJZ-4KPBS
-
-### Important
-Konke devices only work on Zigbee channel 15, 20 and 25.

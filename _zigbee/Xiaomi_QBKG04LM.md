@@ -4,6 +4,7 @@ vendor: Xiaomi
 title: Aqara No Neutral Wall Switch Single Key
 category: switch
 supports: action, on/off, decoupled
+action: click, hold, release
 image: /assets/images/devices/QBKG04LM.jpg
 zigbeemodel: ['lumi.ctrl_neutral1']
 compatible: [z2m,zigate,iob,deconz]
@@ -15,5 +16,3 @@ link3: https://www.amazon.de/dp/B07YWB3F5C
 link4: https://www.amazon.co.uk/Leepesx-QBKG04LM-Intelligent-Switching-Firewire/dp/B07Y54MJLR
 ---
 Doesn't work as a router and doesn't support power meter.
-###### Actions
-`click`, `hold`, `release`

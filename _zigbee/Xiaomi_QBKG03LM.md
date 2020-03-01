@@ -4,6 +4,7 @@ vendor: Xiaomi
 title: Aqara No Neutral Wall Switch (Double Rocker)
 category: switch
 supports: action, lr_on_off, temperature, decoupled mode
+action: click, hold, release
 image: /assets/images/devices/QBKG03LM.jpg
 zigbeemodel: ['lumi.ctrl_neutral2']
 compatible: [z2m,zigate,deconz,iob]
@@ -14,7 +15,3 @@ link3: https://www.amazon.de/dp/B07YW4XWM1
 link4: https://www.gearbest.com/alarm-systems/pp_610096.html
 ---
 Doesn't work as a router and doesn't support power meter.
-
-###### Actions
-`click`, `hold`, `release`
-

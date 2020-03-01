@@ -3,7 +3,8 @@ model: MFKZQ01LM
 vendor: Xiaomi
 title: Aqara Cube Controller
 category: remote
-supports: action, low batterypct
+supports: action, batterypct
+action: shake, wakeup, fall, tap, slide, flip180, flip90, rotate_left, rotate_right
 image: /assets/images/devices/MFKZQ01LM.jpg
 zigbeemodel: ['lumi.sensor_cube', 'lumi.sensor_cube.aqgl01']
 compatible: [z2m,zigate,deconz,tasmota,zha,iob]
@@ -15,5 +16,3 @@ link2: https://www.aliexpress.com/af/aqara-magic-cube.html
 link3: https://www.banggood.com/Original-Aqara-Magic-Cube-Remote-Controller-Sensor-Remote-Control-Switch-From-Xiaomi-Eco-System-p-1293289.html
 link4: https://www.amazon.de/s?k=MFKZQ01LM
 ---
-###### Actions
-shake, wakeup, fall, tap, slide, flip180, flip90, rotate_left and rotate_right

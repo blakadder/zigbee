@@ -4,6 +4,7 @@ vendor: Sylvania
 title: Lightify Smart Dimming Switch
 category: remote
 supports: action, batterypct
+action: up, down, hold, release
 image: /assets/images/devices/Sylvania_73743.jpg
 zigbeemodel: ['LIGHTIFY Dimming Switch']
 compatible: [zha,z2m]
@@ -12,5 +13,3 @@ link: https://www.amazon.com/SYLVANIA-LIGHTIFY-Osram-Products-required/dp/B0196M
 link2: 
 link3: 
 ---
-###### Actions
-`up`, `down`, `hold`, `release`

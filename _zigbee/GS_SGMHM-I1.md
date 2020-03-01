@@ -1,7 +1,7 @@
 ---
 date_added: 2020-02-02
 model: SGMHM-I1
-vendor: Heiman
+vendor: GS
 title: Gas Sensor (Methane)
 category: sensor
 supports: gas

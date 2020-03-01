@@ -4,6 +4,7 @@ vendor: Xiaomi
 title: Aqara Vibration Sensor
 category: sensor
 supports: action, batterylow, sensitivity 
+action: drop, tilt, touch
 image: /assets/images/devices/DJT11LM.jpg
 zigbeemodel: ['lumi.vibration.aq1']
 compatible: [z2m,zigate,tasmota,zha,iob,deconz]
@@ -15,5 +16,3 @@ link2: https://www.banggood.com/International-Version-Original-Aqara-Smart-Motio
 link3: https://www.gearbest.com/smart-home-controls/pp_009661787808.html
 link4: https://www.amazon.com/Aqara-Vibration-Sensor-Automation-Compatible/dp/B07PJT939B
 ---
-###### Actions
-`drop`, `tilt` and `touch`

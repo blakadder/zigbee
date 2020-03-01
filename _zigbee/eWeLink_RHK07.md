@@ -5,6 +5,7 @@ vendor: eWeLink
 title: Wireless Button
 category: remote
 supports: action, batterypct
+action: single, double, long 
 image: /assets/images/devices/eWeLink_RHK07.jpg
 mlink: 
 link: https://www.aliexpress.com/item/4000537100802.html
@@ -13,5 +14,3 @@ link3:
 zigbeemodel: ['WB01']
 compatible: [z2m,iob]
 ---
-###### Actions
-`single`, `double`, `long`

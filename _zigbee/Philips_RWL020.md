@@ -4,6 +4,7 @@ vendor: Philips
 title: Hue Dimmer Switch (US)
 category: remote
 supports: action, batterypct
+action:  on, off, brightness, up/down/hold/release, click count
 image: /assets/images/devices/Philips_8718696743157.jpg
 zigbeemodel: ['RWL020']
 compatible: [z2m, zigate, deconz, zha]
@@ -13,5 +14,3 @@ link: https://www.amazon.de/dp/B0748KLR39
 link2: 
 link3: 
 ---
-###### Actions
- on/off, brightness, up/down/hold/release, click count

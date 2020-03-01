@@ -13,5 +13,5 @@ deconz: 883
 mlink: https://www.legrand.fr/pro/catalogue/42566-version-celiane-with-netatmo/interrupteur-filaire-connecte-celiane-with-netatmo-pour-volet-roulant-blanc
 link: https://www.amazon.fr/dp/B07G3GHLPG/
 link2: https://www.amazon.it/Legrand-677-interruttore-elettrico-Bianco/dp/B07G3GHLPG
-link3: 
+link3: https://github.com/pipiche38/Domoticz-Zigate-Wiki/blob/master/en-eng/Legrand-Netatmo-corner.md
 ---

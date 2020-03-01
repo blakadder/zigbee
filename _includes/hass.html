@@ -700,6 +700,15 @@ Connectivity Sensor:
 
 {% endif %}
 
+Zigbee Link Quality Sensor:
+<pre><code class="language-yaml">{% raw %}sensor:
+  - platform: "mqtt"
+    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
+    availability_topic: "zigbee2mqtt/bridge/state"
+    unit_of_measurement: "lqi"
+    value_template: "{{ value_json.linkquality }}"
+{% endraw %}</code></pre>
+
 {%- if page.vendor == "IKEA" -%}
 
 OTA Update Availability Sensor:
@@ -709,17 +718,9 @@ OTA Update Availability Sensor:
     availability_topic: "zigbee2mqtt/bridge/state"
     payload_on: true
     payload_off: false
-    value_template: "{{ value_json.update_available}}"
+    value_template: "{{ value_json.update_available }}"
     {% endraw %}</code></pre>
 
 {% endif %}
 
-Zigbee Link Quality Sensor:
-<pre><code class="language-yaml">{% raw %}sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    unit_of_measurement: "lqi"
-    value_template: "{{ value_json.linkquality }}"
-{% endraw %}</code></pre>
 </div>

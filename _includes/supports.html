@@ -16,9 +16,7 @@
     {% assign actions = page.action | split: ',' | sort_natural %}
     {% for action in actions %}
     <tr>
-        <td style="border-bottom: none">
-            <code>{{ action }}</code>
-        </td>
+        <td style="border-bottom: none"><code>{{ action | strip }}</code></td>
     </tr>
     {% endfor %}
     {% endif %}

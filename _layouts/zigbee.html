@@ -68,16 +68,12 @@ layout: default
 <p>
 {%- if page.compatible contains "deconz" and page.deconz != nil -%}
 <h6>deCONZ</h6>
-<a href="https://github.com/dresden-elektronik/deconz-rest-plugin/issues/{{ page.deconz }}">GitHub issue thread.</a>
+More information on <a href="https://github.com/dresden-elektronik/deconz-rest-plugin/issues/{{ page.deconz }}">deCONZ GitHub thread</a>.
 {% endif %}
 <p>
 {%- if page.compatible contains "zigate" and page.zigate != nil -%}
 <h6>Zigate</h6>
-<a href="{{ page.zigate }}">Entry on ZiGate site.</a> 
-
-{%- if page.vendor contains "Legrand" -%}
-&nbsp; Read more about Legrand device specifics on <a href="https://github.com/pipiche38/Domoticz-Zigate-Wiki/blob/master/en-eng/Legrand-Netatmo-corner.md">Domoticz-Zigate-Wiki</a> by pipiche38.
-{% endif %}
+More information on <a href="{{ page.zigate }}">ZiGate site</a>.
 {% endif %}
 <p>
 {%- if page.compatible contains "z2m" -%}

@@ -16,7 +16,6 @@
 			self.field('model', { boost: 10 });
 			self.field('title');
 			self.field('zigbeemodel');
-			self.field('content');
 
 			Object.keys(data).forEach(function (key) {
 				self.add({
@@ -24,7 +23,6 @@
 					title: data[key].title,
 					model: data[key].model,
 					zigbeemodel: data[key].zigbeemodel,
-					content: data[key].content
 				});
 			})
 

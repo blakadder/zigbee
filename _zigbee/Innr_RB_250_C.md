@@ -7,7 +7,7 @@ supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Innr_RB_250_C.jpg
 zigbeemodel: ['RB 250 C']
 compatible: [z2m,iob]
-mlink: https://shop.innrlighting.com/en/shop/179/smart-candle-colour-e14
+mlink: https://www.innr.com/en/product/smart-candle-colour/
 link: https://www.amazon.de/Smart-dimmbar-kompatibel-Philips-1-Pack/dp/B07Q3H53VF
 link2: https://www.amazon.co.uk/dp/B07Q4F7G16
 link3: 

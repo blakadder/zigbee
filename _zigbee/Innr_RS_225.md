@@ -7,7 +7,7 @@ supports: on/off, brightness
 image: /assets/images/devices/Innr_RS_225.jpg
 zigbeemodel: ['RS 225']
 compatible: [z2m,iob]
-mlink: https://shop.innrlighting.com/en/shop/146/smart-spot-white-gu10-z3.0
+mlink: https://www.innr.com/en/product/smart-spot-white/
 link: https://www.amazon.de/Smart-warmwei%C3%9Fes-dimmbar-kompatibel-Philips/dp/B07KT98J3Q
 link2: https://www.amazon.co.uk/Innr-Philips-Amazon-Assistant-Required/dp/B07M9CQ5X3
 link3: https://www.amazon.co.uk/Innr-Philips-Amazon-Assistant-Required/dp/B07KT98J3Q

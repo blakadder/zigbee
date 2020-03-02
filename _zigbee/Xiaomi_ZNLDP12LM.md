@@ -17,6 +17,3 @@ link4: https://www.amazon.de/dp/B07X2TH2QL
 ---
 ### Pairing
 Switch the lamp on five times until the bulb blinks several times.
-
-
-

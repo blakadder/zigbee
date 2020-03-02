@@ -7,7 +7,7 @@ supports: on/off, brightness, colortemp
 image: /assets/images/devices/Innr_RB_248T.jpg
 zigbeemodel: ['RB 248 T']
 compatible: [z2m,iob]
-mlink: https://shop.innrlighting.com/en/shop/137/smart-candle-comfort-e14-z3.0-2-pack
+mlink: https://www.innr.com/en/product/smart-candle-comfort-2pack/
 link: https://www.amazon.de/Philips-kompatibel-dimmbar-Warmwei%C3%9F-Tageslicht/dp/B07HB37DJ9
 link2: https://www.amazon.co.uk/Innr-LED-E14-lamp-tunable/dp/B07KGHTBFH
 link3: 

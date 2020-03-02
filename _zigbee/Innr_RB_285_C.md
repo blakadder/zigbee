@@ -7,7 +7,7 @@ supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Innr_RB_285_C.jpg
 zigbeemodel: ['RB 285 C']
 compatible: [z2m,iob]
-mlink: https://shop.innrlighting.com/en/shop/143/smart-bulb-colour-e27-z3.0
+mlink: https://www.innr.com/en/product/smart-bulb-colour-e27/
 link: https://www.amazon.co.uk/Innr-Colour-Philips-Assistant-Required/dp/B07GT1LWDH
 link2: https://www.amazon.de/dp/B07GT12JTJ
 link3: 

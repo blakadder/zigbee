@@ -1,4 +1,5 @@
 ---
+date_added: 2020-03-03
 model: SM10ZW
 vendor: Orvibo
 title: Door & Window Sensor

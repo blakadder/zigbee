@@ -1,4 +1,5 @@
 ---
+date_added: 2020-03-03
 model: RS 228 T
 vendor: Innr
 title: Tunable White Spot Bulb GU10

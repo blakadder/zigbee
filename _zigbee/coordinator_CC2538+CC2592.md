@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator
 image: /assets/images/devices/coordinator_CC2538-CC2592-PA.jpg
 zigbeeid: none
-compatible: [iob]
+compatible: [iob,zha]
 mlink: 
 link: https://www.aliexpress.com/item/4000714953897.html
 link2: https://www.amazon.com/CC2538-CC2592-Zigbee-Wireless-Module/dp/B06XPTR2ZY

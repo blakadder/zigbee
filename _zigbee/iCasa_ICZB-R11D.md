@@ -1,6 +1,6 @@
 ---
+date_added: 2020-03-06
 model: ICZB-R11D
-EAN: 7061257407014
 vendor: iCasa
 title: Dimmer + Rotary Dimmer
 category: light

@@ -1,5 +1,5 @@
 ---
-date_added: 2020-01-13
+date_added: 2020-03-06
 model: U202DST600ZB
 vendor: Schneider Electric
 title: ULTI EZinstall3 2 Gang Dimmer

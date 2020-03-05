@@ -1,5 +1,5 @@
 ---
-date_added: 2020-02-25
+date_added: 2020-03-06
 model: WL4200S
 vendor: Sinope
 title: Smart Light Switch 1800W

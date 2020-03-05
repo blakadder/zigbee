@@ -1,4 +1,5 @@
 ---
+date_added: 2020-03-06
 model: F-APP-UK-V2
 vendor: SmartThings
 title: Power Outlet UK

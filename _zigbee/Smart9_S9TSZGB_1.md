@@ -1,4 +1,5 @@
 ---
+date_added: 2020-03-06
 model: S9TSZGB 1
 vendor: Smart9
 title: 1 Gang Remote Switch

@@ -3,7 +3,7 @@ model: F-APP-UK-V2
 vendor: SmartThings
 title: Power Outlet UK
 category: plug
-supports: on/off
+supports: on/off, power measurement
 image: /assets/images/devices/SmartThings_F-APP-UK-V2.jpg
 zigbeemodel: ['3200-Sgb']
 compatible: [z2m,deconz]

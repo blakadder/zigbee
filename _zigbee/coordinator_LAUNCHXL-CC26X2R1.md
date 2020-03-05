@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator
 image: /assets/images/devices/launchxl-cc26x2r1.jpg
 zigbeeid: none
-compatible: [z2m, iob]
+compatible: [z2m,iob,zha]
 mlink: http://www.ti.com/tool/LAUNCHXL-CC26X2R1
 link: https://www.aliexpress.com/item/4000508609933.html
 link2: https://www.amazon.com/Development-SimpleLink-Launchpad-Wireless-Emulator/dp/B071PB2Z4D

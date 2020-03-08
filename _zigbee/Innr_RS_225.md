@@ -12,7 +12,3 @@ link: https://www.amazon.de/Smart-warmwei%C3%9Fes-dimmbar-kompatibel-Philips/dp/
 link2: https://www.amazon.co.uk/Innr-Philips-Amazon-Assistant-Required/dp/B07M9CQ5X3
 link3: https://www.amazon.co.uk/Innr-Philips-Amazon-Assistant-Required/dp/B07KT98J3Q
 ---
-### Pairing
-Factory reset the light bulb ([video](https://www.youtube.com/watch?v=4zkpZSv84H4)).
-
-

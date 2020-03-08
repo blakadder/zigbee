@@ -12,7 +12,3 @@ link: https://www.amazon.de/Smart-dimmbar-kompatibel-Philips-1-Pack/dp/B07Q3H53V
 link2: https://www.amazon.co.uk/dp/B07Q4F7G16
 link3: 
 ---
-### Pairing
-Factory reset the light bulb ([video](https://www.youtube.com/watch?v=4zkpZSv84H4)).
-
-

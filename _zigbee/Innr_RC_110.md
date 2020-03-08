@@ -15,5 +15,5 @@ link2: https://www.amazon.de/dp/B01D1VGDJQ
 link3: 
 EAN: 8718781550646
 ---
-### Pairing
+###### Pairing
 Hold the Program and - buttons for five seconds, until the light blinks five times

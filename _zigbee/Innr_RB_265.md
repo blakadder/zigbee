@@ -14,6 +14,3 @@ link2: https://www.amazon.de/dp/B07J6P6433
 link3: 
 EAN: 8718781552220
 ---
-### Pairing
-Factory reset the light bulb ([video](https://www.youtube.com/watch?v=4zkpZSv84H4)).
-

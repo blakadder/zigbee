@@ -12,6 +12,3 @@ link: https://www.amazon.co.uk/Innr-dimmable-Compatible-RB-165/dp/B00CKPF10M
 link2: https://www.amazon.de/warmwei%C3%9Fes-dimmbar-kompatibel-RB-165/dp/B00CKPF10M
 link3: 
 ---
-### Pairing
-Factory reset the light bulb ([video](https://www.youtube.com/watch?v=4zkpZSv84H4)).
-

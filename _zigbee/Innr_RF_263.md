@@ -13,5 +13,3 @@ link: https://www.amazon.co.uk/Filament-Vintage-Philips-Google-Required/dp/B07V1
 link2: https://www.amazon.de/Smart-Filament-Vintage-Philips-1-Pack/dp/B07V1HN53P
 link3: 
 ---
-### Pairing
-Factory reset the light bulb ([video](https://www.youtube.com/watch?v=4zkpZSv84H4)).

@@ -13,7 +13,3 @@ link: https://www.amazon.de/dp/B07W5JCFJR
 link2: https://www.amazon.co.uk/dp/B07W5JCFJR/
 link3: https://en.robbshop.nl/gu10-colour-light-zigbee-innr
 ---
-### Pairing
-Factory reset the light bulb ([video](https://www.youtube.com/watch?v=4zkpZSv84H4)).
-
-

@@ -12,7 +12,3 @@ link: https://www.amazon.co.uk/Innr-Colour-Philips-Assistant-Required/dp/B07GT1L
 link2: https://www.amazon.de/dp/B07GT12JTJ
 link3: 
 ---
-### Pairing
-Factory reset the light bulb ([video](https://www.youtube.com/watch?v=4zkpZSv84H4)).
-
-

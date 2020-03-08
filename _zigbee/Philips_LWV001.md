@@ -1,7 +1,7 @@
 ---
 model: LWV001
 vendor: Philips
-title: Hue Single Filament Bulb ST64 E27
+title: Hue White Filament Bulb ST64 E27
 category: light
 supports: on/off, brightness, power-on behavior
 image: /assets/images/devices/Philips_929002241201.jpg

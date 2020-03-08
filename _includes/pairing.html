@@ -1,5 +1,5 @@
 {%- if page.vendor contains "Gledopto" -%}
-<h3>Pairing Instructions</h3>
+<h6>Pairing Instructions</h6>
 
 <ul>
     <li>Switch on your device.</li>
@@ -74,6 +74,10 @@ Detailed pairing instructions and additional information on <a href="https://git
 {%- elsif page.vendor contains "Konke" -%}
 
 Konke devices only work on Zigbee channel 15, 20 and 25. (On Zigate they will work on channel 11, but first they must be paired on channel 15. After that switch the Zigate to channel 11 and the device will follow automatically)
+
+{%- elsif page.vendor contains "Konke" -%}
+<h6>Pairing Instructions</h6>
+Factory reset the light bulb <a href="https://www.youtube.com/watch?v=4zkpZSv84H4" target="_blank">(video instructions)</a>
 
 {% endif %}
 

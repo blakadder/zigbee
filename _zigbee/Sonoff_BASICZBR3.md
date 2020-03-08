@@ -9,7 +9,7 @@ zigbeemodel: ['BASICZBR3']
 compatible: [z2m,deconz,tasmota,iob,zigate]
 deconz: 1950
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/basiczbr3
-mlink: https://www.itead.cc/sonoff-basiczbr3.html
+mlink: https://sonoff.tech/product/zigbee-diy-smart-switches/basiczbr3
 link: https://www.amazon.de/dp/B0813DJ477
 link2: https://www.amazon.com/SONOFF-BASICZBR3-Controller-Compatible-SmartThings/dp/B07ZPRXMMD
 link3: https://www.aliexpress.com/af/basiczbr3.html

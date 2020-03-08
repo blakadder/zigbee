@@ -2,7 +2,7 @@
 model: LWA001
 EAN: 8718699673147
 vendor: Philips
-title: Hue White Bulb A60 E27
+title: Hue White Ambiance A60 E27 Bluetooth
 category: light
 supports: on/off, brightness, power-on behavior
 image: /assets/images/devices/Philips_LWA001.jpg

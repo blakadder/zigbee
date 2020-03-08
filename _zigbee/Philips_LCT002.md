@@ -2,7 +2,7 @@
 model: LCT002
 EAN: 9290002579A
 vendor: Philips
-title: Hue white and color BR30 (1st Gen)
+title: Hue White and Color BR30 (1st Gen)
 category: light
 supports: on/off, brightness, colortemp, colorxy, power-on behavior
 image: /assets/images/devices/Philips_LCT002.jpg

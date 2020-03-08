@@ -1,7 +1,7 @@
 ---
 model: BY 265
 vendor: Innr
-title: WW Dimmable Bulb B22
+title: WW Dimmable B22 Bulb
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Innr_BY_265.jpg

@@ -1,7 +1,7 @@
 ---
 model: RS 225
 vendor: Innr
-title: Dimmable White Spot Bulb GU10
+title: Dimmable White Spot GU10 Bulb
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Innr_RS_225.jpg

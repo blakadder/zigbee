@@ -1,7 +1,7 @@
 ---
 model: BY 185 C
 vendor: Innr
-title: RGBW Colour Bulb B22
+title: RGBW Colour B22 Bulb
 category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Innr_BY_185_C.jpg

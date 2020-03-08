@@ -2,7 +2,7 @@
 model: RS 230 C
 EAN: 8718781552039
 vendor: Innr
-title: Smart Spot Colour GU10
+title: Smart Spot Colour GU10 Bulb 
 category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Innr_RS_230_C.jpg

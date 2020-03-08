@@ -1,7 +1,7 @@
 ---
 model: RB 245
 vendor: Innr
-title: Candle White Bulb E14
+title: Candle White E14 Bulb
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Innr_RB_245.jpg

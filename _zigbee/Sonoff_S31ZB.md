@@ -1,5 +1,5 @@
 ---
-date_added: 2020-03-08
+date_added: 2020-03-09
 model: S31 Lite zb
 vendor: Itead
 title: Sonoff S31 Lite US Plug

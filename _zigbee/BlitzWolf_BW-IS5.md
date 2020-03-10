@@ -7,7 +7,7 @@ category: sensor
 supports: water leak, batterypct
 image: /assets/images/devices/BlitzWolf_BW-IS5.jpg
 zigbeemodel: ['TS0207']
-compatible: [z2m,tasmota]
+compatible: [z2m,zha,tasmota]
 mlink: https://www.blitzwolf.com/ZigBee-Water-Leak-Sensor-p-444.html
 link: https://www.banggood.com/BlitzWolf-BW-IS5-ZigBee-Smart-Home-Water-Leak-Sensor-APP-Remote-Alarm-Detector-p-1604352.html
 link2: 

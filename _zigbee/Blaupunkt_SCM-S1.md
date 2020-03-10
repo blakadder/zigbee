@@ -6,7 +6,7 @@ title: Roller Shutter Relay
 category: cover
 supports: open/close
 image: /assets/images/devices/Blaupunkt_SCM-S1.jpg
-zigbeemodel: ['SCM-2_00.00.03.15', 'SCM-R_00.00.03.15TC', 'SCM_00.00.03.14TC']
+zigbeemodel: ['SCM-2_00.00.03.15', 'SCM-R_00.00.03.15TC', 'SCM_00.00.03.14TC', 'SCM_00.00.03.05TC']
 compatible: [z2m]
 mlink: https://www.blaupunkt.com/en/nc/products/home-security/alarm-system-accessories-saq/products/single/15132/
 link: https://www.amazon.de/dp/B01JP7IJ2E

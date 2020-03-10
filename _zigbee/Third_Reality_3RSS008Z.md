@@ -4,7 +4,7 @@ vendor: Third Reality
 title: RealitySwitch Plus
 category: remote
 supports: on/off, batterypct
-image: /assets/images/devices/3RSS008Z.jpg
+image: /assets/images/devices/Third_Reality_3RSS008Z.jpg
 zigbeemodel: ['3RSS008Z']
 compatible: [z2m,zha]
 mlink: 

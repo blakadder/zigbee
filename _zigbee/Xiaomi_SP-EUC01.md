@@ -3,7 +3,7 @@ model: SP-EUC01
 vendor: Xiaomi
 title: Aqara Smart Plug EU
 category: plug
-supports: on/off
+supports: on/off, power measurement
 image: /assets/images/devices/SP-EUC01.jpg
 zigbeemodel: ['lumi.plug.maeu01']
 compatible: [z2m,zha,iob,deconz]

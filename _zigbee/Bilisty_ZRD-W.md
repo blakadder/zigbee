@@ -3,9 +3,9 @@ date_added: 2020-01-12
 model: ZRD-W
 vendor: Bilisty
 title: Smart Rotary Dimmer
-category: switch
+category: dimmer
 supports: on/off, brightness
-image: /assets/images/devices/gq8b1uv.png
+image: /assets/images/devices/Bilisty_ZRD-W.jpg
 zigbeemodel: ['gq8b1uv']
 compatible: [z2m]
 mlink: https://bilisty.en.alibaba.com

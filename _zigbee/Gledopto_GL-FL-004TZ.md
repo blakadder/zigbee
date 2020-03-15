@@ -3,7 +3,7 @@ model: GL-FL-004TZ
 vendor: Gledopto
 title: 10W RGB+CCT Flood light
 category: light
-supports: on/off, brightness, colortemp, color
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-FL-004TZ.jpg
 zigbeemodel: ['GL-FL-004TZ']
 compatible: [z2m,iob]

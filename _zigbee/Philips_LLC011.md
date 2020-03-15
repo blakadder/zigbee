@@ -5,7 +5,7 @@ vendor: Philips
 title: Hue Bloom Living Colors Starter Pack
 category: light
 supports: on/off, brightness, colorxy, power-on behavior
-image: /assets/images/devices/7299760PH.jpg
+image: /assets/images/devices/Philips_LLC011.jpg
 zigbeemodel: ['LLC011']
 compatible: [z2m,iob]
 mlink: https://www2.meethue.com/en-in/p/hue-white-and-color-ambiance-bloom-table-lamp/7299760PH

@@ -2,7 +2,7 @@
 model: LTP001
 vendor: Philips
 title: Hue Cher Suspension Light
-category: Light
+category: light
 supports: on/off, brightness, colortemp, power-on behavior
 image: /assets/images/devices/Philips_LTP001.jpg
 zigbeemodel: ['LTP001']

@@ -3,7 +3,7 @@ model: GL-G-001Z
 vendor: Gledopto
 title: 12W Dual White and Color Garden Lamp
 category: light
-supports: on/off, brightness, colortemp, color
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-G-001Z.jpg
 zigbeemodel: ['GL-G-001Z']
 compatible: [z2m,iob]

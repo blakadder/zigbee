@@ -4,11 +4,11 @@ vendor: Securifi
 title: Peanut Smart Plug
 category: plug
 supports: on/off, power measurement
-image: /assets/images/devices/PP-WHT-US.jpg
-zigbeemodel: 
+image: /assets/images/devices/Securifi_PP-WHT-US.jpg
+zigbeemodel: ['PP-WHT-US']
 compatible: [z2m]
-mlink: 
-link: 
+mlink: https://www.securifi.com/rg/securifi-peanut-plug
+link: https://www.amazon.com/Securifi-compatible-Remotely-Monitor-Appliances/dp/B00TC9NC82
 link2: 
 link3: 
 ---
@@ -38,48 +38,5 @@ Save the file and restart zigbee2mqtt.
 This device only support power measurements with an up-to-date firmware on the plug which can only be done
 via the original hub. In case of an older firmware you will only see 0 values in the measurements.
 Discussion: https://github.com/Koenkk/zigbee2mqtt/issues/809 
-{% raw %}
-```yaml
-switch:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    payload_off: "OFF"
-    payload_on: "ON"
-    value_template: "{{ value_json.state }}"
-    command_topic: "zigbee2mqtt/[FRIENDLY_NAME]/set"
-
-sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    unit_of_measurement: "W"
-    icon: "mdi:factory"
-    value_template: "{{ value_json.power }}"
-
-sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    unit_of_measurement: "A"
-    icon: "mdi:power-plug"
-    value_template: "{{ value_json.current }}"
-
-sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    unit_of_measurement: "V"
-    icon: "mdi:flash"
-    value_template: "{{ value_json.voltage }}"
-
-sensor:
-  - platform: "mqtt"
-    state_topic: "zigbee2mqtt/[FRIENDLY_NAME]"
-    availability_topic: "zigbee2mqtt/bridge/state"
-    unit_of_measurement: "-"
-    value_template: "{{ value_json.linkquality }}"
-```
-{% endraw %}
 
 

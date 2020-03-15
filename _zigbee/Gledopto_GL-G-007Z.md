@@ -3,7 +3,7 @@ model: GL-G-007Z
 vendor: Gledopto
 title: 9W Dual White and Color Garden Lamp
 category: light
-supports: on/off, brightness, colortemp, color
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-G-007Z.jpg
 zigbeemodel: ['GL-G-007Z']
 compatible: [z2m]

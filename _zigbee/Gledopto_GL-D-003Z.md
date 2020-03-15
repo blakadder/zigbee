@@ -3,7 +3,7 @@ model: GL-D-003Z
 vendor: Gledopto
 title: 6W Dual White and Color LED downlight 
 category: light
-supports: on/off, brightness, colortemp, color
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-D-003Z.jpg
 zigbeemodel: ['GL-D-003Z']
 compatible: [z2m,iob]

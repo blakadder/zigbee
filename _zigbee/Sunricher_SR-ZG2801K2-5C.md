@@ -1,10 +1,10 @@
 ---
-model: SR-ZG9001K4-RGBW
+model: SR-ZG2801K2-5C
 vendor: Sunricher
 title: RGB CCT 3 in 1 Remote Controller
 category: remote
 supports: action, batterypct
-image: /assets/images/devices/Sunricher_SR-ZG9001K4-RGBW.jpg
+image: /assets/images/devices/Sunricher_SR-ZG2801K2-5C.jpg
 zigbeemodel: ['ZGRC-KEY-005']
 compatible: [deconz]
 deconz: 1286

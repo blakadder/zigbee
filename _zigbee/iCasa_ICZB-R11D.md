@@ -3,7 +3,7 @@ date_added: 2020-03-06
 model: ICZB-R11D
 vendor: iCasa
 title: Dimmer + Rotary Dimmer
-category: light
+category: dimmer
 supports: on/off, brightness
 image: /assets/images/devices/iCasa_ICZB-R11D.jpg
 zigbeemodel: ['ICZB-R11D']

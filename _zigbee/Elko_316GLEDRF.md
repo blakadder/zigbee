@@ -2,7 +2,7 @@
 model: 316GLEDRF
 vendor: ELKO
 title: Dimmer
-category: switch
+category: dimmer
 supports: on/off, brightness
 image: /assets/images/devices/316GLEDRF.jpg
 zigbeemodel: ['ElkoDimmerZHA']

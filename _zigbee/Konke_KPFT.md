@@ -4,7 +4,7 @@ vendor: Konke
 title: Temp-Humidity Sensor
 category: sensor
 supports: temperature, humidity, batterypct, batterylow
-image: /assets/images/devices/2AJZ4KPFT.jpg
+image: /assets/images/devices/Konke_KPFT.jpg
 mlink: http://www.ikonke.us/pro/kitpro/index.php#kitpro
 link: https://www.amazon.com/Konke-Smart-Automation-Monitoring-Devices/dp/B07QVXPHR9?th=1
 link2: https://www.banggood.com/KONKE-Zigbee-3_0-Open-Protocol-Temperature-Humidity-Sensor-Environment-Air-Pressure-Smart-Home-From-Xiaomi-Eco-system-p-1551469.html

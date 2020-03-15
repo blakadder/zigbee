@@ -3,7 +3,7 @@ model: GL-B-001Z
 vendor: Gledopto
 title: 4W Dual White And Color Candle Bulb
 category: light
-supports: on/off, brightness, colortemp, color
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-B-001Z.jpg
 zigbeemodel: ['GL-B-001Z']
 compatible: [z2m,iob,zigate]

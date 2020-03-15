@@ -3,7 +3,7 @@ model: LOM002
 EAN: 046677552343
 vendor: Philips
 title: Hue Smart Plug bluetooth
-category:
+category: light
 supports: on/off
 image: /assets/images/devices/Philips_LOM002.jpg
 zigbeemodel: ['LOM002']

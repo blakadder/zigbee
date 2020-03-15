@@ -4,7 +4,7 @@ vendor: IKEA
 title: Tradfri LED bulb E26/E27 950 lumen, dimmable, white spectrum, clear
 category: light
 supports: on/off, brightness, colortemp
-image: /assets/images/devices/Ikea_LED1546  G12.jpg
+image: /assets/images/devices/Ikea_LED1546G12.jpg
 zigbeemodel: ['TRADFRI bulb E27 WS clear 950lm', 'TRADFRI bulb E26 WS clear 950lm']
 compatible: [z2m,zigate]
 mlink: https://www.ikea.com/ae/en/p/tradfri-led-bulb-e27-950-lumen-wireless-dimmable-white-spectrum-clear-00318268/

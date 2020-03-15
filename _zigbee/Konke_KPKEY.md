@@ -5,7 +5,7 @@ title: Multi-function Button
 category: remote
 supports: click, batterypct, batterylow
 action: single, double, long 
-image: /assets/images/devices/2AJZ4KPKEY.jpg
+image: /assets/images/devices/Konke_KPKEY.jpg
 zigbeemodel: ['3AFE170100510001']
 compatible: [z2m,iob]
 z2m: 2AJZ4KPKEY

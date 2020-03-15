@@ -3,6 +3,8 @@ toc:
     url: coordinators.html
   - name: Covers
     url: covers.html
+  - name: Dimmers
+    url: dimmers.html
   - name: HVAC
     url: hvac.html
   - name: Lights

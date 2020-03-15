@@ -1,7 +1,7 @@
 ---
 model: HALIGHTDIMWWE27
 vendor: Hive
-title: Light Dimmable smart bulb E27 
+title: Light Dimmable Bulb E27 
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Hive_HALIGHTDIMWWE27.jpg

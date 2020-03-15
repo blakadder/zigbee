@@ -1,15 +1,15 @@
 ---
 model: ZM-CSW002-D
 vendor: Zemismart
-title: Wall Switch 2 Gang EU
-category: switch
-supports: double_on_off, power meter
-image: /assets/images/devices/Zemismart_ZM-CSW002-D.jpg
-zigbeemodel: ['TS0002']
-compatible: [z2m,iob,zigate]
-mlink: 
-link: https://www.aliexpress.com/item/32983001822.html
-link2: 
+title: Curtain Switch
+category: cover
+supports: open, close, stop
+image: /assets/images/devices/ZM-CSW002-D.jpg
+zigbeemodel: ['TS0302']
+compatible: [z2m]
+mlink: https://www.zemismart.com/zigbee-eu-curtain-wall-light-switch-compatible-with-smartthing-hub-echo-plus-app-phone-voice-control-p0202-p0202.html
+link: https://www.aliexpress.com/item/33052990003.html
+link2: https://www.amazon.co.uk/Electrical-Blinds-Control-Mechanical-Certificate/dp/B0779M5VRH
 link3: 
 ---
 

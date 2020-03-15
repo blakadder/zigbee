@@ -3,7 +3,7 @@ model: GL-B-007Z
 vendor: Gledopto
 title: 6W Dual White And Color LED Bulb
 category: light
-supports: on/off, brightness, colortemp, color
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-B-007Z.jpg
 zigbeemodel: ['GL-B-007Z']
 compatible: [z2m,iob]

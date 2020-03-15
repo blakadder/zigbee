@@ -2,7 +2,7 @@
 model: LCW001
 vendor: Philips
 title: Hue Sana Wall Lamp
-category: Light
+category: light
 supports: on/off, brightness, colortemp, colorxy, power-on behavior
 image: /assets/images/devices/Philips_4090130P7.jpg
 zigbeemodel: ['LCW001']

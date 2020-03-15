@@ -2,7 +2,7 @@
 model: T10D1ZW-1UO
 vendor: Orvibo
 title: Smart Dimmer Switch - US
-category: switch
+category: dimmer
 supports: on/off, brightness
 image: /assets/images/devices/Orvibo_T10D1.jpg
 zigbeemodel: ['abb71ca5fe1846f185cfbda554046cce']

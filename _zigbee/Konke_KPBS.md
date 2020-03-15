@@ -4,7 +4,7 @@ vendor: Konke
 title: Motion Sensor
 category: sensor
 supports: occupancy, batterypct, batterylow
-image: /assets/images/devices/2AJZ4KPBS.jpg
+image: /assets/images/devices/Konke_KPBS.jpg
 mlink: http://www.ikonke.us/pro/kitpro/index.php#kitpro
 link: https://www.amazon.com/Konke-Smart-Automation-Monitoring-Devices/dp/B07QVXNDBS
 link2: https://www.banggood.com/KONKE-Zigbee-3_0-Open-Protocol-Smart-Home-Human-Body-Sensor-Wireless-Connection-Light-Motion-Sensor-Switch-From-Xiaomi-Eco-system-p-1551514.html

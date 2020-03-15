@@ -1,7 +1,7 @@
 ---
 model: HALIGHTDIMWWB22
 vendor: Hive
-title: Light Dimmable smart bulb B22
+title: Light Dimmable Bulb B22
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Hive_HALIGHTDIMWWB22.jpg

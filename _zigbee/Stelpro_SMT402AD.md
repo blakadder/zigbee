@@ -4,7 +4,7 @@ model: SMT402AD
 vendor: Stelpro
 title: Maestro Smart Thermostat
 category: hvac
-supports: temperature, humidity, outdoor temp display
+supports: temperature, humidity, occupied heating, keypad lockout
 image: /assets/images/devices/Stelpro_SMT402AD.jpg
 zigbeemodel: ['MaestroStat']
 compatible: [z2m]

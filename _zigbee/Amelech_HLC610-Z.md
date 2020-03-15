@@ -2,7 +2,7 @@
 model: HLC610-Z
 vendor: Amelech 
 title: Wireless Dimmable Controller
-category: light
+category: dimmer
 supports: on/off, brightness
 image: /assets/images/devices/Amelech_HLC610-Z.jpg
 zigbeemodel: ['HOMA1002', 'HOMA0019']

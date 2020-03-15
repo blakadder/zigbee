@@ -4,7 +4,7 @@ model: STZB402
 vendor: Stelpro
 title: KI Electronic Thermostat
 category: hvac
-supports: temperature
+supports: temperature, occupied heating, keypad lockout
 image: /assets/images/devices/Stelpro_STZB402.jpg
 zigbeemodel: ['STZB402+', 'STZB402']
 compatible: [z2m]

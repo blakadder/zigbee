@@ -1,5 +1,5 @@
 ---
-model: CC2530.ROUTER
+model: ptvo.router
 vendor: DIY 
 title: CC2530 Router
 category: router

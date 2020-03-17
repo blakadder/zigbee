@@ -6,7 +6,7 @@ category: remote
 supports: action, batterypct
 image: /assets/images/devices/Sunricher_SR-ZG9001K8.jpg
 zigbeemodel: ['ZG2833K8_EU05']
-compatible: [deconz]
+compatible: [deconz,z2m]
 deconz: 1509
 mlink: https://www.sunricher.com/single-color-wall-mounted-zigbee-push-button-remote-sr-zg9001k2-dim.html
 link: https://www.alibaba.com/product-detail/Zigbee-3-0-certified-Wall-Switches_62097389192.html

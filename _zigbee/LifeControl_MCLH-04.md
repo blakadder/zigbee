@@ -7,7 +7,7 @@ category: sensor
 supports: contact, batterypct
 image: /assets/images/devices/LifeControl_MCLH-04.jpg
 zigbeemodel: ['Door_Sensor']
-compatible: [z2m]
+compatible: [z2m,iob]
 mlink: https://lifecontrol.ru/devices/door-alarm/
 link: 
 link2: https://www.aliexpress.com/item/10000002504987.html

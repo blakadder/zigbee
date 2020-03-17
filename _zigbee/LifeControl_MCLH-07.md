@@ -7,7 +7,7 @@ category: sensor
 supports: water leak, batterypct
 image: /assets/images/devices/LifeControl_MCLH-07.jpg
 zigbeemodel: ['Leak_Sensor']
-compatible: [z2m]
+compatible: [z2m,iob]
 mlink: https://lifecontrol.ru/devices/water-sensor/
 link: https://www.aliexpress.com/item/10000003022281.html
 link2: 

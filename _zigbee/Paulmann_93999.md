@@ -1,4 +1,5 @@
 ---
+date_added: 2020-03-17
 model: 939.99
 vendor: Paulmann
 title: Plug & Shine Controller IP68 24V

@@ -1,6 +1,6 @@
 ---
 date_added: 2020-01-26
-model: YRL220-HA
+model: YRL220
 vendor: Yale
 title:  Real Living Touchscreen Lever Lock
 category: lock

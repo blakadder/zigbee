@@ -1,7 +1,7 @@
 ---
 model: GL-S-004Z
 vendor: Gledopto
-title: 4W Dual White and Color MR16
+title: 4W MR16 Dual White and Color 30°
 category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Gledopto_GL-S-004Z.jpg

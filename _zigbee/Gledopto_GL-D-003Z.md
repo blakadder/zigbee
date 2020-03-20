@@ -1,7 +1,7 @@
 ---
 model: GL-D-003Z
 vendor: Gledopto
-title: 6W Dual White and Color LED downlight 
+title: 6W Downlight Dual White and Color 
 category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-D-003Z.jpg

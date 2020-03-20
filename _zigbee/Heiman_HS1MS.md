@@ -6,7 +6,7 @@ title: Motion Sensor
 category: sensor
 supports: occupancy, batterypct, batterylow, tamper
 image: /assets/images/devices/Heiman_HS1MS.jpg
-zigbeemodel: [PIRSensor-N']
+zigbeemodel: [PIRSensor-EM']
 compatible: [deconz,zigate,z2m]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/dtecteurdemouvement-
 mlink: http://www.heimantech.com/product/101.html

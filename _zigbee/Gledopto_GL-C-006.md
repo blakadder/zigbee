@@ -1,7 +1,7 @@
 ---
 model: GL-C-006
 vendor: Gledopto
-title: WW7CW LED Controller
+title: WW/CW LED Controller
 category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Gledopto_GL-C-006.jpg

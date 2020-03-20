@@ -1,5 +1,5 @@
 ---
-model: YRD210-HA
+model: YRD210
 vendor: Yale
 title:  Real Living Push Button Deadbolt Lock
 category: lock

@@ -1,6 +1,6 @@
 ---
 date_added: 2020-01-26
-model: YRD220-HA
+model: YRD220
 vendor: Yale
 title: Real Living™ Touchscreen Deadbolt Lock
 category: lock

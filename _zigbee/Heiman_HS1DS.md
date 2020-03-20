@@ -5,7 +5,7 @@ title: Door Sensor
 category: sensor
 supports: contact, batterypct
 image: /assets/images/devices/Heiman_HS1DS.jpg
-zigbeemodel: ['DoorSensor-EM']
+zigbeemodel: ['DoorSensor-EM','DOOR_TPV13']
 compatible: [z2m,deconz,zigate]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/dtecteurdouverturedeporte
 mlink: http://www.heimantech.com/product/83.html

@@ -5,7 +5,7 @@ title: Combustible Gas Sensor
 category: sensor
 supports: gas, batterylow
 image: /assets/images/devices/Heiman_HS1CG.jpg
-zigbeemodel: ['GASSensor-EN','GASSensor-EM']
+zigbeemodel: ['GASSensor-EN','GASSensor-EM','GAS_V15']
 compatible: [z2m,zha,deconz]
 mlink: http://www.heimantech.com/product/184.html
 link: https://www.aliexpress.com/item/32840620167.html

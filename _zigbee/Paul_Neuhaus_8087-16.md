@@ -1,7 +1,7 @@
 ---
 model: 8087-16
 vendor: Paul Neuhaus 
-title: Q-Flag LED Panel 
+title: Q-Flag LED Panel 45x45cm
 category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/100.110.39.jpg

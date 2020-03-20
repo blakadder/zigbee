@@ -7,7 +7,7 @@ category: plug
 supports: on/off
 image: /assets/images/devices/Sonoff_S31ZB.jpg
 zigbeemodel: ['S31 Lite zb']
-compatible: [z2m]
+compatible: [z2m,deconz]
 mlink: https://sonoff.tech/product/zigbee-smart-plugs/sonoff-s31-lite-zb
 link: https://www.amazon.com/SONOFF-Zigbee-SmartThings-Amazon-Needed/dp/B082PSKRSP/
 link2: https://www.banggood.com/SONOFF-S31-Lite-Zb-Smart-Plug-Switch-US-Type-Zig-bee-Version-p-1613320.html

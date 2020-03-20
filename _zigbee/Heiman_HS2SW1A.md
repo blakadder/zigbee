@@ -6,7 +6,7 @@ title: Smart Switch 1 Gang
 category: switch
 supports: on/off
 image: /assets/images/devices/Heiman_HS2SW1A.jpg
-zigbeemodel: ['HS2SW1L-EFR-3.0']
+zigbeemodel: ['HS2SW1L-EFR-3.0', 'HS2SW1A-N']
 compatible: [z2m]
 mlink: http://www.heimantech.com/index.php?c=product&id=165
 link: https://www.aliexpress.com/item/32869798403.html

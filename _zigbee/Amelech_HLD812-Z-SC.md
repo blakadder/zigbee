@@ -5,6 +5,7 @@ title: 1 Channel Smart LED Driver
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Amelech_HLD812-Z-SC.jpg
+manufacturer: Shenzhen_Homa
 zigbeemodel: ['HOMA1008']
 compatible: [z2m,iob]
 mlink: http://www.amelech.com/product/60763629064-806904517/mini_9w_12w_led_downlight_zigbee_remote_control_cct_dimmable_led_driver.html

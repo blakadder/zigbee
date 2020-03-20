@@ -5,6 +5,7 @@ title: Triac Controller (Trailing Edge)
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Amelech_HLC821-Z.jpg
+manufacturer: Shenzhen_Homa
 zigbeemodel: ['HOMA1031']
 compatible: [z2m,deconz]
 mlink: http://www.amelech.com/search/product?SearchText=hlc821

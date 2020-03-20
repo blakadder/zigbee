@@ -1,4 +1,5 @@
 ---
+date_added: 2020-03-20
 model: DRBELL
 vendor: Echostar
 title: SAGE Doorbell Sensor

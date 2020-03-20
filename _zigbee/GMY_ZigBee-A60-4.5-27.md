@@ -4,7 +4,7 @@ vendor: GMY Smart Bulb
 title: Vintage Dimmable A60 E27 470lm Bulb
 category: light
 supports: on/off, brightness, colortemp
-image: /assets/images/devices/GMY_B07KG5KF5R.jpg
+image: /assets/images/devices/GMY_ZigBee-A60-4.5-27.jpg
 zigbeemodel: ['CCT box']
 compatible: [z2m]
 mlink: https://gmyok.en.alibaba.com/product/62102203560-210726056/zigbee_filament_led_alexa_wifi_bulbs_e27_Edison_bulb_A60_4_5W_7W.html

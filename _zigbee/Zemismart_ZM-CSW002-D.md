@@ -4,7 +4,7 @@ vendor: Zemismart
 title: Curtain Switch
 category: cover
 supports: open, close, stop
-image: /assets/images/devices/ZM-CSW002-D.jpg
+image: /assets/images/devices/Zemismart_ZM-CSW002-D.jpg
 zigbeemodel: ['TS0302']
 compatible: [z2m]
 mlink: https://www.zemismart.com/zigbee-eu-curtain-wall-light-switch-compatible-with-smartthing-hub-echo-plus-app-phone-voice-control-p0202-p0202.html

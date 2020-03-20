@@ -4,7 +4,7 @@ vendor: Honyar
 title: 3 Gang Switch 
 category: switch
 supports: lrc_on_off
-image: /assets/images/devices/U86K31ND6.jpg
+image: /assets/images/devices/Honyar_U86K31ND6.jpg
 zigbeemodel: ['00500c35']
 compatible: [z2m]
 mlink: 

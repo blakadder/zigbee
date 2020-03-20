@@ -4,7 +4,7 @@ vendor: Databyte.ch
 title: CC2530 IO Board
 category: switch
 supports: 
-image: /assets/images/devices/Databyte_DTB190502A1
+image: /assets/images/devices/Databyte_DTB190502A1.jpg
 zigbeemodel: ['DTB190502A1']
 compatible: [z2m]
 mlink: https://databyte.ch/?portfolio=zigbee-erstes-board-dtb190502a

@@ -4,7 +4,7 @@ vendor: Yale
 title: Assure Lock Key Free Touchscreen Deadbolt
 category: lock
 supports: lock/unlock, batterypct
-image: /assets/images/devices/YRD226-246-TSDB.jpg
+image: /assets/images/devices/Yale_YRD246.jpg
 zigbeemodel: ['YRD226/246 TSDB']
 compatible: [z2m]
 mlink: 

@@ -4,7 +4,7 @@ vendor: DIY
 title: CC2530 Router
 category: router
 supports: state, description, type, rssi
-image: /assets/images/devices/CC2530.ROUTER.jpg
+image: /assets/images/devices/ptvo.router.jpg
 zigbeemodel: ['lumi.router']
 compatible: [z2m,zha,deconz,iob,zigate]
 mlink: http://ptvo.info/cc2530-based-zigbee-coordinator-and-router-112/

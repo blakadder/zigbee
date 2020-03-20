@@ -4,7 +4,7 @@ vendor: Weiser
 title: SmartCode 10 Touch Lock
 category: lock
 supports: lock/unlock, batterypct
-image: /assets/images/devices/Weiser_GED2150jpg
+image: /assets/images/devices/Weiser_GED2150.jpg
 zigbeemodel: ['SMARTCODE_DEADBOLT_10T']
 compatible: [z2m]
 mlink: https://ca.weiserlock.com/en/products/smartcode-10-touch-with-zigbee-electronics-electronic-lock-satin-nickel/9GED21500-002/

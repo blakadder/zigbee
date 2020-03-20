@@ -5,7 +5,7 @@ vendor: GS
 title: Датчик протечки (Leak Sensor)
 category: sensor
 supports: water leak
-image: /assets/images/devices/Heiman_SWHM-I1.jpg
+image: /assets/images/devices/GS_SWHM-I1.jpg
 manufacturer: Heiman
 zigbeemodel: ['SWHM-I1']
 compatible: [z2m]

@@ -5,7 +5,7 @@ vendor: GS
 title: Датчик открытия и закрытия (Door Sensor)
 category: sensor
 supports: contact
-image: /assets/images/devices/Heiman_SOHM-I1.jpg
+image: /assets/images/devices/GS_SOHM-I1.jpg
 manufacturer: Heiman
 zigbeemodel: ['SOHM-I1']
 compatible: [z2m]

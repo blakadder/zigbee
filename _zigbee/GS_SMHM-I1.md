@@ -5,7 +5,7 @@ vendor: GS
 title: Датчик движения (Motion Sensor)
 category: sensor
 supports: occupancy
-image: /assets/images/devices/Heiman_SMHM-I1.jpg
+image: /assets/images/devices/GS_SMHM-I1.jpg
 manufacturer: Heiman
 zigbeemodel: ['SMHM-I1']
 compatible: [z2m]

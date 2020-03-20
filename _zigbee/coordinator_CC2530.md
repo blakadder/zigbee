@@ -5,7 +5,7 @@ vendor: Unbranded
 title: CC2530 UART Module
 category: coordinator
 supports: coordinator
-image: /assets/images/devices/CC2530.ROUTER.jpg
+image: /assets/images/devices/ptvo.router.jpg
 zigbeeid: none
 compatible: [z2m,tasmota,iob,zha]
 mlink: 

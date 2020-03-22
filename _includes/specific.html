@@ -1,3 +1,10 @@
+{%- if page.vendor == "IKEA" or page.vendor == "Ubisys" or page.vendor == "OSRAM" or page.vendor == "Ledvance" -%}
+
+<h5>OTA Updates</h5>
+This device supports OTA updates. For more information see <a href="https://www.zigbee2mqtt.io/information/ota_updates.html" target="_blank">Zigbee2MQTT documentation</a>.
+
+{% endif %}
+
 {%- if page.vendor contains "Sylvania" or page.vendor contains "OSRAM" and page.category == "light" -%}
 
 <h4> Set default power on/off transition</h4>
@@ -38,13 +45,6 @@ NOTE: This must be executed everytime you make changes to a light's attributes f
     </table>
 
     
-{% endif %}
-
-{%- if page.vendor == "IKEA" or page.vendor == "Ubisys" or page.vendor == "OSRAM" or page.vendor == "Ledvance" -%}
-
-<h5>OTA Updates</h5>
-This device supports OTA updates. For more information see <a href="https://www.zigbee2mqtt.io/information/ota_updates.html" target="_blank">Zigbee2MQTT documentation</a>.
-
 {% endif %}
 
 {%- if page.supports contains "decoupled" -%}

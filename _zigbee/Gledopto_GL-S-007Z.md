@@ -3,7 +3,7 @@ model: GL-S-007Z
 vendor: Gledopto
 title: 5W GU10 Dual White And Color LED 
 category: light
-supports: on/off, brightness, color, white
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/Gledopto_GL-S-007Z.jpg
 zigbeemodel: ['GL-S-007Z']
 compatible: [z2m,iob]

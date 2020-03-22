@@ -1,4 +1,5 @@
 ---
+date_added: 2020-03-21
 model: ZL1000100-CCT-US-V1A02 
 vendor: Linkind
 title: 9W A19 Bulb, Dimmable & Tunable

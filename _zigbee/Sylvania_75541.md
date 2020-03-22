@@ -1,4 +1,5 @@
 ---
+date_added: 2020-03-21
 model: 75541
 vendor: Sylvania
 title: Smart+ Outdoor Accent RGB Lighting Kit

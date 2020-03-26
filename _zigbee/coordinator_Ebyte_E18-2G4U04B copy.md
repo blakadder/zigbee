@@ -16,7 +16,11 @@ link4: https://www.amazon.de/dp/B07P16MXBT
 ---
 This USB stick claims an increased range over the unbranded CC2531 USB sticks.
 
-Needs to be [flashed with custom firmware](https://www.zigbee2mqtt.io/getting_started/flashing_the_cc2531.html). Confirmed working flash with [CCLoader](https://www.zigbee2mqtt.io/information/alternative_flashing_methods.html#via-arduino-unoesp8266-with-ccloader-3min).
+## Flashing Instructions
+Identify the required pins and follow flashing instructions:
+- flash using [CCLoader](/flashing_ccloader) and NodeMCU/Wemos D1 mini (or similar ESP8266 board)
+- flash using [Raspberry Pi](http://www.marrold.co.uk/2019/12/flashing-cc2530-cc2591-zigbee-module.html)
+- flash using [CC Debugger](http://ptvo.info/how-to-select-and-flash-cc2530-144/) 
 
 PCB pins are 1.27mm and thus slightly harder to solder wires to. Link to [user manual](http://www.ebyte.com/en/pdf-down.aspx?id=1129).
 

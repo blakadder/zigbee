@@ -13,5 +13,8 @@ link: https://www.aliexpress.com/item/4000118023903.html
 link2: https://www.amazon.com/WeBee-Industrial-ZigBee-Transceiver-wireless/dp/B01EH0XUQO
 link3: https://www.amazon.de/dp/B01FXC1G5M
 ---
-Can be flashed with [Zigbee2Tasmota firmware](https://tasmota.github.io/docs/#/Zigbee) or with [Zigbee2MQTT firmware](https://www.zigbee2mqtt.io/information/connecting_cc2530.html).
-
+## Flashing Instructions
+Identify the required pins and follow flashing instructions:
+- flash using [CCLoader](/flashing_ccloader) and NodeMCU/Wemos D1 mini (or similar ESP8266 board)
+- flash using [Raspberry Pi](http://www.marrold.co.uk/2019/12/flashing-cc2530-cc2591-zigbee-module.html)
+- flash using [CC Debugger](http://ptvo.info/how-to-select-and-flash-cc2530-144/) 

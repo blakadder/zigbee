@@ -1,7 +1,7 @@
 ---
 date_added: 2020-01-01
 model: CC2530
-vendor: Unbranded
+vendor: WeBee
 title: CC2530 UART Module
 category: coordinator
 supports: coordinator

@@ -14,7 +14,7 @@ link2: https://www.amazon.de/dp/B07P5QZ8PP/
 link3: https://www.aliexpress.com/item/32803052003.html
 link4: https://www.amazon.co.uk/Ebyte-E18-MS1-PCB-Antenna-Wireless-Transceiver/dp/B07P5QZ8PP/
 ---
-This module consists of a TI CC2530 with 4dbm transmit power.
+This module consists of a TI CC2530 with 2.5mW transmit power.
 
 ![Back](/assets/images/devices/Ebyte_E18-MS1-PCB_back.jpg)
 

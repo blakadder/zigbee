@@ -29,7 +29,7 @@ Download `objcopy.exe` from [SourceForge](https://sourceforge.net/projects/mingw
 
 Unpack downloaded Z-Stack firmware .hex file in the same folder and convert with:
 
-```
+```bash
 objcopy.exe --gap-fill 0xFF --pad-to 0x040000 -I ihex <firmware>.hex -O binary <firmware>.bin
 ```
 Move the converted .bin to your CCLoader folder.
@@ -91,7 +91,7 @@ CCLoader_x86_64.exe [COM port #] <filename>.bin 0
 
 _Example:_ CC2530ZNP-Prod.bin with NodeMCU on COM6
 ```
-CCLoader_x86_64.exe 6 CC2531ZNP-Prod.bin 0
+CCLoader_x86_64.exe 6 CC2530ZNP-Prod.bin 0
 ```
 #### Linux
 First you have to compile `CCLoader`:

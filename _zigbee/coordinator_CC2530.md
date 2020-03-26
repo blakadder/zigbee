@@ -1,10 +1,10 @@
 ---
 date_added: 2020-01-01
 model: CC2530
-vendor: WeBee
+vendor: Generic
 title: CC2530 UART Module
 category: coordinator
-supports: coordinator
+supports: coordinator, router
 image: /assets/images/devices/ptvo.router.jpg
 zigbeeid: none
 compatible: [z2m,tasmota,iob,zha]

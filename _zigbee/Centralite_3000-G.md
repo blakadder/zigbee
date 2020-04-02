@@ -7,7 +7,7 @@ category: hvac
 supports: temperature, heating/cooling system control, fan
 image: /assets/images/devices/Centralite_3000-G.jpg
 zigbeemodel: ['3157100','3157100-E']
-compatible: [zha,deconz.z2m]
+compatible: [zha,deconz,z2m]
 deconz: 1601
 z2m: 3157100
 mlink: https://centralite.com/products/pearl-thermostat

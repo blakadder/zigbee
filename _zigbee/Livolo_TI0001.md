@@ -13,6 +13,7 @@ compatible:
   - z2m
   - iob
   - deconz
+zigate: https://github.com/pipiche38/Domoticz-Zigate-Wiki/blob/master/en-eng/Livolo-corner.md
 ---
 Needs to be paired on Channel 26!
 Then you can eventually switch the channel to 11 and Livolo devices will be switching automatically

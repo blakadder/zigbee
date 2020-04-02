@@ -7,7 +7,7 @@ supports: action, batterypct
 actions: circle, up, down, hold, release
 image: /assets/images/devices/OSRAM_AC0251x00NJ.jpg
 zigbeemodel: ['Lightify Switch Mini', 'Lightify Switch Mini blue']
-compatible: [z2m]
+compatible: [z2m,zigate]
 mlink: https://www.osram-lamps.com/appsinfo/pdc/pdf.do?cid=GPS01_3576333&vid=PP_EUROPE_Europe_retail_eCat&lid=EN
 link: https://www.amazon.de/OSRAM-Smart-Switch-Light-Integriert/dp/B077VNS235
 link2: https://www.amazon.co.uk/Osram-Smart-Mini-Switch-Wireless/dp/B074PZKX4G

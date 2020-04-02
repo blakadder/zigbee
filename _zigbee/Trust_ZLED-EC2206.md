@@ -8,7 +8,6 @@ supports: on/off, brightness
 image: /assets/images/devices/Trust_ZLED-EC2206.jpg
 zigbeemodel: ['ZLL-DimmableLigh']
 compatible: [z2m,iob,tasmota,zigate]
-zigate: 
 mlink: https://www.trust.com/en/product/71160-zigbee-dimmable-led-bulb-zled-ec2206
 link: https://www.amazon.de/dp/B0743L3WL3
 link2: https://www.amazon.co.uk/dp/B0743L3WL3

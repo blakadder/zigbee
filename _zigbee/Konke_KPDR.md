@@ -10,6 +10,6 @@ link: https://www.amazon.com/Konke-Smart-Automation-Monitoring-Devices/dp/B07QR8
 link2: https://www.banggood.com/KONKE-Zigbee-3_0-Open-Protocol-Window-Door-Sensor-Smart-Home-Function-Remote-Control-Alarm-Door-Sensor-Security-From-Xiaomi-Eco-system-p-1551743.html
 link3: https://www.aliexpress.com/item/4000478315927.html
 zigbeemodel: ['3AFE130104020015', '3AFE270104020015']
-compatible: [z2m,iob,deconz]
+compatible: [z2m,iob,deconz,zigate]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/konkedoorsensor
 ---

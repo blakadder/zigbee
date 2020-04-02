@@ -5,7 +5,7 @@ title: Smart Carbon Monoxide Sensor
 category: sensor
 supports: carbon monoxide, batterylow, batterypct
 image: /assets/images/devices/HS1CA-E.jpg
-zigbeemodel: ['COSensor-EM', 'COSensor-N', 'CO_V15']
+zigbeemodel: ['COSensor-EM', 'COSensor-N', 'CO_V15', 'CO_YDLV10']
 compatible: [z2m,iob,deconz]
 mlink: http://www.heimantech.com/product/81.html
 link: https://www.aliexpress.com/item/32843093065.html

@@ -4,7 +4,7 @@ model: QBKG04LM
 vendor: Xiaomi
 title: Aqara No Neutral Wall Switch Single Key
 category: switch
-supports: action, on/off, decoupled
+supports: action, on/off, decoupled mode
 action: click, hold, release
 image: /assets/images/devices/QBKG04LM.jpg
 zigbeemodel: ['lumi.ctrl_neutral1']

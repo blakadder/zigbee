@@ -1,10 +1,9 @@
 ---
-model: 511.010
+model: '511.010'
 vendor: Iluminize
 title: White LED Controller 
 category: light
 supports: on/off, brightness
-image: /assets/images/devices/511.10.jpg
 zigbeemodel: ['DIM Lighting']
 compatible: [z2m]
 mlink: https://www.iluminize.com/de/shop/led-steuerung/led-controller/product/481-511-010-zigbee-controller-5a.html

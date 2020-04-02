@@ -1,5 +1,5 @@
 ---
-model: FLSZB-110
+model: FLSZB-120
 vendor: Develco
 title: Water Leak Detector 
 category: sensor

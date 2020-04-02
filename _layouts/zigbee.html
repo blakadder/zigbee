@@ -4,16 +4,12 @@ layout: default
 <div class="container">
 
   <div class="row">
-  <div class="column column-75">
+  <div class="column column-90">
     <span style="font-size: xx-large; font-weight: 500; letter-spacing: -.1rem;">{{ page.title | truncate: 80 }}</span>
 </div>
-<div class="float-right column column-25">
-  {% if page.compatible contains "z2m" %}<a href="zigbee2mqtt.html"><img style="width: 2rem;" src="/assets/images/z2m-icon.png"></a>{% endif %}
-  {% if page.compatible contains "zha" or page.category == "light"%}<a href="zha.html"><img style="width: 2rem;" src="/assets/images/zha-icon.png"></a>{% endif %}
-  {% if page.compatible contains "deconz" or page.category == "light" %}<a href="deconz.html"><img style="width: 2rem;" src="/assets/images/deconz-icon.png"></a>{% endif %}
-  {% if page.compatible contains "zigate" %}<a href="zigate.html"><img style="width: 2rem;" src="/assets/images/zigate-icon.png"></a>{% endif %}
-  {% if page.compatible contains "tasmota" or page.category == "light"%}<a href="zigbee2tasmota.html"><img style="width: 2rem;" src="/assets/images/tasmota-icon.png"></a>{% endif %}
-  {% if page.compatible contains "iob" %}<a href="iobroker.html"><img style="width: 2rem;" src="/assets/images/iobroker-icon.png"></a>{% endif %}
+<div class="column column-10">
+  <a class="button button-red button-small" href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit page</a><br>    <a href="https://twitter.com/intent/tweet?screen_name=blakadder_&ref_src=twsrc%5Etfw" class="button button-small" data-text="{{ page.url }} template is " data-show-count="false">Tweet @blakadder_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </div>
 </div>
 <div class="row">
@@ -26,7 +22,7 @@ layout: default
 </div>
 <div class="row">
   <div class="column column-60"> 
-    <img src="{{ page.image }}" alt="{{ page.title }}" style="max-height: 350px; max-width: 400px;">
+    <img src="{{ page.url | remove: ".html" | prepend: '/assets/images/devices' | append: '.jpg' }}" alt="{{ page.title }}" style="max-height: 350px; max-width: 400px; margin: 5px">
   </div>
   <div class="column">
     {% include supports.html %}
@@ -54,36 +50,59 @@ layout: default
 <div class="row">
   <div class="column column-90">{% if page.zigbeemodel != nil %}Zigbee ID: {% for zmodel in page.zigbeemodel %}"{{ zmodel }}"{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}</div>
   <div class="column column-10">
-    <a class="button button-red button-small" href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit on GitHub</a><br>
-    <a href="https://twitter.com/intent/tweet?screen_name=blakadder_&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-text="{{ page.url }} template is " data-show-count="false">Tweet me updates</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a href="https://twitter.com/intent/tweet?screen_name=blakadder_&ref_src=twsrc%5Etfw" class="button button-small" data-text="{{ page.url }} template is " data-show-count="false">Tweet @blakadder_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </div>
 
-{{ content | markdownify }} 
+<!-- <p>
 
-{%- unless page.category == "coordinator" -%}
-
-{% include pairing.html %}
-
-<p>
-{%- if page.compatible contains "deconz" and page.deconz != nil -%}
-<h6>deCONZ</h6>
-More information on <a href="https://github.com/dresden-elektronik/deconz-rest-plugin/issues/{{ page.deconz }}">deCONZ GitHub thread</a>.
-{% endif %}
 <p>
 {%- if page.compatible contains "zigate" and page.zigate != nil -%}
 <h6>Zigate</h6>
 More information on <a href="{{ page.zigate }}">ZiGate site</a>.
 {% endif %}
-<p>
-{%- if page.compatible contains "z2m" -%}
+<p></p> -->
+
+<h6>Confirmed working with</h6>
+<div class="row">
+  {% if page.compatible contains "z2m" %}
+    <div class="column">
+    {% if page.compatible contains "zha" or page.category == "light"%}
+    <a class="button button-outline" href="https://www.home-assistant.io/integrations/zha/">ZHA</a>
+    {% endif %}
+    {% if page.compatible contains "deconz" or page.category == "light" %}
+        {%- if page.deconz != nil -%}
+        <a class="button button-outline" href="https://github.com/dresden-elektronik/deconz-rest-plugin/issues/{{ page.deconz }}">deCONZ</a>
+        {% endif %}
+    {% endif %}
+    {% if page.compatible contains "tasmota" or page.category == "light" %}
+        {%- if page.compatible contains "tasmota" -%}<a class="button button-outline" href="https://tasmota.github.io/docs/Zigbee/#usage">Tasmota</a>
+        {% endif %}
+    {% endif %}
+    <a class="button button-outline" href="https://www.zigbee2mqtt.io/devices/{%- if page.z2m != nil -%}{{- page.z2m -}} {% else %} {{- page.model -}} {% endif %}.html">zigbee2mqtt</a>
+    {% endif %}
+    {% if page.compatible contains "zigate" %}
+        {%- if page.compatible contains "zigate" and page.zigate != nil -%}<a class="button button-outline" href="{{ page.zigate }}">ZiGate</a>
+        {% endif %}
+    {% endif %}
+    {% if page.compatible contains "iob"  %}
+        {%- if page.compatible contains "iob" -%}<a class="button button-outline" href="https://github.com/ioBroker/ioBroker.zigbee/wiki">ioBroker</a>
+        {% endif %}
+    {% endif %}
+  </div>
+    
+</div>
+<p></p>
+
+{{ content | markdownify }} 
+{% include pairing.html %}
+
+<!-- {%- if page.compatible contains "z2m" -%}
 <h6>Zigbee2MQTT</h6>
 {% include specific.html %}
 
 {% include hass.html %}
 
-{% endif %}
-
-{%- endunless -%}
+{% endif %} -->
 
 <div id="amzn-assoc-ad-c632316f-24d7-45e3-9fd2-4f1038ceddbc"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=c632316f-24d7-45e3-9fd2-4f1038ceddbc"></script>

@@ -14,16 +14,16 @@
 
 html {
   box-sizing: border-box;
-  font-size: 100%;
+  font-size: 65%;
 }
 
 body {
   color: #606c76;
   font-family: 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
-  font-size: 1.1em;
+  font-size: 1.6em;
   font-weight: 300;
-  line-height: 1.2;
-  height: 100%;
+  letter-spacing: .01em;
+  line-height: 1.6;
 }
 
 blockquote {
@@ -702,7 +702,7 @@ h5 {
 }
 
 h6 {
-  font-size: 2.2rem;
+  font-size: 2.0rem;
   letter-spacing: -.08rem;
   font-weight: bold;
   line-height: 1.35;
@@ -734,7 +734,7 @@ img {
 }
 
 small {
-  font-size: .5rem;
+  font-size: .7rem;
 }
 
 /*# sourceMappingURL=milligram.css.map */

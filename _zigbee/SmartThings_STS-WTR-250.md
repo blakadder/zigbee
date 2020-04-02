@@ -4,7 +4,7 @@ model: STS-WTR-250
 vendor: SmartThings
 title: Water Leak Sensor (2016 model)
 category: sensor
-supports: water leak, batterypct
+supports: water leak, temperature, battery
 image: /assets/images/devices/SmartThings_STS-WTR-250.jpg
 zigbeemodel: ['moisturev4']
 compatible: [z2m,zha]

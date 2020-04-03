@@ -7,6 +7,7 @@ supports: open, close, stop
 image: /assets/images/devices/Zemismart_ZM-CSW002-D.jpg
 zigbeemodel: ['TS0302']
 compatible: [z2m,zigate]
+z2m: ZM-CSW032-D
 mlink: https://www.zemismart.com/zigbee-eu-curtain-wall-light-switch-compatible-with-smartthing-hub-echo-plus-app-phone-voice-control-p0202-p0202.html
 link: https://www.aliexpress.com/item/33052990003.html
 link2: https://www.amazon.co.uk/Electrical-Blinds-Control-Mechanical-Certificate/dp/B0779M5VRH

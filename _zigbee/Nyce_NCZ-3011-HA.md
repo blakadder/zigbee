@@ -3,7 +3,7 @@ model: NCZ-3011-HA
 vendor: Nyce
 title: Door/Window Sensor
 category: sensor
-supports: motion, humidity, temperature, batterypct
+supports: contact, battery
 image: /assets/images/devices/Nyce_NCZ-3011-HA.jpg
 zigbeemodel: ['3011']
 compatible: [z2m,zha,deconz]

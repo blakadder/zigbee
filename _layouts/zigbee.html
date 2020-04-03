@@ -64,7 +64,7 @@ More information on <a href="{{ page.zigate }}">ZiGate site</a>.
 <div class="row">
   {% if page.compatible contains "z2m" %}
     <div class="column">
-    {% if page.compatible contains "zha" or page.category == "light"%}
+    {% if page.compatible contains "zha" or page.category == "light" %}
     <a class="button button-outline" href="https://www.home-assistant.io/integrations/zha/">ZHA</a>
     {% endif %}
     {% if page.compatible contains "tasmota" or page.category == "light" %}
@@ -79,8 +79,8 @@ More information on <a href="{{ page.zigate }}">ZiGate site</a>.
         {% endif %}
     {% endif %}
     {% if page.compatible contains "zigate" %}
-        <a class="button button-outline" href="{%- if page.compatible contains "zigate" and page.zigate != nil -%}{{ page.zigate }}{% else %}https://zigate.fr">ZiGate</a>
-        {% endif %}
+        <a class="button button-outline" href="{%- if page.compatible contains "zigate" and page.zigate != nil -%}{{ page.zigate }}{% else %}https://zigate.fr{% endif %}">ZiGate</a>
+        
     {% endif %}
     {% if page.compatible contains "iob"  %}
         {%- if page.compatible contains "iob" -%}<a class="button button-outline" href="https://github.com/ioBroker/ioBroker.zigbee/wiki">ioBroker</a>

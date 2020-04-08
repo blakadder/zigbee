@@ -7,6 +7,7 @@ supports: open, close, stop, position, tilt
 image: /assets/images/devices/ubisys_J1.jpg
 zigbeemodel: ['J1 (5502)']
 compatible: [z2m, deconz]
+z2m: J1
 mlink: https://www.ubisys.de/en/products/shading-devices/shutter-control-j1/
 link: https://www.lightech.de/jalousiesteuerung-j1/a-1047347
 link2: 

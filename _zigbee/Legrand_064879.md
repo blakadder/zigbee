@@ -1,6 +1,6 @@
 ---
 date_added: 2020-02-02
-model: 064879
+model: '064879'
 vendor: Legrand
 title: Cable Outlet 3000W
 category: plug

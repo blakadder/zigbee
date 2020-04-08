@@ -1,6 +1,6 @@
 ---
 date_added: 2020-01-20
-model: 067725
+model: '067725'
 vendor: Legrand
 title: Céliane 16A 3680W Wall Outlet - white
 category: plug

@@ -1,6 +1,6 @@
 ---
 date_added: 2020-02-02
-model: 067721
+model: '067721'
 vendor: Legrand
 title: Céliane Wired Switch No Neutral - white
 category: switch

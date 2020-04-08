@@ -1,6 +1,6 @@
 ---
 date_added: 2020-02-02
-model: 067726
+model: '067726'
 vendor: Legrand
 title: Céliane Wired Roller Shutter Switch - white
 category: cover

@@ -1,6 +1,6 @@
 ---
 date_added: 2020-01-12
-model: 067775
+model: '067775'
 vendor: Legrand
 title: Céliane 16A 3680W Wall Outlet - titanium
 category: plug

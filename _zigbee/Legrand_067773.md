@@ -1,6 +1,6 @@
 ---
 date_added: 2020-01-12
-model: 067773
+model: '067773'
 vendor: Legrand
 title: Céliane Wireless Switch
 category: switch

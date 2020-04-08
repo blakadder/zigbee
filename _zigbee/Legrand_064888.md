@@ -1,6 +1,6 @@
 ---
 date_added: 2020-01-12
-model: 064888
+model: '064888'
 vendor: Legrand
 title: Micromodule Relay
 category: switch

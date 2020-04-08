@@ -1,6 +1,6 @@
 ---
 date_added: 2020-01-12
-model: 064873
+model: '064873'
 vendor: Legrand
 title: Céliane Home/Away Master Switch
 category: switch

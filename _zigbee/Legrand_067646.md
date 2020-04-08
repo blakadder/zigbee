@@ -1,6 +1,6 @@
 ---
 date_added: 2020-02-20
-model: 0677646
+model: '0677646'
 vendor: Legrand
 title: Céliane Wireless Roller Shutter Switch - white
 category: remote

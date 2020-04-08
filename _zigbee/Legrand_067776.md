@@ -1,6 +1,6 @@
 ---
 date_added: 2020-01-12
-model: 067776
+model: '067776'
 vendor: Legrand
 title: Céliane Wired Roller Shutter Switch - titanium
 category: cover

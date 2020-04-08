@@ -1,6 +1,6 @@
 ---
 date_added: 2020-01-12
-model: 067771
+model: '067771'
 vendor: Legrand
 title: Céliane Wired Switch No Neutral - titanium
 category: dimmer

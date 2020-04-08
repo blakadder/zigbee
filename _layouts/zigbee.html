@@ -71,7 +71,7 @@ More information on <a href="{{ page.zigate }}">ZiGate site</a>.
         {%- if page.compatible contains "tasmota" -%}<a class="button button-outline" href="https://tasmota.github.io/docs/Zigbee/#usage">Tasmota</a>
         {% endif %}
     {% endif %}
-    <a class="button button-outline" href="https://www.zigbee2mqtt.io/devices/{%- if page.z2m != nil -%}{{- page.z2m -}} {% else %} {{- page.model | | replace: ' ', '_' -}} {% endif %}.html">zigbee2mqtt</a>
+    <a class="button button-outline" href="https://www.zigbee2mqtt.io/devices/{%- if page.z2m != nil -%}{{- page.z2m -}} {% else %} {{- page.model | replace: ' ', '_' | replace: '/', '_' -}} {% endif %}.html">zigbee2mqtt</a>
     {% endif %}
     {% if page.compatible contains "deconz" or page.category == "light" %}
         {%- if page.deconz != nil -%}

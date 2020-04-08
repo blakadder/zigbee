@@ -15,12 +15,3 @@ link: https://www.amazon.co.uk/C%C3%A9liane-Connected-Installation-Yesterday-LEG
 link2: 
 link3: 
 ---
-### Pairing
-Only works on channel 11
-
-- You must have access to the reset button on the device (therefore not via a power failure).
-- Make sure that the Zigate is not in pairing mode
-- Press 8s (approximately) on the reset button of the device (until it turns red) - This will make it possible to ensure that the equipment is off the network
-- Then switch the Zigate to Pairing Mode
-- Press the reset button 8s (approximately) to start the pairing procedure.
-- Make successive clicks on the reset button (every second), until the LED turns green!

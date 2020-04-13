@@ -3,7 +3,7 @@ model: LST001
 vendor: Philips
 title: Hue LightStrip
 category: light
-supports: on/off, brightness, colorxy, power-on behavior
+supports: on/off, brightness, colorxy
 image: /assets/images/devices/Philips_LST001.jpg
 zigbeemodel: ['LST001']
 compatible: [z2m]

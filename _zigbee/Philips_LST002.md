@@ -3,7 +3,7 @@ model: ['LST002']
 vendor: Philips
 title: Hue LightStrip Plus
 category: light
-supports: on/off, brightness, colortemp, colorxy, power-on behavior
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LST002.jpg
 zigbeemodel: ['LST002']
 compatible: [z2m,zigate]

@@ -3,7 +3,7 @@ model: LWE002
 vendor: Philips
 title: Hue White E14 Bluetooth
 category: light
-supports: on/off, brightness, power-on behavior
+supports: on/off, brightness
 image: /assets/images/devices/Philips_LWE002.jpg
 zigbeemodel: ['LWE002']
 compatible: [z2m,iob]

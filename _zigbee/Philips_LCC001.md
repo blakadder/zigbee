@@ -3,7 +3,7 @@ model: LCC001
 vendor: Philips
 title: Hue Flourish Ceiling Light
 category: light
-supports: on/off, brightness, colortemp, colorxy, power-on behavior
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCC001.jpg
 zigbeemodel: ['LCC001']
 compatible: [z2m]

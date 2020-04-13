@@ -3,7 +3,7 @@ model: LCB001
 vendor: Philips
 title: Hue White and Color Ambiance BR30 Bluetooth
 category: light
-supports: on/off, brightness, colortemp, colorxy, power-on behavior
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCB001.jpg
 zigbeemodel: ['LCB001']
 compatible: [z2m,deconz]

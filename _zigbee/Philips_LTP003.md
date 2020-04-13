@@ -3,7 +3,7 @@ model: LTP003
 vendor: Philips
 title: Hue Fair Suspension Light
 category: light
-supports: on/off, brightness, colortemp, power-on behavior
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/Philips_LTP003.jpg
 zigbeemodel: ['LTP003']
 compatible: [z2m]

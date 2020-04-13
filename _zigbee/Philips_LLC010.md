@@ -4,7 +4,7 @@ model: LLC010
 vendor: Philips
 title: Hue Iris Table Lamp
 category: light
-supports: on/off, brightness, colorxy, power-on behavior
+supports: on/off, brightness, colorxy
 image: /assets/images/devices/7199960PH.jpg
 compatible: [z2m,deconz,zigate,iob]
 zigbeemodel: ['LLC010']

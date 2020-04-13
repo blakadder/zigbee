@@ -3,7 +3,7 @@ model: LTC002
 vendor: Philips
 title: Hue Fair Ceiling Light
 category: light
-supports: on/off, brightness, colortemp, power-on behavior
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/Philips_LTC002.jpg
 zigbeemodel: ['LTC002']
 compatible: [z2m]

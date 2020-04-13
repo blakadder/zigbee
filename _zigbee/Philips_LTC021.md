@@ -4,7 +4,7 @@ model: LTC021
 vendor: Philips
 title: Hue Adore Bathroom Ceiling Light
 category: light
-supports: on/off, brightness, colortemp, colorxy, power-on behavior
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LTC021.jpg
 zigbeemodel: ['LTC021']
 compatible: [z2m,iob,deconz]

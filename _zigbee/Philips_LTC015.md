@@ -4,7 +4,7 @@ model: LTC015
 vendor: Philips
 title: Hue Aurelle Rectangle Panel Light 30x120cm
 category: light
-supports: on/off, brightness, colortemp, power-on behavior
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/Philips_LTC015.jpg
 zigbeemodel: ['LTC015']
 compatible: [z2m,iob]

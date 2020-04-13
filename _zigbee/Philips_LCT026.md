@@ -4,7 +4,7 @@ model: LCT026
 vendor: Philips
 title: Hue Go Bluetooth Portable Light 
 category: light
-supports: on/off, brightness, colortemp, colorxy, power-on behavior
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCT026.jpg
 zigbeemodel: ['LCT026']
 compatible: [z2m,deconz,zigate,iob]

@@ -6,7 +6,7 @@ EAN:
 vendor: Philips
 title: Hue Aurelle Round Panel Light
 category: light
-supports: on/off, brightness, colortemp, power-on behavior
+supports: on/off, brightness, colortemp
 image: /assets/images/devices/Philips_LTC016.jpg
 zigbeemodel: ['LTC016']
 compatible: [z2m]

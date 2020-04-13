@@ -3,7 +3,7 @@ model: LCT003
 vendor: Philips
 title: Hue White and Color Ambiance Spot GU10
 category: light
-supports: on/off, brightness, colortemp, colorxy, power-on behavior
+supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCT003.jpg
 zigbeemodel: ['LCT003'] 
 compatible: [z2m, zigate]

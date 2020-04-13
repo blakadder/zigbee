@@ -11,7 +11,7 @@ compatible: [deconz]
 deconz: 2292
 mlink: https://aone.auroralighting.com/ProductDetails/AU-A1ZBDSS
 link: https://www.edwardes.co.uk/products/aurora-au-a1zbdss-aone-smart-13a-double-socket
-link2: https://www.edwardes.co.uk/products/aurora-au-a1zbdss-aone-smart-13a-double-socket
+link2: 
 link3: 
 EAN: 
 ---

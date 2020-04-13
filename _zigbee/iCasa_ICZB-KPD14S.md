@@ -8,7 +8,7 @@ category: remote
 supports: click, action, brightness, scenes
 image: /assets/images/devices/iCasa_ICZB-KPD14S.jpg
 zigbeemodel: ['ICZB-KPD14S']
-compatible: [z2m,deconz]
+compatible: [z2m,deconz,iob]
 deconz: 1124
 mlink: https://www.icasa.io/wandschakelaars?lang=en
 link: https://www.amazon.de/dp/B07L2ZYC53/

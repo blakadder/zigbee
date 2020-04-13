@@ -4,7 +4,7 @@ EAN: 7199460PH
 vendor: Philips
 title: Hue Bloom Living Colors Starter Pack
 category: light
-supports: on/off, brightness, colorxy, power-on behavior
+supports: on/off, brightness, colorxy
 image: /assets/images/devices/Philips_LLC011.jpg
 zigbeemodel: ['LLC011']
 compatible: [z2m,iob]

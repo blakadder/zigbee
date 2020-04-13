@@ -3,7 +3,7 @@ model: LWV001
 vendor: Philips
 title: Hue White Filament Bulb ST64 E27
 category: light
-supports: on/off, brightness, power-on behavior
+supports: on/off, brightness
 image: /assets/images/devices/Philips_929002241201.jpg
 zigbeemodel: ['LWV001']
 compatible: [z2m,iob,deconz,zigate]

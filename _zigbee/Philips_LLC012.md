@@ -3,7 +3,7 @@ model: LLC012
 vendor: Philips
 title: Hue Bloom Table Lamp
 category: light
-supports: on/off, brightness, colorxy, power-on behavior
+supports: on/off, brightness, colorxy
 image: /assets/images/devices/Philips_LLC012.jpg
 zigbeemodel: ['LLC012']
 compatible: [z2m,iob]

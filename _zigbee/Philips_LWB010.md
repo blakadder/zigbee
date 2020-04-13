@@ -4,7 +4,7 @@ EAN: 8718696449691
 vendor: Philips
 title: Hue White B22
 category: light
-supports: on/off, brightness, power-on behavior
+supports: on/off, brightness
 image: /assets/images/devices/Philips_LWB010.jpg
 zigbeemodel: ['LWB010']
 compatible: [z2m]

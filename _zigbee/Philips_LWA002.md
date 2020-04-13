@@ -3,7 +3,7 @@ model: LWA002
 vendor: Philips
 title: Hue White Ambiance A19 E26 Bluetooth
 category: light
-supports: on/off, brightness, power-on behavior
+supports: on/off, brightness
 image: /assets/images/devices/Philips_LWA002.jpg
 zigbeemodel: ['LWA002']
 compatible: [z2m,iob]

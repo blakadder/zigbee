@@ -4,10 +4,10 @@ model: MCLH-03
 vendor: LifeControl
 title: Smart Plug
 category: plug
-supports: on/off, power meter
+supports: on/off, power measurement
 image: /assets/images/devices/LifeControl_MCLH-03.jpg
 zigbeemodel: ['RICI01']
-compatible: [deconz]
+compatible: [deconz,z2m,iob]
 deconz: 1541
 mlink: https://lifecontrol.ru/devices/smart-plug/
 link: https://www.aliexpress.com/item/10000001787687.html

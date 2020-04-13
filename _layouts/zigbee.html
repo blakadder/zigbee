@@ -94,15 +94,13 @@ More information on <a href="{{ page.zigate }}">ZiGate site</a>.
     
 </div>
 <p></p>
+{% include specific.html %}
 
 {{ content | markdownify }} 
 {% include pairing.html %}
 
-<!-- {%- if page.compatible contains "z2m" -%}
-<h6>Zigbee2MQTT</h6>
-{% include specific.html %}
 
-{% include hass.html %}
+<!-- {% include hass.html %} -->
 
 {% endif %} -->
 

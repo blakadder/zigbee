@@ -1,18 +1,16 @@
-<p>{%- if page.vendor == "IKEA" or page.vendor == "Ubisys" or page.vendor == "OSRAM" or page.vendor == "Ledvance" -%}
+<p>{%- if page.vendor == "IKEA" or page.vendor == "Ubisys" or page.vendor == "OSRAM" or page.vendor == "Ledvance" or page.vendor == "Philips" -%}
 
-<h5>OTA Updates</h5>
-This device supports OTA updates. For more information see <a href="https://www.zigbee2mqtt.io/information/ota_updates.html" target="_blank">Zigbee2MQTT documentation</a>.
-
-{% endif %}
+<h4>OTA Updates</h4>
+This device supports OTA updates. For more information see your gateway's software documentation.
 </p>
+{% endif %}
 
-<p>
 {%- if page.supports contains "green power" -%}
+<p>
 
-<h5>Green Power</h5>
+<h4>Green Power</h4>
 Green Power is a feature of Zigbee that allows for energy-harvesting technology to be used directly with the Zigbee stack. Green Power devices do not send standard Zigbee messages. To use a Green Power device in your Zigbee network you need a "translator". Currently only a Philips Hue device can serve as a translator. 
 <br>
 Your Zigbee Green Power device has to always be in range of a Philips Hue device to function.
-
-{% endif %}
 </p>
+{% endif %}

@@ -30,6 +30,6 @@ Identify the required pins and follow flashing instructions:
 
 VCC pin tolerates 3.6V max. **DO NOT** connect to 5V.
 
-![Pinout](/assets/images/devices/Ebyte_E18-MS1-PCB_pinout.jpg)
+![Pinout](/assets/images/devices/Ebyte_E18-MS1PA-PCB_pinout.jpg)
 
-[User manual](/assets/files/E18-MS1PA-PCB_Usermanual_EN_v1.1.pdf).
+[User manual](/assets/files/E18-MS1-PCB_Usermanual_EN_v1.1.pdf).

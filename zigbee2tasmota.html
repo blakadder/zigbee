@@ -3,7 +3,7 @@ layout: default
 title: Zigbee2Tasmota
 ---
 <h2>{{ page.title }}</h2>
-How to set up <a href="https://tasmota.github.io/docs/#/Zigbee" target="_blank">Zigbee2Tasmota</a>.
+How to set up <a href="https://tasmota.github.io/docs/Zigbee" target="_blank">Zigbee2Tasmota</a>.
 <!-- ######################################################################  -->
 {% assign compatibility = site.zigbee | where: "compatible", "tasmota" %}
 {% assign gateway = site.zigbee | where: "category", "light" | concat: compatibility | uniq %}

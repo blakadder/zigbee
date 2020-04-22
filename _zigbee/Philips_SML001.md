@@ -16,16 +16,4 @@ link3: https://www.amazon.com.au/Philips-Hue-Installation-Free-Exclusive-Compati
 
 #### Tasmota Configuration
 
-Detailed tutorial [here](https://tasmota.github.io/docs/Zigbee/#philips-hue-motion-sensor)
-
-```console
-ZbBind {"Device":"HueMotion","Endpoint":2,"ToDevice":"0x0000","ToEndpoint":1,"Cluster":"0x0001"}
-ZbBind {"Device":"HueMotion","Endpoint":2,"ToDevice":"0x0000","ToEndpoint":1,"Cluster":"0x0400"}
-ZbBind {"Device":"HueMotion","Endpoint":2,"ToDevice":"0x0000","ToEndpoint":1,"Cluster":"0x0402"}
-ZbBind {"Device":"HueMotion","Endpoint":2,"ToDevice":"0x0000","ToEndpoint":1,"Cluster":"0x0406"}
-
-ZbSend {"Device":"HueMotion","Endpoint":2,"Send":"0001_06/00210020100E30F200"}
-ZbSend {"Device":"HueMotion","Endpoint":2,"Send":"0400_06/000000210000100E0000"}
-ZbSend {"Device":"HueMotion","Endpoint":2,"Send":"0402_06/000000290000100E1900"}
-ZbSend {"Device":"HueMotion","Endpoint":2,"Send":"0406_06/000000180000100E"}
-```
+[Detailed tutorial here](https://tasmota.github.io/docs/Zigbee/#philips-hue-motion-sensor)

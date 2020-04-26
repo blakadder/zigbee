@@ -1,4 +1,5 @@
 ---
+date_added: 2020-04-25
 model: ZK03840 
 vendor: Viesmann 
 title: ViCare Radiator Thermostat Valve

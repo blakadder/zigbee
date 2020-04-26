@@ -2,7 +2,7 @@
 date_added: 2020-04-12
 model: AU-A1GUZB5/30
 vendor: Aurora
-title: Aone 4.8W Smart Dimmable GU10 Lamp 3000k
+title: AOne 4.8W Smart Dimmable GU10 Lamp 3000k
 category: light
 supports: on/off, brightness
 zigbeemodel: ['FWGU10Bulb50AU', 'FWGU10Bulb01UK']

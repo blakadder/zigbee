@@ -4,10 +4,10 @@ model: MCLH-08
 vendor: LifeControl
 title: Air Quality Sensor
 category: sensor
-supports: carbon monoxide, temperature, humidity
+supports: voc, carbon monoxide, temperature, humidity
 image: /assets/images/devices/LifeControl_MCLH-08.jpg
 zigbeemodel: ['VOC_Sensor']
-compatible: [deconz]
+compatible: [deconz,z2m,iob]
 deconz: 
 mlink: https://lifecontrol.ru/devices/air-sensor/
 link: https://www.aliexpress.com/item/10000003080409.html

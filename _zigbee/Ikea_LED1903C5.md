@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness
 image: /assets/images/devices/Ikea_LED1903C5.jpg
 zigbeemodel: ['TRADFRI bulb E14 WS 470lm']
-compatible: [z2m,iob]
+compatible: [z2m,iob, zigate]
 mlink: 
 link: 
 link2: 

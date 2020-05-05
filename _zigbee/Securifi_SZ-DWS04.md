@@ -7,7 +7,7 @@ category: sensor
 supports: contact, temperature, batterypct
 image: /assets/images/devices/Securifi_SZ-DWS04.jpg
 zigbeeid: ['SZ-DWS04', 'SZ-DWS04N_SF']
-compatible: [z2m]
+compatible: [z2m,deconz]
 mlink: https://www.securifi.com/rg/securifi-door-sensor
 link: https://www.amazon.co.uk/Securifi-DWS04-Door-Window-Sensor/dp/B01A6ZLNAY
 link2: https://www.amazon.ca/Securifi-DWS04-Door-Window-Sensor/dp/B01A6ZLNAY

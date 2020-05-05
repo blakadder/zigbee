@@ -2,7 +2,7 @@
 date_added: 2020-04-23
 model: GL-FL-006TZ
 vendor: Gledopto
-title: 30W RGB+CCT Flood light
+title: 30W RGB+CCT Flood Light
 category: light
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['GL-FL-006TZ']

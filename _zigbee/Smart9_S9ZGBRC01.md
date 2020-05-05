@@ -7,7 +7,7 @@ category: remote
 supports: action
 image: /assets/images/devices/Smart9_S9ZGBRC01.webp
 zigbeemodel: ['TS0215']
-compatible: [z2m]
+compatible: [z2m,deconz]
 mlink: 
 link: https://www.aliexpress.com/item/4000231347808.html
 link2: 

@@ -6,7 +6,7 @@ category: plug
 supports: on/off, power measurement
 image: /assets/images/devices/ZNCZ12LM.jpg
 zigbeemodel: ['lumi.plug.maus01']
-compatible: [z2m,zha]
+compatible: [z2m,zha,deconz]
 mlink: https://www.aqara.com/us/smart_plug.html
 link: https://www.amazon.com/Aqara-12LM-ZNCZ-Smart-White/dp/B07CJ2MM6Z
 link2: https://www.gearbest.com/living-appliances/pp_344666.html

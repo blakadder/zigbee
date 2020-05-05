@@ -7,7 +7,7 @@ category: plug
 supports: on/off
 image: /assets/images/devices/Innr_SP_220.jpg
 zigbeemodel: ['SP 224']
-compatible: [deconz,z2m]
+compatible: [deconz,z2m,iob]
 mlink: https://www.innr.com/en/product/smart-plug-us-version/
 link: https://www.amazon.com/Zigbee-Philips-SmartThings-Google-Required/dp/B07SQGG8Z7
 link2: 

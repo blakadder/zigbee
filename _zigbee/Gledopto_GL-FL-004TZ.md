@@ -1,7 +1,7 @@
 ---
 model: GL-FL-004TZ
 vendor: Gledopto
-title: 10W RGB+CCT Flood light
+title: 10W RGB+CCT Flood Light
 category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-FL-004TZ.jpg

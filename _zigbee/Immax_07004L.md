@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Immax_07004L.jpg
 zigbeemodel: ['IM-Z3.0-RGBW']
-compatible: [z2m]
+compatible: [z2m,iob]
 mlink: https://www.immaxneo.cz/en/products/immax-neo-smart-led-e27-85w-color-dimmable-zigbee-3-0/
 link: https://www.amazon.de/dp/B07MC4Q1CC
 link2: 

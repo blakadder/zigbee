@@ -6,7 +6,7 @@ title: Leak & Temperature Sensor
 category: sensor
 supports: temperature, water leak, battery
 zigbeemodel: ['leakSMART Water Sensor V2']
-compatible: [zha,z2m]
+compatible: [zha,z2m,deconz]
 z2m: 8840100H
 mlink: https://leaksmart.com/products/water-sensor/
 link: https://www.amazon.com/leakSMART-Wireless-Waterproof-Detector-Sensor/dp/B0718Z7QLC

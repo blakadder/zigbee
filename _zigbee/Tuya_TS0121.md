@@ -6,7 +6,7 @@ title: 10A UK Smart Plug
 category: plug
 supports: on/off
 zigbeemodel: ['TS0121']
-compatible: [z2m]
+compatible: [z2m,deconz]
 mlink: 
 link: https://www.aliexpress.com/item/4000688343995.html
 link2: 

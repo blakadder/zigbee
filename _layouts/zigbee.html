@@ -61,7 +61,6 @@ More information on <a href="{{ page.zigate }}">ZiGate site</a>.
 
 <h6>Confirmed working with</h6>
 <div class="row">
-  {% if page.compatible contains "z2m" %}
     <div class="column">
     {% if page.compatible contains "zha" or page.category == "light" %}
     <a class="button button-outline" href="https://www.home-assistant.io/integrations/zha/">ZHA</a>
@@ -70,6 +69,7 @@ More information on <a href="{{ page.zigate }}">ZiGate site</a>.
         {%- if page.compatible contains "tasmota" -%}<a class="button button-outline" href="https://tasmota.github.io/docs/Zigbee/#usage">Tasmota</a>
         {% endif %}
     {% endif %}
+    {% if page.compatible contains "z2m" %}
     {% if page.category == "coordinator" %}
       <a class="button button-outline" href="https://www.zigbee2mqtt.io/information/supported_adapters.html">zigbee2mqtt</a>
     {% else %}

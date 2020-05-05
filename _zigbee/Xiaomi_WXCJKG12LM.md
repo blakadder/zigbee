@@ -8,7 +8,7 @@ supports: action, batterybatterylowery
 action: hold, release, single, double, triple
 image: /assets/images/devices/WXCJKG12LM.jpg
 zigbeemodel: ['lumi.remote.b486opcn01']
-compatible: [z2m,iob,zha,deconz]
+compatible: [z2m,iob,zha,deconz, zigate]
 z2m: WXCJKG12LM
 mlink: https://www.aqara.com/cn/op_switch.html
 link: https://www.aliexpress.com/af/aqara-opple-switch.html

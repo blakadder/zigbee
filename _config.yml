@@ -1,5 +1,5 @@
 title: Zigbee Device Compatibility Repository
-description: Database of devices compatible with Zigbee2MQTT, deCONZ, ZIGate and Zigbee2Tasmota
+description: Database of devices compatible with ZHA, Tasmota, Zigbee2MQTT, deCONZ, ZIGate and ioBroker
 url: "https://zigbee.blakadder.com"
 
 # Build settings

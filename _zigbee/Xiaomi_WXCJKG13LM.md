@@ -9,7 +9,7 @@ action: hold, release, single, double, triple
 image: /assets/images/devices/WXCJKG13LM.jpg
 zigbeemodel: ['lumi.remote.b686opcn01']
 z2m: WXCJKG13LM
-compatible: [z2m,iob,zha,deconz]
+compatible: [z2m,iob,zha,deconz,zigate]
 mlink: https://www.aqara.com/cn/op_switch.html
 link: https://www.aliexpress.com/af/aqara-opple-switch.html
 link2: https://www.banggood.com/Original-Aqara-OPPLE-Wireless-International-Version-Smart-Switch-Work-With-Apple-HomeKit-Xiaomi-Eco-System-p-1588700.html
@@ -30,3 +30,17 @@ When bound to a lamp, the behavior is as follows:
 - right double click: light dim up (by steps of 33%)
 - long left click: warm white
 - long right click: cold white
+
+### On Domoticz with Zigate
+
+Here are the events you will receive on teh Domoticz widget, 5 events per buttons
+- left click
+- right click
+- left double click
+- right double click
+- right triple click
+- left triple click
+- left long click
+- right long click
+- left release
+- right long click

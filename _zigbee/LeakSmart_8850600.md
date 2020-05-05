@@ -1,13 +1,13 @@
 ---
-date_added: 2020-01-26
+date_added: 2020-04-04
 model: 8850600
 vendor: LeakSmart
 title: Leak & Temperature Sensor
 category: sensor
-supports: temperature, water leak
+supports: temperature, water leak, battery
 zigbeemodel: ['leakSMART Water Sensor V2']
-compatible: [zha]
-image: /assets/images/devices/LeakSmart_8850600.jpg
+compatible: [zha,z2m]
+z2m: 8840100H
 mlink: https://leaksmart.com/products/water-sensor/
 link: https://www.amazon.com/leakSMART-Wireless-Waterproof-Detector-Sensor/dp/B0718Z7QLC
 link2: https://www.walmart.com/ip/LeakSmart-8850600-Leaksmart-Wireless-Water-Leak-Sensor/904625934

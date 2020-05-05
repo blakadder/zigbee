@@ -13,18 +13,20 @@
   
   <!-- Google / Search Engine Tags -->
   <meta itemprop="name" content="{{ page.title | strip_html | normalize_whitespace | truncate: 160 | escape }} Zigbee compatibility information">
-  <meta itemprop="description" content="{% if page.title and page.layout == zigbee %}Zigbee compatibility info for {{ page.vendor | escape }} {{ page.model | escape }} {{ page.title | escape }} {{ page.type | escape }}{% else %}{{ site.title | escape }}{% endif %}">
-  <meta itemprop="image" content="/assets/images/devices/{{ page.image }}">
+  <meta itemprop="description" content="{% if page.title and page.layout == zigbee %}Zigbee compatibility info for {{ page.vendor | escape }} {{ page.model | escape }} {{ page.title | escape }} {{ page.type | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+  <meta itemprop="image" content="{% if page.title and page.layout == zigbee %}/assets/images/devices/{{ page.image }}{% endif %}">
 
   <meta property="og:title" content="{{ site.title | normalize_whitespace | escape }}">
-  <meta property="og:description" content="{% if page.title and page.layout == zigbee %}Zigbee compatibility info for {{ page.vendor | escape }} {{ page.model | escape }} {{ page.title | escape }} {{ page.type | escape }}{% else %}{{ site.title | escape }}{% endif %}">
-  <meta property="og:image" content="/assets/images/devices/{{ page.image }}">
+  <meta property="og:description" content="{% if page.title and page.layout == zigbee %}Zigbee compatibility info for {{ page.vendor | escape }} {{ page.model | escape }} {{ page.title | escape }} {{ page.type | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+  <meta property="og:image" content="{% if page.title and page.layout == zigbee %}/assets/images/devices/{{ page.image }}{% endif %}">
   <meta property="og:url" content="href="{{ page.url | replace:'index.html','' | absolute_url }}">
 												 
   <meta name="twitter:title" content="{{ site.title | normalize_whitespace | escape }}">
-  <meta name="twitter:description" content="{% if page.title and page.layout == zigbee %}Zigbee compatibility info for {{ page.vendor | escape }} {{ page.model | escape }} {{ page.title | escape }} {{ page.type | escape }}{% else %}{{ site.title | escape }}{% endif %}">
-  <meta name="twitter:image" content="/assets/images/devices/{{ page.image }}">
+  <meta name="twitter:description" content="{% if page.title and page.layout == zigbee %}Zigbee compatibility info for {{ page.vendor | escape }} {{ page.model | escape }} {{ page.title | escape }} {{ page.type | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.title and page.layout == zigbee %}/assets/images/devices/{{ page.image }}{% endif %}">
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="{{ site.url }}">
+  <meta name="twitter:creator" content="blakadder">
 
   {% include styles.html %}
 

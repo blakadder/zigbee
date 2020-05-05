@@ -1,5 +1,5 @@
 ---
-date_added: 2020-04-04
+date_added: 2020-05-05
 model: AE 260
 vendor: Innr
 title: Dimmable White Bulb E26

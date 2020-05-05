@@ -1,6 +1,6 @@
 ---
 model: DTB190502A1
-vendor: Databyte.ch
+vendor: Databyte
 title: CC2530 IO Board
 category: switch
 supports: 

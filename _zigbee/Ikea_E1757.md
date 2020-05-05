@@ -13,9 +13,10 @@ mlink: https://www.ikea.com/nl/en/p/fyrtur-block-out-roller-blind-wireless-batte
 link: 
 link2: 
 link3: 
+EAN: '904.081.70'
 ---
-EAN: 904.081.70
 
+## Note
 Includes models: E1748-60, E1749-80, E1750-100, E1751-120, E1752-140, E1753-60, E1754-80, E1755-100, E1756-120, E1757-140
 
 ### Pairing

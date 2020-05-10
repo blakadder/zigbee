@@ -13,4 +13,5 @@ link: https://www.aliexpress.com/item/4000423219189.html
 link2: 
 link3: 
 ---
-Pair: When off, keep pressed until switchs led starts blinking
+### Pairing 
+When off, keep pressed until switch led starts blinking

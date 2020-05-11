@@ -1,0 +1,15 @@
+---
+date_added: 2020-05-11
+model: ZS1100500-IN-V1A02
+z2m: ZS110050078
+vendor: Linkind
+title: Door Window Sensor
+category: sensor
+supports: contact
+zigbeemodel: ['ZB-DoorSensor-D0003']
+compatible: [z2m]
+mlink: https://www.linkind.com/product-page/door-window-sensor-zigbee-for-use-with-linkind-smart-device
+link: https://www.amazon.de/Linkind-Wireless-Fenster-Sensoren-Fensteralarm/dp/B07YFF2Q4P
+link2: https://www.amazon.com/Linkind-Zigbee-White-Security-Automation-Required/dp/B07W49TS34
+link3: 
+---

@@ -2,7 +2,7 @@
 date_added: 2020-03-13
 model: HS2SW1A
 vendor: Heiman
-title: Smart Switch 1 Gang
+title: Switch 1 Gang
 category: switch
 supports: on/off
 image: /assets/images/devices/Heiman_HS2SW1A.jpg

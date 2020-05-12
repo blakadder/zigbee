@@ -2,7 +2,7 @@
 date_added: 2020-03-13
 model: HS2SW3A
 vendor: Heiman
-title: Smart Switch 3 Gang
+title: Switch 3 Gang
 category: switch
 supports: lrc_on_off
 image: /assets/images/devices/Heiman_HS2SW3A.jpg

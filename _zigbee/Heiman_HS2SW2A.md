@@ -2,7 +2,7 @@
 date_added: 2020-03-13
 model: HS2SW2A
 vendor: Heiman
-title: Smart Switch 2 Gang
+title: Switch 2 Gang
 category: switch
 supports: lr_on_off
 image: /assets/images/devices/Heiman_HS2SW2A.jpg

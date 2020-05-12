@@ -1,7 +1,7 @@
 ---
 model: HS1SA
 vendor: Heiman
-title: Smart Smoke Sensor
+title: Smoke Sensor
 category: sensor
 supports: smoke, batterylow
 image: /assets/images/devices/Heiman_HS1SA.jpg

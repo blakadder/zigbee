@@ -2,7 +2,7 @@
 date_added: 2020-01-21
 model: HS1HT
 vendor: Heiman
-title: Smart Temperature & Humidity Sensor
+title: Temperature & Humidity Sensor
 category: sensor
 supports: temperature, humidity, batterypct
 image: /assets/images/devices/Heiman_HS1HT.jpg

@@ -5,7 +5,6 @@ vendor: GBAN
 title: ZigBee RF to USB Dongle
 category: coordinator
 supports: coordinator, router
-image: /assets/images/devices/coordinator_GB-RFTOUSB.jpg
 zigbeeid: none
 compatible: [z2m,iob,zha]
 mlink: http://www.gban.cn/en/product_show.asp?id=43

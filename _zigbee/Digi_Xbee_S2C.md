@@ -5,7 +5,6 @@ vendor: Digi
 title: XBee Series 2C 
 category: coordinator
 supports: coordinator
-image: /assets/images/devices/coordinator_Digi_Xbee_S2C.jpg
 zigbeeid: none
 compatible: [zha]
 mlink: https://www.digi.com/products/models/xb24cz7witb003

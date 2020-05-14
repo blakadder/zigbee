@@ -2,7 +2,7 @@
 date_added: 2020-04-26
 model: TS0121
 vendor: Generic
-title: 10A UK Smart Plug
+title: 10A/16A Smart Plug
 category: plug
 supports: on/off
 zigbeemodel: ['TS0121']

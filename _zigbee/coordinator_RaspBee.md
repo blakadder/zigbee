@@ -13,8 +13,16 @@ link: https://www.amazon.com/dp/B00E6300DO
 link2: https://www.reichelt.com/de/de/zigbee-usb-gateway-smart-home-deconz-ii-p260151.html
 link3: 
 ---
+*RaspBee adapter is no longer manufactured and is obsoleted by RaspBee II*
+
+RaspBee Raspberry Pi Zigbee Gateway is the first-generation Zigbee coordinator shield for Raspberry Pi, manufactured and sold by dresden elektronik.
+
+Features a Zigbee Home Automation 1.2 (ZHA 1.2) coordinator firmware.
+
+
 Compatible with following Home Automation solutions:
-- [Home Assistant](https://www.home-assistant.io/components/deconz/)
+- [Home Assistant via deCONZ](https://www.home-assistant.io/integrations/deconz/)
+- [Home Assistant via ZHA](https://www.home-assistant.io/integrations/zha/)
 - [Homebridge-hue](https://www.npmjs.com/package/homebridge-hue)
 - [FHEM](https://wiki.fhem.de/wiki/Hue) 
 - [JowiHue for HomeSeer](https://forums.homeseer.com/forum/lighting-primary-technology-plug-ins/lighting-primary-technology-discussion/jowihue-w-vuyk)

@@ -5,7 +5,7 @@ vendor: dresden elektronik
 title: ConBee Zigbee USB Gateway
 category: coordinator
 supports: coordinator
-image: 
+image: /assets/images/devices/conbee1_400px.jpg
 zigbeeid: none
 compatible: [deconz,zha]
 mlink: https://phoscon.de/en/conbee

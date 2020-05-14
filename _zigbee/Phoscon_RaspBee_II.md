@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator
 image: /assets/images/devices/Phoscon_RaspBee_II.jpg
 zigbeeid: none
-compatible: [deconz]
+compatible: [deconz,zha]
 mlink: https://phoscon.de/en/raspbee2/
 link: https://www.amazon.de/dp/B084MK8F5M
 link2: https://www.amazon.co.uk/dp/B084MK8F5M

@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator, router
 image: /assets/images/devices/coordinator_GB-RFTOUSB.jpg
 zigbeeid: none
-compatible: [z2m, iob]
+compatible: [z2m,iob,zha]
 mlink: http://www.gban.cn/en/product_show.asp?id=43
 link: https://www.aliexpress.com/item/4000060995530.html
 link2: https://www.aliexpress.com/item/4000136938567.html

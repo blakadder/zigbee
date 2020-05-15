@@ -1,6 +1,6 @@
 ---
 date_added: 2020-02-04
-model: AV2010/28
+model: AV2010/32
 vendor: Bitron
 title: Wall Thermostat
 category: hvac

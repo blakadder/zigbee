@@ -3,7 +3,7 @@ model: PSM-29ZBSR
 vendor: Climax
 title: Power Plug
 category: plug
-supports: on/off
+supports: on/off, power measurement
 image: /assets/images/devices/Climax_PSM-29ZBSR.jpg
 zigbeemodel: ['PSM_00.00.00.35TC']
 compatible: [z2m, deconz]

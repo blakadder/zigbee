@@ -10,4 +10,5 @@ mlink:
 link: https://www.amazon.com/essentials-120112-Smart-Home-Thermostat/dp/B0816X9ZDF
 link2: 
 compatible: [z2m]
+z2m: GS361A-H04
 ---

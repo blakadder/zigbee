@@ -5,7 +5,6 @@ vendor: Phoscon
 title: RaspBee Raspberry Pi Zigbee Gateway
 category: coordinator
 supports: coordinator
-image: /assets/images/devices/Phoscon_RaspBee.jpg
 zigbeeid: none
 compatible: [deconz,zha]
 mlink: https://phoscon.de/en/raspbee

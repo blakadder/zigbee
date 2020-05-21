@@ -5,11 +5,10 @@ vendor: Gledopto
 title: 4W Dual White And Color Candle Bulb Plus
 category: light
 supports: on/off, brightness, colortemp, colorxy
-zigbeemodel: ['GL-B-001Z']
-compatible: [z2m,iob,zigate]
-mlink: http://www.gledopto.com/h-col-337.html
-link: https://www.aliexpress.com/item/32968033149.html
-link2: https://www.amazon.com/GLEDOPTO-Dimmable-Compatible-Lightify-Android/dp/B07R12DYLF/
-link3: https://www.amazon.de/dp/B07Y1TDMR3
-link4: https://www.banggood.com/GLEDOPTO-Zig_Bee-ZLL-GL-B-001Z-AC100-240V-RGBCCT-E14-4W-LED-Candle-Bulb-Work-with-Amazon-Echo-Plus-p-1474434.html
+zigbeemodel: ['GL-B-001ZS']
+compatible: [z2m]
+mlink: http://www.gledopto.com/h-col-349.html
+link: https://www.aliexpress.com/item/4000337866681.html
+link2: https://www.amazon.co.uk/GL-B-001ZS-AC100-240V-Christmas-Festival-Decorative/dp/B0829V9M3M
+link3: https://www.amazon.de/GL-B-001ZS-AC100-240V-Gl%C3%BChbirne-Christmas-Dekorative/dp/B0829V9M3M
 ---

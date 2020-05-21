@@ -8,6 +8,7 @@ supports: on/off
 image: /assets/images/devices/Innr_SP_220.jpg
 zigbeemodel: ['SP 220']
 compatible: [zigate,deconz,z2m,iob]
+deconz: 2678
 mlink: https://www.innr.com/en/product/smart-plug-uk-version/
 link: https://www.amazon.co.uk/Zigbee-Philips-Google-Required-2-Pack/dp/B07SLZVM78
 link2: 

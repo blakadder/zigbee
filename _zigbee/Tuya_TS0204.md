@@ -7,6 +7,7 @@ category: sensor
 supports: gas
 zigbeemodel: ['TS0204']
 compatible: [z2m, deconz]
+deconz: 2633
 z2m: TS0204
 mlink: 
 link: https://www.aliexpress.com/item/4000804616119.html

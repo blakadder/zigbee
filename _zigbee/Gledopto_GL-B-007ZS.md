@@ -4,7 +4,6 @@ vendor: Gledopto
 title: 6W Dual White And Color Bulb Plus
 category: light
 supports: on/off, brightness, colortemp, colorxy
-image: /assets/images/devices/Gledopto_GL-B-007ZS.jpg
 zigbeemodel: ['GL-B-007ZS'] 
 compatible: [z2m,iob]
 mlink: http://www.gledopto.com/h-col-345.html

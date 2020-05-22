@@ -6,7 +6,7 @@ title: Sound and Flash Siren
 category: sensor
 supports: warning, batterypct
 image: /assets/images/devices/Heiman_HS2WD-E.jpg
-zigbeemodel: ['WarningDevice','WarningDevice-EF-3.0']
+zigbeemodel: ['WarningDevice','WarningDevice-EF-3.0','SRHMP-I1']
 compatible: [deconz,z2m,zigate,zha,iob]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/sirneheiman
 mlink: http://www.heimantech.com/product/100.html

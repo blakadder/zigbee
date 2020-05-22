@@ -4,8 +4,8 @@ vendor: Paulmann
 title: Gent Remote Control
 category: remote
 supports: action
-image: /assets/images/devices/50067.jpg
-compatible: [zigate]
+zigbeemodel: ['RemoteControl ']
+compatible: [zigate,z2m]
 mlink: https://en.paulmann.com/indoor-lighting/smart-home/zigbee/controlling/smarthome-zigbee-remote-control-gent-with-wall-mounting-bracket/50067
 link: https://www.amazon.de/dp/B071WZZ12Y
 link2: 

@@ -8,6 +8,7 @@ supports: temperature, water leak, battery
 zigbeemodel: ['leakSMART Water Sensor V2']
 compatible: [zha,z2m,deconz]
 z2m: 8840100H
+deconz: 2701
 mlink: https://leaksmart.com/products/water-sensor/
 link: https://www.amazon.com/leakSMART-Wireless-Waterproof-Detector-Sensor/dp/B0718Z7QLC
 link2: https://www.walmart.com/ip/LeakSmart-8850600-Leaksmart-Wireless-Water-Leak-Sensor/904625934

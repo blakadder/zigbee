@@ -7,7 +7,7 @@ category: lock
 supports: lock/unlock, batterypct
 image: /assets/images/devices/Danalock_V3-BTZB.jpg
 zigbeemodel: ['V3-BTZB']
-compatible: [z2m,iob]
+compatible: [z2m,iob,zha]
 mlink: https://danalock.com/products/danalock-v3-smart-lock/
 link: https://shop.danalock.com/product-category/danalock-v3/
 link2: https://www.amazon.com/Danalock-Bluetooth-Z-Wave-Smart-Lock/dp/B07B8TJ7TW

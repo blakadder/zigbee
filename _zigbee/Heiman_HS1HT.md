@@ -6,7 +6,7 @@ title: Temperature & Humidity Sensor
 category: sensor
 supports: temperature, humidity, batterypct
 image: /assets/images/devices/Heiman_HS1HT.jpg
-zigbeemodel: ['TH-EM','HT-EM']
+zigbeemodel: ['TH-EM','HT-EM','TH-T_V14']
 compatible: [z2m,zha,deconz,zigate]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/capteurtempraturehumidit
 mlink: http://www.heiman.com.cn/product/103.html

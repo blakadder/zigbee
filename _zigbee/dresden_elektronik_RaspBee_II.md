@@ -1,7 +1,7 @@
 ---
 date_added: 2020-03-20
 model: BN-600108
-vendor: Phoscon
+vendor: dresden elektronik
 title: RaspBee II Raspberry Pi Zigbee Gateway
 category: coordinator
 supports: coordinator

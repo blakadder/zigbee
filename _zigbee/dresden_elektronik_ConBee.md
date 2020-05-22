@@ -1,6 +1,6 @@
 ---
 model: BN-600090
-vendor: Phoscon
+vendor: dresden elektronik
 title: ConBee Zigbee USB Gateway
 category: coordinator
 supports: coordinator

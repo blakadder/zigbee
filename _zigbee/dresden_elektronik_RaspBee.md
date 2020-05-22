@@ -1,7 +1,7 @@
 ---
 date_added: 2020-01-01
 model: BN-600052
-vendor: Phoscon
+vendor: dresden elektronik
 title: RaspBee Raspberry Pi Zigbee Gateway
 category: coordinator
 supports: coordinator

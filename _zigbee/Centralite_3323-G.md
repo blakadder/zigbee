@@ -7,8 +7,9 @@ category: sensor
 supports: contact, temperature
 image: /assets/images/devices/Centralite_3323.jpg
 zigbeemodel: ['3323-G','3323-C']
-compatible: [zigate,z2m]
+compatible: [zigate,z2m,deconz]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/microdoorsensor3323-c
+deconz: 2783
 mlink: https://centralite.com/products/micro-door-sensor
 link: https://www.amazon.com/Centralite-Sensor-SmartThings-ZigBee-platforms/dp/B071YQCWQM
 link2: https://www.amazon.de/dp/B071YQCWQM/

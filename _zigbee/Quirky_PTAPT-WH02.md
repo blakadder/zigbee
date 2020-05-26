@@ -1,7 +1,7 @@
 ---
 model: PTAPT-WH02
-vendor: GE
-title: Quirky Tapt Smart Wall Switch
+vendor: Quirky
+title: Tapt Smart Wall Switch
 category: switch
 supports: on/off
 image: /assets/images/devices/GE_PTAPT-WH02.jpg

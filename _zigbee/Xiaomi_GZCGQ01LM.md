@@ -1,5 +1,5 @@
 ---
-date_added: 2020-05-36
+date_added: 2020-05-24
 model: GZCGQ01LM
 vendor: Xiaomi
 title: Mijia Light Intensity Sensor

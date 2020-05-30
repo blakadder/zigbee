@@ -6,7 +6,6 @@ title: Wall Dimmer
 category: remote
 supports: action
 actions: on, off, move to color temp. move to color
-image: /assets/images/devices/iluminize_511.557.jpg
 zigbeemodel: ['511.557']
 compatible: [z2m]
 mlink: https://www.iluminize.com/de/shop/neuheiten-iluminize/product/540-511-577-zigbee-wand-dimmer-schalter-rgb-wei%C3%9F-duo-wei%C3%9F-led-1-zone.html

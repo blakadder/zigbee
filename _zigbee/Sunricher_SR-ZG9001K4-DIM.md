@@ -4,7 +4,6 @@ vendor: Sunricher
 title: Single Color Wall Mounted Push Button Remote 
 category: remote
 supports: click, batterypct
-image: /assets/images/devices/Sunricher_SR-ZG9001K4-DIM.jpg
 zigbeemodel: ['ZGRC-KEY-002']
 compatible: [deconz]
 deconz: 1509

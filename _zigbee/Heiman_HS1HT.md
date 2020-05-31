@@ -9,7 +9,7 @@ image: /assets/images/devices/Heiman_HS1HT.jpg
 zigbeemodel: ['TH-EM','HT-EM','TH-T_V14']
 compatible: [z2m,zha,deconz,zigate]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/capteurtempraturehumidit
-mlink: http://www.heiman.com.cn/product/103.html
+mlink: http://www.heimantech.com/product/?type=detail&id=12
 link: https://www.aliexpress.com/item/32908832168.html
 link2: https://www.amazon.co.uk/HEIMAN-Zigbee-Temperature-Humidity-Detector/dp/B07DJ6MF53
 link3: https://www.amazon.de/Heiman-Monitoring-Innentemperatur-Luftfeuchtigkeit-Sensor/dp/B01MT79P1C

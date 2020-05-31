@@ -9,7 +9,7 @@ image: /assets/images/devices/Immax_07045L.jpg
 zigbeemodel: ['DoorWindow-Sensor-ZB3.0']
 compatible: [z2m]
 mlink: https://www.immaxneo.cz/en/products/security/immax-neo-smart-3x-door-window-sensor/
-link: https://www.amazon.de/dp/B07VS1ZPM2/
+link: https://www.amazon.de/dp/B07TYWJX2N
 link2: https://www.alzashop.com/immax-neo-smart-3x-magnetic-window-and-door-sensor-d5569073.htm
 link3: 
 ---

@@ -1,5 +1,5 @@
 ---
-date_added: 2020-05-31
+date_added: 2020-06-01
 model: BW-SHP13
 vendor: BlitzWolf
 title: Electricity Metering 16A EU Plug 

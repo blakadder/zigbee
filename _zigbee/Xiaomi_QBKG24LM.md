@@ -1,11 +1,11 @@
 ---
-date_added: 2020-06-07
-model: QBKG25LM
+date_added: 2020-06-08
+model: QBKG24LM
 vendor: Xiaomi
-title: Aqara D1 3 Gang No Neutral Wall Switch
+title: Aqara D1 2 Gang Wall Switch 
 category: switch
-supports: on/off, action, power measurement
-zigbeemodel: ['lumi.switch.l3acn3']
+supports: on/off, power measurement
+zigbeemodel: ['lumi.switch.b2nacn02']
 compatible: [z2m]
 mlink: https://www.xiaomiyoupin.com/detail?gid=118897
 link: https://www.aliexpress.com/item/32974697281.html

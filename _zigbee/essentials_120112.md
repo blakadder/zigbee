@@ -9,6 +9,6 @@ supports: temperature, thermostat, battery
 mlink: 
 link: https://www.amazon.com/essentials-120112-Smart-Home-Thermostat/dp/B0816X9ZDF
 link2: 
-compatible: [z2m]
+compatible: [z2m,iob]
 z2m: GS361A-H04
 ---

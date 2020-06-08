@@ -4,7 +4,7 @@ model: MOT003
 vendor: Hive
 title: Motion Sensor
 category: sensor
-supports: occupancy, temperature, illuminance, battery
+supports: occupancy, temperature, battery
 zigbeemodel: ['MOT003']
 compatible: [deconz,z2m]
 deconz: 2606

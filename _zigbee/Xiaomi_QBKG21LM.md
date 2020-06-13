@@ -1,11 +1,11 @@
 ---
-date_added: 2020-05-26
-model: QBKG22LM
+date_added: 2020-06-16
+model: QBKG21LM
 vendor: Xiaomi
-title: Aqara D1 2 Gang No Neutral Wall Switch 
+title: Aqara D1 1 Gang No Neutral Wall Switch 
 category: switch
 supports: on/off, action
-zigbeemodel: ['lumi.switch.b2lacn02']
+zigbeemodel: ['lumi.switch.b1lacn02']
 compatible: [z2m]
 mlink: https://www.xiaomiyoupin.com/detail?gid=118897
 link: https://www.aliexpress.com/item/32974697281.html

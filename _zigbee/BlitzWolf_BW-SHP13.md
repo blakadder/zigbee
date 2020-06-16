@@ -1,5 +1,5 @@
 ---
-date_added: 2020-06-01
+date_added: 2020-06-16
 model: BW-SHP13
 vendor: BlitzWolf
 title: Electricity Metering 16A EU Plug 
@@ -9,6 +9,6 @@ zigbeemodel: [ ]
 compatible: [ ]
 mlink: 
 link: https://www.banggood.com/BlitzWolf-BW-SHP13-Zigbee-3_0-Smart-WIFI-Socket-16A-EU-Plug-Electricity-Metering-APP-Remote-Controller-Timer-Work-with-Amazon-Alexa-Google-Home-p-1679992.html
-link2: 
+link2: https://blakadder.com/zemismart-zm25tq/
 link3: 
 ---

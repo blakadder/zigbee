@@ -1,5 +1,5 @@
 ---
-date_added: 2020-04-13
+date_added: 2020-06-19
 model: WXKG07LM
 vendor: Xiaomi
 title: Aqara D1 Wireless Remote Switch (Double Rocker)

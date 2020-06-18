@@ -12,8 +12,8 @@
 			var self = this
 
 			self.field('id');
-			self.field('vendor', { boost: 15 });
-			self.field('model', { boost: 10 });
+			self.field('vendor');
+			self.field('model', { boost: 20 });
 			self.field('title');
 			self.field('zigbeemodel');
 
@@ -22,6 +22,7 @@
 					id: key,
 					title: data[key].title,
 					model: data[key].model,
+					vendor: data[key].vendor,
 					zigbeemodel: data[key].zigbeemodel,
 				});
 			})
@@ -44,7 +45,7 @@
 
 		searchLink.attr('href', result.href)
 
-		searchLink.text(result.vendor).append(" ").append(result.title).append(" ").append(result.model)
+		searchLink.text(result.vendor).append(" ").append(result.title).append(" ").append(result.model).append(" ").append(result.zigbeemodel)
 
 		return searchEntry
 	}
@@ -71,7 +72,7 @@
 
 	function searchStore(store, data) {
 		return function (term) {
-			var results = store.search(term)
+			var results = store.search(term + "*")
 
 			return results.map(function (result) {
 				return data[result.ref]

@@ -8,6 +8,6 @@ supports: on/off
 zigbeemodel: ['TI0001-socket']
 mlink: 
 link: https://www.aliexpress.com/item/4000343575116.html
-compatible: [z2m]
+compatible: [z2m,iob]
 ---
 

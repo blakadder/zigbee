@@ -6,7 +6,7 @@ category: remote
 supports: action
 image: /assets/images/devices/Smart9_S9TSZGB.jpg
 zigbeemodel: ['TS0043']
-compatible: [z2m]
+compatible: [z2m,iob]
 mlink: 
 link: https://www.aliexpress.com/item/4000231347808.html
 link2: 

@@ -12,7 +12,6 @@ window.database = {
       "title": "{{ page.title | xml_escape }}",
       "zigbeemodel": "{{ page.zigbeemodel | xml_escape }}",
       "category": "{{ page.category | xml_escape }}",
-      "content": {{ page.content | strip_html | strip_newlines | jsonify }},
       "url": "{{ page.url | xml_escape }}",
       "href": "{{ site.baseurl }}{{ page.url | xml_escape }}"
     }

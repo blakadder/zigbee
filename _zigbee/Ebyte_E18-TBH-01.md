@@ -1,5 +1,5 @@
 ---
-date_added: 2020-06-19
+date_added: 2020-06-20
 model: E18-TBH-01
 vendor: Ebyte
 title: CC2530+CC2592 USB Test Kit

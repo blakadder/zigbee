@@ -1,5 +1,5 @@
 ---
-date_added: 2020-06-19
+date_added: 2020-06-20
 model: E18-MS1PA2-IPX
 vendor: Ebyte
 title: CC2530 PA+LNA 2.4GHz 100mW Zigbee SMD Module with IPX

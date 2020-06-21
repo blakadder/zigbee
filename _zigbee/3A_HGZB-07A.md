@@ -1,6 +1,6 @@
 ---
 model: HGZB-07A
-vendor: 3A
+vendor: 3A Nue
 title: 12W RGBW Downlight
 category: light
 supports: on/off, brightness, colortemp, colorxy

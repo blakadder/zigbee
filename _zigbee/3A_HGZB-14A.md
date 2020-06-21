@@ -1,7 +1,7 @@
 ---
 date_added: 2020-05-05
 model: HGZB-14A
-vendor: 3A
+vendor: 3A Nue
 title: Water Leakage Sensor
 category: sensor
 supports: water leak

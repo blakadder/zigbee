@@ -1,6 +1,6 @@
 ---
 model: HGZB-20-DE
-vendor: 3A
+vendor: 3A Nue
 title: Smart Socket Stecker
 category: plug
 supports: on/off

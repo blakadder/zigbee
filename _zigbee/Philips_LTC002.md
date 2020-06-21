@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Philips_LTC002.jpg
 zigbeemodel: ['LTC002']
-compatible: [z2m]
+compatible: [z2m,iob]
 mlink: https://www2.meethue.com/en-gb/p/hue-white-ambience-fair-ceiling-light/4034031P7
 link: https://www.amazon.de/dp/B01L99HC2Y/
 link2: https://www.amazon.com/Philips-Hue-Ambiance-Flushmount-Assistant/dp/B072553RL7/

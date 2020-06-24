@@ -6,7 +6,7 @@ title: Sonoff Wireless Door/Window Sensor
 category: sensor
 supports: contact
 zigbeemodel: ['SNZB-04']
-compatible: []
+compatible: [ 'zigate' ]
 mlink: https://www.itead.cc/sonoff-snzb-04-zigbee-wireless-door-window-sensor.html
 link: https://www.itead.cc/sonoff-snzb-04-zigbee-wireless-door-window-sensor.html
 link2: 

@@ -12,3 +12,6 @@ link:
 link2:  
 link3: 
 ---
+Custom firmware for CC2530 devices, enabling them to use ZigBee 3.0 and additional components. Tested on [Sonoff BASICZBR3](Sonoff_BASICZBR3).s
+
+Download firmware [https://github.com/diyruz/diyruz_rt](https://github.com/diyruz/diyruz_rt)

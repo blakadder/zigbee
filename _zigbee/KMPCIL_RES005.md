@@ -2,7 +2,7 @@
 date_added: 2020-07-10
 model: RES005
 vendor: KMPCIL
-title: Environment sensor
+title: Environment Sensor
 category: sensor
 supports: battery, temperature, humidity, pressure, illuminance, occupancy, switch
 zigbeemodel: ['RES005']

@@ -12,3 +12,4 @@ link: https://www.lazada.com.ph/products/smartzone-zigbee-12-gas-detector-smartz
 link2: 
 link3: 
 ---
+![Label](/assets/images/devices/lasco_gas_v15.jpg)

@@ -12,3 +12,4 @@ link: https://www.lazada.com.ph/products/smartzone-zigbee-12-smart-indoor-siren-
 link2: 
 link3: 
 ---
+![Label](/assets/images/devices/lasco_smart_siren.jpg)

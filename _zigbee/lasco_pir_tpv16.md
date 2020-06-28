@@ -12,3 +12,4 @@ link: https://www.lazada.com.ph/products/smartzone-zigbee-12-motion-detector-sma
 link2: 
 link3: 
 ---
+![Label](/assets/images/devices/lasco_pir_tpv16.jpg)

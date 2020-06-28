@@ -4,7 +4,7 @@ vendor: Lasco
 title: SmartZone Zigbee 1.2 Smart Indoor Siren
 category: sensor
 supports: warning,batterypct,alarm
-image: /assets/images/devices/lasco_gas_v15.jpg
+image: /assets/images/devices/lasco_smart_siren.jpg
 zigbeemodel: ['WarningDevice']
 compatible: [deconz]
 mlink: 

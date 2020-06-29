@@ -1,5 +1,5 @@
 ---
-date_added: 2020-06-22
+date_added: 2020-06-30
 model: SNZB-02
 vendor: Itead
 title: Sonoff Temperature And Humidity Sensor
@@ -9,7 +9,7 @@ zigbeemodel: ['SNZB-02']
 compatible: [ zigate ]
 mlink: https://www.itead.cc/sonoff-snzb-02-zigbee-temperature-and-humidity-sensor.html
 link: https://www.itead.cc/sonoff-snzb-02-zigbee-temperature-and-humidity-sensor.html
-link2: 
+link2: https://www.aliexpress.com/item/4001194215804.html
 ---
 
 #### Pairing

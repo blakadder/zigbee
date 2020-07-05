@@ -1,10 +1,10 @@
 ---
-date_added: 2020-05-11
+date_added: 2020-07-04
 model: '067694'
 vendor: Legrand
-title: On / Off Wireless Transmitter Module
-category: switch
-supports: on/off
+title: Wireless Remote Toggle Switch
+category: remote
+supports: action
 zigbeemodel: ['Remote toggle switch']
 compatible: [deconz]
 deconz: 2720

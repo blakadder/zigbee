@@ -1,5 +1,5 @@
 ---
-date_added: 2020-06-30
+date_added: 2020-07-07
 model: SNZB-02
 vendor: Itead
 title: Sonoff Temperature And Humidity Sensor

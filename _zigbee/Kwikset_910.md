@@ -13,7 +13,4 @@ link: https://www.amazon.com/Kwikset-99100-045-SmartCode-Touchpad-featuring/dp/B
 link2: https://www.amazon.com/Kwikset-99100-044-SmartCode-Touchpad-featuring/dp/B06WD6N9VF/
 link3: 
 EAN: 
-  - 99140-027
-  - 99140-025
-  - 99140-026
 ---

@@ -1,5 +1,5 @@
 ---
-date_added: 2020-06-30
+date_added: 2020-07-07
 model: SNZB-04
 vendor: Itead
 title: Sonoff Wireless Door/Window Sensor

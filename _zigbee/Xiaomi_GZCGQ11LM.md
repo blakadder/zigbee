@@ -6,7 +6,7 @@ title: Aqara T1 Light Sensor
 category: sensor
 supports: illuminance, batterylow
 zigbeemodel: []
-compatible: []
+compatible: [zigate]
 mlink: https://www.aqara.com/cn/productDetail/d16
 link: 
 ---

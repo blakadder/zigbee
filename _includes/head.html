@@ -26,7 +26,7 @@
 												 
   <meta name="twitter:title" content="{{ site.title | normalize_whitespace | escape }}">
   <meta name="twitter:description" content="{% if page.compatible != nil %}{{ page.vendor | escape }} {{ page.title | escape }} {{ page.type | escape }} {{ page.model | escape }} Zigbee compatibility info{% else %}{{ site.description | escape }}{% endif %}">
-  <meta name="twitter:image" content="{% if page.compatible != nil %}{{ page.url | remove: ".html" | prepend: '/assets/images/devices' | append: '.jpg' }}{% else %}/assets/images/logo.png{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}{% if page.compatible != nil %}{{ page.url | remove: ".html" | prepend: '/assets/images/devices' | append: '.jpg' }}{% else %}/assets/images/logo.png{% endif %}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="{{ site.url }}">
   <meta name="twitter:creator" content="blakadder">

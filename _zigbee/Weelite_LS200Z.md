@@ -7,7 +7,7 @@ category: switch
 supports: on/off
 image: /assets/images/devices/Weelite_LS200Z.jpg
 zigbeemodel: ['TS0002']
-compatible: [deconz]
+compatible: [deconz, tasmota]
 mlink: 
 link: https://www.lazada.com.ph/products/weelite-2-gang-smart-touch-light-switch-ac100-240v-works-with-amazon-alexa-google-home-and-siri-shortcut-smart-gateway-required-no-neutral-wire-required-i566086208-s1539278997.html
 link2: 

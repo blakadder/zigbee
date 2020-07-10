@@ -7,6 +7,7 @@ category: switch
 supports: on/off
 zigbeemodel: ['TS0013']
 compatible: [z2m,iob,zigate,deconz,tasmota]
+z2m: TS0013
 mlink: https://www.alibaba.com/product-detail/Zigbee-switch-wall-light-push-button_62583187224.html
 link: https://www.aliexpress.com/item/4000903785171.html
 link2: 

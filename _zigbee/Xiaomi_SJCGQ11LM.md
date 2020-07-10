@@ -6,7 +6,7 @@ category: sensor
 supports: water leak, batterylow
 image: /assets/images/devices/SJCGQ11LM.jpg
 zigbeemodel: ['lumi.sensor_wleak.aq1']
-compatible: [z2m,zha,iob,deconz,tasmota]
+compatible: [z2m,zha,iob,deconz,zigate,tasmota]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/capteurinondation
 tasmota: 
 mlink: https://www.aqara.com/en/water_sensor.html

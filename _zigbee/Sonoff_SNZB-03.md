@@ -1,5 +1,5 @@
 ---
-date_added: 2020-07-07
+date_added: 2020-07-19
 model: SNZB-03
 vendor: Itead
 title: Sonoff Motion Sensor

@@ -1,5 +1,5 @@
 ---
-date_added: 2020-08-10
+date_added: 2020-07-11
 model: ZM25TQ
 vendor: Zemismart
 title: Tubular Motor for Roller Shades

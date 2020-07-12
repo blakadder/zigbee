@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCT011.jpg
 zigbeemodel: ['LCT011'] 
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: 
 link: https://www.amazon.com/Philips-Ambiance-Equivalent-Compatible-Assistant/dp/B071YXBZP5/
 link2: https://www.amazon.de/Philips-Hue-46677468941-9-W-Smart-Lighting/dp/B071ZLLLCC

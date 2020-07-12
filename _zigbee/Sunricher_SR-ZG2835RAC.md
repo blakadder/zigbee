@@ -4,7 +4,7 @@ model: SR-ZG2835RAC
 vendor: Sunricher
 title: Trailing Edge Smart LED Dimmer
 category: dimmer
-supports: on/off, brightness 
+supports: on/off, brightness, power measurements
 image: /assets/images/devices/Sunricher_ZG2835RAC.jpg
 zigbeemodel: ['Micro Smart Dimmer']
 compatible: [z2m]

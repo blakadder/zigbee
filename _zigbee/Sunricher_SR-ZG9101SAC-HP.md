@@ -9,5 +9,5 @@ zigbeemodel: ['ZG9101SAC-HP']
 compatible: [z2m, deconz]
 mlink: https://www.sunricher.com/zigbee-ac-phase-cut-dimmer-sr-zg9101sac-hp.html 
 link: https://www.amazon.de/CONNEX-Zigbee-Phasendimmer-Phasenabschnitt-Dimmer/dp/B07MC6GB9V
-link3: https://rgbgenie.com/?product=zigbee-3-0-plus-micro-controller-and-lamp-module-single-channel-trailing-edge-dimmer
+link2: https://rgbgenie.com/?product=zigbee-3-0-plus-micro-controller-and-lamp-module-single-channel-trailing-edge-dimmer
 ---

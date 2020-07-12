@@ -1,5 +1,5 @@
 ---
-model: SA-003
+model: SA-003-Zigbee
 vendor: eWeLink
 title: OnOff Controller
 category: switch

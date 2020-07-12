@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCB001.jpg
 zigbeemodel: ['LCB001']
-compatible: [z2m,deconz]
+compatible: [z2m,deconz,zha]
 mlink: https://www2.meethue.com/en-ca/p/hue-white-and-color-ambiance-1-pack-br30-e26/046677548728
 link: https://www.amazon.ca/Ambiance-Bluetooth-Optional-downlights-activated/dp/B07RVRKBDQ
 link2: 

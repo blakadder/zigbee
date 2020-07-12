@@ -5,7 +5,7 @@ vendor: Heiman
 title: Remote
 category: remote
 supports: action
-zigbeemodel: ['RC_V14']
+zigbeemodel: ['RC_V14','RC-EM']
 compatible: [deconz]
 deconz: 2697
 mlink: http://www.heimantech.com/product/?type=detail&id=10

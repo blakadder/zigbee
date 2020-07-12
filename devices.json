@@ -6315,57 +6315,8 @@
         toZigbee: [],
     },
 
-    // SONOFF
-    {
-        zigbeeModel: ['BASICZBR3'],
-        model: 'BASICZBR3',
-        vendor: 'SONOFF',
-        description: 'Zigbee smart switch',
-        supports: 'on/off',
-        fromZigbee: [fz.on_off],
-        toZigbee: [tz.on_off],
-    },
-    {
-        zigbeeModel: ['S31 Lite zb'],
-        model: 'S31ZB',
-        vendor: 'SONOFF',
-        description: 'Zigbee smart plug (US version)',
-        supports: 'on/off',
-        fromZigbee: [fz.on_off],
-        toZigbee: [tz.on_off],
-        meta: {configureKey: 1},
-        configure: async (device, coordinatorEndpoint) => {
-            const endpoint = device.getEndpoint(1);
-            await bind(endpoint, coordinatorEndpoint, ['genOnOff']);
-        },
-    },
 
-    // eWeLink: the IoT solution provider behinds lots of smart device brands
-    {
-        zigbeeModel: ['SA-003-Zigbee'],
-        model: 'SA-003-Zigbee',
-        vendor: 'eWeLink',
-        description: 'Zigbee smart plug',
-        supports: 'on/off',
-        fromZigbee: [fz.on_off],
-        toZigbee: [tz.on_off],
-        meta: {configureKey: 1},
-        configure: async (device, coordinatorEndpoint) => {
-            const endpoint = device.getEndpoint(1);
-            await bind(endpoint, coordinatorEndpoint, ['genOnOff']);
-        },
-    },
 
-    // CR Smart Home
-    {
-        zigbeeModel: ['TS0001'],
-        model: 'TS0001',
-        vendor: 'CR Smart Home',
-        description: 'Valve control',
-        supports: 'control',
-        fromZigbee: [fz.on_off],
-        toZigbee: [tz.on_off],
-    },
     {
         zigbeeModel: ['TS0202'],
         model: 'TS0202',
@@ -6410,15 +6361,6 @@
         supports: 'on/off',
         fromZigbee: [fz.on_off],
         toZigbee: [tz.on_off],
-    },
-    {
-        zigbeeModel: ['TS0207'],
-        model: 'TS0207',
-        vendor: 'CR Smart Home',
-        description: 'Water leak detector',
-        supports: 'water leak',
-        fromZigbee: [fz.ias_water_leak_alarm_1, fz.battery_percentage_remaining],
-        toZigbee: [],
     },
     {
         zigbeeModel: ['TS0218'],

@@ -6,7 +6,7 @@ category: sensor
 supports: carbon monoxide, batterylow, batterypct
 image: /assets/images/devices/HS1CA-E.jpg
 zigbeemodel: ['COSensor-EM', 'COSensor-N', 'CO_V15', 'CO_YDLV10']
-compatible: [z2m,iob,deconz]
+compatible: [z2m,iob,deconz,zigate]
 mlink: http://www.heimantech.com/product/?type=detail&id=4
 link: https://www.aliexpress.com/item/32843093065.html
 link2: https://www.amazon.co.uk/HEIMAN-Monoxide-Detector-Electrochemical-compatible/dp/B0793QCYQ6

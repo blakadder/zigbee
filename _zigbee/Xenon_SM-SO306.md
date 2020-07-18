@@ -1,7 +1,7 @@
 ---
 date_added: 2020-07-10
 model: SM-SO306
-vendor: Tuya
+vendor: Xenon
 title: Power Strip 10A/16A EU/US/UK/AU/JP/UN
 category: plug
 supports: on/off

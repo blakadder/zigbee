@@ -6,7 +6,7 @@ title: Wireless Ballast Power-PWM
 category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Phoscon_FLS-PP.jpg
-zigbeemodel: ['FLS-PP3']
+zigbeemodel: ['FLS-PP3','FLS-PP-IP']
 compatible: [z2m,iob,deconz]
 z2m: Mega23M12
 mlink: https://www.dresden-elektronik.de/produkt/fls-pp-lp-funk-vorschaltger%C3%A4t.html

@@ -6,7 +6,7 @@ category: plug
 supports: on/off, power measurement
 image: /assets/images/devices/EDP_re-dy.jpg
 zigbeemodel: ['ZB-SmartPlug-1.0.0']
-compatible: [z2m,iob]
+compatible: [z2m,iob,zha]
 mlink: https://www.edp.pt/particulares/servicos/redy-en/peripheral-equipment/plug-ac/
 link: 
 link2: 

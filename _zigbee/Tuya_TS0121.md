@@ -4,7 +4,7 @@ model: TS0121
 vendor: Generic
 title: 10A/16A Smart Plug
 category: plug
-supports: on/off
+supports: on/off, power metering
 zigbeemodel: ['TS0121']
 compatible: [z2m,deconz,zigate]
 deconz: 2677

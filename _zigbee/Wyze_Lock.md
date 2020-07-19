@@ -14,3 +14,5 @@ link2:
 link3: 
 ---
 Requires initial setup using Wyze gateway and app.
+
+[Full guide](https://community.home-assistant.io/t/wyze-lock-zigbee-home-assistant-hassio-hassos-zha-integration-working-as-expected-remove-cloud-control/211884) on integrating it with ZHA.

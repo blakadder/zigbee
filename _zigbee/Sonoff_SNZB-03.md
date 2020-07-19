@@ -6,7 +6,7 @@ title: Sonoff Motion Sensor
 category: sensor
 supports: occupancy
 zigbeemodel: ['MS01']
-compatible: [zigate,z2m]
+compatible: [z2m,iob,zha,zigate]
 mlink: https://www.itead.cc/sonoff-snzb-03-zigbee-motion-sensor.html
 link: https://www.itead.cc/sonoff-snzb-03-zigbee-motion-sensor.html
 link2: https://www.aliexpress.com/item/4001194312663.html

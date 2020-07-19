@@ -6,7 +6,7 @@ title: Sonoff Wireless Switch
 category: remote
 supports: on/off
 zigbeemodel: ['WB01']
-compatible: [zigate,z2m]
+compatible: [z2m,iob,zha,zigate]
 mlink: https://www.itead.cc/sonoff-snzb-01-zigbee-wireless-switch.html
 link: https://www.itead.cc/sonoff-snzb-01-zigbee-wireless-switch.html
 link2: https://www.aliexpress.com/item/4001194277026.html

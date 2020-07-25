@@ -1,30 +1,91 @@
 ---
-date_added: 2020-07-08
+date_added: 2020-07-31
 model: ZBBridge
 vendor: Sonoff
-title: Sonoff ZBBridge
+title: Sonoff Zigbee Bridge
 category: coordinator
 supports: coordinator
 zigbeemodel: ['']
-compatible: [tasmota]
+compatible: [tasmota,zha]
 mlink: https://www.itead.cc/sonoff-zbbridge.html
 link: https://www.itead.cc/sonoff-zbbridge.html
 link2: https://www.aliexpress.com/af/sonoff-zbbridge.html
 link3: https://www.banggood.com/SONOFF-ZBBridge-Smart-Bridge-p-1674754.html
 ---
-This device requires flashing the EFR32 device with EmberZNet Pro firmware (procedure still under work) and flashing latest Tasmota development release to the Wi-Fi module
+This device requires flashing the EFR32 device with EmberZNet Pro firmware using Tasmota's XMODEM implementation.
 
-Compile Tasmota 8.3.1.6+ with following options:
+<h3>Support for this device is experimental!!!</h3>
+
+Download latest [tasmota-zbbridge](https://github.com/arendst/Tasmota/blob/firmware/firmware/tasmota/tasmota-zbbridge.bin) binary built specifically for ZBBridge.
+
+Flash Tasmota over serial using the TX/RX/IO0 pads.
+
+![ZBBridge pinout](https://templates.blakadder.com/assets/images/sonoff_ZBBridge_pinout.jpg)
+
+When the ESP8266 is flashed with it, configure Wifi, and go to the Tasmota Console. Type:
+
+```console
+Backlog Weblog 3; Module 0; Template {"NAME":"Flash ZBBridge","GPIO":[56,208,0,209,21,22,0,0,0,158,0,0,17],"FLAG":0,"BASE":18}
+```
+
+Wait for Tasmota to reboot. 
+
+You will have 2 toggle in the WebUI `Toggle 1` and `Toggle 2` in the Web UI.
+
+In the Console, issue command `TCPStart 8888`. You should see `TCP: Starting TCP server on port 8888` message
+
+Now make sure `Toggle 2` is set to `OFF` to force Zigbee module bootloader to Gecko mode. Turn `Toggle 1` to `OFF` then to `ON`. The transition from `OFF` to `ON` reboots the Zigbee module.
+
+You should see (with `Weblog 3` active) something similar to:
 
 ```haskell
-#define USE_ZIGBEE
-#undef USE_ZIGBEE_ZNP
-#define USE_ZIGBEE_EZSP
+TCP: from MCU: 0D0A4765636B6F20426F6F74
+TCP: from MCU: 6C6F616465722076312E41
+TCP: from MCU: 2E330D0A312E2075
+TCP: from MCU: 706C6F6164206762
+TCP: from MCU: 6C0D0A322E207275
+TCP: from MCU: 6E0D0A332E206562
+TCP: from MCU: 6C20696E666F0D0A42
+TCP: from MCU: 4C203E2000
 ```
 
-and apply template:
+Zigbee module firmware is located in [`Tasmota/tools/fw_zbbridge/`](https://github.com/arendst/Tasmota/blob/development/tools/fw_zbbridge/). 6.5.5 is for use with [Home Assistant ZHA](https://www.home-assistant.io/integrations/zha/) and 6.7.6 for [Zigbee2Tasmota](http://tasmota.github.io/docs/Zigbee).
+
+> **Do not use right click "Save as" but click on the desired file then click on "Download"
+
+Use a terminal program with XMODEM support such as [TeraTerm](https://ttssh2.osdn.jp/) or [ExtraPuTTY](https://www.extraputty.com/features/xmodem.html) in Windows, [lrzsz](https://www.ohse.de/uwe/software/lrzsz.html) or minicom on Linux . Use XMODEM protocol (*make sure telnet/TCP is used not SSH*) to send the file to the IP address of the ZbBridge using port **8888**.
+
+> **There's an ongoing effort to support firmware upload using Tasmota webUI**
+
+Console will display many `TCP: from MCU: ...` messages until the Zigbee firmware upload is complete.
+
+## For Tasmota
+After `ncp-uart-sw_6.7.6_115200.ota` is flashed apply the template
+
 ```json
-{"NAME":"Sonoff ZBBridge","GPIO":[56,165,0,166,59,58,0,0,0,158,0,0,17],"FLAG":0,"BASE":18}
+{"NAME":"Sonoff ZbBridge","GPIO":[56,165,0,166,215,0,0,0,0,158,0,0,17],"FLAG":0,"BASE":75}
 ```
 
-Follow the development in [GitHub issue](https://github.com/arendst/Tasmota/issues/8583). 
+or set `module 75`
+
+Follow [Zigbee](http://tasmota.github.io/docs/Zigbee) instructions for pairing and managing your devices
+
+## For Home Assistant ZHA
+After `ncp-uart-sw_6.5.5_115200.ota` is flashed apply the template
+
+```json
+{"NAME":"ZHA ZbBridge","GPIO":[56,208,0,209,59,58,0,0,0,0,0,0,17],"FLAG":0,"BASE":18}
+```
+
+Create a rule in Tasmota to start TCPBridge on boot
+```console
+Rule1 ON System#Boot do TCPStart 8888 endon
+```
+
+You can change `8888` to a port you prefer.
+
+In Home Assistant ZHA integration select "Enter Manually" for serial port, "EZSP" as Radio Type and under port setting enter `socket://[your_ip]:8888` (or your port number if changed) and it should be discovered.
+
+## Video instructions by NotEnoughTech
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aiUol1GQDlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

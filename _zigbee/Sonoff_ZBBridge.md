@@ -20,7 +20,7 @@ Download latest [tasmota-zbbridge](https://github.com/arendst/Tasmota/blob/firmw
 
 Flash Tasmota over serial using the TX/RX/IO0 pads.
 
-![ZBBridge pinout](/assets/images/sonoff_ZBBridge_pinout.jpg)
+![ZBBridge pinout](https://templates.blakadder.com/assets/images/sonoff_ZBBridge_pinout.jpg)
 
 When the ESP8266 chip is flashed with Tasmota, configure Wifi and go to Tasmota Console. Type:
 

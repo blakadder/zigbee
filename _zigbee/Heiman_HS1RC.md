@@ -7,7 +7,7 @@ category: remote
 supports: action
 zigbeemodel: ['RC_V14','RC-EM']
 compatible: [deconz]
-deconz: 2697
+deconz: 3004
 mlink: http://www.heimantech.com/product/?type=detail&id=10
 link: https://www.aliexpress.com/item/4000033157179.html
 link2: https://www.amazon.co.uk/HEIMAN-Zigbee-Detector-CombuStible-Sensor/dp/B07C6QYZ3W

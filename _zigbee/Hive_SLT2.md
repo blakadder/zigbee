@@ -6,7 +6,8 @@ title: Heating Thermostat Remote Control
 category: hvac
 supports: communicate via thermostat
 zigbeemodel: ['SLT2']
-compatible: [z2m]
+compatible: [z2m,deconz]
+deconz: 2979
 mlink: 
 link: https://www.amazon.co.uk/BRITISH-HIVE-PROGRAMMABLE-THERMOSTAT-SLT2/dp/B0155CAP6Q
 link2: 

@@ -9,7 +9,7 @@ zigbeemodel: ['WarningDevice','WarningDevice-EF-3.0','SRHMP-I1']
 compatible: [deconz,z2m,zigate,zha,iob]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/sirneheiman
 z2m: HS2WD-E
-mlink: http://www.heimantech.com/product/?type=detail&id=8
+mlink: http://www.heiman.com.cn/product/261.html
 link: https://www.aliexpress.com/item/4000185176198.html
 link2: https://heimansmart.en.alibaba.com/product/60661259935-803267292/The_latest_HEIMAN_Zigbee_3_0_smart_wireless_indoor_siren_with_standby_battery.html
 link3: https://www.amazon.com/Zigbee-Strobe-Flash-Siren-Power/dp/B07DCPZ2JZ

@@ -3,6 +3,7 @@ model: 81809
 vendor: AduroSmart
 title: ERIA Colors and White A19 60W Bulb
 category: light
+type: Bulb
 supports: on/off, brightness, colorxy, colotemp
 image: /assets/images/devices/AduroSmart_81809.jpg
 zigbeemodel: ['ZLL-ExtendedColo']

@@ -7,7 +7,7 @@ category: sensor
 supports: temperature, humidity, batterylow
 image: /assets/images/devices/GS_STHM-I1H.jpg
 zigbeemodel:  ['SGMHM-I1']
-compatible: [z2m]
+compatible: [z2m,iob]
 mlink: https://www.gs.ru/catalog/umnyy-dom/datchik-temperatury-i-vlazhnosti-gs-sthm-i1h/
 link: https://shop.tricolor.tv/catalog/umnyy-dom/datchik-temperatury-i-vlazhnosti-gs-sthm-i1h/
 link2: 

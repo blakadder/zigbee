@@ -12,8 +12,8 @@ mlink: https://www.ikea.com/gb/en/p/tradfri-wireless-motion-sensor-white-7042991
 link: https://www.amazon.de/dp/B07KMB5GG2
 link2: 
 link3: 
----
 EAN: 704.299.13
+---
 
 ### Pairing
 Pair the sensor by pressing the pair button 4 times in a row.

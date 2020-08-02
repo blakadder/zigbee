@@ -1,5 +1,5 @@
 ---
-date_added: 2020-07-31
+date_added: 2020-08-11
 model: ZBBridge
 vendor: Itead
 title: Sonoff Zigbee Bridge

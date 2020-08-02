@@ -1,0 +1,26 @@
+---
+date_added: 2020-07-31
+model: BA19-08050OMF-12CE26-1C100 
+vendor: Cree
+title: Connected Daylight
+category: light
+type: Bulb
+mlink: https://creebulb.com/60-watt-replacement-connected-daylight
+link: https://www.amazon.com/BA19-08050OMF-12CE26-1C100-Connected-Equivalent-Daylight-Dimmable/dp/B01701DL7A/
+zigbeemodel: 
+compatible: zha
+---
+#### Pairing
+
+Resetting the bulb:
+
+Step 1    
+Install your bulb in a light fixture and turn it on. (For best results we recommend installing the bulb where you can turn the power off at a wall switch.)
+
+Step 2    
+Turn the light switch on at one second and off at two second intervals (1second on : 2 seconds off) until the light blinks once to indicate it has reset. This should happen at the 4th full on-off cycle.
+
+Step 3    
+Turn the light off and pair the bulb with your hub via the mobile App."
+
+

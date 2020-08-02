@@ -4,7 +4,7 @@ model: ZM-ZS-2
 vendor: Zemismart
 title: 2 Gang Remote Switch
 category: remote
-supports: action
+supports: action, battery
 image: /assets/images/devices/Zemismart_ZMZS2.jpg
 zigbeemodel: ['TS0042']
 compatible: [z2m]

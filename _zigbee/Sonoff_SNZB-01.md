@@ -19,7 +19,7 @@ Long press reset button for 5s until the LED indicator flashes three times, whic
 
 After pairing requires [binding](https://tasmota.github.io/docs/Zigbee/#zigbee-binding) to display events in Tasmota Console. 
 
-To bind to coordinator on cluster 6 (on/off) use:
+To bind to coordinator on on/off cluster (6) wake up the device with a button press then send from Tasmota console:
 ```console
 ZbBind {"Device":"<shortaddr>","ToDevice":"0x0000","Endpoint":1,"ToEndpoint":1,"Cluster":6}
 ```

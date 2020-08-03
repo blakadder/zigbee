@@ -6,7 +6,7 @@ title: 10A/16A Smart Plug
 category: plug
 supports: on/off, power metering
 zigbeemodel: ['TS0121']
-compatible: [z2m,deconz,zigate,iob]
+compatible: [z2m,deconz,zigate,iob,tasmota]
 deconz: 2677
 mlink: 
 link: https://www.aliexpress.com/item/4000688343995.html

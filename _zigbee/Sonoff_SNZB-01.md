@@ -9,7 +9,8 @@ zigbeemodel: ['WB01']
 compatible: [z2m,iob,zha,zigate,tasmota]
 mlink: https://www.itead.cc/sonoff-snzb-01-zigbee-wireless-switch.html
 link: https://www.itead.cc/sonoff-snzb-01-zigbee-wireless-switch.html
-link2: https://www.aliexpress.com/item/4001194277026.html
+link2: https://www.aliexpress.com/item/1005001275204366.html
+link3: https://www.banggood.com/SONOFF-SNZB-01-ZB-Wireless-Switch-Mini-Size-Link-ZB-Bridge-with-WiFi-Devices-Make-Them-Smarter-via-eWeLink-APP-IFTTT-p-1716000.html
 ---
 
 #### Pairing

@@ -4,7 +4,8 @@ model: SNZB-01
 vendor: Itead
 title: Sonoff Wireless Switch
 category: remote
-supports: on/off
+supports: action
+action: single, double, long
 zigbeemodel: ['WB01']
 compatible: [z2m,iob,zha,zigate,tasmota]
 mlink: https://www.itead.cc/sonoff-snzb-01-zigbee-wireless-switch.html

@@ -7,7 +7,7 @@ category: hvac
 supports: occupied heating
 image: /assets/images/devices/Sinope_TH1124ZB.jpg
 zigbeemodel: ['TH1124ZB']
-compatible: [z2m,deconz]
+compatible: [z2m,deconz,zha]
 deconz: 2104
 mlink: https://www.sinopetech.com/en/product/smart-thermostat-for-electric-heating-3000-w-zigbee/
 link: https://www.amazon.com/Sinop%C3%A9-TH1124ZB-thermostat-electrical-heating/dp/B0785H4DDG

@@ -6,7 +6,7 @@ title: DIY Geiger Counter
 category: sensor
 supports: radioactive pulses per minute
 zigbeemodel: ['DIYRuZ_Geiger']
-compatible: [z2m]
+compatible: [z2m,iob]
 z2m: DIYRuZ_Geiger
 mlink: https://modkam.ru/?p=1591
 link: 

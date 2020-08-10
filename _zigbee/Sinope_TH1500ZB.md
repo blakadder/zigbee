@@ -7,7 +7,7 @@ category: hvac
 supports: occupied heating
 image: /assets/images/devices/Sinope_TH1400ZB.png
 zigbeemodel: ['TH1500ZB']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: https://www.sinopetech.com/us/product/smart-double-pole-thermostat-for-electric-heating-3600-w-zigbee/
 link: https://www.amazon.com/dp/B083Y3Z2QM/
 link2: 

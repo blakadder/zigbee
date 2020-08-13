@@ -13,3 +13,4 @@ mlink: https://www.samotech.co.uk/products/zigbee-smart-wireless-motion-sensor-c
 link: https://www.ebay.co.uk/itm/Samotech-Zigbee-Motion-Sensor-Compatible-with-Echo-Plus-Echo-Show-2-or-Studio-/293258935505
 link2: 
 link3: 
+---

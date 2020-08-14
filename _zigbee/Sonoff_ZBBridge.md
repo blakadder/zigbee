@@ -14,7 +14,7 @@ link3: https://www.banggood.com/SONOFF-ZBBridge-Smart-Bridge-p-1674754.html
 ---
 <h3>Support for this device is experimental!!!</h3>
 
-Download latest [tasmota-zbbridge](https://github.com/arendst/Tasmota/blob/firmware/firmware/tasmota/tasmota-zbbridge.bin) binary built specifically for ZBBridge.
+Download latest [tasmota-zbbridge](https://github.com/arendst/Tasmota/blob/firmware/firmware/tasmota/tasmota-zbbridge.bin?raw=true) binary built specifically for ZBBridge.
 
 Flash Tasmota over serial using the TX/RX/IO0 pads.
 
@@ -31,7 +31,7 @@ Wait for Tasmota to reboot.
 Open the webUI again, go to **Firmware Upgrade** and next to the "Upgrade by file upload" box use the browse button and select Zigbee module firmware you want to flash. 
 
 
-Zigbee module firmware is located in [`Tasmota/tools/fw_zbbridge/`](https://github.com/arendst/Tasmota/blob/development/tools/fw_zbbridge/). You can use latest version on Tasmota and ZHA.
+Zigbee module firmware is located in [`Tasmota/tools/fw_zbbridge/`](https://github.com/arendst/Tasmota/blob/development/tools/fw_zbbridge/ncp-uart-sw_6.7.6_115200.ota?raw=true). You can use latest version on Tasmota and ZHA.
 
 > **Do not use right click "Save as" but click on the desired file then click on "Download"**
 

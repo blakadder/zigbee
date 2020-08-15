@@ -1,8 +1,8 @@
 ---
 date_added: 2020-06-15
 model: SJCGQ12LM
-vendor: Xiaomi
-title: Aqara T1 Water Leak Sensor
+vendor: Aqara
+title: Water Leak Sensor T1
 category: sensor
 supports: water leak, batterylow
 zigbeemodel: ['lumi.flood.agl02']

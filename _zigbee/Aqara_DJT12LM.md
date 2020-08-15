@@ -1,8 +1,8 @@
 ---
 date_added: 2020-06-15
 model: DJT12LM
-vendor: Xiaomi
-title: Aqara T1 Vibration Sensor
+vendor: Aqara
+title: Vibration Sensor T1 
 category: sensor
 supports: action, batterylow, sensitivity 
 action: drop, tilt, touch

@@ -1,8 +1,8 @@
 ---
 date_added: 2020-06-15
 model: GZCGQ11LM
-vendor: Xiaomi
-title: Aqara T1 Light Sensor
+vendor: Aqara
+title: Light Sensor T1
 category: sensor
 supports: illuminance, batterylow
 zigbeemodel: []

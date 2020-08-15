@@ -1,8 +1,8 @@
 ---
 date_added: 2020-06-09
 model: WS-USC01
-vendor: Xiaomi
-title: Aqara US Smart Wall Switch (No Neutral, Single Rocker)
+vendor: Aqara
+title: US Wall Switch (No Neutral, Single Rocker)
 category: switch
 supports: on/off
 zigbeemodel: ['lumi.switch.b1laus01']

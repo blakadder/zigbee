@@ -7,7 +7,8 @@ category: remote
 supports: action, batterypct
 image: /assets/images/devices/EcoSmart_6ARCZABZH.jpg
 zigbeemodel: ['ZBT-CCTSwitch-D0001']
-compatible: [z2m,zha]
+compatible: [z2m,zha,deconz]
+deconz: 2340
 mlink: https://www.leedarson.com/index.php/Product/detail/id/148
 link: https://www.homedepot.com/p/EcoSmart-60-Watt-Equivalent-A19-SMART-LED-Light-Bulb-Tunable-White-Starter-Kit-1-Bulb-A9A19A60WESDZR1/310288335
 link2: 

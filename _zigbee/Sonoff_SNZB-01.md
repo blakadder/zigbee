@@ -7,7 +7,8 @@ category: remote
 supports: action
 action: single, double, long
 zigbeemodel: ['WB01']
-compatible: [z2m,iob,zha,zigate,tasmota]
+compatible: [z2m,iob,zha,zigate,tasmota,deconz]
+deconz: 2990
 mlink: https://www.itead.cc/sonoff-snzb-01-zigbee-wireless-switch.html
 link: https://www.itead.cc/sonoff-snzb-01-zigbee-wireless-switch.html
 link2: https://www.aliexpress.com/item/1005001275204366.html

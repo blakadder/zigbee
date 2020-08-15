@@ -1,4 +1,5 @@
 ---
+date_added: 2020-08-14
 model: 1TST-EU 
 vendor: eCozy 
 title: Smart Heating Thermostat
@@ -11,5 +12,6 @@ link2: https://www.amazon.co.uk/eCozy-1TST-EU-Smart-Heating-Thermostat/dp/B01LTG
 link3:
 zigbeemodel: ['Thermostat']
 compatible: [z2m,iob,deconz]
+deconz: 2393
 ---
 

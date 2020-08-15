@@ -4,8 +4,8 @@ model: SM308
 vendor: Samotech
 title: On/Off Switch
 category: switch
+type: In-Wall Switch
 supports: on/off
-image: /assets/images/devices/Samotech_SM308.jpg
 zigbeemodel:
 compatible: [deconz]
 mlink: https://www.samotech.co.uk/products/zigbee-ac-on-off-switch-compatible-with-philips-hue-amazon-echo-plus-and-echo-show-2nd-gen/

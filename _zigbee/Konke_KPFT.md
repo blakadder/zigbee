@@ -11,6 +11,7 @@ link2: https://www.banggood.com/KONKE-Zigbee-3_0-Open-Protocol-Temperature-Humid
 link3: https://www.aliexpress.com/item/4000478349402.html
 zigbeemodel: ['3AFE140103020000', '3AFE220103020000']
 compatible: [z2m,iob,deconz,zha,zigate]
+deconz: 3053
 z2m: 2AJZ4KPFT
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/konketempsensor
 ---

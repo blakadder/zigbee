@@ -6,7 +6,7 @@ title: Water Leak Sensor T1
 category: sensor
 supports: water leak, batterylow
 zigbeemodel: ['lumi.flood.agl02']
-compatible: [z2m]
+compatible: [z2m, zigate]
 mlink: https://www.aqara.com/cn/productDetail/d19
 link: 
 ---

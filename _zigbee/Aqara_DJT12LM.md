@@ -7,7 +7,7 @@ category: sensor
 supports: action, batterylow, sensitivity 
 action: drop, tilt, touch
 zigbeemodel: ['lumi.vibration.agl01']
-compatible: [z2m]
+compatible: [z2m, zigate]
 mlink: https://www.aqara.com/cn/productDetail/d30
 link: 
 ---

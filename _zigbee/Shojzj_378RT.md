@@ -9,6 +9,6 @@ supports: temperature, thermostat, battery
 mlink: 
 link: https://www.aliexpress.com/item/4001043738901.html
 link2: 
-compatible: [z2m,iob,deconz]
+compatible: [z2m,iob,deconz,zigate]
 deconz: 3105
 ---

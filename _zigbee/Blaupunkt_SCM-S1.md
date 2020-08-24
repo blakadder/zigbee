@@ -1,12 +1,12 @@
 ---
-date_added: 2020-02-13
+date_added: 2020-08-15
 model: SCM-S1
 vendor: Blaupunkt
 title: Roller Shutter Relay
 category: cover
 supports: open/close
 image: /assets/images/devices/Blaupunkt_SCM-S1.jpg
-zigbeemodel: ['SCM-2_00.00.03.15', 'SCM-R_00.00.03.15TC', 'SCM_00.00.03.14TC', 'SCM_00.00.03.05TC']
+zigbeemodel: ['PSM_00.00.00.35TC', 'PSMP5_00.00.02.02TC', 'PSMP5_00.00.05.01TC', 'PSMP5_00.00.05.10TC']
 compatible: [z2m]
 mlink: https://www.blaupunkt.com/en/nc/products/home-security/alarm-system-accessories-saq/products/single/15132/
 link: https://www.amazon.de/dp/B01JP7IJ2E

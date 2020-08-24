@@ -6,7 +6,7 @@ category: switch
 supports: dual_on_off, power measurement, interlock
 image: /assets/images/devices/LLKZMK11LM.jpg
 zigbeemodel: ['lumi.relay.c2acn01']
-compatible: [z2m,iob,zha,deconz]
+compatible: [z2m,iob,zha,deconz,zigate]
 deconz: 2909
 mlink: https://www.alibaba.com/product-detail/New-Arrive-Xiaomi-Aqara-2-way_62132487106.html
 link: https://www.aliexpress.com/af/LLKZMK11LM-.html

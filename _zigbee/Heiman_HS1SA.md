@@ -10,8 +10,7 @@ compatible: [z2m,deconz,iob,zigate]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/minidtecteurdefume-certifice
 mlink: http://www.heimantech.com/product/?type=detail&id=3
 link: https://www.aliexpress.com/item/33060466600.html
-link2: https://www.amazon.co.uk/HEIMAN-Zigbee-Detector-EN14604-approved/dp/B078K6MM4F
-link3: https://www.amazon.de/dp/B078K6MM4F
+
 ---
 ### Important
 There are 3 versions of this device: Standalone, zigbee and Z-wave. These are visualy identical. Make sure to get the Zigbee version.

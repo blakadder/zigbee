@@ -11,4 +11,6 @@ deconz: 1182
 mlink: https://files.xiaomi-mi.com/files/New-manuals/Honeywell-gas-detector-EN.pdf
 link: https://www.aliexpress.com/af/xiaomi+honeywell+gas+alarm+detector.html
 link2: https://www.banggood.com/Xiaomi-Mihome-Honeywell-Gas-Alarm-Remote-Alert-Air-Exhaust-Sensor-p-1148107.html
+link3: https://www.gearbest.com/home-smart-improvements/pp_3008961830855515.html
+link4: https://www.geekbuying.com/item/Xiaomi-Honeywell-Gas-Alarm-White-396388.html
 ---

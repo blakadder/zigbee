@@ -9,8 +9,6 @@ zigbeemodel: ['lumi.sensor_natgas']
 compatible: [z2m,iob,deconz]
 deconz: 1182
 mlink: https://files.xiaomi-mi.com/files/New-manuals/Honeywell-gas-detector-EN.pdf
-link: https://www.aliexpress.com/af/aqara-honeywell-gas-alarm.html
+link: https://www.aliexpress.com/af/xiaomi+honeywell+gas+alarm+detector.html
 link2: https://www.banggood.com/Xiaomi-Mihome-Honeywell-Gas-Alarm-Remote-Alert-Air-Exhaust-Sensor-p-1148107.html
-link3: https://www.amazon.it/Honeywell-naturale-allarme-controllo-telecomando/dp/B07M66XHZN
-link4: https://www.amazon.co.uk/Bureze-Xiaomi-Mihome-Honeywell-Exhaust/dp/B07KCMQV7Q
 ---

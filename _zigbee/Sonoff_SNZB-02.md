@@ -16,3 +16,27 @@ link3: https://www.banggood.com/SONOFF-SNZB-02-ZB-Temperature-And-Humidity-Senso
 
 #### Pairing
 Long press reset button for 5s until the LED indicator flashes three times, which means the device has entered pairing mode
+
+#### Tasmota
+Issue these commands while the device is awake. Either wake it up by pressing the pairing button or send the commands immediately after the pairing process
+**Temperature:**
+```console
+ZbBind {"Device":"<short_addr>","Cluster":"Temperature"}
+```
+```console
+ZbSend {"Device":"<short_addr>","Config":{"Temperature":{"MinInterval":60,"MaxInterval":600,"ReportableChange":1}}}
+```
+**Humidity:**
+```console
+ZbBind {"Device":"<short_addr>","Cluster":"Humidity"}
+```
+```console
+ZbSend {"Device":"<short_addr>","Config":{"Humidity":{"MinInterval":60,"MaxInterval":600,"ReportableChange":5}}}
+```
+**Battery:**
+```console
+ZbBind {"Device":"<short_addr>","Cluster":"BatteryVoltage"}
+```
+```console
+ZbSend {"Device":"<short_addr>","Config":{"battery":{"MinInterval":60,"MaxInterval":600,"ReportableChange":1}}}
+```

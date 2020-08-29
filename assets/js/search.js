@@ -2,7 +2,7 @@
 
 (function ($, lunr, database) {
 	var resultsContainer = $('#search-results')
-	var navigationContainer = $('#navigation')
+	var navigationContainer = $('#instructions')
 	var nothingFound = $('<li>Nothing found.</li>')
 	var searchQuery = $('#search-input')
 	database = database || {}
@@ -45,7 +45,7 @@
 
 		searchLink.attr('href', result.href)
 
-		searchLink.text(result.vendor).append(" ").append(result.title).append(" ").append(result.model).append(" ").append(result.zigbeemodel)
+		searchLink.text(result.vendor).append(" ").append(result.title).append(" ").append(result.model).append("&emsp;&emsp;ZigbeeID: ").append(result.zigbeemodel)
 
 		return searchEntry
 	}

@@ -17,7 +17,8 @@ link3: https://www.gearbest.com/smart-home-controls/pp_009661787808.html
 link4: https://www.amazon.com/Aqara-Vibration-Sensor-Automation-Compatible/dp/B07PJT939B
 ---
 
-To set the sensitivity for this device via Zigbee2Tasmota:
+# Zigbee2Tasmota
+To set sensitivity:
 
 **Set to low:**
 ZbSend {"Device":"...","Manuf":"0x115F","Write":{"0000/FF0D%20":21}}

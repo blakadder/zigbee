@@ -38,5 +38,5 @@ ZbSend {"Device":"<short_addr>","Config":{"Humidity":{"MinInterval":60,"MaxInter
 ZbBind {"Device":"<short_addr>","Cluster":"BatteryVoltage"}
 ```
 ```console
-ZbSend {"Device":"<short_addr>","Config":{"battery":{"MinInterval":60,"MaxInterval":600,"ReportableChange":1}}}
+ZbSend {"Device":"<short_addr>","Config":{"BatteryVoltage":{"MinInterval":60,"MaxInterval":600,"ReportableChange":1}}}
 ```

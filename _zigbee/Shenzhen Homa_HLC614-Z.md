@@ -1,7 +1,7 @@
 ---
 date_added: 2020-03-20
 model: HLC614-Z
-vendor: Amelech 
+vendor: Shenzhen Homa 
 title: 3 Channels On/Off Controller
 category: switch
 supports: 123_on_off, brightness

@@ -1,6 +1,6 @@
 ---
 model: HLD812-Z-SC
-vendor: Amelech 
+vendor: Shenzhen Homa 
 title: 1 Channel Smart LED Driver
 category: light
 supports: on/off, brightness

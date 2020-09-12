@@ -5,7 +5,7 @@ title: SubstiTUBE T8 LED Tube
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/OSRAM_ST8AU-CON.jpg
-zigbeemodel: ['SubstiTube']
+zigbeemodel: ['SubstiTube', 'Connected Tube Z3']
 compatible: [z2m]
 mlink: https://www.ledvance.com/professional/products/lamps/led-tubes/substitube-connected/substitube-connected-advanced-ultra-output/index.jsp
 link: https://www.amazon.de/dp/B01NAT9GEE/

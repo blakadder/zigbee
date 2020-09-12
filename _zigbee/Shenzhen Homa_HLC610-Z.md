@@ -1,6 +1,6 @@
 ---
 model: HLC610-Z
-vendor: Amelech 
+vendor: Shenzhen Homa 
 title: Wireless Dimmable Controller
 category: dimmer
 supports: on/off, brightness

@@ -4,7 +4,7 @@ model: ZB-CT01
 vendor: Ysrsai
 title: CCT LED Controller 
 category: light
-supports: on/off, brightness, colortemp
+supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['ZB-CT01']
 compatible: [z2m,zigate,iob]
 mlink: 

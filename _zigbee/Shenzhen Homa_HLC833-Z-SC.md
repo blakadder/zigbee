@@ -1,6 +1,6 @@
 ---
 model: HLC833-Z-SC
-vendor: Amelech
+vendor: Shenzhen Homa
 title: Wireless Dimmable Controller
 category: light
 supports: on/off, brightness

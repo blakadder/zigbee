@@ -6,7 +6,7 @@ category: dimmer
 supports: on/off, brightness
 image: /assets/images/devices/LivingWise_LVS-ZB500D.jpg
 zigbeemodel: ['abb71ca5fe1846f185cfbda554046cce']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: 
 link: 
 link2: 

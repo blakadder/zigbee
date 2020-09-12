@@ -1,12 +1,12 @@
 ---
-date_added: 2020-05-31
+date_added: 2020-09-12
 model: 07047L
 vendor: Immax
 title: Neo Smart Sensor 4v1
 category: sensor
 supports: occupancy, temperature, humidity, illuminance
 zigbeemodel: ['4in1-Sensor-ZB3.0']
-compatible: [deconz]
+compatible: [deconz,z2m]
 deconz: 2819
 mlink: https://www.immaxneo.cz/en/products/security/immax-neo-smart-3x-door-window-sensor/
 link: https://www.amazon.de/dp/B07VS1ZPM2/

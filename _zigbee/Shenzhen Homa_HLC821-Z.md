@@ -1,6 +1,6 @@
 ---
 model: HLC821-Z
-vendor: Amelech
+vendor: Shenzhen Homa
 title: Triac Controller (Trailing Edge)
 category: light
 supports: on/off, brightness

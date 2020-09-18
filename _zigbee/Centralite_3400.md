@@ -10,6 +10,6 @@ compatible: [z2m]
 z2m: 3400-D
 mlink: https://centralite.com/products/security-keypad
 link: https://www.amazon.co.uk/CENTRALITE-3400-X-Wireless-Xfinity-Security/dp/B019AV09DW
-link2: 
+link2: https://www.smarthome.de/geraete/centralite-security-tastenfeld-weiss
 link3: 
 ---

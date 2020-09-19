@@ -1,7 +1,7 @@
 ---
 date_added: 2020-09-19
 model: ZigLight
-vendor: ZiGate
+vendor: Lixee
 title: WS2812 LED Controller
 category: light
 mlink: https://lixee.fr/

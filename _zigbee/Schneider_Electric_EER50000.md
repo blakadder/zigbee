@@ -1,6 +1,6 @@
 ---
 date_added: 2020-04-03
-vendor: Schneider
+vendor: Schneider Electric
 model: EER50000
 zigbeemodel: EH-ZB-HACT
 category: hvac

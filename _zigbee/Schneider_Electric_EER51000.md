@@ -1,6 +1,6 @@
 ---
 date_added: 2020-03-01
-vendor: Schneider
+vendor: Schneider Electric
 model: EER5100x
 zigbeemodel: 
 category: hvac

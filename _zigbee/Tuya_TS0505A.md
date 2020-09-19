@@ -1,0 +1,12 @@
+---
+date_added: 2020-09-17
+model: TS0505A
+vendor: Tuya
+title: RGBCCT LED Controller 
+category: light
+supports: on/off, brightness, colortemp, colorxy
+zigbeemodel: ['TS0505A']
+compatible: [z2m]
+mlink:  
+link: https://www.alibaba.com/product-detail/Factory-direct-sales-Smart-Zigbee-GU10_62501812912.html
+---

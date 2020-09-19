@@ -9,7 +9,7 @@ zigbeemodel: ['SMOK_V16', 'b5db59bfd81e4f1f95dc57fdbba17931', 'SMOK_YDLV10', 'Sm
 compatible: [z2m,deconz,iob,zigate]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/minidtecteurdefume-certifice
 mlink: http://www.heimantech.com/product/?type=detail&id=3
-link: https://www.aliexpress.com/item/33060466600.html
+link: https://www.aliexpress.com/item/32838465875.html
 
 ---
 ### Important

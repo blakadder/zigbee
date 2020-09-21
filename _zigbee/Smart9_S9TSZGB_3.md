@@ -4,6 +4,7 @@ vendor: Smart9
 title: 3 Gang Remote Switch
 category: remote
 supports: action, battery
+actions: single, double, long
 image: /assets/images/devices/Smart9_S9TSZGB.jpg
 zigbeemodel: ['TS0043']
 compatible: [z2m,iob,zigate,tasmota,zha]

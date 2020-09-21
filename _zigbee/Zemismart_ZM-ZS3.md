@@ -5,6 +5,7 @@ vendor: Zemismart
 title: 3 Gang Remote Switch
 category: remote
 supports: action, battery
+actions: single, double, long
 image: /assets/images/devices/Zemismart_ZMZS3.jpg
 zigbeemodel: ['TS0043']
 compatible: [z2m,iob,zigate,tasmota,zha]

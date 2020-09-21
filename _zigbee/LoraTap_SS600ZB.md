@@ -5,6 +5,7 @@ vendor: LoraTap
 title: Remote 3 Button
 category: remote
 supports: action, battery
+actions: single, double, long
 zigbeemodel: ['TS0043']
 compatible: [z2m,iob,zigate,tasmota,zha]
 mlink: 

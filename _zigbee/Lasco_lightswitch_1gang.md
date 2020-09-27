@@ -2,10 +2,9 @@
 date_added: 2020-09-26
 model: TS0011
 vendor: Lasco
-title: Lasco 1 Gang Smart Touch Switch (No Neutral)
+title: 1 Gang Smart Touch Switch (No Neutral)
 category: switch
 supports: on/off
-image: /assets/images/devices/lasco_lightswitch_1gang.jpg
 zigbeemodel: ['TS0011']
 compatible: [deconz]
 mlink: 

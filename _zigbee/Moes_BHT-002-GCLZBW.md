@@ -9,6 +9,6 @@ supports: thermostat, temperature
 mlink: https://www.moeshouse.com/
 link: https://www.aliexpress.com/item/4001290661477.html
 link2: 
-compatible: [z2m]
+compatible: [z2m,iob]
 deconz: 
 ---

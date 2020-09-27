@@ -5,7 +5,7 @@ vendor: Itead
 title: Sonoff Motion Sensor
 category: sensor
 supports: occupancy
-zigbeemodel: ['MS01']
+zigbeemodel: ['MS01','MSO1']
 compatible: [z2m,iob,zha,zigate,deconz]
 deconz: 2991
 mlink: https://www.itead.cc/sonoff-snzb-03-zigbee-motion-sensor.html

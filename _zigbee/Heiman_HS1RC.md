@@ -1,12 +1,13 @@
 ---
-date_added: 2020-05-30
+date_added: 2020-09-26
 model: HS1RC
 vendor: Heiman
-title: Remote
+title: Remote Controller
 category: remote
 supports: action
-zigbeemodel: ['RC_V14','RC-EM']
-compatible: [deconz]
+zigbeemodel: ['RC_V14','RC-EM','RC-N']
+compatible: [deconz,z2m]
+z2m: HS1RC-N
 deconz: 3004
 mlink: http://www.heimantech.com/product/?type=detail&id=10
 link: https://www.aliexpress.com/item/4000033157179.html

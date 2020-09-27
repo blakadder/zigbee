@@ -6,7 +6,7 @@ title: Rechargeable PIR Motion Sensor
 category: sensor
 supports: occupancy
 image: /assets/images/devices/BlitzWolf_BW-IS3.jpg
-zigbeemodel: ['5j6ifxj']
+zigbeemodel: ['5j6ifxj','hfcudw5']
 compatible: [z2m,iob,zha]
 mlink: https://www.blitzwolf.com/BlitzWolf-BW-IS3-Rechargeable-ZigBee-PIR-Motion-Sensor-with-ZigBee-Control,-Alarm-Notification,-110%C2%B0Detection-Angle,-6-8m-Detection-Range,-Rotatable-Design-and-Built-in-Battery-p-442.html
 link: https://www.banggood.com/BlitzWolf-BW-IS3-Zigbee-Smart-Home-Infrared-Detection-Human-Body-Movement-Sensor-Alarm-p-1604216.html

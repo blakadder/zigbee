@@ -1,6 +1,6 @@
 ---
 date_added: 2020-08-30
-model: 3400-G
+model: 3400
 vendor: Centralite
 title: 3-Series Security Keypad (MSO)
 category: remote

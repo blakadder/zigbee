@@ -1,6 +1,6 @@
 ---
 date_added: 2020-10-09
-model: TS0043
+model: TS0044
 vendor: Eardatek
 title: Wireless Scene Switch 4 Buttons
 category: remote

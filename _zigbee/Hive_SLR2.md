@@ -6,7 +6,7 @@ title: Heating Thermostat Dual Channel Receiver
 category: hvac
 supports: communicate via thermostat
 zigbeemodel: ['SLR2']
-compatible: [deconz]
+compatible: [deconz,z2m]
 deconz: 2978
 mlink: 
 link: 

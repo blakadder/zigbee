@@ -7,7 +7,7 @@ category: switch
 type: Module
 supports: on/off
 zigbeemodel: ['TS0003']
-compatible: [z2m]
+compatible: [z2m,deconz]
 mlink: 
 link: https://www.aliexpress.com/item/4001178298316.html
 link2: 

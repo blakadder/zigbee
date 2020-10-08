@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness, colorxy, colortemp
 image: /assets/images/devices/Philips_LCP001.jpg
 zigbeemodel:  ['LCP001','LCP002']
-compatible: [z2m]
+compatible: [z2m,iob]
 mlink: https://www2.meethue.com/en-gb/p/hue-white-and-colour-ambience-ensis-pendant-light/4090331P9
 link: https://www.amazon.de/dp/B07SR4GVWP/
 link2: https://www.amazon.co.uk/Philips-Aluminium-Hanging-Pendant-Lights/dp/B07SR4GVWP/

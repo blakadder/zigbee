@@ -1,10 +1,9 @@
 ---
-model: HV-GSCXZB279_HV-GSCXZB229
+model: HV-GSCXZB279
 vendor: Hive
 title: Active Light Cool to Warm White E27 Bulb
 category: light
 supports: on/off, brightness, colortemp
-image: /assets/images/devices/Hive_HV-GSCXZB279.jpg
 zigbeemodel:  ['TWBulb01UK']
 compatible: [z2m]
 mlink: https://www.hivehome.com/products/hive-active-light-cool-to-warm-white

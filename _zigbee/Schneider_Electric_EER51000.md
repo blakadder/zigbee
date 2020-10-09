@@ -2,7 +2,7 @@
 date_added: 2020-03-01
 vendor: Schneider Electric
 model: EER5100x
-zigbeemodel: 
+zigbeemodel: EH-ZB-RTS
 category: hvac
 supports: temperature only
 title: Wiser Thermostat

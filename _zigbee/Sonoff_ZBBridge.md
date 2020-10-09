@@ -54,7 +54,7 @@ Click on **Start upgrade**, be patient and wait for a few minutes until flashing
 16:31:14 ZIG: No zigbee devices data in Flash
 ```
 
-Follow further instructions depending on your chosen method.
+Depending on your intended usage, now either setup the ZBBridge for use with Tasmota (i.e. for zigbee2mqtt), or with the Home Assistant ZHA integration. It can only be configured for one mode at a time, not both at once.
 
 ## For Tasmota
 You can start pairing Zigbee devices with `ZbPermitJoin 1` command.

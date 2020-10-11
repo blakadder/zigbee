@@ -54,9 +54,9 @@ Click on **Start upgrade**, be patient and wait for a few minutes until flashing
 16:31:14 ZIG: No zigbee devices data in Flash
 ```
 
-Depending on your intended usage, setup the ZBBridge:
+Follow further instructions depending on your chosen method.
 
-## For Zigbee2Tasmota)
+## For Zigbee2Tasmota
 You can start pairing Zigbee devices with `ZbPermitJoin 1` command.
 
 Read [Zigbee](http://tasmota.github.io/docs/Zigbee) documentation for complete guide to pairing and managing your devices.

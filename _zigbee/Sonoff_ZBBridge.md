@@ -54,14 +54,16 @@ Click on **Start upgrade**, be patient and wait for a few minutes until flashing
 16:31:14 ZIG: No zigbee devices data in Flash
 ```
 
-Follow further instructions depending on your chosen method.
+Depending on your intended usage, now either setup the ZBBridge for use with Tasmota (i.e. for zigbee2mqtt-style functionality), or with the Home Assistant ZHA integration. It can only be configured for one mode at a time, not both at once.
 
-## For Tasmota
+## For Tasmota (zigbee2tasmota)
+By default, 'Sonoff ZbBridge (75)' is selected as the module configuration. If you have used ZHA mode, or made other changes, you will need to reselect it to use this mode.
+
 You can start pairing Zigbee devices with `ZbPermitJoin 1` command.
 
 Read [Zigbee](http://tasmota.github.io/docs/Zigbee) documentation for complete guide to pairing and managing your devices.
 
-## For Home Assistant ZHA
+## For Home Assistant (ZHA)
 After Zigbee firmware is flashed apply the template
 
 ```json

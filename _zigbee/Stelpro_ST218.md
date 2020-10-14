@@ -6,7 +6,7 @@ category: hvac
 supports: temperature 
 image: /assets/images/devices/Stelpro_ST218.jpg
 zigbeemodel: ['ST218']
-compatible: [z2m,deconz]
+compatible: [z2m,deconz,zha]
 mlink: http://stelpro.com/contenu/ca/pdf/guides/User/INS_SOR_0120_EN.pdf
 link: https://www.amazon.ca/Stelpro-Mounted-Convector-Electronic-Thermostat/dp/B0849R7KLH/
 link2: 

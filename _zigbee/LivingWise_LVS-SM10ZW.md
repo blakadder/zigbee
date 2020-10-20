@@ -4,7 +4,6 @@ vendor: LivingWise
 title: Door or Window Contact Switch
 category: sensor
 supports: contact, batterylow
-image: /assets/images/devices/LivingWise_LVS-SM10ZW.jpg
 zigbeemodel: ['e70f96b3773a4c9283c6862dbafb6a99']
 compatible: [z2m]
 mlink: 

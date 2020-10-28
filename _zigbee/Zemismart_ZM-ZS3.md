@@ -8,7 +8,8 @@ supports: action, battery
 actions: single, double, long
 image: /assets/images/devices/Zemismart_ZMZS3.jpg
 zigbeemodel: ['TS0043']
-compatible: [z2m,iob,zigate,tasmota,zha]
+compatible: [z2m,iob,zigate,tasmota,zha,deconz]
+deconz: 3398
 mlink: https://www.zemismart.com/zemismart-zigbee-smart-remote-switch-work-with-tuya-zigbee-hub-zigbee-sticker-switch-p0259.html
 link: https://www.aliexpress.com/item/4000460643839.html
 link2: https://www.alibaba.com/product-detail/ZigBee-Battery-Switch-Working-with-TuYa_62346290735.html

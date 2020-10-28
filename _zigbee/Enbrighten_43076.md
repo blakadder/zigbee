@@ -3,7 +3,7 @@ date_added: 2020-09-12
 model: 43076
 vendor: Enbrighten
 title: In-Wall Toggle Switch
-category: Switch
+category: switch
 supports: on/off
 zigbeemodel: ['43076']
 compatible: [z2m]

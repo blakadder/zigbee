@@ -5,7 +5,7 @@ vendor: Centralite
 title: 3-Series Security Keypad (MSO)
 category: remote
 supports: action, arm
-zigbeemodel: ['3400-D']
+zigbeemodel: ['3400-D', '3400']
 compatible: [z2m]
 z2m: 3400-D
 mlink: https://centralite.com/products/security-keypad

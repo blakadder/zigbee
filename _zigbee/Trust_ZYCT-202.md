@@ -7,7 +7,7 @@ category: remote
 supports: action
 action: on, off, stop, up-press, down-press
 image: /assets/images/devices/Trust_ZYCT-202.jpg
-zigbeemodel: ['ZYCT-202']
+zigbeemodel: ['ZYCT-202','ZLL-NonColorController']
 compatible: [z2m,iob,zigate,deconz]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/trust71171tlcommande
 mlink: https://www.trust.com/en/product/71171-zigbee-remote-control-zyct-202

@@ -1,8 +1,8 @@
 ---
 date_added: 2020-03-01
-vendor: Schneider
+vendor: Schneider Electric
 model: EER40020
-zigbeemodel: 
+zigbeemodel: EH-ZB-SPD
 category: plug
 supports: on/off, power meter
 title: Wiser Smart Plug

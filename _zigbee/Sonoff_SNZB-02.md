@@ -5,7 +5,7 @@ vendor: Itead
 title: Sonoff Temperature And Humidity Sensor
 category: sensor
 supports: temperature, humidity
-zigbeemodel: ['TH01']
+zigbeemodel: ['TH01','66666']
 compatible: [z2m,iob,zha,zigate,deconz,tasmota]
 deconz: 3037
 mlink: https://www.itead.cc/sonoff-snzb-02-zigbee-temperature-and-humidity-sensor.html
@@ -17,6 +17,7 @@ link3: https://www.banggood.com/SONOFF-SNZB-02-ZB-Temperature-And-Humidity-Senso
 #### Pairing
 Long press reset button for 5s until the LED indicator flashes three times, which means the device has entered pairing mode
 
+<!--
 #### Tasmota
 Issue these commands while the device is awake. Either wake it up by pressing the pairing button or send the commands immediately after the pairing process
 **Temperature:**
@@ -40,3 +41,4 @@ ZbBind {"Device":"<short_addr>","Cluster":"BatteryVoltage"}
 ```console
 ZbSend {"Device":"<short_addr>","Config":{"BatteryVoltage":{"MinInterval":60,"MaxInterval":600,"ReportableChange":1}}}
 ```
+-->

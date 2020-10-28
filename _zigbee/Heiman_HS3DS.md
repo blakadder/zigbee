@@ -5,9 +5,9 @@ vendor: Heiman
 title: Door Sensor
 category: sensor
 supports: contact, batterypct
-zigbeemodel: ['DoorSensor-N']
+zigbeemodel: ['DoorSensor-N','DoorSensor-N-3.0']
 compatible: [z2m]
-z2m: HS1DS_HS3DS
+z2m: HS3DS
 mlink: http://www.heimantech.com/product/?type=detail&id=9
 link: https://www.aliexpress.com/item/32867284561.html
 link2: https://www.amazon.co.uk/Control-Wireless-Window-Magnetic-Home-HS3DS/dp/B07CR6QGX3

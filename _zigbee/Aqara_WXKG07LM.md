@@ -7,7 +7,7 @@ category: remote
 supports: action, batterypct
 action: single, double, long, both
 zigbeemodel: ['lumi.remote.b286acn02']
-compatible: [z2m,tasmota,iob,zha,deconz]
+compatible: [z2m,tasmota,iob,zha,deconz, zigate]
 deconz: 3066
 mlink: https://www.xiaomiyoupin.com/detail?gid=118900
 link: https://www.aliexpress.com/item/4000804886280.html

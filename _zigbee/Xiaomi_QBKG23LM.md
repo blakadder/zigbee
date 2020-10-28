@@ -1,8 +1,8 @@
 ---
 date_added: 2020-08-02
 model: QBKG23LM
-vendor: Xiaomi
-title: Aqara D1 1 Gang Wall Switch 
+vendor: Aqara
+title: D1 1 Gang Wall Switch 
 category: switch
 supports: on/off, power measurement
 zigbeemodel: ['lumi.switch.b1nacn02']

@@ -1,13 +1,13 @@
 ---
-model: STS-IRM-250
+model: STSS-IRM-001
 vendor: SmartThings
-title: Motion Sensor (2016 model)
+title: Motion Sensor (original model)
 category: sensor
-supports: occupancy, temperature, batterypct, batterylow
-zigbeemodel: ['motionv4']
-compatible: [z2m,zha,deconz,iob]
-mlink: https://support.smartthings.com/hc/article_attachments/115006423426/Samsung%20SmartThings%20Motion%20Sensor%20Quick%20Start%20Guide.pdf
-link: https://www.amazon.com/dp/B0118RQWYQ
+supports: occupancy
+zigbeemodel: ['PGC314']
+compatible: [z2m]
+mlink: https://support.smartthings.com/hc/article_attachments/115006363923/SmartSense%20Motion%20User%20Guide%20Original%20model.pdf
+link: https://www.amazon.ca/SmartThings-STSS-IRM-001-SmartSense-Motion-Sensor/dp/B00GM7V8J2
 link2: 
 link3: 
 ---

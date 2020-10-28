@@ -7,6 +7,7 @@ category: plug
 supports: on/off, power metering
 zigbeemodel: ['TS0121']
 compatible: [z2m,deconz,zigate,iob,tasmota]
+z2m: TS0121_plug
 deconz: 2988
 mlink: 
 link: https://www.banggood.com/BlitzWolf-BW-SHP13-Zigbee-3_0-Smart-WIFI-Socket-16A-EU-Plug-Electricity-Metering-APP-Remote-Controller-Timer-Work-with-Amazon-Alexa-Google-Home-p-1679992.html

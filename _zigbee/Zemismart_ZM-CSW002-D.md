@@ -4,7 +4,6 @@ vendor: Zemismart
 title: Curtain Switch
 category: cover
 supports: open, close, stop
-image: /assets/images/devices/Zemismart_ZM-CSW002-D.jpg
 zigbeemodel: ['TS0302']
 compatible: [z2m,zigate,deconz]
 deconz: 2999

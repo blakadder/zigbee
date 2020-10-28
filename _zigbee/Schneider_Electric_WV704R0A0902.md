@@ -1,7 +1,7 @@
 ---
 date_added: 2020-01-13
 model: WV704R0A0902
-vendor: Schneider Electric
+vendor: Schneider Electric Electric
 title: Wiser Smart Heating Radiator Thermostat
 category: hvac
 supports: temperature, batterypct, keypad lock, heating demand

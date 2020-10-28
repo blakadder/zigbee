@@ -1,7 +1,7 @@
 ---
 date_added: 2020-03-06
 model: U202DST600ZB
-vendor: Schneider Electric
+vendor: Schneider Electric Electric
 title: ULTI EZinstall3 2 Gang Dimmer
 category: dimmer
 supports: on/off, brightness

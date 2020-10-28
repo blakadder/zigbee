@@ -4,7 +4,7 @@ model: WISZB-120
 vendor: Develco
 title: Window Sensor
 category: sensor
-supports: contact
+supports: contact, temperature
 image: /assets/images/devices/Develco_WISZB-120.jpg
 zigbeemodel: ['WISZB-120']
 compatible: [deconz,zha,z2m]

@@ -5,7 +5,7 @@ vendor: Itead
 title: Sonoff Mini Relay
 category: switch
 supports: on/off
-zigbeemodel: ['https://sonoff.tech/product/zigbee-diy-smart-switches/zigbee-mini']
+zigbeemodel: [01ZBMINI]
 compatible: [tasmota,zha]
 mlink: https://sonoff.tech/product/zigbee-diy-smart-switches/zigbee-mini
 link: https://www.itead.cc/sonoff-zbmini-zigbee-smart-switch.html

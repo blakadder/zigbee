@@ -6,7 +6,7 @@ title: 2 Gang Wireless Switch
 category: remote
 supports: action, battery
 zigbeemodel: ['TS0042']
-compatible: [z2m,deconz]
+compatible: [z2m,deconz,iob]
 deconz: 3398
 mlink: 
 link: https://www.aliexpress.com/item/4000460643839.html

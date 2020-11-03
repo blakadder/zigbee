@@ -13,3 +13,5 @@ link2: https://www.aliexpress.com/item/1005001688505175.html
 ---
 ## Pairing
 Press and hold the button until the LED inside the device flashes.
+
+Full review on [blakadder.com](https://blakadder.com/sonoff-zbmini/)

@@ -1,5 +1,5 @@
 ---
-date_added: 2020-11-25
+date_added: 2020-11-03
 model: RR400ZB
 vendor: LoraTap
 title: Mini Relay Module

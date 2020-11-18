@@ -7,7 +7,7 @@ category: remote
 supports: action, battery
 actions: single, double, long
 zigbeemodel: ['TS0043']
-compatible: [z2m,iob,zigate,tasmota]
+compatible: [z2m,iob,tasmota]
 mlink: 
 link: https://www.aliexpress.com/item/1005001298730723.html
 ---

@@ -7,7 +7,7 @@ category: dimmer
 type: In-Wall Dimmer
 supports: on/off, brightness
 zigbeemodel: ['TS110F']
-compatible: [z2m]
+compatible: [z2m,zigate]
 mlink: 
 link: https://www.aliexpress.com/item/4001279149071.html
 link2: 

@@ -1,7 +1,7 @@
 ---
 date_added: 2020-11-08
 model: EDM-1ZAA-EU
-vendor: Eardatek
+vendor: Earda
 title: Wall Dimmer EU
 category: dimmer
 supports: on/off, brightness
@@ -13,3 +13,4 @@ link: https://www.aliexpress.com/item/1005001505069156.html
 link2: 
 link3: 
 ---
+This dimmer switch is manufactured by Earda and sold on Aliexpress under many brands such Girier, Lonsonho, Moes and white label. 

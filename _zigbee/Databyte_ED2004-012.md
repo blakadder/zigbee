@@ -7,7 +7,7 @@ category: switch
 supports: on/off
 zigbeemodel: ['DTB-ED2004-012']
 compatible: [z2m]
-mlink: https://databyte.ch/?post_type=portfolio&p=1818
+mlink: https://databyte.ch/panda1-wallswitch-zigbee
 link:
 link2: 
 link3: 

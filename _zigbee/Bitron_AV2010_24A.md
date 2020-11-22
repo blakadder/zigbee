@@ -5,7 +5,6 @@ vendor: Bitron
 title: Optical Smoke Sensor
 category: sensor
 supports: contact, tamper, batterypct
-image: /assets/images/devices/Bitron_AV2010_24A.jpg
 zigbeemodel: ['902010/24A', '902010/24']
 compatible: [z2m,deconz,iob]
 deconz: 2886

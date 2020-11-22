@@ -1,8 +1,8 @@
 ---
 date_added: 2020-07-19
 model: SNZB-02
-vendor: Itead
-title: Sonoff Temperature And Humidity Sensor
+vendor: Sonoff
+title: Temperature And Humidity Sensor
 category: sensor
 supports: temperature, humidity
 zigbeemodel: ['TH01','66666']

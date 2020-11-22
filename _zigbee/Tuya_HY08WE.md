@@ -10,4 +10,5 @@ mlink:
 link: https://www.aliexpress.com/item/1005001397598439.html
 link2: 
 compatible: [z2m,iob]
+z2m: TS0601_thermostat
 ---

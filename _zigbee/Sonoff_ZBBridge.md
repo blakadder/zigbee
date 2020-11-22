@@ -1,8 +1,8 @@
 ---
 date_added: 2020-08-21
 model: ZBBridge
-vendor: Itead
-title: Sonoff Zigbee Bridge
+vendor: Sonoff
+title: Zigbee Bridge
 category: coordinator
 supports: coordinator
 zigbeemodel: ['']

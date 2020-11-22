@@ -1,7 +1,7 @@
 ---
 model: BASICZBR3
-vendor: Itead
-title: Sonoff Basic ZBR3 Relay
+vendor: Sonoff
+title: Basic ZBR3 Relay
 category: switch
 supports: on/off
 image: /assets/images/devices/BASICZBR3.jpg

@@ -1,8 +1,8 @@
 ---
 date_added: 2020-07-19
 model: SNZB-03
-vendor: Itead
-title: Sonoff Motion Sensor
+vendor: Sonoff
+title: Motion Sensor
 category: sensor
 supports: occupancy
 zigbeemodel: ['MS01','MSO1']

@@ -1,8 +1,8 @@
 ---
 date_added: 2020-08-04
 model: SNZB-01
-vendor: Itead
-title: Sonoff Wireless Switch
+vendor: Sonoff
+title: Wireless Switch
 category: remote
 supports: action
 action: single, double, long

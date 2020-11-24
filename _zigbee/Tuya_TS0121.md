@@ -14,3 +14,4 @@ link: https://www.aliexpress.com/item/4000688343995.html
 link2: 
 link3: 
 ---
+Looks like there are several Plug under the same Model name TS0121. Blitzwolf which provides Power and Metering, Tuya which provides only the Switch .

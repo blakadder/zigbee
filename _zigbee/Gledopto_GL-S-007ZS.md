@@ -1,7 +1,7 @@
 ---
 model: GL-S-007ZS
 vendor: Gledopto
-title: 5W GU10 Plus Dual White And Color LED 
+title: 5W GU10 Plus Dual White And Color Spotlight Plus
 category: light
 supports: on/off, brightness, color, colortemp
 image: /assets/images/devices/Gledopto_GL-S-007ZS.jpg

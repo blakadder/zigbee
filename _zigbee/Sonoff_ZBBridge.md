@@ -1,8 +1,8 @@
 ---
 date_added: 2020-08-21
 model: ZBBridge
-vendor: Itead
-title: Sonoff Zigbee Bridge
+vendor: Sonoff
+title: Zigbee Bridge
 category: coordinator
 supports: coordinator
 zigbeemodel: ['']
@@ -12,7 +12,6 @@ link: https://www.itead.cc/sonoff-zbbridge.html
 link2: https://www.aliexpress.com/af/sonoff-zbbridge.html
 link3: https://www.banggood.com/SONOFF-ZBBridge-Smart-Bridge-p-1674754.html
 ---
-<h3>Support for this device is experimental!!!</h3>
 
 ## Flash ESP8266
 

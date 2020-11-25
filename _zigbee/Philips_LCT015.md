@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCT015.jpg
 zigbeemodel: ['LCT015'] 
-compatible: [z2m, zigate]
+compatible: [z2m, zigate,deconz]
 mlink: 
 link: 
 link2: 

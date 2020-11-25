@@ -7,7 +7,7 @@ category: hvac
 mlink: https://www.smartheating.danfoss.com/
 link: 
 zigbeemodel: ['eTRV0100']
-compatible: [zigate,deconz]
+compatible: [zigate,deconz,zha,iob]
 deconz: 2983
 ---
 

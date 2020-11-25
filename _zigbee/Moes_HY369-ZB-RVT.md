@@ -10,5 +10,6 @@ mlink: https://www.moeshouse.com/
 link: https://www.aliexpress.com/item/4000742201198.html
 link2: 
 compatible: [z2m,iob,deconz]
+z2m: TS0601_thermostat
 deconz: 3105
 ---

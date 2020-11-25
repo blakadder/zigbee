@@ -1,6 +1,6 @@
 ---
 date_added: 2020-07-13
-model: ZW-EU-22
+model: ZW-EU-02
 vendor: Zemismart
 title: 2 Gang Inline Switch
 category: switch

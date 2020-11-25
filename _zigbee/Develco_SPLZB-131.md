@@ -7,7 +7,7 @@ category: plug
 supports: on/off
 image: /assets/images/devices/Develco_SPLZB-131.jpg
 zigbeemodel: ['SPLZB-131']
-compatible: [deconz]
+compatible: [deconz,z2m]
 deconz: 
 mlink: https://www.develcoproducts.com/products/smart-plugs/smart-plug-mini/
 link: 

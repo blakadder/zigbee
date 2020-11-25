@@ -5,8 +5,9 @@ vendor: LoraTap
 title: Mini Relay Module
 category: switch
 supports: on/off
-zigbeemodel: ['TS130F']
+zigbeemodel: ['TS011F']
 compatible: [z2m,iob]
+z2m: TS011F_socket_module
 mlink: https://www.loratap.com/
-link: https://www.aliexpress.com/item/4001190275372.html
+link: https://www.aliexpress.com/item/1005001556887737.html
 ---

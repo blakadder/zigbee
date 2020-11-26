@@ -6,7 +6,7 @@ title: Plug with Power Monitoring
 category: plug
 supports: on/off, power measurement
 zigbeemodel: ['SPW35Z-D0']
-compatible: [z2m,deconz]
+compatible: [z2m,deconz,iob]
 deconz: 3159
 z2m: ZHS-15
 mlink: http://www.schwaiger.de/en/adapter-plug-as-consumption-gauge-3036.html

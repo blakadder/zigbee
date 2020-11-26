@@ -6,7 +6,7 @@ category: light
 type: Bulb
 supports: on/off, brightness, colorxy, colotemp
 image: /assets/images/devices/AduroSmart_81809.jpg
-zigbeemodel: ['ZLL-ExtendedColo']
+zigbeemodel: ['ZLL-ExtendedColo', 'ZLL-ExtendedColor']
 compatible: [z2m, zha]
 mlink: https://adurosmart.com/product/eria-colors-and-white-a19-60w-2/
 link: https://www.amazon.com/ERIA-Equivalent-Dimmable-Philips-Assistant/dp/B07HFTG4RK

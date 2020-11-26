@@ -8,7 +8,7 @@ image: /assets/images/devices/AIRAM-CTR.U.jpg
 zigbeemodel: ['ZBT-Remote-EU-DIMV1A2']
 compatible: [z2m]
 mlink: https://www.airam.fi/en/product/v8982-8943/4713407/al-led-9w-827-e27-a60-contr-unit/294/1
-link: https://www.sahkonumerot.fi/4713407
+link: 
 link2: 
 link3: 
 ---

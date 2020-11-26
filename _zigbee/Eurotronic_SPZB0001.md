@@ -1,5 +1,5 @@
 ---
-date_added: 2020-06-13
+date_added: 2020-09-29
 model: SPZB0001
 vendor: Eurotronic
 title: Spirit Zigbee Radiator Thermostat
@@ -7,7 +7,7 @@ category: hvac
 supports: temperature, heating system control
 image: /assets/images/devices/Eurotronic_SPZB0001.jpg
 zigbeemodel: ['SPZB0001']
-compatible: [z2m,deconz,iob,zigate,zha]
+compatible: [z2m,deconz,iob,zigate,zha,tasmota]
 deconz: 1098
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ttethermostatiqueetspirit
 mlink: https://eurotronic.org/produkte/zigbee-heizkoerperthermostat/spirit-zigbee/

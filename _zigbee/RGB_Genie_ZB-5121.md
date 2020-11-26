@@ -6,7 +6,7 @@ title: Micro Remote with single scene recall
 category: remote
 supports: action
 zigbeemodel: ['RGBgenie ZB-5121']
-compatible: [deconz]
+compatible: [deconz,z2m]
 deconz: 2732
 mlink: https://rgbgenie.com/?product=rgbgenie-mini-remote-with-single-scene-recall-zigbee
 link: https://www.amazon.com/dp/B07NBJ781S

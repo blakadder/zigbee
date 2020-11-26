@@ -1,8 +1,8 @@
 ---
 date_added: 2020-08-21
 model: ZBBridge
-vendor: Itead
-title: Sonoff Zigbee Bridge
+vendor: Sonoff
+title: Zigbee Bridge
 category: coordinator
 supports: coordinator
 zigbeemodel: ['']
@@ -12,7 +12,6 @@ link: https://www.itead.cc/sonoff-zbbridge.html
 link2: https://www.aliexpress.com/af/sonoff-zbbridge.html
 link3: https://www.banggood.com/SONOFF-ZBBridge-Smart-Bridge-p-1674754.html
 ---
-<h3>Support for this device is experimental!!!</h3>
 
 ## Flash ESP8266
 
@@ -56,19 +55,23 @@ Click on **Start upgrade**, be patient and wait for a few minutes until flashing
 
 Follow further instructions depending on your chosen method.
 
-## For Tasmota
+## For Zigbee2Tasmota
 You can start pairing Zigbee devices with `ZbPermitJoin 1` command.
 
 Read [Zigbee](http://tasmota.github.io/docs/Zigbee) documentation for complete guide to pairing and managing your devices.
 
-## For Home Assistant ZHA
-After Zigbee firmware is flashed apply the template
+`Sonoff ZbBridge (75)` is set as the default module. If you're switching back to Zigbee2Tasmota from ZHA make sure module is configured back to 75.
+
+## For Home Assistant (ZHA)
+This mode creates a TCP bridge from the zigbee module to Home Assistant. In this case Tasmota is only relaying all the messages from the zigbee module to ZHA and **you cannot use any Zigbee commands in Tasmota console in this mode. All setup needs to be done from Home Assistant ZHA integratioon.**
+
+After Zigbee firmware is flashed and confirmed working in ZIgbee2Tasmota mode, apply the template:
 
 ```json
 {"NAME":"ZHA ZBBridge","GPIO":[56,208,0,209,59,58,0,0,0,0,0,0,17],"FLAG":0,"BASE":18}
 ```
 
-Create a rule in Tasmota to start TCPBridge on boot
+Create a rule in Tasmota to start TCPBridge on boot:
 ```console
 Rule1 ON System#Boot do TCPStart 8888 endon
 ```

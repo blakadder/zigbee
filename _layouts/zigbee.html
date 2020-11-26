@@ -66,8 +66,7 @@ More information on <a href="{{ page.zigate }}">ZiGate site</a>.
     <a class="button button-outline" href="https://www.home-assistant.io/integrations/zha/">ZHA</a>
     {% endif %}
     {% if page.compatible contains "tasmota" or page.category == "light" or page.category == "dimmer" %}
-        {%- if page.compatible contains "tasmota" -%}<a class="button button-outline" href="https://tasmota.github.io/docs/Zigbee/#usage">Tasmota</a>
-        {% endif %}
+        <a class="button button-outline" href="https://tasmota.github.io/docs/Zigbee/#usage">Tasmota</a>
     {% endif %}
     {% if page.compatible contains "z2m" %}
     {% if page.category == "coordinator" %}
@@ -75,7 +74,7 @@ More information on <a href="{{ page.zigate }}">ZiGate site</a>.
     {% else %}
       <a class="button button-outline" href="https://www.zigbee2mqtt.io/devices/{%- if page.z2m != nil -%}{{- page.z2m -}} {% else %} {{- page.model | replace: ' ', '_' | replace: '/', '_' -}} {% endif %}.html">zigbee2mqtt</a>{% endif %}
     {% endif %}
-    {% if page.compatible contains "deconz" or page.category == "light" or page.category == "dimmer" %}
+    {% if page.compatible contains "deconz" %}
         {%- if page.deconz != nil -%}
         <a class="button button-outline" href="https://github.com/dresden-elektronik/deconz-rest-plugin/issues/{{ page.deconz }}">deCONZ</a>
         {% else %}

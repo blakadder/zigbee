@@ -6,7 +6,7 @@ title: Q-Remote
 category: remote
 supports: action
 zigbeemodel: ['NLG-remote', 'Neuhaus remote']
-compatible: [z2m]
+compatible: [z2m,iob]
 mlink: https://www.paul-neuhaus.de/shop/de/ersatzteil-fernbedienung-sender-100-462-31.html
 link: 
 ---

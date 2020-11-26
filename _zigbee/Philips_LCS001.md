@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCS001.jpg
 zigbeemodel: ['LCS001']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: https://www2.meethue.com/en-us/p/hue-white-and-color-ambiance-lily-outdoor-spot-light/1741730V7
 link: https://www.amazon.com/Philips-Ambiance-Outdoor-mounting-Assistant/dp/B07DBGW73T
 link2: https://www.amazon.de/dp/B07BXT7VHT

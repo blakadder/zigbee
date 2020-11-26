@@ -1,6 +1,6 @@
 ---
 date_added: 2020-06-09
-model: LCF002
+model: LCF005
 vendor: Philips
 title: Hue Calla Large Outdoor Pedestal Light RGBCCT
 category: light

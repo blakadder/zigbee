@@ -1,8 +1,8 @@
 ---
 date_added: 2020-07-13
-model: ZW-EU-22
+model: ZW-EU-02
 vendor: Zemismart
-title: 2 Gang Light Relay
+title: 2 Gang Inline Switch
 category: switch
 supports: on/off
 zigbeemodel: ['LXN59-2S7LX1.0']

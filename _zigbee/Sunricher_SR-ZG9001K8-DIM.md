@@ -1,7 +1,7 @@
 ---
 model: SR-ZG9001K8-DIM
 vendor: Sunricher
-title: Wall Mounted 4 Groups Push Button Remote 
+title: K8 Wall Mounted 4 Groups Push Button Remote 
 category: remote
 supports: action, batterypct
 image: /assets/images/devices/Sunricher_SR-ZG9001K8.jpg

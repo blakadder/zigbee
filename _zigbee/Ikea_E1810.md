@@ -7,7 +7,7 @@ supports: action, batterypct
 action: toggle, arrow click/hold/release, brightness up click/hold/release, brightness down click/hold/release
 image: /assets/images/devices/Ikea_E1810.jpg
 zigbeemodel: ['TRADFRI Remote Control']
-compatible: [z2m,zigate,zha,deconz]
+compatible: [z2m,zigate,zha,deconz,tasmota]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ikeatradfritlcommande
 mlink: https://www.ikea.com/nl/en/p/tradfri-remote-control-30443124/
 link: https://www.amazon.com/IKEA-ASIA-TRADFRI-Remote-Control/dp/B07KRVVFT1
@@ -17,6 +17,3 @@ EAN:
   - 304.431.24
   - 004.431.30
 ---
-
-
-

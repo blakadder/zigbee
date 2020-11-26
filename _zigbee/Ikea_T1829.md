@@ -8,7 +8,7 @@ category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/T1829.jpg
 zigbeemodel: ['GUNNARP panel 40*40']
-compatible: [z2m]
+compatible: [z2m,iob,deconz]
 mlink: https://www.ikea.com/nl/en/p/gunnarp-led-ceiling-wall-lamp-white-dimmable-white-spectrum-50360071/
 link: 
 link2: 

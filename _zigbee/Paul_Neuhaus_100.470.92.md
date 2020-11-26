@@ -6,7 +6,7 @@ title: Q-Frameless LED Panel
 category: light
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['NLG-RGB-TW light']
-compatible: z2m
+compatible: [z2m,iob]
 z2m: NLG-RGB-TW light
 mlink: https://www.paul-neuhaus.de/shop/de/q-frameless-led-panel-smart-home-45x45cm.html
 link: https://www.amazon.de/dp/B085GDRRQ7/

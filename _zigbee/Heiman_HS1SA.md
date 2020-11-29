@@ -14,3 +14,7 @@ link: https://www.aliexpress.com/item/32838465875.html
 ---
 ### Important
 There are 3 versions of this device: Standalone, zigbee and Z-wave. These are visualy identical. Make sure to get the Zigbee version.
+
+### Pairing
+
+Long press on the pinhole button till the test button starts to flash

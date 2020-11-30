@@ -12,7 +12,7 @@ mlink: http://ebyte.com/en/product-view-news.aspx?id=122
 link: https://www.amazon.com/Wireless-E18-MS1-PCB-Antenna-Transmitter-Receiver/dp/B082M8VWSL/
 link2: https://www.amazon.de/dp/B07P5QZ8PP/
 link3: https://www.aliexpress.com/item/32803052003.html
-link4: https://www.amazon.co.uk/Ebyte-E18-MS1-PCB-Antenna-Wireless-Transceiver/dp/B07P5QZ8PP/
+link4: https://www.banggood.com/Ebyte-E18-MS1-PCB-IO-CC2530-Mesh-Network-2_4GHz-Transceiver-Wireless-RF-Module-for-ZigBee-p-1765567.html
 ---
 This module consists of a TI CC2530 with 2.5mW transmit power.
 

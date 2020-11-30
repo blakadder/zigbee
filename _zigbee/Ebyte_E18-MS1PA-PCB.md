@@ -12,7 +12,7 @@ mlink: http://www.ebyte.com/en/product-view-news.aspx?id=121
 link: https://www.amazon.com/cdebyte-Wireless-Transceiver-E18-MS1PA1-PCB-Antenna/dp/B082M6W88K/
 link2: https://www.amazon.de/dp/B07P8Z383W/
 link3: https://www.aliexpress.com/item/4000537373705.html
-link4: https://www.amazon.co.uk/Ebyte-E18-MS1PA1-PCB-Wireless-Transceiver-Transmitter/dp/B07P8Z383W
+link4: https://www.banggood.com/Ebyte-E18-MS1PA1-PCB-CC2530-RF-Module-2_4GHz-20dBm-PA-CC2592-SMD-PCB-Antenna-Mesh-Network-Transmitter-and-Receiver-for-ZigBee-p-1765563.html
 ---
 This module consists of a TI CC2530 and a CC2592 power amplifier chip. With 20dbm transmit power its realistic indoor range is 10-12m.
 

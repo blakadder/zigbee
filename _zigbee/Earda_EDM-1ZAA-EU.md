@@ -2,7 +2,7 @@
 date_added: 2020-11-08
 model: EDM-1ZAA-EU
 vendor: Earda
-title: Wall Dimmer EU
+title: Touch Dimmer Switch EU
 category: dimmer
 supports: on/off, brightness
 zigbeemodel: ['TS0601']

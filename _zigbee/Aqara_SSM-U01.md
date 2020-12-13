@@ -4,7 +4,7 @@ model: SSM-U01
 vendor: Aqara
 title: Single Switch Module T1 (With Neutral)
 category: switch
-supports: on/off, power measurement
+supports: on/off, power measurement, device temperature
 zigbeemodel: ['lumi.switch.n0agl1']
 compatible: [z2m]
 mlink: https://www.aqara.com/en/manual.html

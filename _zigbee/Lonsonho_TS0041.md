@@ -6,7 +6,7 @@ title: 1 Gang Wireless Switch
 category: remote
 supports: action, battery
 zigbeemodel: ['TS0041']
-compatible: [z2m,iob,deconz]
+compatible: [z2m,iob,deconz,zha]
 deconz: 3398
 mlink: 
 link: https://www.aliexpress.com/item/4001095272467.html

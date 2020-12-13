@@ -11,6 +11,6 @@ compatible: [zha,z2m,iob,zigate,tasmota,deconz]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/capteurdetempraturehumidittuya
 mlink: 
 link: https://www.aliexpress.com/af/tuya-zigbee-screen.html
-link2: 
+link2: https://www.aliexpress.com/item/4000768249629.html
 link3: 
 ---

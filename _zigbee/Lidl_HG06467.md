@@ -6,7 +6,8 @@ title: Melinera LED String Lights
 category: light
 supports: on/off, brightness, colorxy
 zigbeemodel: ['TS0601']
-compatible: [z2m,zha,deconz]
+compatible: [z2m,zha,deconz,iob]
+deconz: 3716
 mlink: https://www.lidl.com/
 link: https://www.lidl.de/de/melinera-lichterkette-zigbee-smart-home/p360021
 ---

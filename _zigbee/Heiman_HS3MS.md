@@ -6,7 +6,7 @@ title: Motion Sensor
 category: sensor
 supports: occupancy, batterypct, batterylow, tamper
 image: /assets/images/devices/Heiman_HS3MS.jpg
-zigbeemodel: ['PIRSensor-N']
+zigbeemodel: ['PIRSensor-N', 'PIRSensor-EM', 'PIRSensor-EF-3.0']
 compatible: [z2m,deconz]
 mlink: http://www.heiman.com.cn/product/283.html
 link: https://www.aliexpress.com/item/32868237111.html

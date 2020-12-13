@@ -1,6 +1,6 @@
 ---
 date_added: 2020-08-12
-model: TS0502A
+model: TS0503A
 vendor: Tuya
 title: CCT LED Controller 
 category: light

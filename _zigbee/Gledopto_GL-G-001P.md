@@ -1,5 +1,5 @@
 ---
-date_added: 2020-12-1
+date_added: 2020-12-10
 model: GL-G-001P
 vendor: Gledopto
 title: 12W Dual White and Color Garden Lamp Pro

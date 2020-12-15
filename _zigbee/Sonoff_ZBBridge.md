@@ -37,7 +37,7 @@ Download Zigbee module firmware [`ncp-uart-sw_6.7.6_115200.ota`](https://github.
 
 Go to **Console** and enter
 
-`Backlog Weblog 3; so65 1; Module 75`
+`Module 75`
 
 
 The device will reboot. After reboot, go to **Firmware Upgrade** and next to "Upgrade by file upload" use the _Choose File_ button and select Zigbee module firmware you downloaded (`ncp-uart-sw_6.7.6_115200.ota`). 

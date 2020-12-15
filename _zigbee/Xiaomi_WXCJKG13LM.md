@@ -9,7 +9,7 @@ action: hold, release, single, double, triple
 image: /assets/images/devices/WXCJKG13LM.jpg
 zigbeemodel: ['lumi.remote.b686opcn01']
 z2m: WXCJKG13LM
-compatible: [z2m,iob,zha,deconz,zigate]
+compatible: [z2m,iob,zha,deconz,zigate,tasmota]
 mlink: https://www.aqara.com/cn/op_switch.html
 link: https://www.aliexpress.com/af/aqara-opple-switch.html
 link2: https://www.banggood.com/Original-Aqara-OPPLE-Wireless-International-Version-Smart-Switch-Work-With-Apple-HomeKit-Xiaomi-Eco-System-p-1588700.html
@@ -44,3 +44,18 @@ Here are the events you will receive on teh Domoticz widget, 5 events per button
 - right long click
 - left release
 - right long click
+
+### On Zigbee2Tasmota
+
+Changing mode of the switch requires the following commands:
+
+Read mode:
+```
+ZbSend {"Device":"<device>","Manuf":"0x115F","Read":{"OppleMode":true}}
+```
+
+Write mode (0 or 1):
+```
+ZbSend {"Device":"<device>","Manuf":"0x115F","Write":{"OppleMode":1}}
+ZbSend {"Device":"<device>","Manuf":"0x115F","Write":{"OppleMode":0}}
+```

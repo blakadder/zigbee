@@ -36,14 +36,14 @@ Encoding is the following for flags - default value is `1`:
 Decoding is automatic when receiving values but encoding is not implemented. Also you need to specify the Manuf code for Eurotronic `0x1037` when reading or writing manufacturer specific fields.
 
 Reading:
-```
+```haskell
 ZbSend {"Device":"<device>","Manuf":"0x1037","Read":{"EurotronicHostFlags":true}}
 
 20:03:31 MQT: tele/tasmota/ZBBridge/SENSOR = {"Radiator":{"Device":"<device>","EurotronicHostFlags":1,"Endpoint":1,"LinkQuality":81}}
 ```
 
 Writing: (132 = child_protection + boost)
-```
+```haskell
 ZbSend {"Device":"<device>","Manuf":"0x1037","Write":{"EurotronicHostFlags":132}}
 
 20:01:53 MQT: tele/tasmota/ZBBridge/SENSOR = {"Radiator":{"Device":"<device>","EurotronicHostFlags":133,"CurrentTemperatureSetPoint":30,"TRVBoost":1,"TRVChildProtection":1,"OccupiedHeatingSetpoint":30,"Endpoint":1,"LinkQuality":86}}

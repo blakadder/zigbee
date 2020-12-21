@@ -15,3 +15,7 @@ link2: https://www.aliexpress.com/item/1005001688505175.html
 Press and hold the button until the LED inside the device flashes.
 
 Full review on [blakadder.com](https://blakadder.com/sonoff-zbmini/)
+
+
+## Known problems and issues
+When adding the ZBMINI to ZHA, it is recognised as a light instead of a switch.

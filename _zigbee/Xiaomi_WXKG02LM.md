@@ -7,7 +7,7 @@ supports: click, batterypct
 action: left/right/both click, left/right/both double, left/right/both long press
 image: /assets/images/devices/WXKG02LM.jpg
 zigbeemodel: ['lumi.sensor_86sw2', 'lumi.sensor_86sw2.es1', 'lumi.remote.b286acn01']
-compatible: [z2m,zigate,deconz,zha,iob]
+compatible: [z2m,zigate,deconz,zha,iob,tasmota]
 deconz: 811
 mlink: https://www.aqara.com/en/wireless_remote_switch.html
 link: https://www.aliexpress.com/item/32875105783.html

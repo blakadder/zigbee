@@ -4,7 +4,7 @@ model: HG06335
 vendor: Lidl
 title: SilverCrest Motion Sensor
 category: sensor
-supports: occupancy
+supports: [occupancy,batterypct]
 zigbeemodel: ['TY0202']
 compatible: [z2m,zha,tasmota,deconz]
 deconz: 3736

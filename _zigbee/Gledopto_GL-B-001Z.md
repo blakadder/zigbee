@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-B-001Z.jpg
 zigbeemodel: ['GL-B-001Z']
-compatible: [z2m,iob,zigate]
+compatible: [z2m,iob,zigate,deconz,zha]
 mlink: http://www.gledopto.com/h-col-337.html
 link: https://www.aliexpress.com/item/32968033149.html
 link2: https://www.amazon.com/GLEDOPTO-Dimmable-Compatible-Lightify-Android/dp/B07R12DYLF/

@@ -13,7 +13,7 @@ link: https://www.aliexpress.com/item/32904763478.html
 link2: https://www.banggood.com/DL-20-CC2530-Wireless-Transmission-Serial-Port-Module-2_4G-Wireless-Transmitting-and-Receiving-p-1549685.html
 link3: https://www.amazon.de/dp/B07JX5N3QR
 ---
-To be able to use it as a coordinator you need to [flash](flashing_ccloader) the **CC2531_** [Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware/).
+To be able to use it as a coordinator you need to [flash](flashing_ccloader) the **CC2530_** [Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware/).
 
 ## Flashing Instructions
 Identify the required pins and follow flashing instructions:

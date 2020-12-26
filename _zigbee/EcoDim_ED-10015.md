@@ -4,7 +4,8 @@ model: ED-10015
 vendor: EcoDim
 title: Wireless Switch 4 Groups Black
 category: remote
-supports: action
+supports: actions, battery
+actions: on, off, brighntess move up, brightness move down, brightness stop
 zigbeemodel: ['ED-10015']
 compatible: [deconz,z2m]
 mlink: https://www.ecodim.nl/draadloze-schakelaar-zigbee-4-groepen-zwart.html

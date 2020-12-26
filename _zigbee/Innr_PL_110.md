@@ -1,7 +1,7 @@
 ---
 model: PL 110
 vendor: Innr
-title: Puck Light White
+title: Puck Light White Extension Pack
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Innr_PL_110.jpg

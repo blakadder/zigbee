@@ -2,10 +2,10 @@
   <td class="td-first"><img src="{{ template.url | remove: ".html" | prepend: '/assets/images/devices' | append: '.jpg' }}" alt="{{ template.vendor }} {{ template.model }}" style="max-height:75px;vertical-align: middle;"></td>
   <td class="td-second"><b><a class="menu" href="{{site.baseurl}}{{ template.url }}">{{ template.vendor }} {{ template.title }}</a></b></td>
   <td>{{ template.model | truncate: 18, '...'}}</td>
-  <td class="td-compat">{% if template.compatible contains "zha" %}<img src="/assets/images/zha-icon.png"><img src="/assets/images/zha-icon.png">{% else %} {% endif %}</td>
-  <td class="td-compat">{% if template.compatible contains "tasmota" %}<img src="/assets/images/tasmota-icon.png">{% elsif template.category == "light" %}<img src="/assets/images/tasmota-icon.png">{% elsif template.category == "dimmer" %}<img src="/assets/images/tasmota-icon.png">{% else %} {% endif %}</td>
-  <td class="td-compat">{% if template.compatible contains "z2m" %}<img src="/assets/images/z2m-icon.png">{% else %} {% endif %}</td>
-  <td class="td-compat">{% if template.compatible contains "deconz" %}<img src="/assets/images/deconz-icon.png">{% else %} {% endif %}</td>
-  <td class="td-compat">{% if template.compatible contains "zigate" %}<img src="/assets/images/zigate-icon.png">{% else %} {% endif %}</td>
-  <td class="td-compat">{% if template.compatible contains "iob" %}<img src="/assets/images/iobroker-icon.png">{% else %} {% endif %}</td>
+  <td class="td-compat">{% if template.compatible contains "zha" %}<img alt="Zigbee Home Automation for Home Assistant" src="/assets/images/zha-icon.png"><img src="/assets/images/zha-icon.png">{% else %} {% endif %}</td>
+  <td class="td-compat">{% if template.compatible contains "tasmota" %}<img alt="Tasmota" src="/assets/images/tasmota-icon.png">{% elsif template.category == "light" %}<img src="/assets/images/tasmota-icon.png">{% elsif template.category == "dimmer" %}<img src="/assets/images/tasmota-icon.png">{% else %} {% endif %}</td>
+  <td class="td-compat">{% if template.compatible contains "z2m" %}<img alt="Zigbee2MQTT" src="/assets/images/z2m-icon.png">{% else %} {% endif %}</td>
+  <td class="td-compat">{% if template.compatible contains "deconz" %}<img alt="deCONZ" src="/assets/images/deconz-icon.png">{% else %} {% endif %}</td>
+  <td class="td-compat">{% if template.compatible contains "zigate" %}<img alt="ZiGate" src="/assets/images/zigate-icon.png">{% else %} {% endif %}</td>
+  <td class="td-compat">{% if template.compatible contains "iob" or template.compatible contains "z2m" %}<img alt="ioBroker.zigbee" src="/assets/images/iobroker-icon.png">{% else %} {% endif %}</td>
 </tr>

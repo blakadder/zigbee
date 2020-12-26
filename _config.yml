@@ -29,11 +29,6 @@ defaults:
       type: "zigbee"
     values:
       layout: "zigbee"
-  - scope:
-      path: ""
-      type: "unsupported"
-    values:
-      layout: "unsupported"
 
 plugins:
   - jekyll-seo-tag

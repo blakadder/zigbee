@@ -9,8 +9,8 @@ zigbeemodel: ['TS0121']
 compatible: [z2m,deconz,zigate,iob,tasmota]
 z2m: TS0121_plug
 deconz: 2988
-mlink: 
+mlink: https://www.blitzwolf.com/
 link: https://www.banggood.com/BlitzWolf-BW-SHP13-Zigbee-3_0-Smart-WIFI-Socket-16A-EU-Plug-Electricity-Metering-APP-Remote-Controller-Timer-Work-with-Amazon-Alexa-Google-Home-p-1679992.html
-link2: https://www.aliexpress.com/item/4001153556759.html
+link2: https://www.aliexpress.com/item/4001153171159.html
 link3: 
 ---

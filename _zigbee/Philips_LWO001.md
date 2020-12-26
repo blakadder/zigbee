@@ -1,5 +1,5 @@
 ---
-model: 
+model: LWO001
 vendor: Philips
 title: Hue White Filament Bulb G93 E27 w/ BT
 category: light

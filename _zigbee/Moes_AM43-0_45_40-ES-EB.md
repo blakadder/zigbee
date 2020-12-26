@@ -1,0 +1,16 @@
+---
+date_added: 2020-12-20
+model: AM43-0.45/40-ES-EB
+vendor: Moes
+title: Motorized Roller Blinds/Shades Drive Motor
+category: cover
+supports: open, close, stop, position
+zigbeemodel: ['TS0601']
+compatible: [z2m]
+deconz: 3398
+z2m: TS0601_curtain
+mlink: https://www.moeshouse.com/
+link: https://www.aliexpress.com/item/1005001698400295.html
+link2: 
+link3: 
+---

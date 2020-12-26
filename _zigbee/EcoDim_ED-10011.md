@@ -3,7 +3,8 @@ model: ED-10011
 vendor: EcoDim
 title: Wireless Switch 1 Group Black
 category: remote
-supports: action
+supports: action, battery
+actions: on, off, brighntess move up, brightness move down, brightness stop
 zigbeemodel: ['ED-10011']
 compatible: [deconz,z2m]
 mlink: https://www.ecodim.nl/draadloze-schakelaar-zigbee-1-groep-zwart.html

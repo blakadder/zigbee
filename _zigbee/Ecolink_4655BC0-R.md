@@ -4,7 +4,7 @@ model: 4655BC0-R
 vendor: Ecolink
 title: Door/Window Contact Sensor
 category: sensor
-supports: contact, temperature
+supports: contact, temperature, batterylow, tamper
 zigbeemodel: ['4655BC0-R']
 compatible: [z2m,zha]
 mlink: 

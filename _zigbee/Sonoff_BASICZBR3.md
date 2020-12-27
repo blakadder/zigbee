@@ -6,7 +6,7 @@ category: switch
 supports: on/off
 image: /assets/images/devices/BASICZBR3.jpg
 zigbeemodel: ['BASICZBR3']
-compatible: [z2m,deconz,tasmota,iob,zigate]
+compatible: [z2m,zha,deconz,tasmota,iob,zigate]
 deconz: 1950
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/basiczbr3
 mlink: https://sonoff.tech/product/zigbee-diy-smart-switches/basiczbr3

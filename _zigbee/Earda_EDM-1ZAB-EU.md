@@ -1,6 +1,6 @@
 ---
 date_added: 2020-12-09
-model: EDM-1ZAB-EU
+model: EDM-1ZBA-EU
 vendor: Earda
 title: Rotary Dimmer Switch EU
 category: dimmer

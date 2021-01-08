@@ -6,7 +6,7 @@ title: SilverCrest Window and Door Sensor
 category: sensor
 supports: contact, battery
 zigbeemodel: ['TY0203']
-compatible: [zha,z2m,deconz]
+compatible: [zha,z2m,deconz, zigate]
 deconz: 3773
 mlink: https://www.lidl.com/
 link: https://www.lidl.de/de/silvercrest-tuer-fensterkontakt-zigbee-smart-home/p355043

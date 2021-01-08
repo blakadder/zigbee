@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-MC-001.jpg
 zigbeemodel: ['GL-MC-001']
-compatible: [z2m,zigate,iob]
+compatible: [deconz,z2m,zigate,iob]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/gl-mc-001S
 mlink: http://www.gledopto.com/h-col-340.html
 link: https://www.aliexpress.com/item/4000063248594.html

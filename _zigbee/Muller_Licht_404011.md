@@ -1,5 +1,5 @@
 ---
-date_added: 2020-06-19
+date_added: 2021-01-10
 model: 404011
 vendor: Müller Licht 
 title: Tint Remote Control
@@ -15,9 +15,9 @@ link: https://www.amazon.de/M%C3%9CLLER-LICHT-Fernbedienung-vorprogrammierten-in
 link2: https://www.amazon.co.uk/M%C3%BCller-Licht-Remote-Control-Plastic-White/dp/B07FMCLC2N
 link3: 
 ---
-
-## Zigbee2Tasmota
+## Tasmota
 
 You need to listen to the pre-configured group addresses 0x4004, 0x4005, 0x4006 corresponding to the 3 lights.
 
 Example: `backlog zblisten1 0x4004; zblisten2 0x04005; zblisten3 0x4006`
+

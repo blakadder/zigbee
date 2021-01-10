@@ -1,5 +1,5 @@
 ---
-date_added: 2020-06-19
+date_added: 2021-01-10
 model: 404011
 vendor: Müller Licht 
 title: Tint Remote Control

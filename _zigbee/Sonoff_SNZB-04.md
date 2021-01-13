@@ -16,3 +16,6 @@ link3: https://www.banggood.com/SONOFF-SNZB-04-ZB-Wireless-Door-or-Window-Sensor
 
 #### Pairing
 Long press reset button for 5s until the LED indicator flashes three times, which means the device has entered pairing mode
+
+Sometimes the battery is not mounted firmly which prevents the device from pairing properly.
+[Adding a washer between the battery holder](https://i.postimg.cc/SKkJmrpc/20210102-235846-1.jpg) and the battery or increasing the pressure on the holder fixes this.

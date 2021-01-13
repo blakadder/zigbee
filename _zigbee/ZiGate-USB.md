@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator
 image: /assets/images/devices/ZiGate-USB-TTL.jpg
 zigbeeid: none
-compatible: [zigate,zha,z2m]
+compatible: [zigate,zha,z2m,iob]
 mlink: https://zigate.fr
 link: https://zigate.fr/produit/zigate-ttl/
 link2: https://www.amazon.fr/Zigate-Passerelle-USB-avec-ZigBee/dp/B07Z6P9HX6/

@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness
 image: /assets/images/devices/Philips_LWA004.jpg
 zigbeemodel: ['LWA004']
-compatible: [z2m,iob]
+compatible: [z2m,zha,iob]
 mlink: https://www2.meethue.com/en-gb/p/hue-white-1-pack-a60-e27-filament-standard/8718699688820
 link: https://www.amazon.de/Hue-Einzelpack-1x600lm-Filament-Bluetooth/dp/B07SNGBWG4
 link2: https://www.amazon.co.uk/Philips-Filament-Single-Bluetooth-Assistant/dp/B07SNGBWG4

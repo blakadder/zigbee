@@ -12,5 +12,5 @@ zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/capteurdetemp
 mlink: 
 link: https://www.aliexpress.com/af/tuya-zigbee-screen.html
 link2: https://www.aliexpress.com/item/4000768249629.html
-link3: 
+link3: https://www.aliexpress.com/item/4001276768541.html
 ---

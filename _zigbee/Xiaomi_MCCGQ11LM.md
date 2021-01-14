@@ -3,7 +3,7 @@ model: MCCGQ11LM
 vendor: Xiaomi
 title: Aqara Door & Window Sensor
 category: sensor
-supports: contact, batterylow
+supports: contact, batterylow, temperature
 image: /assets/images/devices/MCCGQ11LM.jpg
 zigbeemodel: ['lumi.sensor_magnet.aq2']
 compatible: [z2m,zigate,deconz,tasmota,zha,iob]

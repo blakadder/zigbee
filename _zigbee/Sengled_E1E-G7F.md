@@ -6,7 +6,7 @@ title: Smart Switch
 category: remote
 supports: action
 zigbeemodel: ['E1E-G7F']
-compatible: [z2m,deconz]
+compatible: [z2m,deconz,zha]
 deconz: 3308
 mlink: https://us.sengled.com/products/sengled-smart-light-switch
 link: https://www.amazon.co.uk/Sengled-E1E-G7F-Smart-Light-Switch/dp/B07QHDV5S4

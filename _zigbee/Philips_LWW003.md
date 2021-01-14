@@ -3,7 +3,7 @@ model: LWW003
 vendor: Philips
 title: Hue White A60 E27 Bulb w/ Bluetooth
 category: light
-supports: on/off, brightness, ota
+supports: on/off, brightness
 zigbeemodel: ['LWW001']
 compatible: [z2m]
 z2m: 9290018216

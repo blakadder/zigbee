@@ -9,7 +9,7 @@ supports: temperature, thermostat, battery
 mlink: https://hihome.eu/products/hihome-smart-zigbee-radiator-thermostat
 link: 
 compatible: [z2m,iob]
-z2m: SEA802-Zigbee
+z2m: SEA801-Zigbee/SEA802-Zigbee
 ---
 ## Pairing
 Turn the knob to the "OFF" position. Then press the knob for some time until `- -` becomes visible. The thermostat is then reset and ready for connection.

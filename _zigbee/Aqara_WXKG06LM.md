@@ -5,7 +5,7 @@ vendor: Aqara
 title: D1 Wireless Remote Switch (Single Rocker)
 category: remote
 supports: action, batterypct
-action: single, double, hold, release
+action: single, double, hold
 zigbeemodel: ['lumi.remote.b186acn02']
 compatible: [z2m,tasmota,deconz,zha,zigate,iob]
 deconz: 3028

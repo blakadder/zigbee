@@ -1,14 +1,13 @@
 ---
 model: WXKG02LM
 vendor: Xiaomi
-title: Aqara Wireless Remote Switch (Double Rocker)
+title: Aqara Wireless Remote Switch (Double Rocker) (2016 version)
 category: remote
-supports: click, batterypct
-action: left/right/both click, left/right/both double, left/right/both long press
-image: /assets/images/devices/WXKG02LM.jpg
-zigbeemodel: ['lumi.sensor_86sw2', 'lumi.sensor_86sw2.es1', 'lumi.remote.b286acn01']
+supports: single click, batterypct
+zigbeemodel: ['lumi.sensor_86sw2', 'lumi.sensor_86sw2.es1']
 compatible: [z2m,zigate,deconz,zha,iob,tasmota]
 deconz: 811
+z2m: WXKG02LM_rev1
 mlink: https://www.aqara.com/en/wireless_remote_switch.html
 link: https://www.aliexpress.com/item/32875105783.html
 link2: https://www.gearbest.com/alarm-systems/pp_610095.html

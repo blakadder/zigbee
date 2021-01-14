@@ -1,6 +1,6 @@
 ---
 date_added: 2020-12-23
-model: L4531C
+model: 4531C
 vendor: BTicino
 title: Living Light Socket Module
 category: switch

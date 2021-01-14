@@ -4,7 +4,7 @@ model: QBKG26LM
 vendor: Aqara
 title: D1 3 Gang Wall Switch
 category: switch
-supports: on/off, action, power measurement
+supports: on/off, action, power measurement, decouple mode
 zigbeemodel: ['lumi.switch.n3acn3']
 compatible: [z2m]
 mlink: https://www.xiaomiyoupin.com/detail?gid=118897

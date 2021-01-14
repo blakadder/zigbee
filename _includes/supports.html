@@ -11,6 +11,12 @@
         </td>
     </tr>
     {% endfor %}
+    {%- if page.vendor == "Philips" -%}
+    <tr>
+        <td style="border-bottom: none">ota
+        </td>
+    </tr>
+    {% endif %}
     {%- if page.action != nil -%}
     <tr><th style="border-bottom: none">Action types:</th></tr>
     {% assign actions = page.action | split: ',' | sort_natural %}

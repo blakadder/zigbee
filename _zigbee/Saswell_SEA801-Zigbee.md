@@ -11,4 +11,5 @@ link: https://www.aliexpress.com/item/33024830314.html
 link2: 
 compatible: [deconz,z2m]
 deconz: 3109
+z2m: SEA801-Zigbee/SEA802-Zigbee
 ---

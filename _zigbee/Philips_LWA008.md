@@ -3,7 +3,7 @@ model: LWA008
 vendor: Philips
 title: Hue White Bulb A21 E26 1600lm with Bluetooth
 category: light
-supports: on/off, brightness, ota
+supports: on/off, brightness
 zigbeemodel: ['LWA008']
 compatible: [z2m]
 z2m: 9290023351

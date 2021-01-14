@@ -4,7 +4,7 @@ model: QBKG25LM
 vendor: Aqara
 title: D1 3 Gang No Neutral Wall Switch
 category: switch
-supports: on/off, action, power measurement
+supports: on/off, action, power measurement, decouple mode
 zigbeemodel: ['lumi.switch.l3acn3']
 compatible: [z2m]
 mlink: https://www.xiaomiyoupin.com/detail?gid=118897

@@ -7,7 +7,7 @@ category: remote
 supports: action
 actions: on, off, brightness_stop, brightenss_step_up, brightness_step_down, brightness_move_up, brightness_move_down
 zigbeemodel: ['TS1001']
-compatible: [z2m,deconz]
+compatible: [z2m,deconz,tasmota]
 deconz: 3975
 mlink: https://www.lidl.com/
 link: https://www.lidl.de/de/livarno-lux-starter-kit-gateway-9-5-watt-fernbedienung/p354563

@@ -6,7 +6,7 @@ title: RaspBee II Raspberry Pi Zigbee Gateway
 category: coordinator
 supports: coordinator
 zigbeeid: none
-compatible: [deconz,zha]
+compatible: [deconz,zha,z2m]
 mlink: https://phoscon.de/en/raspbee2/
 link: https://www.amazon.de/dp/B084MK8F5M
 link2: https://www.amazon.co.uk/dp/B084MK8F5M

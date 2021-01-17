@@ -6,7 +6,7 @@ title: LED module Coin 1x6W Tunable White
 category: light
 type: LED Controller
 supports: on/off, brightness, colortemp
-zigbeemodel: ['500.46']
+zigbeemodel: ['500.46', 'H036-0006']
 compatible: [z2m]
 mlink: https://en.paulmann.com/indoor-lighting/smart-home/zigbee/setting-the-white-tone/smart-home-zigbee-led-module-coin-1x6w-tunable-white/92963
 link: https://www.amazon.de/dp/B07R21S443

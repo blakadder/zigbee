@@ -4,7 +4,7 @@ model: QBKG22LM
 vendor: Aqara
 title: D1 2 Gang No Neutral Wall Switch 
 category: switch
-supports: on/off, action
+supports: on/off, action, decoupled mode
 zigbeemodel: ['lumi.switch.b2lacn02']
 compatible: [z2m,zha,deconz]
 mlink: https://www.xiaomiyoupin.com/detail?gid=118897

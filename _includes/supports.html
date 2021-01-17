@@ -17,12 +17,18 @@
         </td>
     </tr>
     {% endif %}
+    {%- if page.vendor == "Ledvance" -%}
+    <tr>
+        <td style="border-bottom: none">ota
+        </td>
+    </tr>
+    {% endif %}
     {%- if page.action != nil -%}
     <tr><th style="border-bottom: none">Action types:</th></tr>
     {% assign actions = page.action | split: ',' | sort_natural %}
     {% for action in actions %}
     <tr>
-        <td style="border-bottom: none"><code>{{ action | strip }}</code></td>
+        <td style="border-bottom: none"><code>{{ action | strip | replace: '_'. ' ' }}</code></td>
     </tr>
     {% endfor %}
     {% endif %}

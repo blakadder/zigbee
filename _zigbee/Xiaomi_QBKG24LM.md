@@ -4,7 +4,7 @@ model: QBKG24LM
 vendor: Aqara
 title: D1 2 Gang Wall Switch 
 category: switch
-supports: on/off, power measurement
+supports: on/off, power measurement, decoupled mode
 zigbeemodel: ['lumi.switch.b2nacn02']
 compatible: [z2m,iob]
 mlink: https://www.xiaomiyoupin.com/detail?gid=118897

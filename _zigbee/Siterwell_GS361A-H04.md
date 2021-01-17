@@ -3,7 +3,7 @@ date_added: 2020-04-04
 vendor: Siterwell
 model: GS361A-H04  
 title: Radiator Valve with Thermostat
-zigbeemodel:  ['ivfvd7h']
+zigbeemodel:  ['ivfvd7h','_TYST11_zivfvd7h']
 category: hvac
 supports: temperature, thermostat, battery
 mlink: https://www.china-siter.com/product/194.html

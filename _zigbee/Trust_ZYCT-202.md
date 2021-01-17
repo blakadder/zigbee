@@ -5,7 +5,7 @@ vendor: Trust
 title: Remote Control
 category: remote
 supports: action
-action: on, off, stop, up-press, down-press
+action: on, off, stop, brightness_stop, brightness_move_up, brightness_move_down
 image: /assets/images/devices/Trust_ZYCT-202.jpg
 zigbeemodel: ['ZYCT-202','ZLL-NonColorController']
 compatible: [z2m,iob,zigate,deconz]

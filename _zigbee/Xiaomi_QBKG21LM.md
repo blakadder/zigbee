@@ -4,7 +4,7 @@ model: QBKG21LM
 vendor: Aqara
 title: D1 1 Gang No Neutral Wall Switch 
 category: switch
-supports: on/off, action
+supports: on/off, action, decoupled mode
 zigbeemodel: ['lumi.switch.b1lacn02']
 compatible: [z2m,iob,zha]
 mlink: https://www.xiaomiyoupin.com/detail?gid=118897

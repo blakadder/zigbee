@@ -6,7 +6,7 @@ title: In-Wall Dimmer
 category: dimmer
 supports: on/off, brightness
 zigbeemodel: ['43080']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: 
 link: https://www.amazon.com/Enbrighten-QuickFit-SimpleWire-Directly-43080/dp/B08428GDS8
 link2: 

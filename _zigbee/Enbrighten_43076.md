@@ -6,7 +6,7 @@ title: In-Wall Toggle Switch
 category: switch
 supports: on/off
 zigbeemodel: ['43076']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: 
 link: https://www.amazon.com/dp/B08428GHM8
 link2: 

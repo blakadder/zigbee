@@ -9,7 +9,7 @@ zigbeemodel: ['TS011F', '_TZ3000_rk2yzt0u']
 compatible: [z2m]
 z2m: TS011F_valve
 mlink: 
-link: https://www.aliexpress.com/item/4000595176844.html
+link: https://www.aliexpress.com/item/4000033754819.html
 link2: 
 link3: 
 ---

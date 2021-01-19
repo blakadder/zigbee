@@ -11,6 +11,7 @@ mlink: https://www.itead.cc/sonoff-zbbridge.html
 link: https://www.itead.cc/sonoff-zbbridge.html
 link2: https://www.aliexpress.com/af/sonoff-zbbridge.html
 link3: https://www.banggood.com/SONOFF-ZBBridge-Smart-Bridge-p-1674754.html
+link4: https://www.amazon.de/dp/B08DRBPCPQ
 ---
 
 ## Flash ESP8266

@@ -9,8 +9,8 @@ zigbeemodel: ['902010/23']
 compatible: [deconz]
 deconz: 2392
 mlink: https://bvsite.smabit.eu/index.php/produkte/smart-home-produkte/4-tasten-fernbedienung/
-link: https://www.amazon.de/Bitron-Home-Fernbedienung-902010-23/dp/B00H3NIVLC
-link2: 
+link: https://www.amazon.de/dp/B00H3NIVLC
+link2: https://www.amazon.se/dp/B015TCC0K6/
 link3: 
 EAN: 8023874395814
 ---

@@ -9,7 +9,7 @@ zigbeemodel: ['Smart+ AC05347']
 compatible: [zha]
 mlink: 
 link: https://www.amazon.de/gp/product/B0747X166P
-link2: 
+link2: https://www.amazon.se/dp/B077X6PRHJ/
 link3: 
 EAN: 
   - 4058075816619

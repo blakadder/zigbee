@@ -11,5 +11,5 @@ compatible: [z2m,deconz, zigate]
 mlink: 
 link: https://www.aliexpress.com/item/4001178298316.html
 link2: https://www.banggood.com/220-240V-Tuya-Smart-Solution-ZB-On-off-Switch-Smart-Home-Modification-Module-Work-with-Alexa-Google-p-1790444.html
-link3: 
+link3: https://www.amazon.se/dp/B08QVVMPBD/
 ---

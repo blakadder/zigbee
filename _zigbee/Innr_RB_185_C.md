@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Innr_RB_185_C.jpg
 zigbeemodel: ['RB 185 C']
-compatible: [z2m]
+compatible: [z2m,zigate]
 mlink: 
 link: https://www.amazon.co.uk/Innr-colour-dimmable-Compatible-RB/dp/B01M4RCA43
 link2: https://www.amazon.de/gp/product/B01M4RCA43/

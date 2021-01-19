@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness
 image: /assets/images/devices/Innr_RB_265.jpg
 zigbeemodel: ['RB 265']
-compatible: [z2m,zigate]
+compatible: [z2m,zigate,deconz]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ampoulee27innrblanc
 mlink: https://www.innr.com/en/product/smart-filament-bulb-white-e27/
 link: https://www.amazon.co.uk/dp/B07SFW356R

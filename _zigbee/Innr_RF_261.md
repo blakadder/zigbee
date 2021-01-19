@@ -1,5 +1,5 @@
 ---
-date_added: 2020-01-19
+date_added: 2021-01-19
 model: RF 261
 vendor: Innr
 title: Filament Bulb Vintage Globe E27

@@ -1,4 +1,5 @@
 ---
+date_added: 2020-01-19
 model: RSL 115
 vendor: Innr
 title: Recessed Spot Light

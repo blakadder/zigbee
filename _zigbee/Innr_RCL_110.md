@@ -1,4 +1,5 @@
 ---
+date_added: 2020-01-19
 model: RCL 110
 vendor: Innr
 title: Round Ceiling Lamp White

@@ -6,7 +6,7 @@ title: Rotary Dimmer Switch EU
 category: dimmer
 supports: on/off, brightness
 zigbeemodel: ['TS0601']
-compatible: [z2m, zigate]
+compatible: [z2m,zigate]
 z2m: TS0601_dimmer
 mlink: https://www.alibaba.com/product-detail/EU-Rotary-Button-Light-Wall-Switch_1600076552700.html
 link: https://www.aliexpress.com/item/1005001704576003.html

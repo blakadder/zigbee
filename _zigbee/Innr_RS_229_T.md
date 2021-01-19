@@ -10,6 +10,6 @@ zigbeemodel:  ['RS 229 T']
 compatible: [z2m,iob]
 mlink: https://www.innr.com/en/product/smart-spot-comfort-sl-4pack/
 link: https://www.amazon.co.uk/Innr-Ambiance-Compatible-Required-Dimmable/dp/B0848YGD4B
-link2: 
+link2: https://www.domadoo.fr/fr/peripheriques/5378-innr-ampoule-connectee-type-gu10-zigbee-30-pack-de-4-ampoules-blanc-reglable-2200k-a-5000k-8718781552640.html
 link3: 
 ---

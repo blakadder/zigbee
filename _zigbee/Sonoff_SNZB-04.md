@@ -12,6 +12,7 @@ mlink: https://www.itead.cc/sonoff-snzb-04-zigbee-wireless-door-window-sensor.ht
 link: https://www.itead.cc/sonoff-snzb-04-zigbee-wireless-door-window-sensor.html
 link2: https://www.aliexpress.com/item/1005001275204366.html
 link3: https://www.banggood.com/SONOFF-SNZB-04-ZB-Wireless-Door-or-Window-Sensor-Enable-Smart-Linkage-Between-SONOFF-ZBBridge-and-WiFi-Devices-via-eWeLink-APP-p-1715994.html
+link4: https://www.domadoo.fr/fr/peripheriques/5320-sonoff-capteur-d-ouverture-de-portefenetre-zigbee.html
 ---
 
 #### Pairing

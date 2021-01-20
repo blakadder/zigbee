@@ -11,5 +11,5 @@ compatible: [z2m,iob,deconz]
 mlink: https://www.sunricher.com/zigbee-ac-in-wall-switch-sr-zg9101sac-hp-switch.html
 link: https://www.amazon.co.uk/Zigbee-Switch-Compatible-Echo-Plus/dp/B07XJRBJXT/
 link2: https://www.amazon.co.uk/Zigbee-Switch-Compatible-Echo-Plus/dp/B07XJRBJXT
-link3: 
+link3: https://www.amazon.se/dp/B0893SFFFS/
 ---

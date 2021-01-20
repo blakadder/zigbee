@@ -11,7 +11,7 @@ compatible: [z2m, zigate, deconz, zha]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ampoulesconnecteswhiteambiancee27--6/
 mlink: https://www2.meethue.com/en-gb/p/hue-dimmer-switch/8718696743157
 link: https://www.amazon.de/dp/B0748KLR39
-link2:
+link2: https://www.amazon.se/dp/B0748KLR39/
 link3: 
 link4: 
 ---

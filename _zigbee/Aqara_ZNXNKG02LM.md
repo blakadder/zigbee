@@ -1,5 +1,5 @@
 ---
-date_added: 2021-01-22
+date_added: 2021-01-23
 model: ZNTGMK11LM
 vendor: Aqara
 title: Smart Knob H1

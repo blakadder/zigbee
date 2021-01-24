@@ -1,12 +1,14 @@
 ---
+date_added: 2020-01-17
 model: PLUG EDP RE:DY
 vendor: EDP
 title: re:dy plug A/C
 category: plug
 supports: on/off, power measurement
-image: /assets/images/devices/EDP_re-dy.jpg
+manufacturername: ['EDP-WITHUS']
 zigbeemodel: ['ZB-SmartPlug-1.0.0']
-compatible: [z2m,iob,zha]
+compatible: [z2m,iob,zha,deconz]
+deconz: 3959
 mlink: https://www.edp.pt/particulares/servicos/redy-en/peripheral-equipment/plug-ac/
 link: 
 link2: 

@@ -5,7 +5,7 @@ vendor: Neo
 title: Temperature & Humidity Sensor and Alarm
 category: sensor
 supports: alarm, temperature, humidity
-zigbeemodel: ['0yu2xgi', 'TS0601']
+zigbeemodel: ['TS0601','_TZE200_d0yu2xgi']
 zb3: true
 compatible: [z2m,iob,zha]
 mlink: https://szneo.com/en/products/show.php?id=241

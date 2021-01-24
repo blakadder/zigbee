@@ -6,7 +6,7 @@ title: Livarno Lux E14 4,5W RGB Bulb
 category: light
 type: bulb
 supports: on/off, brightness, colortemp, colorxy
-zigbeemodel: ['TS0505A']
+zigbeemodel: ['TS0505A','_TZ3000_odygigth']
 compatible: [z2m,deconz,zha,iob]
 deconz: 3975
 mlink: https://www.lidl.com/

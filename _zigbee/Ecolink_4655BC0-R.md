@@ -6,7 +6,8 @@ title: Door/Window Contact Sensor
 category: sensor
 supports: contact, temperature, batterylow, tamper
 zigbeemodel: ['4655BC0-R']
-compatible: [z2m,zha]
+compatible: [z2m,zha,deconz]
+deconz: 3284
 mlink: 
 link: https://www.amazon.com/dp/B07HN5CZCX
 link2: 

@@ -5,7 +5,7 @@ vendor: Lidl
 title: Melinera LED String Lights
 category: light
 supports: on/off, brightness, colorxy
-zigbeemodel: ['TS0601']
+zigbeemodel: ['TS0601','_TZE200_s8gkrkxk']
 compatible: [z2m,zha,deconz,iob]
 deconz: 3716
 mlink: https://www.lidl.com/

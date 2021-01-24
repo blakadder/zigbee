@@ -6,7 +6,7 @@ title: 1 Gang Switch Module With Neutral
 category: switch
 type: Module
 supports: on/off
-zigbeemodel: ['TS0003']
+zigbeemodel: ['TS0003','_TYZB01_ncutbjdi']
 compatible: [z2m,deconz, zigate]
 mlink: 
 link: https://www.aliexpress.com/item/4001178298316.html

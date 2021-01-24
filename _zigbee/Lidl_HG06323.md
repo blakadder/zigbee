@@ -6,7 +6,7 @@ title: Livarno Lux Remote Control Dimmer
 category: remote
 supports: action
 actions: on, off, brightness_stop, brightenss_step_up, brightness_step_down, brightness_move_up, brightness_move_down
-zigbeemodel: ['TS1001']
+zigbeemodel: ['TS1001','_TYZB01_bngwdjsr']
 compatible: [z2m,deconz,tasmota]
 deconz: 3975
 mlink: https://www.lidl.com/

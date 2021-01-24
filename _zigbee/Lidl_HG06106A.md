@@ -6,7 +6,7 @@ title: Livarno Lux GU10 9W RGB Bulb
 category: light
 type: bulb
 supports: on/off, brightness, colortemp, colorxy
-zigbeemodel: ['TS0505A']
+zigbeemodel: ['TS0505A','_TZ3000_kdpxju99']
 compatible: [z2m,deconz,zha,iob]
 deconz: 3975
 mlink: https://www.lidl.com/

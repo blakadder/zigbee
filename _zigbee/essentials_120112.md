@@ -3,7 +3,7 @@ date_added: 2020-10-15
 vendor: essentials
 model: 120112  
 title: Smart Home Heizkörperthermostat Premium
-zigbeemodel:  ['eaxp72v'],['_TYST11_jeaxp72v']
+zigbeemodel:  ['eaxp72v','_TYST11_jeaxp72v']
 category: hvac
 supports: temperature, thermostat, battery
 mlink: 

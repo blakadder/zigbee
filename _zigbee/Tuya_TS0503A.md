@@ -4,7 +4,7 @@ model: TS0503A
 vendor: Tuya
 title: LED Strip Controller DC5-24v RGB  
 category: light
-supports: on/off, brightness, colortemp, color
+supports: on/off, brightness, color
 zigbeemodel: ['TS0503A','_TZ3000_obacbukl']
 compatible: [z2m,tasmota]
 mlink: 

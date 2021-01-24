@@ -6,7 +6,7 @@ title: CC2530+CC2592 USB Test Kit
 category: coordinator
 supports: coordinator, router
 zigbeeid: none
-compatible: [tasmota]
+compatible: [tasmota,ZHA]
 mlink: http://www.ebyte.com/en/product-view-news.aspx?id=949
 link: https://www.aliexpress.com/item/4000783978568.html
 ---

@@ -6,7 +6,7 @@ title: Electricity Metering 16A EU Plug
 category: plug
 supports: on/off, power metering
 zigbeemodel: ['TS0121']
-compatible: [z2m,deconz,zigate,iob,tasmota]
+compatible: [z2m,deconz,zigate,iob,tasmota,zha]
 z2m: TS0121_plug
 deconz: 2988
 mlink: https://www.blitzwolf.com/

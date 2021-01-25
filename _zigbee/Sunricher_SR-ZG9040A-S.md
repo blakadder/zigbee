@@ -6,7 +6,7 @@ category: dimmer
 supports: on/off, brightness
 zigbeemodel: ['SR-ZG9040A-S']
 zb3: true
-compatible: [z2m]
+compatible: [z2m,ZHA]
 mlink: https://www.sunricher.com/zigbee-with-neutral-or-no-neutral-wire-self-adaptive-micro-smart-dimmer-sr-zg9040a.html
 link: https://www.brack.ch/sunricher-funk-dimmaktor-zigbee-3-0-400-w-rc-single-line-1079049
 ---

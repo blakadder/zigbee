@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Ikea_LED1736G9.jpg
 zigbeemodel: ['TRADFRI bulb E27 WS clear 806lm']
-compatible: [z2m,iob]
+compatible: [z2m,iob,ZHA]
 mlink: https://www.ikea.com/nl/en/p/tradfri-led-bulb-e27-806-lumen-wireless-dimmable-white-spectrum-clear-30408470/
 link: 
 link2: 

@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Ikea_T1820.jpg
 zigbeemodel: ['LEPTITER Recessed spot light']
-compatible: [z2m,iob,deconz,ZHA]
+compatible: [z2m,iob,deconz,zha]
 mlink: https://www.ikea.com/nl/en/p/leptiter-led-recessed-spotlight-dimmable-white-spectrum-50353513/ 
 link: 
 link2: 

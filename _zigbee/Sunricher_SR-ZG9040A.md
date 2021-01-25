@@ -6,7 +6,7 @@ category: dimmer
 supports: on/off, brightness
 zigbeemodel: ['Micro Smart Dimmer', 'HK-SL-DIM-A']
 zb3: true
-compatible: [z2m,deconz,ZHA]
+compatible: [z2m,deconz,zha]
 deconz: 2829
 mlink: https://www.sunricher.com/zigbee-with-neutral-or-no-neutral-wire-self-adaptive-micro-smart-dimmer-sr-zg9040a.html
 link: https://www.tronika.no/no/smarthus/zigbee-produkter/zigbee-lysstyring/dimmer-zg9040a.html

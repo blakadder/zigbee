@@ -8,7 +8,7 @@ supports: 123_on_off, brightness
 image: /assets/images/devices/Amelech_HLC614-Z.jpg
 manufacturer: Shenzhen_Homa
 zigbeemodel: ['HOMA1005']
-compatible: [z2m,deconz,ZHA]
+compatible: [z2m,deconz,zha]
 deconz: 1430
 mlink: http://www.amelech.com/productgrouplist-802762385/HLC614_Z.html
 link: https://www.alibaba.com/product-detail/for-led-tube-110v-220v-230v_60673591653.html

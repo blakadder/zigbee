@@ -6,7 +6,7 @@ title: CC2530 PA+LNA 2.4GHz 100mW Zigbee SMD Module with IPX
 category: coordinator
 supports: coordinator, router
 zigbeeid: none
-compatible: [tasmota,ZHA]
+compatible: [tasmota,zha]
 mlink: http://www.ebyte.com/en/product-view-news.aspx?id=919
 link: https://www.aliexpress.com/item/4000818121979.html
 ---

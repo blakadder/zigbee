@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness
 image: /assets/images/devices/Ikea_LED1836G9-E26.jpg
 zigbeemodel: ['TRADFRI bulb E26 WW 806lm']
-compatible: [z2m]
+compatible: [z2m,ZHA]
 mlink: https://www.ikea.com/us/en/p/tradfri-led-bulb-e26-806-lumen-wireless-dimmable-warm-white-opal-90457170/
 link: 
 link2: 

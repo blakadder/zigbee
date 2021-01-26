@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Ikea_L1527.jpg
 zigbeemodel: ['FLOALT panel WS 30x30']
-compatible: [z2m,iob]
+compatible: [z2m,iob,zha]
 mlink: https://www.ikea.com/nl/en/p/floalt-led-light-panel-dimmable-white-spectrum-90436314/
 link: https://www.amazon.de/dp/B072J531WS
 link2: 

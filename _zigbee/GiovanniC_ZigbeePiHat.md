@@ -7,6 +7,6 @@ category: coordinator
 mlink: 
 link: https://www.tindie.com/products/GiovanniCas/zigbee-hat-with-cc2538-for-raspberry/
 zigbeemodel: ZigeePiHat
-compatible: z2m
+compatible: [z2m,zha]
 ---
 Coordinator in HAT format using CC2538 chipset

@@ -7,7 +7,7 @@ category: remote
 supports: action
 action: on, brightness up/down, brightness stop
 zigbeemodel: ['TRADFRI shortcut button']
-compatible: [z2m,deconz]
+compatible: [z2m,deconz,zha]
 deconz: 3495
 mlink: https://www.ikea.lt/en/products/living-room/living-room-lighting/accessories-for-electronics/tradfri-shortcut-button-white-art-40467765
 link: 

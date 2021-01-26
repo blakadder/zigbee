@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator, router
 image: /assets/images/devices/DL-20.jpg
 zigbeeid: none
-compatible: tasmota
+compatible: [tasmota,zha]
 mlink: https://www.hexin-technology.com/250m_TTL_to_ZigBee_Module-Product-565.html
 link: https://www.aliexpress.com/item/32904763478.html
 link2: https://www.banggood.com/DL-20-CC2530-Wireless-Transmission-Serial-Port-Module-2_4G-Wireless-Transmitting-and-Receiving-p-1549685.html

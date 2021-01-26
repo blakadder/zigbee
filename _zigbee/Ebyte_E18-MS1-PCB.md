@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator, router
 image: /assets/images/devices/Ebyte_E18-MS1-PCB.jpg
 zigbeeid: none
-compatible: [tasmota,z2m]
+compatible: [tasmota,z2m,zha]
 mlink: http://ebyte.com/en/product-view-news.aspx?id=122
 link: https://www.amazon.com/Wireless-E18-MS1-PCB-Antenna-Transmitter-Receiver/dp/B082M8VWSL/
 link2: https://www.amazon.de/dp/B07P5QZ8PP/

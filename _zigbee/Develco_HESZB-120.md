@@ -9,7 +9,7 @@ zigbeemodel: ['HESZB-120']
 compatible: [deconz]
 deconz: 2100
 mlink: https://www.develcoproducts.com/products/sensors-and-alarms/heat-alarm/
-link: 
+link: https://www.domadoo.fr/fr/peripheriques/5411-frient-detecteur-de-chaleur-intelligent-zigbee-30-din-en-14604-et-din-14676-5713594002446.html
 link2: 
 link3: 
 ---

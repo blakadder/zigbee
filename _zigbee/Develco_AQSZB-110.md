@@ -8,7 +8,7 @@ zigbeemodel: ['AQSZB-110']
 compatible: [deconz]
 deconz: 3542
 mlink: https://www.develcoproducts.com/products/sensors-and-alarms/air-quality-sensor/
-link: https://www.elektroimportoren.no/develco-air-quality-sensor/4514806/Product.html
+link: https://www.domadoo.fr/fr/peripheriques/5408-frient-capteur-de-qualite-d-air-zigbee-ha-5713594002392.html
 link2: 
 link3: 
 ---

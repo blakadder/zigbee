@@ -8,7 +8,7 @@ supports: occupancy
 zigbeemodel: ['MOSZB-140']
 compatible: [z2m]
 mlink: https://www.develcoproducts.com/products/sensors-and-alarms/motion-sensor-mini/
-link: 
+link: https://www.domadoo.fr/fr/peripheriques/5403-frient-detecteur-de-mouvement-zigbee-30-5713594002835.html
 link2: 
 link3: 
 ---

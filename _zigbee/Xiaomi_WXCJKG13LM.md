@@ -19,7 +19,7 @@ link4: https://www.gearbest.com/power-strips/pp_009267447933.html
 ### Binding
 By default the switch is bound to the coordinator but this device can also be used to directly control other lights and switches in the network.
 
-First you probably want to unbind it from the coordinator first, then you can bind it to any other device or group. (see https://www.zigbee2mqtt.io/information/binding.html )
+First you probably want to unbind it from the coordinator first, then you can bind it to any other device or group. [see](https://www.zigbee2mqtt.io/information/binding.html)
 
 As the device is sleeping by default, you need to wake it up after sending the bind/unbind command by pressing the reset button once.
 
@@ -31,9 +31,9 @@ When bound to a lamp, the behavior is as follows:
 - long left click: warm white
 - long right click: cold white
 
-### On Domoticz with Zigate
+### Zigate on Domoticz
 
-Here are the events you will receive on teh Domoticz widget, 5 events per buttons
+Here are the events you will receive on the Domoticz widget, 5 events per buttons
 - left click
 - right click
 - left double click
@@ -45,9 +45,9 @@ Here are the events you will receive on teh Domoticz widget, 5 events per button
 - left release
 - right long click
 
-### On Zigbee2Tasmota
+### Zigbee2Tasmota
 
-Changing mode of the switch requires the following commands:
+This device has 2 operation modes. Changing mode of the switch requires the following commands:
 
 Read mode:
 ```

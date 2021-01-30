@@ -5,8 +5,9 @@ vendor: Tuya
 title: Touch Switch 3 Gang No Neutral
 category: switch
 supports: on/off
-zigbeemodel: ['TS0601']
-compatible: [z2m]
+zigbeemodel: ['TS0601','_TZE200_oisqyl4o']
+compatible: [z2m,deconz]
+z2m: TS0601_switch
 mlink: 
 link: https://www.aliexpress.com/item/4001096045589.html
 link2: 

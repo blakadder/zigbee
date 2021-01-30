@@ -6,8 +6,8 @@ title: 1/2/3/4 Gang 2 Way Touch Switch
 category: switch
 supports: on/off
 image: /assets/images/devices/NorkImes_MKS-CM-W5.jpg
-zigbeemodel: ['TS0601']
-compatible: [z2m,tasmota]
+zigbeemodel: ['TS0601','_TZE200_nkjintbl','_TZE200_kyfqmmyl']
+compatible: [z2m,tasmota,deconz]
 z2m: TS0601_switch
 mlink: 
 link: https://www.aliexpress.com/item/4000308423960.html

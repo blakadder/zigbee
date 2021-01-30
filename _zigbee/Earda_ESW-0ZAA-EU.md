@@ -6,7 +6,7 @@ title: Wireless Scene Switch 4 Buttons
 category: remote
 supports: action, battery
 actions: single, double, long
-zigbeemodel: ['TS0044']
+zigbeemodel: ['TS0044','_TZ3000_vp6clf9d']
 compatible: [z2m,tasmota,zha]
 mlink: https://www.alibaba.com/product-detail/Earda-Ziggbee-3-Gang-Smart-Wall_1600101179511.html
 link: https://www.aliexpress.com/item/1005001499593342.html

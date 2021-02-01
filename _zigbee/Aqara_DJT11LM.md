@@ -1,7 +1,7 @@
 ---
 model: DJT11LM
-vendor: Xiaomi
-title: Aqara Vibration Sensor
+vendor: Aqara
+title: Vibration Sensor
 category: sensor
 supports: action, batterylow, sensitivity 
 action: drop, tilt, touch

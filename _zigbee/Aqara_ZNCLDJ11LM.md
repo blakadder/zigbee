@@ -1,10 +1,10 @@
 ---
 model: ZNCLDJ11LM
-vendor: Xiaomi
-title: Aqara Curtain Controller
+vendor: Aqara
+title: Curtain Motor
 category: cover
+type: curtain motor
 supports: open/close, stop, position
-image: /assets/images/devices/ZNCLDJ11LM.jpg
 zigbeemodel: ['lumi.curtain', 'lumi.curtain.aq2']
 compatible: [z2m,iob,deconz]
 mlink: https://www.aqara.com/en/smart_curtain_motor.html

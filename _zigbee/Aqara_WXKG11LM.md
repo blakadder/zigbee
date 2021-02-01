@@ -1,11 +1,10 @@
 ---
 model: WXKG11LM
-vendor: Xiaomi
-title: Aqara Wireless Mini Switch
+vendor: Aqara
+title: Wireless Mini Switch
 category: remote
 supports: click, batterylow
 action: single, double, triple, quad
-image: /assets/images/devices/WXKG11LM.jpg
 zigbeemodel: ['lumi.sensor_switch.aq2', 'lumi.remote.b1acn01']
 compatible: [z2m, zigate, deconz, tasmota, zha, iob]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/boutonaqara

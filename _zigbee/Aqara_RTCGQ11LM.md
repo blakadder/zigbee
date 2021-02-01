@@ -1,7 +1,7 @@
 ---
 model: RTCGQ11LM
-vendor: Xiaomi
-title: Aqara Human Body Motion and Illuminance Sensor
+vendor: RTCGQ11LM
+title: Motion and Illuminance Sensor
 category: sensor
 supports: occupancy, illuminance, batterypct
 image: /assets/images/devices/RTCGQ11LM.jpg

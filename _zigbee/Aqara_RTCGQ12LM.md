@@ -2,7 +2,7 @@
 date_added: 2021-01-24
 model: RTCGQ12LM
 vendor: Aqara
-title: T1 Human Body Motion and Illuminance Sensor
+title: Motion and Illuminance Sensor T1
 category: sensor
 supports: occupancy, batterypct
 zigbeemodel: ['lumi.sensor_motion.agl01']

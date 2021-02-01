@@ -1,7 +1,7 @@
 ---
 model: MCCGQ11LM
-vendor: Xiaomi
-title: Aqara Door & Window Sensor
+vendor: Aqara
+title: Door & Window Sensor
 category: sensor
 supports: contact, batterylow, temperature
 image: /assets/images/devices/MCCGQ11LM.jpg

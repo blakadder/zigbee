@@ -1,10 +1,10 @@
 ---
 model: ZNCLDJ12LM
-vendor: Xiaomi
-title: Aqara B1 Smart Curtain Motor 
+vendor: Aqara
+title: Curtain Motor B1
 category: cover
+type: curtain motor
 supports: open/close, stop, position, battery
-image: /assets/images/devices/ZNCLDJ12LM.jpg
 zigbeemodel: ['lumi.curtain.hagl04']
 compatible: [z2m,deconz]
 deconz: 1654

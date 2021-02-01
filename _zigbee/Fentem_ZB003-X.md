@@ -5,7 +5,6 @@ vendor: Fentem
 title: Multi Sensor 4 in 1
 category: sensor
 supports: occupancy, temperature, humidity, illuminance, batterypct
-image: /assets/images/devices/RTCGQ11LM.jpg
 zigbeemodel: ['TS0202','_TZ3210_rxqls8v0']
 compatible: [z2m]
 mlink: 

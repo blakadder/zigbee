@@ -1,11 +1,11 @@
 ---
 date_added: 2020-06-21
 model: ZNLDP12LM
-vendor: Xiaomi
-title: Aqara LED Light Bulb Tunable White
+vendor: Aqara
+title: Tunable White Light Bulb E27
 category: light
+type: E27 Bulb
 supports: on/off, brightness, colortemp
-image: /assets/images/devices/ZNLDP12LM.jpg
 zigbeemodel: ['lumi.light.aqcn02']
 compatible: [z2m,zigate,iob,deconz,zha]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ampouleaqaraznldp12lm

@@ -1,11 +1,10 @@
 ---
 model: MFKZQ01LM
-vendor: Xiaomi
-title: Aqara Cube Controller
+vendor: Aqara
+title: Cube Controller
 category: remote
 supports: action, batterypct
 action: shake, wakeup, fall, tap, slide, flip180, flip90, rotate_left, rotate_right
-image: /assets/images/devices/MFKZQ01LM.jpg
 zigbeemodel: ['lumi.sensor_cube', 'lumi.sensor_cube.aqgl01']
 compatible: [z2m,zigate,deconz,tasmota,zha,iob]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/cubemagic

@@ -1,8 +1,8 @@
 ---
 date_added: 2020-06-15
 model: WSDCGQ12LM
-vendor: Xiaomi
-title: Aqara T1 Temperature, Humidity and Pressure Sensor
+vendor: Aqara
+title: Temperature, Humidity and Pressure Sensor T1
 category: sensor
 supports: temperature, humidity, pressure, batterylow
 zigbeemodel: ['lumi.sensor_ht.agl02']

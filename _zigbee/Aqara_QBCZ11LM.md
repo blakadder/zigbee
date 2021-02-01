@@ -1,10 +1,9 @@
 ---
 model: QBCZ11LM
-vendor: Xiaomi
-title: Aqara Wall Outlet
+vendor: Aqara
+title: Wall Outlet
 category: plug
 supports: on/off, power measurement
-image: /assets/images/devices/QBCZ11LM.jpg
 zigbeemodel: ['lumi.ctrl_86plug', 'lumi.ctrl_86plug.aq1']
 compatible: [z2m,zigate,deconz,iob]
 mlink: https://www.aqara.com/en/walloutlet.html

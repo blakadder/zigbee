@@ -1,11 +1,10 @@
 ---
 model: ZNMS12LM
-vendor: Xiaomi
-title: Aqara Door Lock S2
+vendor: Aqara
+title: Door Lock S2
 category: lock
 supports: report open, report close, action
 action: open, close
-image: /assets/images/devices/ZNMS12LM.jpg
 zigbeemodel: ['lumi.lock.acn02']
 compatible: [z2m]
 mlink: https://www.aqara.com/en/smart_door_lock_s2.html

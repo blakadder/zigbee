@@ -1,10 +1,9 @@
 ---
 model: WSDCGQ11LM
-vendor: Xiaomi
-title: Aqara Temperature, Humidity and Pressure Sensor
+vendor: Aqara
+title: Temperature, Humidity and Pressure Sensor
 category: sensor
 supports: temperature, humidity, pressure, batterylow
-image: /assets/images/devices/WSDCGQ11LM.jpg
 zigbeemodel: ['lumi.weather']
 compatible: [z2m, zigate, deconz, tasmota, zha, iob]
 mlink: https://www.aqara.com/en/temperature_humidity_sensor.html

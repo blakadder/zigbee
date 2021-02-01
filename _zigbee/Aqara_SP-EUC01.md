@@ -1,7 +1,7 @@
 ---
 model: SP-EUC01
-vendor: Xiaomi
-title: Aqara Smart Plug EU
+vendor: Aqara
+title: Smart Plug EU
 category: plug
 supports: on/off, power measurement
 image: /assets/images/devices/SP-EUC01.jpg

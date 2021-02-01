@@ -1,11 +1,10 @@
 ---
 model: WXKG03LM
-vendor: Xiaomi
-title: Aqara Wireless Remote Switch (Single Rocker) (2018 version)
+vendor: Aqara
+title: Wireless Remote Switch (Single Rocker) (2016 version)
 category: remote
-supports: action, batterypct
-action: single, double, hold
-zigbeemodel: ['lumi.remote.b186acn01']
+supports: single click, batterypct
+zigbeemodel: ['lumi.sensor_86sw1']
 compatible: [z2m,zigate,deconz,zha,iob,tasmota]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/interrupteurmuralsurpilesimpletouche
 mlink: https://www.aqara.com/en/wireless_light_switch.html

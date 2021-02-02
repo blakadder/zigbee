@@ -11,7 +11,7 @@ compatible: [z2m,iob]
 z2m: 07005B
 mlink: https://www.immaxneo.cz/en/products/immax-neo-smart-led-e14-5w-warm-white-dimmable-zigbee-3-0/
 link: https://www.amazon.de/dp/B07SZ7WQ5K
-link2: 
+link2: https://www.amazon.se/dp/B07MT95HFN/
 link3: 
 ---
 Model 07005B for 2x pack

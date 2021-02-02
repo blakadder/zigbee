@@ -5,8 +5,9 @@ vendor: Ysrsai
 title: RGBCCT Mini LED Controller 
 category: light
 supports: on/off, brightness, colortemp, colorxy
-zigbeemodel: ['ZB-CL01', 'FB56-ZCW20FB1.2']
-compatible: [z2m, zigate]
+zigbeemodel: ['ZB-CL01', 'ZB-CL03', 'FB56-ZCW20FB1.2']
+compatible: [z2m,zigate,iob]
+z2m: YSR-MINI-01_rgbcct
 mlink: 
 link: https://www.aliexpress.com/item/10000201621618.html
 ---

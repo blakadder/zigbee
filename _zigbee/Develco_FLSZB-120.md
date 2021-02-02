@@ -9,7 +9,7 @@ zigbeemodel: ['FLSZB-120']
 compatible: [deconz]
 deconz: 1960
 mlink: https://www.develcoproducts.com/products/sensors-and-alarms/water-leak-detector/
-link: https://sakerhetstjanst.secwise.com/shop/product/view/l/magnetkontakt-1
+link: https://www.domadoo.fr/fr/peripheriques/5427-frient-detecteur-d-inondation-zigbee-30-5713594002453.html
 link2: 
 link3: 
 ---

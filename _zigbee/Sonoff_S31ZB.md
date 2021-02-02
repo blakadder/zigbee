@@ -1,8 +1,8 @@
 ---
 date_added: 2020-03-09
 model: S31 Lite zb
-vendor: Itead
-title: Sonoff S31 Lite US Plug
+vendor: Sonoff
+title: S31 Lite US Plug
 category: plug
 supports: on/off
 image: /assets/images/devices/Sonoff_S31ZB.jpg

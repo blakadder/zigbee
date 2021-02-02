@@ -4,7 +4,6 @@ vendor: Innr
 title: Dimmable White Spot GU10 Bulb
 category: light
 supports: on/off, brightness
-image: /assets/images/devices/Innr_RS_225.jpg
 zigbeemodel: ['RS 225']
 compatible: [z2m,iob]
 mlink: https://www.innr.com/en/product/smart-spot-white/

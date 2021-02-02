@@ -7,7 +7,7 @@ supports: occupancy, temperature, batterypct, batterylow
 image: /assets/images/devices/Bosch_ISW-ZPR1-WP13.jpg
 zigbeemodel: ['ISW-ZPR1-WP13']
 compatible: [z2m,zha,deconz]
-deconz: 669
+deconz: 3393
 mlink: http://resource.boschsecurity.com/documents/Bosch_ZigBee_Wireles_Data_sheet_enUS_14786372619.pdf
 link: https://www.amazon.com/Bosch-Pro-Grade-Wireless-Detector-ISW-ZPR1-WP13/dp/B00PRBMDKW
 link2: 

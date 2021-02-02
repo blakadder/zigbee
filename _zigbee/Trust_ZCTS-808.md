@@ -11,6 +11,7 @@ mlink: https://www.trust.com/en/product/71169-zigbee-wireless-contact-sensor-zct
 link: https://www.amazon.co.uk/Trust-Smart-Home-Wireless-Contact/dp/B074QNJSMZ
 link2: https://www.amazon.de/dp/B074QNJSMZ
 link3: https://smarthomenz.nz/products/zigbee-contact-sensor
+link4: https://www.amazon.se/dp/B074QNJSMZ/
 ---
 ### Pairing
 When pairing the sensor keep opening and closing the sensor (pull/insert the sensor parts next to eachother) for 10 seconds,

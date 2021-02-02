@@ -6,7 +6,7 @@ title: Hue White and Color Ambiance E14 Candle w/ BT
 category: light
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['LCE002']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: 
 link: https://www.amazon.com.au/dp/B08CJN74PS
 link2: 

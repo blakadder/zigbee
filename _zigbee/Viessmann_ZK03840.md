@@ -10,7 +10,7 @@ link: https://www.badexo.de/viessmann-vicare-heizkoerper-thermostat
 link2: 
 link3:
 zigbeemodel: ['7637434']
-compatible: [z2m]
+compatible: [z2m,iob]
 EAN: 4054465093615
 ---
 

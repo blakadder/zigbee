@@ -7,7 +7,7 @@ category: switch
 type: In-Wall Relay
 supports: on/off
 zigbeemodel: ['BoxRelayZ 98423051']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: https://nordtronic.dk/shop/box-relay-zigbee-890p.html
 link: https://www.proshop.no/Smarthus/Nordtronic-Box-Relay-Zigbee/2863647
 link2: 

@@ -1,7 +1,7 @@
 ---
 model: X703A
 vendor: Lerlink
-title: Wall Switch 1 Gang EU
+title: Wall Switch 3 Gang EU
 category: switch
 supports: lrc_on_off, power meter
 image: /assets/images/devices/Lerlink_X703A.jpg

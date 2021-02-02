@@ -7,10 +7,9 @@ category: plug
 supports: on/off
 image: /assets/images/devices/Develco_SPLZB-131.jpg
 zigbeemodel: ['SPLZB-131']
-compatible: [deconz]
-deconz: 
+compatible: [deconz,z2m]
 mlink: https://www.develcoproducts.com/products/smart-plugs/smart-plug-mini/
-link: 
+link: https://www.domadoo.fr/fr/peripheriques/5420-frient-prise-intelligente-mini-avec-mesure-de-consommation-zigbee-ha-version-schuko-5713594002347.html
 link2: 
 link3: 
 ---

@@ -1,8 +1,8 @@
 ---
 date_added: 2020-08-21
 model: ZBBridge
-vendor: Itead
-title: Sonoff Zigbee Bridge
+vendor: Sonoff
+title: Zigbee Bridge
 category: coordinator
 supports: coordinator
 zigbeemodel: ['']
@@ -11,8 +11,8 @@ mlink: https://www.itead.cc/sonoff-zbbridge.html
 link: https://www.itead.cc/sonoff-zbbridge.html
 link2: https://www.aliexpress.com/af/sonoff-zbbridge.html
 link3: https://www.banggood.com/SONOFF-ZBBridge-Smart-Bridge-p-1674754.html
+link4: https://www.amazon.de/dp/B08DRBPCPQ
 ---
-<h3>Support for this device is experimental!!!</h3>
 
 ## Flash ESP8266
 
@@ -34,9 +34,9 @@ When the ZbBridge is flashed with Tasmota, **disconnect all breadboard wires** a
 
 ## Flash Zigbee module
 
-Download Zigbee module firmware [`ncp-uart-sw_6.7.6_115200.ota`](https://github.com/arendst/Tasmota/blob/development/tools/fw_zbbridge/ncp-uart-sw_6.7.6_115200.ota?raw=true) from Tasmota GitHub located in [`Tasmota/tools/fw_zbbridge/`](https://github.com/arendst/Tasmota/blob/development/tools/fw_zbbridge).
+Download Zigbee module firmware [`ncp-uart-sw_6.7.8_115200.ota`](https://github.com/arendst/Tasmota/blob/development/tools/fw_SonoffZigbeeBridge_ezsp/ncp-uart-sw_6.7.8_115200.ota?raw=true) from Tasmota GitHub located in [`Tasmota/tools/fw_SonoffZigbeeBridge_ezsp/`](https://github.com/arendst/Tasmota/blob/development/tools/fw_SonoffZigbeeBridge_ezsp).
 
-Go to **Firmware Upgrade** and next to "Upgrade by file upload" use the _Choose File_ button and select Zigbee module firmware you downloaded (`ncp-uart-sw_6.7.6_115200.ota`). 
+Go to **Firmware Upgrade** and next to "Upgrade by file upload" use the _Choose File_ button and select Zigbee module firmware you downloaded (`ncp-uart-sw_6.7.8_115200.ota`). 
 
 ![ZBBridge Zigbee module flash](/assets/images/sonoff_ZBBridge_ota.jpg)
 
@@ -45,7 +45,7 @@ Click on **Start upgrade**, be patient and wait for a few minutes until flashing
 ```json
 16:31:11 ZIG: Resetting EZSP device
 16:31:12 RSL: tele/zbbridge/RESULT = {"ZbState":{"Status":1,"Message":"EFR32 booted","RestartReason":"Power-on","Code":2}}
-16:31:12 RSL: tele/zbbridge/RESULT = {"ZbState":{"Status":55,"Version":"6.7.6.0","Protocol":8,"Stack":2}}
+16:31:12 RSL: tele/zbbridge/RESULT = {"ZbState":{"Status":55,"Version":"6.7.8.0","Protocol":8,"Stack":2}}
 16:31:12 RSL: tele/zbbridge/RESULT = {"ZbState":{"Status":3,"Message":"Configured, starting coordinator"}}
 16:31:13 RSL: tele/zbbridge/RESULT = {"ZbState":{"Status":56,"IEEEAddr":"0x80E423FFFE225691","ShortAddr":"0x0000","DeviceType":1}}
 16:31:14 ZIG: Subscribe to group 0 'ZbListen0 0'

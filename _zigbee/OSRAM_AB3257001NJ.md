@@ -11,7 +11,7 @@ zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/prisepiloteos
 mlink: https://www.ledvance.com/consumer/products/smart-home/smart-home-products-with-zigbee-technology/smart-home-components/smart-plug/index.jsp
 link: https://www.amazon.de/Osram-schaltbare-fernbedienbar-Lichtsteuerung-kompatibel/dp/B074PZLX2P
 link2: https://www.conrad.nl/p/osram-smart-tussenstekker-plug-1596989
-link3: 
+link3: https://www.amazon.se/dp/B074PZLX2P/
 EAN: 4058075036239
 ---
 ### Pairing

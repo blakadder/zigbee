@@ -10,5 +10,5 @@ compatible: [z2m]
 mlink: https://www.orvibo.com/en/product/controlbox.html
 link: https://www.aliexpress.com/item/32859028838.html
 link2: https://www.amazon.co.uk/Bazaar-Multi-functional-Household-Appliances-Control/dp/B071RJNG3J
-link3: 
+link3: https://www.geekbuying.com/item/ORVIBO-RL804QZB-Smart-multifuntional-relay-368618.html
 ---

@@ -7,7 +7,7 @@ category: light
 type: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['TS0505A','_TZ3000_odygigth']
-compatible: [z2m,deconz,zha,iob]
+compatible: [z2m,deconz,zha,iob, zigate]
 deconz: 3975
 mlink: https://www.lidl.com/
 link: https://www.lidl.de/de/livarno-lux-leuchtmittel-rgb-zigbee-smart-home-dimmbar/p354569

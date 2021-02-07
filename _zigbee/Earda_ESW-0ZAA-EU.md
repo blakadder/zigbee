@@ -12,6 +12,7 @@ mlink: https://www.alibaba.com/product-detail/Earda-Ziggbee-3-Gang-Smart-Wall_16
 link: https://www.aliexpress.com/item/1005001499593342.html
 link2: https://www.aliexpress.com/item/1005001490468150.html 
 link3: https://www.amazon.se/dp/B08J3TMGJH/
+link4: https://www.amazon.de/dp/B08J3TMGJH/
 ---
 This wireless switch is manufactured by Earda and sold on Aliexpress under many brands such Girier, Lonsonho, Moes and white label. 
 

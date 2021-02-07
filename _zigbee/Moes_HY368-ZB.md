@@ -3,7 +3,7 @@ date_added: 2020-11-17
 vendor: Moes
 model: HY368-ZB
 title: Thermostatic Radiator Valve Controller
-zigbeemodel: ['TS0601']
+zigbeemodel: ['TS0601','_TZE200_ywdxldoj']
 category: hvac
 supports: temperature, thermostat, battery
 mlink: https://www.moeshouse.com/

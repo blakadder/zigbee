@@ -4,9 +4,8 @@ vendor: Sengled
 title: Multicolor Light Strip 2M
 category: light
 supports: on/off, brightness
-image: /assets/images/devices/Sengled_E1G-G8E.jpg
 zigbeemodel: ['E1G-G8E']
-compatible: [deconz]
+compatible: [deconz,z2m]
 mlink: https://us.sengled.com/products/sengled-smart-led-multicolor-light-strip
 link: https://www.amazon.com/Sengled-Multicolor-Required-2000-6500K-Assistant/dp/B07QD2SGDB
 link2: 

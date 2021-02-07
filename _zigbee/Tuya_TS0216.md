@@ -4,7 +4,7 @@ model: TS0216
 vendor: Tuya
 title: Sound and Flash Siren
 category: sensors
-supports: alarm
+supports: alarm, volume, battery
 zigbeemodel: ['TS0216']
 compatible: [z2m,iob,deconz]
 mlink: 

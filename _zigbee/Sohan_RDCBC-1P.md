@@ -1,10 +1,10 @@
 ---
 date_added: 2021-02-08
-model: RDCBC-1P
+model: RDCBC/Z-1P
 vendor: Sohan
 title: Circuit Breaker 50A 
 category: switch
-supports: on/off, power meter
+supports: on/off
 zigbeemodel: ['TS0001','_TZ3000_bezfthwc']
 compatible: [iob,zigate,tasmota]
 z2m: TS0001

@@ -2,8 +2,8 @@
 date_added: 2021-02-06
 vendor: Livolo
 model: TI0001-dimmer
-title: Switch 2 Gang EU
-category: switch 
+title: Dimmer Switch EU
+category: dimmer 
 supports: on/off
 zigbeemodel: ['TI0001-dimmer']
 mlink: https://www.livoloeurope.eu/livolo-full-product-catalogue/livolo-zigbee-touch-light-switches

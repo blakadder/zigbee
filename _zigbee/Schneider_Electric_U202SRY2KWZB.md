@@ -1,7 +1,7 @@
 ---
 date_added: 2020-03-17
 model: U202SRY2KWZB
-vendor: Schneider Electric Electric
+vendor: Schneider Electric
 title: ULTI 240V 9.1 A 2 Gang Relay Switch, Amber LED
 category: switch
 supports: on/off

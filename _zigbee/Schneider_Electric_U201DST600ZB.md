@@ -1,7 +1,7 @@
 ---
 date_added: 2020-03-17
 model: U201DST600ZB
-vendor: Schneider Electric Electric
+vendor: Schneider Electric
 title: ULTI EZinstall3 1 Gang Dimmer Module
 category: dimmer
 supports: on/off, brightness

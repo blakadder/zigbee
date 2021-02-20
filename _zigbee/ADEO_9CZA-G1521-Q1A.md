@@ -7,7 +7,7 @@ category: light
 type: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['LXEK-1']
-compatible: [z2m]
+compatible: [zigate, z2m]
 z2m: 9CZA-A806ST
 mlink: 
 link: https://www.leroymerlin.fr/v3/p/produits/ampoule-connectee-led-globe-95-e27-intensite-couleur-variables-enki-lexman-e1506793510

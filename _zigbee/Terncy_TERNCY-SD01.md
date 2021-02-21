@@ -4,8 +4,8 @@ model: TERNCY-SD01
 vendor: Terncy
 title: Smart Dial
 category: remote
-supports: action
-action: click, double click, triple click, rotate
+supports: action, ota, battery, rotation direction
+action: single click, double click, triple click, quadruple, rotate
 image: /assets/images/devices/TERNCY-SD01.jpg
 zigbeemodel: ['TERNCY-SD01']
 zb3: true

@@ -6,7 +6,7 @@ title: Contact Sensor
 category: sensor
 supports: contact, battery
 zigbeemodel: ['RH3001']
-compatible: [z2m,deconz,iob,zha]
+compatible: [z2m,deconz,iob,zha,tasmota]
 deconz: 2559
 z2m: SNTZ007
 mlink: https://www.blitzwolf.com/ZigBee-Contact-Sensor-p-439.html

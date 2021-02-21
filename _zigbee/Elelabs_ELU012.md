@@ -11,5 +11,5 @@ compatible: [zha]
 mlink: https://elelabs.com/products/elelabs-usb-adapter.html
 link: https://www.tindie.com/products/elelabs/elelabs-zigbee-usb-adapter/
 link2: https://www.zw-store.ru/product/usb-zigbee-elelabs/
-link3: 
+link3: https://www.domadoo.fr/fr/interface-domotique/5431-dongle-usb-zigbee-chipset-efr32mg13-4251295701554.html
 ---

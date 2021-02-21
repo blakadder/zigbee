@@ -5,7 +5,7 @@ vendor: eWeLink
 title: Light Switch 2 Gang
 category: switch
 supports: on/off
-zigbeemodel: ['ZB-SW02']
+zigbeemodel: ['ZB-SW02', 'E220-KR2N0Z0-HA']
 compatible: [z2m]
 mlink: 
 link: https://www.aliexpress.com/item/1005001291467678.html

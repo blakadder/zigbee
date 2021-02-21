@@ -8,8 +8,8 @@ image: /assets/images/devices/OSRAM_AC08562.jpg
 zigbeemodel: ['B40 DIM Z3']
 compatible: [z2m]
 mlink: 
-link: https://www.amazon.co.uk/Osram-Smart-LED-Lamp-E14-White/dp/B0747VDHG3
-link2: https://www.amazon.com/Osram-Smart-Candle-B40-4058075032682/dp/B0747VDHG3
-link3: https://www.conrad.com/p/osram-smart-led-light-bulb-single-e14-6-w-eec-a-a-e-white-1596985
+link: https://www.amazon.co.uk/dp/B0747VDHG3
+link2: https://www.amazon.com/dp/B0747VDHG3
+link3: https://www.amazon.se/dp/B0747VDHG3/
 EAN: 4058075032682
 ---

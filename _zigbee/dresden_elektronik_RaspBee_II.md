@@ -6,11 +6,12 @@ title: RaspBee II Raspberry Pi Zigbee Gateway
 category: coordinator
 supports: coordinator
 zigbeeid: none
-compatible: [deconz,zha]
+compatible: [deconz,zha,z2m]
 mlink: https://phoscon.de/en/raspbee2/
 link: https://www.amazon.de/dp/B084MK8F5M
 link2: https://www.amazon.co.uk/dp/B084MK8F5M
 link3: https://www.reichelt.com/de/en/zigbee-gateway-raspbee-ii-raspbee-ii-p271570.html
+link4: https://www.domadoo.fr/fr/interface-domotique/5388-phoscon-passerelle-universelle-raspberry-pi-zigbee-raspbee-ii-260350821335.html
 ---
 Compatible with following Home Automation solutions:
 - [Home Assistant](https://www.home-assistant.io/components/deconz/)

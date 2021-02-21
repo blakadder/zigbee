@@ -5,7 +5,7 @@ vendor: Lonsonho
 title: No Neutral Push Button Light Switch 1 Gang
 category: switch
 supports: on/off
-zigbeemodel: ['TS0601','TS0011']
+zigbeemodel: ['TS0011']
 compatible: [z2m,iob,zha]
 mlink: 
 link: https://www.aliexpress.com/item/4000298926256.html

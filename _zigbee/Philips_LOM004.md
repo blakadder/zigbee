@@ -6,7 +6,7 @@ title: Hue Smart Plug US
 category: plug
 supports: on/off
 zigbeemodel: ['LOM004']
-compatible: [deconz]
+compatible: [deconz,z2m]
 mlink: https://www.philips-hue.com/en-us/p/hue-smart-plug/046677552343
 link: https://www.amazon.com/dp/B07XD578LD
 link2: 

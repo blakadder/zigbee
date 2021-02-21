@@ -10,6 +10,6 @@ zigbeemodel: ['TS0003']
 compatible: [z2m,deconz]
 mlink: 
 link: https://www.aliexpress.com/item/4001178298316.html
-link2: 
+link2: https://www.banggood.com/220-240V-Tuya-Smart-Life-ZB-Two-way-Switch-Smart-Home-Modification-Module-Work-with-Google-Alexa-p-1790209.html
 link3: 
 ---

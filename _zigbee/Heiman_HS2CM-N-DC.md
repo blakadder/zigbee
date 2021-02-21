@@ -5,7 +5,7 @@ vendor: Heiman
 title: Curtain Motor
 category: cover
 supports: open, close, position
-zigbeemodel: ['CurtainMo-EF']
+zigbeemodel: ['CurtainMo-EF-3.0', 'CurtainMo-EF']
 compatible: [z2m]
 mlink: http://www.heiman.com.cn/product/271.html
 link: 

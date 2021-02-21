@@ -7,11 +7,11 @@ category: coordinator
 supports: coordinator
 image: /assets/images/devices/ZiGate-PiZiGate.jpg
 zigbeeid: none
-compatible: [zigate,zha]
+compatible: [zigate,zha,z2m,iob]
 mlink: https://zigate.fr
 link: https://zigate.fr/produit/pizigate-v1-0/
 link2: https://www.amazon.fr/Zigate-Module-avec-ZigBee-Raspberry/dp/B07Z6MQJWX
-link3: https://shop.smarthome-europe.com/en/zigate/4317-zigate-universal-zigbee-gateway-pizigate-for-raspberry-pi-3770014375018.html
+link3: https://www.domadoo.fr/fr/interface-domotique/4940-zigate-passerelle-universelle-zigbee-pizigate-pour-rasperry-pi-3770014375018.html
 ---
 ZiGate products allow you to interface your ZigBee ® compatible objects to your computer or home automation box.
 

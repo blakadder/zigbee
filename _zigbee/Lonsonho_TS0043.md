@@ -6,7 +6,7 @@ title: 3 Gang Wireless Switch
 category: remote
 supports: action, battery
 actions: single, double, long
-zigbeemodel: ['TS0043']
+zigbeemodel: ['TS0043','_TZ3000_a7ouggvs']
 compatible: [z2m,iob,zigate,tasmota,zha,deconz]
 deconz: 3398
 mlink: 

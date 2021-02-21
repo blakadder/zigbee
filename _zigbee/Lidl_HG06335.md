@@ -4,9 +4,10 @@ model: HG06335
 vendor: Lidl
 title: SilverCrest Motion Sensor
 category: sensor
-supports: occupancy
+supports: occupancy, batterypct
 zigbeemodel: ['TY0202']
-compatible: [z2m]
+compatible: [z2m,zha,tasmota,deconz]
+deconz: 3736
 z2m: TY0202_occupancy
 mlink: https://www.lidl.com/
 link: https://www.lidl.de/de/silvercrest-bewegungsmelder-zigbee-smart-home-infrarot-sensor-anti-manipulationsalarm/p354561

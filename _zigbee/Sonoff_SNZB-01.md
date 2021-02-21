@@ -6,13 +6,14 @@ title: Wireless Switch
 category: remote
 supports: action
 action: single, double, long
-zigbeemodel: ['WB01']
+zigbeemodel: ['WB01', 'WB-01']
 compatible: [z2m,iob,zha,zigate,tasmota,deconz]
 deconz: 2990
 mlink: https://www.itead.cc/sonoff-snzb-01-zigbee-wireless-switch.html
 link: https://www.itead.cc/sonoff-snzb-01-zigbee-wireless-switch.html
 link2: https://www.aliexpress.com/item/1005001275204366.html
 link3: https://www.banggood.com/SONOFF-SNZB-01-ZB-Wireless-Switch-Mini-Size-Link-ZB-Bridge-with-WiFi-Devices-Make-Them-Smarter-via-eWeLink-APP-IFTTT-p-1716000.html
+link4: https://www.domadoo.fr/fr/peripheriques/5259-sonoff-interrupteur-sans-fil-zigbee-30.html
 ---
 
 #### Pairing

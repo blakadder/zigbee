@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Philips_LTW015.jpg
 zigbeemodel: ['LTW010', 'LTW015', 'LTW001', 'LTW004']
-compatible: [z2m]
+compatible: [z2m,zigate]
 mlink: 
 link: 
 link2: 

@@ -10,7 +10,7 @@ compatible: [z2m,deconz,iob]
 mlink: https://www.busch-jaeger.de/en/search-online-catalogue?tx_solr%5Bq%5D=light%5C+link+control+2gang
 link: https://www.amazon.de/dp/B017KXGZVM/
 link2: https://www.amazon.de/dp/B017KXH75U/
-link3: 
+link3: https://www.amazon.se/dp/B017KXGZVM/
 ---
 "XX" in model number signifies multiple colors.
 

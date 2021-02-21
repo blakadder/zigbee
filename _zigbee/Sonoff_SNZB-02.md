@@ -12,6 +12,7 @@ mlink: https://www.itead.cc/sonoff-snzb-02-zigbee-temperature-and-humidity-senso
 link: https://www.itead.cc/sonoff-snzb-02-zigbee-temperature-and-humidity-sensor.html
 link2: https://www.aliexpress.com/item/1005001275204366.html
 link3: https://www.banggood.com/SONOFF-SNZB-02-ZB-Temperature-And-Humidity-Sensor-Work-with-SONOFF-ZBBridge-Real-time-Data-Check-Via-eWeLink-APP-p-1715999.html
+link4: https://www.domadoo.fr/fr/peripheriques/5319-sonoff-capteur-de-temperature-et-d-humidite-zigbee-30.html
 ---
 
 #### Pairing

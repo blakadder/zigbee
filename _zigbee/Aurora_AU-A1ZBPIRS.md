@@ -6,7 +6,8 @@ title: AOne PIR Sensor
 category: sensor
 supports: occupancy
 zigbeemodel: ['MotionSensor51AU']
-compatible: [z2m]
+compatible: [z2m,deconz]
+deconz: 3503
 mlink: https://auroralighting.com/gb/ProductDetail/AU-A1ZBPIRS
 link: 
 link2: 

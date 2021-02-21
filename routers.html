@@ -4,7 +4,8 @@ title: Routers
 ---
 <h2>{{ page.title }}</h2>
 
-It is safe to assume that almost every wired device will serve as a Zigbee Router.
+This list includes devices that are repeaters. Almost any mains powered device (typically bulbs, plugs and switches) will act as a router as well but they're not listed here. 
+<p></p>
 <!-- ######################################################################  -->
 {% assign categories = site.zigbee | where: "category", "router" %}
 {% assign vendor = categories | group_by: 'vendor' %} 

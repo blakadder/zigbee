@@ -1,5 +1,5 @@
 ---
-date_added: 2020-02-20
+date_added: 2021-02-20
 model: HESZB-120
 vendor: Develco
 title: Frient Intelligent Heat Alarm

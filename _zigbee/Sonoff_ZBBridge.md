@@ -63,6 +63,8 @@ Read [Zigbee](http://tasmota.github.io/docs/Zigbee) documentation for complete g
 
 `Sonoff ZbBridge (75)` is set as the default module. If you're switching back to Zigbee2Tasmota from ZHA make sure module is configured back to 75.
 
+If you want to change gpio assignment (i.e. change the ledlink on gpio 13 from LedLink_I to LedLink to get a blue power on led) use module `Zigbee (0)`. (https://github.com/arendst/Tasmota/issues/11105)
+
 ## For Home Assistant (ZHA)
 This mode creates a TCP bridge from the zigbee module to Home Assistant. In this case Tasmota is only relaying all the messages from the zigbee module to ZHA and **you cannot use any Zigbee commands in Tasmota console in this mode. All setup needs to be done from Home Assistant ZHA integratioon.**
 

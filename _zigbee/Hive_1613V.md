@@ -5,7 +5,7 @@ title: Active Plug
 category: plug
 supports: on/off, power measurement
 zigbeemodel: ['SLP2', 'SLP2b', 'SLP2c']
-compatible: [z2m,deconz]
+compatible: [zha,z2m,deconz]
 deconz: 2972
 mlink: https://www.hivehome.com/products/hive-active-plug?icid=mname%3Amega-menu.iname%3Ahive-active-plug
 link: https://www.amazon.co.uk/Hive-Active-Smart-Plug-Silver/dp/B07FJ4JQJ1

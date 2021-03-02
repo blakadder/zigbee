@@ -12,7 +12,4 @@ link: https://www.aliexpress.com/item/1005001889397376.html
 ---
 
 ## Note
-Illuminance not working yet
-
-## Note 2
-Illuminance does work with ZHA.
+Illuminance not working in Zigbee2MQTT

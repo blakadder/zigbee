@@ -48,15 +48,14 @@ Connect the 3.3v to the gateway and start pressing ESC, you should see a prompt 
 
 1. Run the following commands in the terminal:
 
-   ```
+   ```bash
    FLR 80000000 401802 16
-
    DW 80000000 4
    ```
 
    Save the output of these commands, it should be something like: 
 
-   ```
+   ```bash
    80000000:       743B5638        6872576B        47694E69        233C2778
    ```
 
@@ -64,16 +63,14 @@ Connect the 3.3v to the gateway and start pressing ESC, you should see a prompt 
 
 2. Run the following commands in the terminal:
 
-   ```
+   ```bash
    FLR 80000000 402002 32
-
    DW 80000000 8
    ```
    Save the output of these commands, it should be something like:
 
-   ```
+   ```bash
    80000000:       110AAC2E        CC412394        5387DC8C        C98550E0
-   
    80000010:       7E64CE90        5795D7A9        4BA6FF51        8C2908E7
    ```
 

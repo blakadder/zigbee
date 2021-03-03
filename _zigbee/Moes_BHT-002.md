@@ -9,7 +9,7 @@ supports: thermostat, temperature
 mlink: https://www.moeshouse.com/
 link: https://www.aliexpress.com/item/4001290661477.html
 link2: 
-compatible: [z2m,iob,deconz,zha]
+compatible: [zigate, z2m,iob,deconz,zha]
 z2m: BHT-002-GCLZBWT  
 deconz: 3304
 ---

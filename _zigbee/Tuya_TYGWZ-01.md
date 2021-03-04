@@ -2,7 +2,7 @@
 date_added: 2021-03-01
 model: TYGWZ-01
 vendor: Tuya
-title: Tuya TYGWZ-01
+title: Gateway
 category: coordinator
 supports: coordinator
 zigbeemodel: ['']
@@ -48,31 +48,31 @@ Connect the 3.3v to the gateway and start pressing ESC, you should see a prompt 
 
 1. Run the following commands in the terminal:
 
-   ```bash
-   FLR 80000000 401802 16
-   DW 80000000 4
-   ```
+```bash
+FLR 80000000 401802 16
+DW 80000000 4
+```
 
-   Save the output of these commands, it should be something like: 
+Save the output of these commands, it should be something like: 
 
-   ```bash
-   80000000:       743B5638        6872576B        47694E69        233C2778
-   ```
+```bash
+80000000:       743B5638        6872576B        47694E69        233C2778
+```
 
 ### Retrieving the AUSKEY
 
 2. Run the following commands in the terminal:
 
-   ```bash
-   FLR 80000000 402002 32
-   DW 80000000 8
-   ```
-   Save the output of these commands, it should be something like:
+```bash
+FLR 80000000 402002 32
+DW 80000000 8
+```
+Save the output of these commands, it should be something like:
 
-   ```bash
-   80000000:       110AAC2E        CC412394        5387DC8C        C98550E0
-   80000010:       7E64CE90        5795D7A9        4BA6FF51        8C2908E7
-   ```
+```bash
+80000000:       110AAC2E        CC412394        5387DC8C        C98550E0
+80000010:       7E64CE90        5795D7A9        4BA6FF51        8C2908E7
+```
 
 ### Decoding the root password
 
@@ -89,28 +89,30 @@ The script should then print your gateway's root password.
 
 2. Use cat and ssh to upload this file to the gateway:
 
-   `cat serialgateway.bin | ssh -p2333 root@[gateway_ip] "cat >/tuya serialgateway"`
+`cat serialgateway.bin | ssh -p2333 root@[gateway_ip] "cat >/tuya serialgateway"`
 
 3. Connect to your gateway with ssh with the username `root` with the password you decoded earlier and use port `2333`
 
 4. Run the following on the Gateway:
 
-   ```bash
-   if [ ! -f /tuya/tuya_start.original.sh ]; then cp /tuya/tuya_start.sh /tuya/tuya_start.original.sh; fi
+```bash
+if [ ! -f /tuya/tuya_start.original.sh ]; then cp /tuya/tuya_start.sh /tuya/tuya_start.original.sh; fi
 
-   cat >/tuya/tuya_start.sh <<EOF
-   #!/bin/sh
-   /tuya/serialgateway &
-   EOF
-   chmod 755 /tuya/serialgateway
+cat >/tuya/tuya_start.sh <<EOF
+#!/bin/sh
+/tuya/serialgateway &
+EOF
+chmod 755 /tuya/serialgateway
 
-   if [ ! -f /tuya/ssh_monitor.original.sh ]; then cp /tuya/ssh_monitor.sh /tuya/ssh_monitor.original.sh; fi
-   echo "#!/bin/sh" >/tuya/ssh_monitor.sh
-   reboot
-   ```
+if [ ! -f /tuya/ssh_monitor.original.sh ]; then cp /tuya/ssh_monitor.sh /tuya/ssh_monitor.original.sh; fi
+echo "#!/bin/sh" >/tuya/ssh_monitor.sh
+reboot
+```
+
 5. The SSH port of the gateway will not be running on the standard 22 instead of 2333
 
 ## Upgrade the EZSP Version to 6.7.8.0
+
 ### This section must be run on Linux or WSL (Or any Bash like shell)
 
 1. Download the firmware_upgrade.sh script from Github here: [firmware_upgrade.sh](https://github.com/Ordspilleren/lidl-gateway-freedom/blob/master/scripts/firmware_upgrade.sh) and the newer EZSP firmware from here: [NCP_UHW_MG1B232_678_PA0-PA1-PB11_PA5-PA4.gbl](https://github.com/grobasoz/zigbee-firmware/raw/master/EFR32%20Series%201/EFR32MG1B-256k/NCP/NCP_UHW_MG1B232_678_PA0-PA1-PB11_PA5-PA4.gbl)

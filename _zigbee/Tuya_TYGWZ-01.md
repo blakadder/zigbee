@@ -13,7 +13,7 @@ link: https://www.lidl.de/de/silvercrest-gateway-drahtloses-verbindungsprotokoll
 
 ## Retrieve Root Password
 
-Method Courtesy Of Paul Banks: https://paulbanks.org/projects/lidl-zigbee/root.html and https://paulbanks.org/projects/lidl-zigbee/ha.html
+Method [courtesy Of Paul Banks](https://paulbanks.org/projects/lidl-zigbee/root.html and https://paulbanks.org/projects/lidl-zigbee/ha.html)
 
 Pry the device open, there are 8 clips around the edges.
 

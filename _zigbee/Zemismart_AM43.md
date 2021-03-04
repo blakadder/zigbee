@@ -6,7 +6,7 @@ title: Chain Roller Shades Driver
 category: cover
 supports: open, close, stop, position
 zigbeemodel: ['TS0601','_TZE200_zah67ekd']
-compatible: [z2m,deconz]
+compatible: [z2m,deconz, zigate]
 z2m: TS0601_curtain
 deconz: 3398
 mlink: https://www.zemismart.com/

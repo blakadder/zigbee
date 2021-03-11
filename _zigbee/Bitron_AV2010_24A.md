@@ -1,15 +1,16 @@
 ---
+date_added: 2021-02-27
 model: AV2010/24A
-EAN: 8023874396644
+EAN: '8023874396644'
 vendor: Bitron
-title: Optical Smoke Sensor
+title: Optical Smoke Detector
 category: sensor
 supports: contact, tamper, batterypct
-zigbeemodel: ['902010/24A', '902010/24']
+zigbeemodel: ['902010/24A']
 compatible: [z2m,deconz,iob]
 deconz: 2886
-mlink: https://bvsite.smabit.eu/index.php/produkte/smart-home-produkte/optischer-rauchmelder/
-link: https://www.conrad.de/de/p/bitron-video-funk-rauchmelder-av2010-24a-902010-24a-1507095.html
+mlink: https://manuals.smabit.eu/len/av2010_24a.html
+link: https://www.domadoo.fr/fr/peripheriques/5555-smabit-detecteur-de-fumee-optique-zigbee-avec-fonction-sirene-8023874396644.html
 link2: 
 link3: 
 ---

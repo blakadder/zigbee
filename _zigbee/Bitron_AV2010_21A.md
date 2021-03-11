@@ -10,8 +10,8 @@ image: /assets/images/devices/Bitron_AV2010_21A.jpg
 zigbeemodel: ['902010/21A']
 compatible: [z2m,zigate,deconz,iob]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/chargeurusb-
-mlink: http://bvsite.smabit.eu/index.php/produkte/smart-home-produkte/kompakter-magnetkontakt/
-link: https://www.amazon.co.uk/BitronHome-902010-21A-Kompakter-Magnetkontakt/dp/B01LY4X4YD
+mlink: https://manuals.smabit.eu/len/av2010_21a.html
+link: https://www.domadoo.fr/fr/peripheriques/5545-smabit-detecteur-d-ouverture-de-portefenetre-zigbee-8023874396033.html
 link2: https://www.amazon.de/dp/B01LY4X4YD
-link3: 
+link3: https://www.amazon.co.uk/dp/B01LY4X4YD
 ---

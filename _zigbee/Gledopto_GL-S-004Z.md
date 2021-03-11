@@ -11,5 +11,4 @@ zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/gledoptospect
 mlink: http://www.gledopto.com/h-col-339.html
 link: https://www.amazon.com/GLEDOPTO-Intelligent-Sportlight-Adjustable-Brightness/dp/B07T2Z2T8L
 link2: https://www.aliexpress.com/item/33039908422.html
-link3: https://www.gearbest.com/other-smart-lights/pp_009868664039.html
 ---

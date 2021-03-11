@@ -12,7 +12,7 @@ mlink: https://www.aqara.com/eu/door_and_window_sensor.html
 link: https://www.aliexpress.com/af/aqara-mccgq11lm.html
 link2: https://www.banggood.com/Original-Aqara-ZigBee-Version-Window-Door-Sensor-Smart-Home-Kit-Remote-Alarm-Xiaomi-Eco-System-p-1149705.html
 link3: https://www.amazon.com/Aqara-MCCGQ11LM-Window-Sensor-White/dp/B07D37VDM3
-link4: https://www.gearbest.com/access-control/pp_626703.html
+link4: https://www.domadoo.fr/fr/peripheriques/4514-aqara-detecteur-d-ouverture-portefenetre-zigbee-6970504212497.html
 ---
 
 

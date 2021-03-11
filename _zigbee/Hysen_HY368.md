@@ -9,7 +9,7 @@ supports: temperature, thermostat, battery
 mlink: http://www.cn-hysen.com/productinfo/437633.html
 link: https://www.aliexpress.com/item/4001239871398.html
 link2: 
-compatible: [z2m,iob,deconz]
+compatible: [z2m,iob,deconz,zha, zigate]
 z2m: TS0601_thermostat
 deconz: 3105
 ---

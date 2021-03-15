@@ -120,7 +120,7 @@ reboot
 
 ### This section must be run on Linux or WSL (Or any Bash like shell)
 
-1. Download the firmware_upgrade.sh script from Github here: [firmware_upgrade.sh](https://github.com/Ordspilleren/lidl-gateway-freedom/blob/master/scripts/firmware_upgrade.sh) and the newer EZSP firmware from here: [NCP_UHW_MG1B232_678_PA0-PA1-PB11_PA5-PA4.gbl](https://github.com/grobasoz/zigbee-firmware/raw/master/EFR32%20Series%201/EFR32MG1B-256k/NCP/NCP_UHW_MG1B232_678_PA0-PA1-PB11_PA5-PA4.gbl)
+1. Download the firmware_upgrade.sh script from Github here: [firmware_upgrade.sh](https://github.com/Ordspilleren/lidl-gateway-freedom/blob/master/scripts/firmware_upgrade.sh) and the [sx binary](https://github.com/Ordspilleren/lidl-gateway-freedom/blob/master/scripts/sx) as well as the newer EZSP firmware from here: [NCP_UHW_MG1B232_678_PA0-PA1-PB11_PA5-PA4.gbl](https://github.com/grobasoz/zigbee-firmware/raw/master/EFR32%20Series%201/EFR32MG1B-256k/NCP/NCP_UHW_MG1B232_678_PA0-PA1-PB11_PA5-PA4.gbl)
 2. Make sure the script is executable with `chmod +x ./firmware_upgrade.sh`
 3. Run the `firmware_upgrade.sh` script like this: `./firmware_upgrade.sh [gateway_ip] 22 V7 NCP_UHW_MG1B232_678_PA0-PA1-PB11_PA5-PA4.gbl` - You may be prompted for the root password several times.
 4. Reboot the gateway

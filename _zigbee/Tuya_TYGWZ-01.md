@@ -89,7 +89,7 @@ The script should then print your gateway's root password.
 
 2. Use cat and ssh to upload this file to the gateway:
 
-`cat serialgateway.bin | ssh -p2333 root@[gateway_ip] "cat >/tuya serialgateway"`
+`cat serialgateway.bin | ssh -p2333 root@[gateway_ip] "cat >/tuya/serialgateway"`
 
 3. Connect to your gateway with ssh with the username `root` with the password you decoded earlier and use port `2333`
 

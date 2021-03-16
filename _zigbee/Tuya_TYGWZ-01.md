@@ -13,7 +13,7 @@ link: https://www.lidl.de/de/silvercrest-gateway-drahtloses-verbindungsprotokoll
 
 ## Retrieve Root Password
 
-Method [courtesy Of Paul Banks](https://paulbanks.org/projects/lidl-zigbee/root.html and https://paulbanks.org/projects/lidl-zigbee/ha.html)
+Method courtesy Of Paul Banks [here](https://paulbanks.org/projects/lidl-zigbee/root.html) and [here](https://paulbanks.org/projects/lidl-zigbee/ha.html)
 
 Pry the device open, there are 8 clips around the edges.
 
@@ -85,15 +85,24 @@ The script should then print your gateway's root password.
 ## Customise running software on the gateway
 ### This section must be run on Linux or WSL (Or any Bash like shell)
 
-1. Download the serialgateway.bin from Paul's website here: [serialgateway.bin](https://paulbanks.org/download/files/lidl-zigbee/serialgateway.bin)
+1. SSH into your gateway with the username `root` and the password you decoded earlier, the SSH server will be running on port `2333` and run the following
+```bash
+if [ ! -f /tuya/ssh_monitor.original.sh ]; then cp /tuya/ssh_monitor.sh /tuya/ssh_monitor.original.sh; fi
+echo "#!/bin/sh" >/tuya/ssh_monitor.sh
+reboot
+```
 
-2. Use cat and ssh to upload this file to the gateway:
+2. The SSH port of the gateway will now be running on the standard 22 instead of 2333
 
-`cat serialgateway.bin | ssh -p2333 root@[gateway_ip] "cat >/tuya serialgateway"`
+3. Download the serialgateway.bin from Paul's website here: [serialgateway.bin](https://paulbanks.org/download/files/lidl-zigbee/serialgateway.bin)
 
-3. Connect to your gateway with ssh with the username `root` with the password you decoded earlier and use port `2333`
+4. Use cat and ssh to upload this file to the gateway:
 
-4. Run the following on the Gateway:
+`cat serialgateway.bin | ssh root@[gateway_ip] "cat >/tuya/serialgateway"`
+
+5. Connect to your gateway with ssh with the username `root` and with the password you decoded earlier
+
+6. Run the following on the Gateway:
 
 ```bash
 if [ ! -f /tuya/tuya_start.original.sh ]; then cp /tuya/tuya_start.sh /tuya/tuya_start.original.sh; fi
@@ -104,18 +113,14 @@ cat >/tuya/tuya_start.sh <<EOF
 EOF
 chmod 755 /tuya/serialgateway
 
-if [ ! -f /tuya/ssh_monitor.original.sh ]; then cp /tuya/ssh_monitor.sh /tuya/ssh_monitor.original.sh; fi
-echo "#!/bin/sh" >/tuya/ssh_monitor.sh
 reboot
 ```
-
-5. The SSH port of the gateway will not be running on the standard 22 instead of 2333
 
 ## Upgrade the EZSP Version to 6.7.8.0
 
 ### This section must be run on Linux or WSL (Or any Bash like shell)
 
-1. Download the firmware_upgrade.sh script from Github here: [firmware_upgrade.sh](https://github.com/Ordspilleren/lidl-gateway-freedom/blob/master/scripts/firmware_upgrade.sh) and the newer EZSP firmware from here: [NCP_UHW_MG1B232_678_PA0-PA1-PB11_PA5-PA4.gbl](https://github.com/grobasoz/zigbee-firmware/raw/master/EFR32%20Series%201/EFR32MG1B-256k/NCP/NCP_UHW_MG1B232_678_PA0-PA1-PB11_PA5-PA4.gbl)
+1. Download the firmware_upgrade.sh script from Github here: [firmware_upgrade.sh](https://github.com/Ordspilleren/lidl-gateway-freedom/blob/master/scripts/firmware_upgrade.sh) and the [sx binary](https://github.com/Ordspilleren/lidl-gateway-freedom/blob/master/scripts/sx) as well as the newer EZSP firmware from here: [NCP_UHW_MG1B232_678_PA0-PA1-PB11_PA5-PA4.gbl](https://github.com/grobasoz/zigbee-firmware/raw/master/EFR32%20Series%201/EFR32MG1B-256k/NCP/NCP_UHW_MG1B232_678_PA0-PA1-PB11_PA5-PA4.gbl)
 2. Make sure the script is executable with `chmod +x ./firmware_upgrade.sh`
 3. Run the `firmware_upgrade.sh` script like this: `./firmware_upgrade.sh [gateway_ip] 22 V7 NCP_UHW_MG1B232_678_PA0-PA1-PB11_PA5-PA4.gbl` - You may be prompted for the root password several times.
 4. Reboot the gateway

@@ -5,7 +5,6 @@ title: Mijia Wireless Switch
 category: remote
 supports: click, batterylow
 action: single, double, triple, quadruple, many, hold, release
-image: /assets/images/devices/WXKG01LM.jpg
 zigbeemodel: ['lumi.sensor_switch']
 compatible: [z2m,zigate,deconz,tasmota,iob,zha]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/bouton

@@ -1,8 +1,8 @@
 ---
 date_added: 2021-03-01
 model: TYGWZ-01
-vendor: Tuya
-title: Gateway
+vendor: Lidl
+title: SilverCrest Zigbee Gateway
 category: coordinator
 supports: coordinator
 zigbeemodel: ['']

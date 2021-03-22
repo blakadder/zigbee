@@ -1,6 +1,6 @@
 ---
 date_added: 2021-03-15
-model: ZS-EU1-PNW
+model: ZTS-EU1-W
 vendor: Moes
 title: Switch 1 Gang EU
 category: switch

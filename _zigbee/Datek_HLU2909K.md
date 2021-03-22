@@ -6,7 +6,8 @@ title: Home Smart Plug 16A
 category: plug
 supports: switch, power, current, voltage
 zigbeemodel: ['PoP']
-compatible: [z2m]
+compatible: [z2m,deconz]
+deconz: 3943
 mlink: https://www.datek.no/en/products-and-solutions/smart-home/home-smart-plug
 link: 
 ---

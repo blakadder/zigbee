@@ -5,7 +5,7 @@ vendor: Samotech
 title: Rotary Dimmer
 category: dimmer
 supports: on/off, brightness, power measurements
-zigbeemodel: ['Micro Smart Dimmer', 'SM311']
+zigbeemodel: ['Micro Smart Dimmer', 'SM311', 'HK-SL-RDIM-A']
 zb3: true
 compatible: [z2m]
 z2m: SR-ZG2835RAC

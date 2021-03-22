@@ -3,7 +3,7 @@ date_added: 2020-06-12
 model: AV2010/22A
 EAN: '8021156061013'
 vendor: Bitron
-title: Design Motion Sensor
+title: SMaBiT Design Motion Sensor
 category: sensor
 supports: occupancy
 image: /assets/images/devices/Bitron_AV2010_22A.jpg

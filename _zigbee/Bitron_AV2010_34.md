@@ -2,7 +2,7 @@
 date_added: 2021-03-01
 model: AV2010/34
 vendor: Bitron
-title: Wall Switch with 4 Function Keys
+title: SMaBiT Wall Switch with 4 Function Keys
 category: remote
 supports: click
 zigbeemodel: ['AV2010/34']

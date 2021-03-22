@@ -4,7 +4,7 @@ model: TERNCY-DC01
 vendor: Terncy
 title: Door Sensor
 category: sensor
-supports: contact, temperature
+supports: contact, temperature, battery
 zigbeemodel: ['TERNCY-DC01']
 compatible: [z2m]
 mlink: https://www.terncy.com/en-us/doorsensor/

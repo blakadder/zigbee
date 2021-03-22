@@ -7,7 +7,8 @@ category: light
 mlink: 
 link: https://www.amazon.co.uk/dp/B074PZKX4C
 zigbeemodel: ['PAR 16 50 RGBW - LIGHTIFY']
-compatible: zha
+compatible: [zha,deconz]
+deconz: 3018
 ---
 
 

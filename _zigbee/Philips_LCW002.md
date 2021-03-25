@@ -4,7 +4,7 @@ vendor: Philips
 title: Hue Liane Wall Lamp
 category: light
 supports: on/off, brightness, colortemp, colorxy
-zigbeemodel: ['LCW002']
+zigbeemodel: ['LCW002', '4090230P9']
 compatible: [z2m]
 mlink: https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambiance-liane-wall-light/4090230P9
 link: https://www.amazon.de/dp/B07SQ2FZV8/

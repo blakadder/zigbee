@@ -4,8 +4,7 @@ model: E12-N1E
 vendor: Sengled
 title: Soft White BR30 Bulb
 category: light
-supports: on/off, brightness,colortemp,colorxy
-image: /assets/images/devices/Sengled_E12-N1E.jpg
+supports: on/off, brightness, colortemp, colorxy, ota
 zigbeemodel: ['E12-N1E']
 compatible: [z2m]
 mlink: https://us.sengled.com/products/sengled-smart-led-multicolor-br30-bulb

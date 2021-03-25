@@ -6,7 +6,7 @@ title: Light Switch Module 1 Gang
 category: switch
 type: Module
 supports: on/off
-zigbeemodel: ['TS0121','TS011F']
+zigbeemodel: ['TS0121','TS011F','_TYZB01_iuepbmpv']
 compatible: [tasmota, z2m]
 z2m: MS-104Z
 mlink: https://www.moeshouse.com/products/tuya-zigbee-3-0-smart-light-switch-module-smart-life-tuya-wireless-remote-control-work-with-alexa-google-home-for-voice-control

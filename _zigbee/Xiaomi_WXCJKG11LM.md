@@ -8,7 +8,6 @@ supports: action, batterylow
 action: hold, release, single, double, triple
 zigbeemodel: ['lumi.remote.b286opcn01']
 compatible: [z2m,iob,zha,deconz]
-image: /assets/images/devices/WXCJKG11LM.jpg
 mlink: https://www.aqara.com/cn/op_switch.html
 link: https://www.aliexpress.com/af/aqara-opple-switch.html
 link2: https://www.banggood.com/Original-Aqara-OPPLE-Wireless-International-Version-Smart-Switch-Work-With-Apple-HomeKit-Xiaomi-Eco-System-p-1588700.html

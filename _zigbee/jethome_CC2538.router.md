@@ -5,8 +5,9 @@ vendor: jethome
 title: Modkam Stick CC2538 Router
 category: router
 supports: router
-zigbeeid: cc2538.router.v1
+zigbeeid: ['cc2538.router.v1']
 compatible: [z2m,iob,zha,tasmota]
+z2m: cc2538.router.v1
 mlink: https://github.com/jethome-ru/zigbee-firmware/tree/master/ti/router/cc2538_cc2592
-link: https://www.aliexpress.com/item/4000310666663.html
+link: https://www.aliexpress.com/item/4000848221784.html
 ---

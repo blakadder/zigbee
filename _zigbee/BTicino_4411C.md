@@ -1,9 +1,10 @@
 ---
 date_added: 2020-12-31
-model: 4411C
+model: L/N/NT4411C
 vendor: BTicino
-title: Dimmer Switch With Neutral
+title: Switch/Dimmer with Neutral
 category: dimmer
+type: Wall Dimmer
 supports: on/off, brightness
 zigbeemodel: [' Dimmer switch with neutral']
 compatible: [z2m]

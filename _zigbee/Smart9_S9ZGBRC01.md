@@ -5,9 +5,9 @@ vendor: Smart9
 title: Smart Remote Controller 4 Button
 category: remote
 supports: action
-image: /assets/images/devices/Smart9_S9ZGBRC01.webp
-zigbeemodel: ['TS0215']
+zigbeemodel: ['TS0215','_TYZB01_qm6djpta']
 compatible: [z2m,deconz]
+deconz: 3251
 mlink: 
 link: https://www.aliexpress.com/item/4000231347808.html
 link2: 

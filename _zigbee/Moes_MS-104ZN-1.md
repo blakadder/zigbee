@@ -1,0 +1,17 @@
+---
+date_added: 2021-03-22
+model: MS-104ZN-1
+vendor: Moes
+title: Switch Module ZigBee+RF 1 Gang
+category: switch
+type: Module
+supports: switch
+zigbeemodel: ['TS011F','_TZ3000_bkfe0bab']
+compatible: [z2m]
+z2m: MS-104Z
+mlink: https://www.moeshouse.com/
+link: https://www.aliexpress.com/item/1005001605349292.html
+link2: https://www.aliexpress.com/item/1005001830062515.html
+link3: 
+EAN: 
+---

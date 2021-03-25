@@ -2,7 +2,7 @@
 date_added: 2020-05-11
 model: F20T60A
 vendor: BTicino
-title: Living Now DIN Power Meter
+title: DIN Power Meter
 category: switch
 supports: on/off, electrical_measurement
 zigbeemodel: [' DIN power consumption module']

@@ -6,7 +6,7 @@ title: Smart Remote Control
 category: remote
 supports: action, batterypct
 actions: disarm, arm day zones, arm_night_zones, arm_all_zones, invalid_code, emergency
-zigbeemodel: ['TS0215A']
+zigbeemodel: ['TS0215A','_TZ3000_p6ju8myv']
 compatible: [z2m]
 z2m: TS0215A_remote
 mlink: https://wooxhome.com/products-c10/security-c6/woox-r7054-smart-remote-control-p53 

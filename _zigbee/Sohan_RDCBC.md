@@ -7,7 +7,7 @@ category: switch
 supports: on/off
 zigbeemodel: ['TS0001','_TZ3000_bezfthwc']
 compatible: [iob,zigate,tasmota,z2m]
-z2m: RDCBC/Z
+z2m: RDCBC_Z
 mlink: 
 link: https://www.aliexpress.com/item/1005002000274162.html
 link2: 

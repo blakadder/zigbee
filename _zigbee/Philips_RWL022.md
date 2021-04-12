@@ -7,7 +7,7 @@ category: remote
 supports: action, batterypct
 action:  on, off, brightness, up/down/hold/release, click count
 zigbeemodel: ['RWL022']
-compatible: [z2m, deconz]
+compatible: [z2m, deconz, zha]
 z2m: 929002398602
 deconz: 4287
 mlink: https://www.philips-hue.com/sv-se/p/hue-dimmer-switch/8719514274617

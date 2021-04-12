@@ -5,7 +5,6 @@ vendor: Heiman
 title: Water Leakage Sensor
 category: sensor
 supports: water leak
-image: /assets/images/devices/Heiman_HS3WL.jpg
 zigbeemodel: ['WaterSensor-N', 'WaterSensor-EF-3.0']
 compatible: [z2m,deconz, zigate]
 mlink: http://www.heimantech.com/product/100.html

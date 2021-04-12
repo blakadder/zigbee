@@ -5,7 +5,7 @@ title: EN50291 Carbon Monoxide Sensor
 category: sensor
 supports: carbon monoxide, batterylow, batterypct
 image: /assets/images/devices/HS1CA-E.jpg
-zigbeemodel: ['COSensor-EM', 'COSensor-N', 'CO_V15', 'CO_YDLV10', 'COSensor-EF-3.0','CO_V16']
+zigbeemodel: ['COSensor-EM', 'COSensor-N', 'CO_V15', 'CO_YDLV10', 'COSensor-EF-3.0','CO_V16','1ccaa94c49a84abaa9e38687913947ba']
 compatible: [z2m,iob,deconz,zigate]
 mlink: http://www.heimantech.com/product/?type=detail&id=4
 link: https://www.aliexpress.com/item/32843093065.html

@@ -4,7 +4,7 @@ model: SNZB-04
 vendor: Sonoff
 title: Wireless Door/Window Sensor
 category: sensor
-supports: contact
+supports: contact, battery, battery low
 zigbeemodel: ['DS01']
 compatible: [z2m,iob,zha,zigate,deconz,tasmota]
 deconz: 3036

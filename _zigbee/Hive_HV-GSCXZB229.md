@@ -6,6 +6,7 @@ category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Hive_HV-GSCXZB229.jpg
 zigbeemodel:  ['TWBulb02UK']
+z2m: HV-GSCXZB279_HV-GSCXZB229_HV-GSCXZB229K
 compatible: [z2m]
 mlink: https://www.hivehome.com/products/hive-active-light-cool-to-warm-white
 link: https://www.amazon.co.uk/Hive-Light-Dimmable-Screw-Smart/dp/B01LYIJ6NM

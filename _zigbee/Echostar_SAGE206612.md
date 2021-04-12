@@ -5,7 +5,6 @@ vendor: Echostar
 title: SAGE Doorbell Sensor
 category: sensor
 supports: action
-image: /assets/images/devices/Echostar_DRBELL.jpg
 zigbeemodel: ['   Bell']
 compatible: [zha,z2m,deconz]
 deconz: 2755

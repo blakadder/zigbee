@@ -1,10 +1,10 @@
 ---
-date_added: 2021-02-20
+date_added: 2021-04-12
 model: HESZB-120
 vendor: Develco
 title: Frient Intelligent Heat Alarm
 category: sensor
-supports: alarm, battery, fire, temperature
+supports: alarm, battery, batterylow, fire, tamper, temperature 
 zigbeemodel: ['HESZB-120']
 compatible: [deconz,zha,z2m]
 deconz: 2100

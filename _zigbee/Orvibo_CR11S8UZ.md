@@ -6,7 +6,7 @@ category: remote
 supports: action
 action: click, hold, release
 image: /assets/images/devices/Orvibo_CR11S8UZ.jpg
-zigbeemodel: ['3c4e4fc81ed442efaf69353effcdfc5f']
+zigbeemodel: ['3c4e4fc81ed442efaf69353effcdfc5f', '51725b7bcba945c8a595b325127461e9']
 compatible: [z2m,iob]
 mlink: https://www.orvibo.com/en/product/tie.html
 link: 

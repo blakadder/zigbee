@@ -2,7 +2,7 @@
 date_added: 2020-01-13
 model: CCTFR6100
 vendor: Schneider Electric 
-title: Wiser  Radiator Thermostat
+title: Wiser Radiator Thermostat
 category: hvac
 supports: temperature, batterypct, keypad lock, heating demand
 zigbeemodel: ['iTRV']

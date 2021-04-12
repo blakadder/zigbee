@@ -1,13 +1,12 @@
 ---
-date_added: 2020-02-05
+date_added: 2021-04-05
 model: AU-A1ZBDSS
 vendor: Aurora
-title: AOne Smart 13a Double Socket
+title: AOne Smart 13A Double Socket UK 
 category: plug
-supports: on/off
-image: /assets/images/devices/Aurora_AU-A1ZBDSS.jpg
+supports: on/off, electrical measurement
 zigbeemodel: ['DoubleSocket50AU']
-compatible: [deconz]
+compatible: [deconz,z2m]
 deconz: 2292
 mlink: https://aone.auroralighting.com/ProductDetails/AU-A1ZBDSS
 link: https://www.edwardes.co.uk/products/aurora-au-a1zbdss-aone-smart-13a-double-socket

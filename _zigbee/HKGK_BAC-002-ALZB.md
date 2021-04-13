@@ -1,7 +1,7 @@
 ---
 date_added: 2021-04-12
 model: BAC-002-ALZB
-vendor: Xiaomi
+vendor: HKGK
 title: BAC Series Thermostat
 category: hvac
 supports: thermostat

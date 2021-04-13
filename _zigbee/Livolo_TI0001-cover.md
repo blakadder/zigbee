@@ -1,5 +1,5 @@
 ---
-date_added: 2021-02-06
+date_added: 2021-04-13
 vendor: Livolo
 model: TI0001-cover
 title: Curtain motor

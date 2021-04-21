@@ -1,13 +1,13 @@
 ---
 date_added: 2021-04-20
-model: ZB-SW02
+model: ZG-2001
 vendor: eWeLink
-title: 2 channels relay
+title: 2 Channel ZigBee Switch DC5-32v 
 category: switch
+type: relay
 supports: on/off
-image: /assets/images/devices/eWeLink_ZB_SW02_relay.jpg
 zigbeemodel: ['ZB-SW02']
-compatible: [tasmota]
+compatible: [tasmota,z2m]
 mlink: 
 link: https://www.aliexpress.com/item/1005002347566295.html
 link2: 

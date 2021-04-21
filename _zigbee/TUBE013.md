@@ -1,7 +1,7 @@
 ---
 date_added: 2021-04-22
 model: TUBE013
-vendor: TubesZB
+vendor: Tube's
 title: Ethernet Zigbee Bridge
 category: coordinator
 supports: coordinator

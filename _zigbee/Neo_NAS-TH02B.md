@@ -1,5 +1,5 @@
 ---
-date_added: 2021-03-22
+date_added: 2021-04-22
 model: NAS-TH02B
 vendor: Neo 
 title: Temperature, Humidity and Illumination Sensor

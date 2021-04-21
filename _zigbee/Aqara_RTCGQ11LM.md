@@ -1,6 +1,6 @@
 ---
 model: RTCGQ11LM
-vendor: RTCGQ11LM
+vendor: Aqara
 title: Motion and Illuminance Sensor
 category: sensor
 supports: occupancy, illuminance, batterypct

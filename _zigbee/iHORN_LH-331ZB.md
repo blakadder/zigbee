@@ -1,6 +1,6 @@
 ---
 date_added: 2021-03-21
-model: LH-32ZB
+model: LH-331ZB
 vendor: iHORN
 title: Temperature & Humidity Sensor
 category: sensor

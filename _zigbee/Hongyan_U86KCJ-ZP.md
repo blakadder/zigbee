@@ -1,11 +1,10 @@
 ---
 model: U86KCJ-ZP (HA)
-vendor: Honyar
+vendor: Hongyan
 title: 6 Key Scene Switch
 category: remote
 supports: action
 action: scene_#
-image: /assets/images/devices/honyar_U86KCJ-ZP.jpg
 zigbeemodel: ['HY0017']
 compatible: [z2m]
 mlink: http://www.hongyan.com.cn/InelectricalList.aspx?id=134

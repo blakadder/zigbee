@@ -6,7 +6,7 @@
     <tbody>
     <tr>
         <td  style="border-bottom: none">
-            <a class="menu" href="{% assign link = page.link %}{% include linkage.html %}">{{ page.link | remove_first: "http://" | remove_first: "https://" | remove_first: "www." | remove_first: "www2." | remove_first: "smile." | remove_first: "s.click." | split:'/' | first | capitalize}}</a>
+            <a class="menu" href="{% assign link = page.link %}{% include linkage.html %}">{{ page.link | remove_first: "http://" | remove_first: "https://" | remove_first: "www." | remove_first: "www2." | remove_first: "smile." | remove_first: "s.click." | remove_first: "expo." | split:'/' | first | capitalize }}</a>
         </td></tr>
         {% if page.link2 != nil %}
         <tr><td style="border-bottom: none">

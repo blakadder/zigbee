@@ -3,7 +3,7 @@ model: SJCGQ11LM
 vendor: Aqara
 title: Water Leak Sensor
 category: sensor
-supports: water leak, batterylow
+supports: water leak, battery
 image: /assets/images/devices/SJCGQ11LM.jpg
 zigbeemodel: ['lumi.sensor_wleak.aq1']
 compatible: [z2m,zha,iob,deconz,zigate,tasmota]

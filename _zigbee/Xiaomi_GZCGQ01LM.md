@@ -1,8 +1,8 @@
 ---
-date_added: 2020-05-24
+date_added: 2021-04-24
 model: GZCGQ01LM
 vendor: Xiaomi
-title: Mijia Light Intensity Sensor
+title: Mi Light Detection Sensor
 category: sensor
 supports: illuminance, batterylow
 image: /assets/images/devices/Xiaomi_GZCGQ01LM.jpg

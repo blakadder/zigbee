@@ -7,7 +7,7 @@ category: lock
 supports: lock/unlock, batterypct
 image: /assets/images/devices/Yale_YRD256.jpg
 zigbeemodel: ['YRD256 TSDB', 'YRD256L TSDB']
-compatible: [zha]
+compatible: [zha,deconz]
 mlink: https://www.yalehome.com/en/products/yale-assure-lock-and-levers/assure-lock/yrl-assurelock-sl/
 link: https://www.amazon.com/Yale-Assure-Lock-ZigBee-YRD256HA2619/dp/B076Y9D49P/
 link2: 

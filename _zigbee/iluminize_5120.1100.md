@@ -1,7 +1,7 @@
 ---
 model: 5120.1100
 vendor: Iluminize
-title: 230V HV Dimmer
+title: High Voltage 230V Dimmer Module
 category: dimmer
 supports: on/off, brightness
 zigbeemodel: ['5120.1100']

@@ -3,8 +3,7 @@ model: SMSZB-120
 vendor: Develco
 title: Smoke Alarm
 category: sensor
-supports: alarm, battery, smoke, temperature
-image: /assets/images/devices/Develco_SMSZB-120.jpg
+supports: alarm, battery, smoke, temperature, test
 zigbeemodel: ['SMSZB-120']
 compatible: [deconz,z2m]
 deconz: 1534

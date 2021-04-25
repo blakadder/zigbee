@@ -5,7 +5,6 @@ vendor: Moes
 title: Dual USB Plug
 category: plug
 supports: on/off
-image: /assets/images/devices/Moes_ZK-XX-2U.jpg
 zigbeemodel: ['TS0112']
 compatible: [z2m,deconz,iob,zigate]
 mlink: https://www.moeshouse.com/collections/zigbee-3-0-socket

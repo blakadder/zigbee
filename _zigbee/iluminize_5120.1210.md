@@ -2,7 +2,7 @@
 date_added: 2021-04-12
 model: 5120.1210
 vendor: Iluminize
-title: In-Wall Relay (No Neutral)
+title: High Voltage 230V Relay Module (No Neutral)
 category: switch
 type: in-wall relay
 supports: on/off

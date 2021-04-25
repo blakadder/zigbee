@@ -10,3 +10,7 @@ zigbeemodel: ['ptvo.switch']
 compatible: [z2m,deconz,tasmota]
 ---
 4 Relay outputs (potential free, NO,NC,COM)) and 1 chime output. 220V operated
+
+## Pairing
+
+Press and hold button 1 for more then 20 seconds.

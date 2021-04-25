@@ -7,7 +7,7 @@ category: remote
 supports: action, battery
 actions: single, double, long
 zigbeemodel: ['TS0044','_TZ3000_vp6clf9d']
-compatible: [z2m,tasmota,zha,deconz]
+compatible: [z2m,tasmota,zha,deconz,zigate]
 mlink: https://www.alibaba.com/product-detail/Earda-Ziggbee-3-Gang-Smart-Wall_1600101179511.html
 link: https://www.aliexpress.com/item/1005001499593342.html
 link2: https://www.aliexpress.com/item/1005001490468150.html 

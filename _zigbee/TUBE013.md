@@ -6,7 +6,7 @@ title: Ethernet Zigbee Bridge
 category: coordinator
 supports: coordinator
 zigbeeid: none
-compatible: [zha,z2m]
+compatible: [zha,z2m,tasmota]
 mlink: https://github.com/tube0013/tube_gateways
 link: https://www.tubeszb.com/product/cc2652_coordinator/1
 link2: https://www.tubeszb.com/product/efr32_gw_2/6?cp=true&sa=false&sbp=false&q=false&category_id=2

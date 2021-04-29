@@ -15,3 +15,4 @@ link2:
 link3: 
 ---
 This dimmer switch is manufactured by Earda and sold on Aliexpress under many brands such Girier, Lonsonho, Moes and white label. 
+It can be paired by ZHA, There is no entity appears in the homeassistant

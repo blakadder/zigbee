@@ -13,3 +13,4 @@ link2:
 link3: 
 EAN: 804.392.28
 ---
+Color and white spectrum doesn't work with ZHA. Brightness and on/off work.

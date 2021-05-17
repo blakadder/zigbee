@@ -6,7 +6,7 @@ title: Smart Scene Panel Switch S1
 category: switch
 supports: 
 zigbeemodel: ['lumi.switch.n4anc4']
-compatible: 
+compatible: [z2m]
 mlink: https://www.aqara.com/cn/productInner/d22
 link: https://www.aliexpress.com/item/1005001749465078.html
 link2: 

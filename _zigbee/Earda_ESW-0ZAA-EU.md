@@ -10,7 +10,7 @@ zigbeemodel: ['TS0044','_TZ3000_vp6clf9d']
 compatible: [z2m,tasmota,zha,deconz,zigate]
 mlink: https://www.alibaba.com/product-detail/Earda-Ziggbee-3-Gang-Smart-Wall_1600101179511.html
 link: https://www.aliexpress.com/item/1005001499593342.html
-link2: https://www.aliexpress.com/item/1005001490468150.html 
+link2: https://www.banggood.com/Zemismart-4-Gang-Tuya-Zigbee3_0-Wireless-Switch-Sticker-Battery-Power-SmartThings-Control-ZB-2MQTT-deCONZ-p-1837377.html
 link3: https://www.amazon.se/dp/B08J3TMGJH/
 link4: https://www.amazon.de/dp/B08J3TMGJH/
 ---

@@ -6,7 +6,8 @@ title: Yoolax Blinds
 category: cover
 supports: position, battery
 zigbeemodel: ['D10110']
-compatible: [z2m]
+compatible: [z2m,deconz]
+deconz: 4748
 mlink: 
 link: https://www.amazon.com/dp/B07QW65LTC
 link2: 

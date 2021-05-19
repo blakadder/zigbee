@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness
 image: /assets/images/devices/Hive_HALIGHTDIMWWB22.jpg
 zigbeemodel: ['FWBulb02UK']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: https://www.hivehome.com/products/hive-active-light-dimmable-warm-white/tech-specs
 link: https://www.amazon.co.uk/Hive-Light-Dimmable-Screw-Smart/dp/B01I3T67EC
 link2: https://www.amazon.de/Hive-Active-wattsW-220-24-voltsV/dp/B01I3T67EC

@@ -6,7 +6,7 @@ title: Light Sensor T1
 category: sensor
 supports: illuminance, batterylow
 zigbeemodel: []
-compatible: [deconz,zigate]
+compatible: [deconz,zha,zigate]
 mlink: https://www.aqara.com/cn/productDetail/d16
 link: 
 ---

@@ -7,6 +7,7 @@ supports: on/off, action
 image: /assets/images/devices/Busch_Jaeger_6736.jpg
 zigbeemodel: ['RM01', 'RB01']
 compatible: [z2m,deconz,iob]
+z2m: 6735/6736/6737
 mlink: https://www.busch-jaeger.de/en/search-online-catalogue?tx_solr%5Bq%5D=light%5C+link+control+2gang
 link: https://www.amazon.de/dp/B017KXGZVM/
 link2: https://www.amazon.de/dp/B017KXH75U/

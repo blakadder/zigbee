@@ -3,10 +3,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.compatible != nil %}{{ page.vendor | escape }} {{ page.title | escape }} ({{ page.model | escape }}) Zigbee compatibility info{% else %}{{ site.description | escape }}{% endif %}</title>
+  <title>{% if page.compatible != nil %}{{ page.vendor | escape }} {{ page.title | escape }} ({{ page.model | escape }}) Zigbee compatibility{% else %}{{ site.description | escape }}{% endif %}</title>
 
     <!-- {% if page.layout == zigbee %}{{ page.vendor | escape }} ({{ page.model | escape }}) {{ page.title | escape }} {{ page.type | escape }}{% else %}{{ site.title | escape }}{% endif %} Zigbee Compatibility</title> -->
-  <meta name="description" content="{% if page.compatible != nil %}{{ page.vendor | escape }} {{ page.title | escape }} ({{ page.model | escape }}) Zigbee model {{ page.zigbeemodel | escape }} compatibility with third party gateways{% else %}{{ site.description | escape }}{% endif %}">
+  <meta name="description" content="{% if page.compatible != nil %}{{ page.vendor | escape }} {{ page.title | escape }} ({{ page.model | escape }})compatibility with third party gateways |  Zigbee models: {{ page.zigbeemodel | escape }} {% else %}{{ site.description | escape }}{% endif %}">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
@@ -15,17 +15,17 @@
   
   <!-- Google / Search Engine Tags -->
   <meta itemprop="name" content="{{ page.title | strip_html | normalize_whitespace | truncate: 160 | escape }} Zigbee compatibility information">
-  <meta itemprop="description" content="{% if page.compatible != nil %}{{ page.vendor | escape }} {{ page.title | escape }} ({{ page.model | escape }}) Zigbee model {{ page.zigbeemodel | escape }} compatibility with third party gateways{% else %}{{ site.description | escape }}{% endif %}">
+  <meta itemprop="description" content="{% if page.compatible != nil %}{{ page.vendor | escape }} {{ page.title | escape }} ({{ page.model | escape }})compatibility with third party gateways |  Zigbee models: {{ page.zigbeemodel | escape }} {% else %}{{ site.description | escape }}{% endif %}">
   <meta itemprop="image" content="{{ site.url }}{% if page.compatible != nil %}{{ page.url | remove: ".html" | prepend: '/assets/images/devices' | append: '.jpg' }}{% else %}/assets/images/logo.png{% endif %}">
 
   <meta property="og:title" content="{{ site.title | normalize_whitespace | escape }}">
-  <meta property="og:description" content="{% if page.compatible != nil %}{{ page.vendor | escape }} {{ page.title | escape }} ({{ page.model | escape }}) Zigbee model {{ page.zigbeemodel | escape }} compatibility with third party gateways{% else %}{{ site.description | escape }}{% endif %}">
+  <meta property="og:description" content="{% if page.compatible != nil %}{{ page.vendor | escape }} {{ page.title | escape }} ({{ page.model | escape }})compatibility with third party gateways |  Zigbee models: {{ page.zigbeemodel | escape }} {% else %}{{ site.description | escape }}{% endif %}">
   <meta property="og:image" content="{{ site.url }}{% if page.compatible != nil %}{{ page.url | remove: ".html" | prepend: '/assets/images/devices' | append: '.jpg' }}{% else %}/assets/images/logo.png{% endif %}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
   <meta property="og:site_name" content="{{ site.title | normalize_whitespace | escape }}">
 												 
   <meta name="twitter:title" content="{{ site.title | normalize_whitespace | escape }}">
-  <meta name="twitter:description" content="{% if page.compatible != nil %}{{ page.vendor | escape }} {{ page.title | escape }} ({{ page.model | escape }}) Zigbee model {{ page.zigbeemodel | escape }} compatibility with third party gateways{% else %}{{ site.description | escape }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.compatible != nil %}{{ page.vendor | escape }} {{ page.title | escape }} ({{ page.model | escape }})compatibility with third party gateways |  Zigbee models: {{ page.zigbeemodel | escape }} {% else %}{{ site.description | escape }}{% endif %}">
   <meta name="twitter:image" content="{{ site.url }}{% if page.compatible != nil %}{{ page.url | remove: ".html" | prepend: '/assets/images/devices' | append: '.jpg' }}{% else %}/assets/images/logo.png{% endif %}">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="{{ site.url }}">

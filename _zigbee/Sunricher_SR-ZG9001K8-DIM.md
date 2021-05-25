@@ -11,5 +11,5 @@ deconz: 1509
 mlink: https://www.sunricher.com/single-color-wall-mounted-zigbee-push-button-remote-sr-zg9001k2-dim.html
 link: https://www.alibaba.com/product-detail/Zigbee-3-0-certified-Wall-Switches_62097389192.html
 link2: https://www.tronika.no/en/smarthome/zigbee-products/zigbee-controllers/wall-controller-zg9001k8-dim.html
-link3: 
+link3: https://www.domadoo.fr/fr/peripheriques/5739-sunricher-controleur-mural-sans-fil-8-boutons-4-zones-zigbee.html
 ---

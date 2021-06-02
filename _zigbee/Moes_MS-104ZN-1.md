@@ -7,7 +7,7 @@ category: switch
 type: Module
 supports: switch
 zigbeemodel: ['TS011F','_TZ3000_bkfe0bab']
-compatible: [z2m]
+compatible: [z2m,deconz]
 z2m: MS-104Z
 mlink: https://www.moeshouse.com/
 link: https://www.aliexpress.com/item/1005001605349292.html

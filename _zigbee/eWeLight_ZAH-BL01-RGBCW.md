@@ -11,3 +11,6 @@ link: https://www.aliexpress.com/item/1005002483909414.html
 zigbeemodel: ['ZB-CL01']
 compatible: [z2m,zha]
 ---
+
+## Pairing
+Switch the bulb off/on five times in quick succession to put it into pairing mode.

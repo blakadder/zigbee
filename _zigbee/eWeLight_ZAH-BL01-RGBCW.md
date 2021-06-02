@@ -12,5 +12,5 @@ zigbeemodel: ['ZB-CL01']
 compatible: [z2m,zha]
 ---
 
-#### Pairing
+## Pairing
 Switch the bulb off/on five times in quick succession to put it into pairing mode.

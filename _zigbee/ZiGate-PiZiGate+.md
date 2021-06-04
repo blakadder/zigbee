@@ -1,17 +1,19 @@
 ---
 date_added: 2020-01-01
-model: ZIGATE-USB
+model: PiZiGate+
 vendor: ZiGate
-title: Zigbee Gateway USB
+title: PiZiGate V2 for Raspberry Pi
 category: coordinator
 supports: coordinator
 zigbeeid: none
 compatible: [zigate,zha,z2m,iob]
 mlink: https://zigate.fr
-link2: https://www.amazon.fr/Zigate-Passerelle-USB-avec-ZigBee/dp/B07Z6P9HX6/
-link: https://www.domadoo.fr/fr/interface-domotique/4938-zigate-passerelle-universelle-zigbee-zigate-usb-3770014375001.html
+link: https://zigate.fr/produit/pizigatev2/
+link2: https://lixee.fr/produits/32-60-pizigate-3770014375100.html#/27-antenneexterne-non
 ---
-ZiGate allows you to interface your ZigBee ® compatible objects to your computer or home automation box.
+ZiGate products allow you to interface your ZigBee ® compatible objects to your computer or home automation box.
+
+The PiZiGate+ connected to a Raspberry Pi (or compatible) will allow you to benefit from the functionalities of the ZiGate.
 
 ZiGate is compatible with following Home Automation solutions:
 * [Eedomus](https://doc.eedomus.com/view/Eedomus_et_Zigate)

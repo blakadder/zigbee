@@ -1,20 +1,19 @@
 ---
 date_added: 2020-01-01
-model: ZIGATE-DIN
+model: ZiGate+ DIN
 vendor: ZiGate
-title: Zigbee Gateway DIN Rail Mount
+title: Zigbee Gateway DIN Rail Mount v2
 category: coordinator
 supports: coordinator
 image: /assets/images/devices/ZiGate-DIN.jpg
 zigbeeid: none
 compatible: [zigate,zha,z2m,iob]
 mlink: https://zigate.fr
-link: https://zigate.fr/produit/zigate-usb-din/
-link2: https://www.amazon.fr/Zigate-Passerelle-USB-avec-ZigBee/dp/B07Z6P9HX6/
-link3: https://www.domoticalia.es/en/zigbee-home-automation/1317-zigate-usb-din-3770014375018.html
-link4: https://www.domadoo.fr/fr/interface-domotique/5210-zigate-passerelle-zigbee-sur-rail-din-zigate-din-3770014375049.html
+link: https://zigate.fr/produit/zigatev2-usb-din/
+link2: https://www.domadoo.fr/fr/interface-domotique/5210-zigate-passerelle-zigbee-sur-rail-din-zigate-din-3770014375049.html
+link3: https://lixee.fr/produits/35-zigate-usb-din-3770014375124.html
 ---
-The ZiGate-DIN allows you to interface your ZigBee ® compatible objects to your computer or home automation box.
+The ZiGate+ DIN allows you to interface your ZigBee ® compatible objects to your computer or home automation box.
 
 Compatible with DIN standard. The ZiGate-DIN can be installed in your electrical panel next to your home automation station.
 

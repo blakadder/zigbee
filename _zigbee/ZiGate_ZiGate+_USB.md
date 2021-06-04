@@ -1,19 +1,17 @@
 ---
-date_added: 2020-01-01
-model: ZIGATE-WIFI
+date_added: 2021-06-01
+model: ZiGate+ USB
 vendor: ZiGate
-title: Universal Zigbee Gateway Wi-Fi
+title: Zigbee Gateway USB v2
 category: coordinator
 supports: coordinator
-image: /assets/images/devices/ZiGate-WIFI.jpg
 zigbeeid: none
 compatible: [zigate,zha,z2m,iob]
-mlink: https://zigate.fr
-link: https://zigate.fr/produit/zigate-pack-wifi-v1-3/
-link2: https://www.domadoo.fr/fr/interface-domotique/4939-zigate-passerelle-universelle-zigbee-zigate-wi-fi-3770014375025.html
-link3: 
+mlink: https://zigate.fr/produit/zigate-usb/
+link: https://www.domadoo.fr/fr/interface-domotique/5734-lixee-dongle-usb-zigbee-zigate-v2-compatible-jeedom-eedomus-domoticz-3770014375094.html
+link2: https://lixee.fr/produits/31-zigate-plus-v2-3770014375094.html
 ---
-ZiGate allows you to interface your ZigBee ® compatible objects to your computer or home automation box.
+ZiGate+ USB allows you to interface your ZigBee ® compatible objects to your computer or home automation box.
 
 ZiGate is compatible with following Home Automation solutions:
 * [Eedomus](https://doc.eedomus.com/view/Eedomus_et_Zigate)

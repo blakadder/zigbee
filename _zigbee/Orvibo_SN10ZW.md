@@ -5,7 +5,6 @@ vendor: Orvibo
 title: Motion Sensor
 category: sensor
 supports: occupancy
-image: /assets/images/devices/Orvibo_SN10ZW.jpg
 zigbeemodel: ['895a2d80097f4ae2b2d40500d5e03dcc']
 compatible: [deconz,z2m,zha]
 mlink: https://www.orvibo.com/en/product/bodysensor.html

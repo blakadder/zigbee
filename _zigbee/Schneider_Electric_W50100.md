@@ -13,4 +13,6 @@ link: https://www.domadoo.fr/fr/peripheriques/5720-schneider-electric-micromodul
 EAN:
   - CCT5010-0001
   - MEG5010-0001
+  - EKO07090
 ---
+Also sold as Elko EKO07090

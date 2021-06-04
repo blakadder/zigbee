@@ -14,4 +14,6 @@ link: https://www.domadoo.fr/fr/peripheriques/5722-schneider-electric-micromodul
 EAN:
   - CCT5011-0001
   - MEG5011-0001
+  - EKO07144
 ---
+Also sold as Elko EKO07144

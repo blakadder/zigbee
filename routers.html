@@ -9,7 +9,7 @@ This list includes devices that are repeaters. Almost any mains powered device (
 <!-- ######################################################################  -->
 {% assign categories = site.zigbee | where: "category", "router" %}
 {% assign vendor = categories | group_by: 'vendor' %} 
-{% assign vendors = vendor | sort: 'name' %} 
+{% assign vendors = vendor | sort_natural: 'name' %} 
 <table>
     <tbody>
     {% for type in vendors %}

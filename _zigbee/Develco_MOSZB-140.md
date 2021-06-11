@@ -12,4 +12,4 @@ link: https://www.domadoo.fr/fr/peripheriques/5404-frient-detecteur-de-mouvement
 link2: 
 link3: 
 ---
-Interesting this Motion is capable to have 3 differents Off to On motion delay ( configured via Cluster 0x0400 Attribute 0x0010 )
+Sensor is capable to have 3 different Off to On motion delays configured via Cluster 0x0400, Attribute 0x0010

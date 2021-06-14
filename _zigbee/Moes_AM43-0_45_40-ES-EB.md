@@ -6,7 +6,7 @@ title: Motorized Roller Blinds/Shades Drive Motor
 category: cover
 supports: open, close, stop, position
 zigbeemodel: ['TS0601','_TZE200_zah67ekd','_TZE200_rddyvrci ']
-compatible: [z2m,deconz,zha]
+compatible: [z2m,deconz,zha,zigate]
 deconz: 4663
 z2m: TS0601_curtain
 mlink: https://www.moeshouse.com/

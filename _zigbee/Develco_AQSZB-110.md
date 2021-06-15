@@ -3,7 +3,7 @@ model: AQSZB-110
 vendor: Develco
 title: Air Quality Sensor
 category: sensor
-supports: voc, temperature, humidity, battery
+supports: voc, temperature, humidity, air quality, battery
 zigbeemodel: ['AQSZB-110']
 compatible: [deconz,z2m]
 deconz: 3542

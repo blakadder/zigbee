@@ -1,7 +1,7 @@
 ---
 date_added: 2021-05-17
 model: DDS238-2
-vendor: Zigbee
+vendor: Hiking
 title: Single Phase 65A DIN Rail Energy Meter
 category: switch
 supports: on/off, power monitoring

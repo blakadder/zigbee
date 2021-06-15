@@ -9,7 +9,8 @@ zigbeemodel: ['lumi.switch.l0agl1']
 compatible: [z2m,zha,tasmota]
 mlink: https://www.aqara.com/en/single_switch_T1_no-neutral.html
 link: https://www.domadoo.fr/fr/peripheriques/5387-aqara-micromodule-onoff-zigbee-30-1250w-sans-neutre-6970504213302.html
-link2: https://www.mall.cz/smart-domacnost/aqara-zigbee-spinaci-modul-aqara-single-switch-module-t1-no-neutral-ssm-u02-100040788445
+link2: https://www.amazon.de/dp/B08XW9LYG1/
+link3: https://www.mall.cz/smart-domacnost/aqara-zigbee-spinaci-modul-aqara-single-switch-module-t1-no-neutral-ssm-u02-100040788445
 ---
 
 Does not work as a router!

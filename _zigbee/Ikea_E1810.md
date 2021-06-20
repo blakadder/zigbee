@@ -4,7 +4,6 @@ vendor: IKEA
 title: Tradfri Remote Control
 category: remote
 supports: action, batterypct
-action: toggle, arrow click/hold/release, brightness up click/hold/release, brightness down click/hold/release
 image: /assets/images/devices/Ikea_E1810.jpg
 zigbeemodel: ['TRADFRI Remote Control']
 compatible: [z2m,zigate,zha,deconz,tasmota]

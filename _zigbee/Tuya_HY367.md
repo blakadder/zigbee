@@ -13,5 +13,6 @@ deconz: 4675
 mlink: https://www.moeshouse.com/
 link: https://www.aliexpress.com/item/1005002212605653.html
 link2: https://www.banggood.com/RSH-RV02-ZigBee3_0-Touchable-Display-Temperature-Controller-Thermostatic-Radiator-Intelligent-Temperature-Controller-Constant-Radiator-p-1832133.html
-link3: https://www.alibaba.com/product-detail/Zigbee-Smart-Thermostatic-Radiator-Valve-Controller_1600201671391.html
+link3: https://www.amazon.co.uk/dp/B093BCXJ74
+link4: https://www.alibaba.com/product-detail/Zigbee-Smart-Thermostatic-Radiator-Valve-Controller_1600201671391.html
 ---

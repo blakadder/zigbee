@@ -1,5 +1,5 @@
 ---
-date_added: 2021-04-22
+date_added: 2021-06-17
 model: NAS-TH02B
 vendor: Neo 
 title: Temperature, Humidity and Illumination Sensor
@@ -14,6 +14,3 @@ link: https://www.aliexpress.com/item/1005002384720598.html
 link2: 
 link3: 
 ---
-
-## ZHA
-Discovers only illumination and battery

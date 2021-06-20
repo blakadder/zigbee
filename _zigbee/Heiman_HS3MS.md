@@ -4,7 +4,7 @@ model: HS3MS
 vendor: Heiman
 title: Motion Sensor
 category: sensor
-supports: occupancy, batterypct, batterylow, tamper
+supports: occupancy, batterypct, batterylow
 image: /assets/images/devices/Heiman_HS3MS.jpg
 zigbeemodel: ['PIRSensor-N', 'PIRSensor-EM', 'PIRSensor-EF-3.0', 'PIR_TPV13']
 compatible: [z2m,deconz]

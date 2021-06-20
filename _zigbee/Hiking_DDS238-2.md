@@ -4,7 +4,7 @@ model: DDS238-2
 vendor: Hiking
 title: Single Phase 65A DIN Rail Energy Meter
 category: switch
-supports: On/Off, Instant Power, Total Power, Current, Voltage
+supports: on/off, instant power, total power, current, voltage
 zigbeemodel: ['TS0601','_TZE200_byzdayie']
 compatible: [z2m, zigate]
 z2m: TS0601_din

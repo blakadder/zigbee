@@ -1,5 +1,5 @@
 ---
-date_added: 2021-06-23
+date_added: 2021-06-30
 model: WRS-R02
 vendor: Aqara
 title: Wireless Remote Switch H1 (Double Rocker) 

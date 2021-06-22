@@ -5,7 +5,7 @@ vendor: Tuya
 title: Smart Air Box
 category: sensor
 supports: air quality
-zigbeemodel: ['TS0601','_TZE200_8ygsuhe1']
+zigbeemodel: ['TS0601','_TZE200_8ygsuhe1','_TZE200_yvx5lh6k']
 compatible: [z2m]
 z2m: TS0601_air_quality_sensor
 mlink: https://expo.tuya.com/product/839049

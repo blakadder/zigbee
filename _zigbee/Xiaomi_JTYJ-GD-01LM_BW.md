@@ -14,3 +14,5 @@ link: https://www.aliexpress.com/af/mijia+honeywell+fire+alarm.html
 link2: https://www.banggood.com/Xiaomi-MiHome-Honeywell-Fire-Smoke-Alarm-Detector-Remote-Alert-Photoelectric-Smoke-Sensor-p-1148105.html
 link3: https://www.amazon.com/Honeywell-Notification-Inspection-Reminder-Compatible/dp/B078PYHBMD
 ---
+
+Press the button on the front 3 times in quick successsion (Note: there will be a rather loud beep on first press).

@@ -11,6 +11,9 @@ z2m: BRT-100-TRV
 mlink: https://expo.tuya.com/product/829080
 link: https://www.aliexpress.com/item/1005002433574444.html
 link2: https://www.aliexpress.com/item/1005002510080126.html
+link3: https://www.banggood.com/BECA-BRT-100-ZB-Thermostat-Tuya-Radiator-Actuator-Valve-Smart-Programmable-TRV-Temperature-Controller-Work-with-Alexa-Voice-Control-p-1837085.html
+link4: https://www.alibaba.com/product-detail/Radiator-thermostat_1600192999288.html
+ 
 ---
 
 This device is also sold branded as Tuya, Moes, etc... 

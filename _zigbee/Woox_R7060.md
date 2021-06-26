@@ -1,5 +1,5 @@
 ---
-date_added: 2021-06-26
+date_added: 2021-06-30
 model: R7060
 vendor: Woox
 title: Smart Garden Irrigation Control

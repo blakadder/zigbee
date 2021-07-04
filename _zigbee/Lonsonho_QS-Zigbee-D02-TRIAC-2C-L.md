@@ -7,7 +7,7 @@ category: dimmer
 type: In-Wall Dimmer
 supports: on/off, brightness
 zigbeemodel: ['TS110F','_TZ3000_92chsky7']
-compatible: [z2m,zigate]
+compatible: [z2m,zigate,zha]
 mlink: 
 link: https://www.aliexpress.com/item/4001279149071.html
 link2: https://www.banggood.com/220-240V-Tuya-Smart-Solution-Two-way-ZB-Dimming-Switch-Smart-Home-Modification-Module-p-1790203.html

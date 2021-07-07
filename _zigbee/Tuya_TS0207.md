@@ -5,7 +5,7 @@ vendor: Tuya
 title: Signal Repeater Zigbee 3.0
 category: router
 supports: linkquality
-zigbeemodel: ['TS0207','_TZ3000_m0vaazab','FNB54-WTS08ML1.0','_TZ3000_ufttklsz']
+zigbeemodel: ['TS0207','_TZ3000_m0vaazab','FNB54-WTS08ML1.0','_TZ3000_ufttklsz','_TZ3000_5k5vh43t']
 compatible: [z2m,iob,zigate,zha,tasmota,deconz]
 mlink: 
 link: https://www.aliexpress.com/item/1005001459823340.html

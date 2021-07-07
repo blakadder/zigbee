@@ -5,7 +5,7 @@ vendor: Lonsonho
 title: 1 Gang Wireless Switch
 category: remote
 supports: action, battery
-zigbeemodel: ['TS0041']
+zigbeemodel: ['TS0041','_TZ3000_peszejy7']
 compatible: [z2m,iob,deconz,zha]
 deconz: 3398
 mlink: 

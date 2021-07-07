@@ -1,12 +1,12 @@
 ---
-date_added: 2021-06-02
+date_added: 2021-07-06
 model: RSH-AirBox01
 vendor: Tuya
 title: Smart Air Box
 category: sensor
 supports: air quality
 zigbeemodel: ['TS0601','_TZE200_8ygsuhe1','_TZE200_yvx5lh6k']
-compatible: [z2m]
+compatible: [z2m,zha]
 z2m: TS0601_air_quality_sensor
 mlink: https://expo.tuya.com/product/839049
 link: https://www.aliexpress.com/wholesale?SearchText=zigbee+smart+air+box

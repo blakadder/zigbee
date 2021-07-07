@@ -1,13 +1,13 @@
 ---
-date_added: 2020-06-07
-model: QBKG25LM
+date_added: 2021-07-07
+model: QBKG39LM
 vendor: Aqara
-title: D1 3 Gang Wall Switch (No Neutral)
+title: E1 2 Gang Wall Switch (No Neutral)
 category: switch
-supports: on/off, action, power measurement, decouple mode
-zigbeemodel: ['lumi.switch.l3acn3']
+supports: on/off, power outage memory, decouple mode
+zigbeemodel: ['lumi.switch.b2lc04']
 compatible: [z2m]
-mlink: https://www.xiaomiyoupin.com/detail?gid=118897
+mlink: https://www.aqara.com/cn/productDetail/smart-wall-switch-e1
 link: https://www.aliexpress.com/item/32974697281.html
 link2: https://www.banggood.com/NEW-Aqara-D1-Zigbee-Smart-WIFI-Wall-Switch-1-or-2-or-3-Gang-LIVE-or-NEUTRAL-LINE-Xiaomi-Mijia-APP-Remote-Controller-p-1644324.html
 link3: 

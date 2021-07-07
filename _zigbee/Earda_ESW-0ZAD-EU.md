@@ -5,7 +5,7 @@ vendor: Earda
 title: Wireless Scene Switch 1 Button
 category: remote
 supports: action, battery
-zigbeemodel: ['TS0041','_TZ3000_4upl1fcj']
+zigbeemodel: ['TS0041','_TZ3000_4upl1fcj','_TZ3000_pzui3skt']
 compatible: [zha]
 deconz: 
 mlink: https://www.alibaba.com/product-detail/Earda-Ziggbee-3-Gang-Smart-Wall_1600101179511.html

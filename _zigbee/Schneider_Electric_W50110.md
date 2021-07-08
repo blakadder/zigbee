@@ -8,11 +8,12 @@ tyoe: ['module','switch']
 supports: on/off
 zigbeemodel: ['PUCK/SWITCH/1']
 compatible: [z2m]
-z2m: CCT5011-0001/MEG5011-0001
-mlink: https://www.se.com/ww/en/product/CCT5011-0001/wiser-micro-module-light-switch/
+z2m: CCT5011-0001/CCT5011-0002/MEG5011-0001
+mlink: https://www.se.com/ww/en/product/CCT5011-0002/wiser-micro-module-light-switch/
 link: https://www.domadoo.fr/fr/peripheriques/5722-schneider-electric-micromodule-interrupteur-eclairage-connecte-zigbee-30-wiser-3606481048172.html
 EAN:
   - CCT5011-0001
+  - CCT5011-0002
   - MEG5011-0001
   - EKO07144
 ---

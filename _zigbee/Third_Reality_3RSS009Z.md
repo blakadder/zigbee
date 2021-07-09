@@ -4,7 +4,7 @@ model: 3RSS009Z
 vendor: Third Reality 
 title: Smart Switch Gen3
 category: remote
-supports: on/off
+supports: on/off, battery
 zigbeemodel: ['3RSS009Z']
 compatible: [z2m]
 mlink: 

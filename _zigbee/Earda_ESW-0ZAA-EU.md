@@ -14,7 +14,7 @@ link2: https://www.banggood.com/Zemismart-4-Gang-Tuya-Zigbee3_0-Wireless-Switch-
 link3: https://www.domadoo.fr/fr/domotique/5788-moes-interrupteur-intelligent-sans-fil-zigbee-4-boutons.html
 link4: https://www.amazon.de/dp/B08J3TMGJH/
 ---
-This wireless switch is manufactured by Earda and sold on Aliexpress under many brands such Girier, Lonsonho, Moes and white label. 
+This wireless switch is manufactured by Earda and sold on Aliexpress under many brands such Girier, Lonsonho, [Moes](https://www.moeshouse.com/?ref=v4thya2eufek) and white label. 
 
 ## Pairing 
 To enter pairing mode hold bottom left button for 10 seconds until all 4 LEDs start flashing.

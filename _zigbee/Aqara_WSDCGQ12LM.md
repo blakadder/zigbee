@@ -6,7 +6,7 @@ title: Temperature, Humidity and Pressure Sensor T1
 category: sensor
 supports: temperature, humidity, pressure, batterylow
 zigbeemodel: ['lumi.sensor_ht.agl02']
-compatible: [z2m]
+compatible: [z2m,ZHA]
 mlink: https://www.aqara.com/cn/productDetail/d20
 link: 
 ---

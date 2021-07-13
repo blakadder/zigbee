@@ -8,7 +8,7 @@ supports: on/off, watering timer
 mlink: 
 link: https://www.lidl-ni.co.uk/p/great-gardens/smart-watering-timer/p55336
 zigbeemodel: ['TS0601', '_TZE200_htnnfasr']
-compatible: zha
+compatible: [ zha, zigate ]
 z2m: PSBZS A1
 ---
 

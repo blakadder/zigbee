@@ -1,7 +1,7 @@
 ---
 date_added: 2021-06-09
 model: ESW-4ZAA-CN
-vendor: Earda
+vendor: Eardatek
 title: Wireless 12 Scene Switch
 category: remote
 supports: action, battery

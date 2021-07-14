@@ -1,7 +1,7 @@
 ---
 date_added: 2020-11-22
 model: ESW-2ZAA-EU
-vendor: Earda
+vendor: Eardatek
 title: Light Switch No Neutral 2 Gang 
 category: switch
 supports: on/off

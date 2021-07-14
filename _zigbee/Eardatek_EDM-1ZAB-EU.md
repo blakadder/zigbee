@@ -1,7 +1,7 @@
 ---
 date_added: 2020-12-09
 model: EDM-1ZBA-EU
-vendor: Earda
+vendor: Eardatek
 title: Rotary Dimmer Switch EU
 category: dimmer
 supports: on/off, brightness

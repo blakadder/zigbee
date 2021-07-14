@@ -1,7 +1,7 @@
 ---
 date_added: 2020-11-08
 model: EDM-1ZAA-EU
-vendor: Earda
+vendor: Eardatek
 title: Touch Dimmer Switch EU
 category: dimmer
 supports: on/off, brightness

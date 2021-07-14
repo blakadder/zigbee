@@ -1,7 +1,7 @@
 ---
 date_added: 2020-10-09
 model: ESW-0ZAA-EU
-vendor: Earda
+vendor: Eardatek
 title: Wireless Scene Switch 4 Buttons
 category: remote
 supports: action, battery

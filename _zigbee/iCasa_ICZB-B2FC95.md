@@ -10,6 +10,6 @@ zigbeemodel: ['ICZB-FC']
 compatible: [z2m,iob]
 mlink: https://www.icasa.io/filamentlampen?lang=en
 link: https://www.amazon.de/dp/B07YYC5NGJ/
-link2: 
+link2: https://www.domadoo.fr/fr/peripheriques/5700-icasa-ampoule-led-zigbee-filament-95mm-7w-blanc-variable-0636665129383.html
 link3: 
 ---

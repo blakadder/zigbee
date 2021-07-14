@@ -4,7 +4,7 @@ model: E1C-NB6
 vendor: Sengled
 title: Smart Plug 15A
 category: plug
-supports: contact
+supports: on/off
 image: /assets/images/devices/Sengled_E1C-NB6.jpg
 zigbeemodel: ['E1C-NB6']
 compatible: [z2m]

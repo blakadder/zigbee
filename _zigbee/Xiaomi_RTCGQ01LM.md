@@ -11,5 +11,4 @@ zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/dtecteurdemou
 mlink: https://item.mi.com/product/5005.html
 link: https://www.aliexpress.com/item/4000067518837.html
 link2: https://www.banggood.com/Original-Xiaomi-Intelligent-Human-Sensor-Control-Smart-Home-Suit-Kit-Accessory-p-1017540.html
-link3: https://www.gearbest.com/home-appliances-accessories/pp_009566410748.html
 ---

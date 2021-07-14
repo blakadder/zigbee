@@ -13,7 +13,7 @@ How to set up <a href="https://tasmota.github.io/docs/Zigbee" target="_blank">Zi
     <table>
         <tbody>
         {% assign vendor = type.items | group_by: 'vendor' %} 
-        {% assign vendors = vendor | sort: 'name' %} 
+        {% assign vendors = vendor | sort_natural: 'name' %} 
         {% for type in vendors %}
         {% assign type_sorted = type.items | sort_natural: 'title' %}     
         {% for template in type_sorted %}

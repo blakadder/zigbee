@@ -6,7 +6,7 @@ title: 1 Gang Remote Switch
 category: remote
 supports: action, battery
 image: /assets/images/devices/Smart9_S9TSZGB_1.jpg
-zigbeemodel: ['TS0041']
+zigbeemodel: ['TS0041','_TZ3000_tk3s5tyg']
 compatible: [z2m,iob,deconz,zha]
 deconz: 3398
 mlink: 

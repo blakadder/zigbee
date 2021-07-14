@@ -11,7 +11,6 @@ deconz: 811
 z2m: WXKG02LM_rev2
 mlink: https://www.aqara.com/en/wireless_remote_switch.html
 link: https://www.aliexpress.com/item/32875105783.html
-link2: https://www.gearbest.com/alarm-systems/pp_610095.html
 link3: https://www.amazon.de/dp/B07F3J5X97
-link4: https://www.amazon.co.uk/Tini-Regner-WXKG02LM-Wireless-Version/dp/B07CQWVGJL
+link2: https://www.amazon.co.uk/Tini-Regner-WXKG02LM-Wireless-Version/dp/B07CQWVGJL
 ---

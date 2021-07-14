@@ -3,8 +3,7 @@ model: IM6001-MPP01
 vendor: SmartThings
 title: Multipurpose Sensor (2018 model)
 category: sensor
-supports: contact, temperature, batterypct
-image: /assets/images/devices/SmartThings_IM6001-MPP01.jpg
+supports: contact, temperature, battery
 zigbeemodel: ['multi']
 compatible: [z2m,deconz,zha]
 mlink: https://www.samsung.com/us/smart-home/smartthings/sensors/samsung-smartthings-multipurpose-sensor-2018-gp-u999sjvlaaa/

@@ -4,9 +4,8 @@ model: HS1MS
 vendor: Heiman
 title: Motion Sensor
 category: sensor
-supports: occupancy, batterypct, batterylow, tamper
-image: /assets/images/devices/Heiman_HS1MS.jpg
-zigbeemodel: [PIRSensor-EM']
+supports: occupancy, battery, tamper
+zigbeemodel: [PIRSensor-EM','PIR_TPV16','TY0202']
 compatible: [deconz,zigate,z2m]
 deconz: 1974
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/dtecteurdemouvement-

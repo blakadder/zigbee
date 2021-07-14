@@ -5,8 +5,7 @@ vendor: BlitzWolf
 title: Water Leak Sensor
 category: sensor
 supports: water leak, batterypct
-image: /assets/images/devices/BlitzWolf_BW-IS5.jpg
-zigbeemodel: ['TS0207']
+zigbeemodel: ['TS0207', 'FNB54-WTS08ML1.0']
 compatible: [z2m,zha,tasmota,deconz,iob]
 deconz: 3067
 mlink: https://www.blitzwolf.com/ZigBee-Water-Leak-Sensor-p-444.html

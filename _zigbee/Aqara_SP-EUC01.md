@@ -6,10 +6,10 @@ category: plug
 supports: on/off, power measurement
 image: /assets/images/devices/SP-EUC01.jpg
 zigbeemodel: ['lumi.plug.maeu01']
-compatible: [z2m,zha,iob,deconz]
+compatible: [z2m,zha,iob,deconz,tasmota]
 deconz: 2267
 mlink: https://www.aqara.com/eu/smart_outlet.html
-link: https://aqara.ru/product/aqara-smart-plug/
+link: https://www.domadoo.fr/fr/peripheriques/5385-aqara-prise-connectee-zigbee-30-smart-plug.html
 link2: 
 link3: 
 ---

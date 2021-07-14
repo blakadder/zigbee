@@ -4,9 +4,10 @@ model: ZNXNKG02LM
 vendor: Aqara
 title: Smart Knob H1
 category: remote
-supports: 
-zigbeemodel: 
+supports: action, battery
+actions: single, double, triple, quadruple, many, hold, release, shake, clockwise, counterclockwise
+zigbeemodel: ['lumi.remote.rkba01']
 compatible: []
-mlink: https://www.aliexpress.com/item/1005002063653556.html
-link: 
+mlink: 
+link: https://www.aliexpress.com/item/1005002063653556.html
 ---

@@ -10,6 +10,6 @@ zigbeemodel: ['ICZB-FC']
 compatible: [z2m,iob]
 mlink: https://www.icasa.io/filamentlampen?lang=en
 link: https://www.amazon.de/dp/B07YYCDT3C/
-link2: 
+link2: https://www.domadoo.fr/fr/peripheriques/5699-icasa-pack-de-2-ampoules-led-zigbee-filament-60mm-7w-blanc-variable-0636665129376.html
 link3: 
 ---

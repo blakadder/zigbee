@@ -4,7 +4,6 @@ vendor: Ubisys
 title: Power Switch
 category: switch
 supports: on/off, power measurement
-image: /assets/images/devices/ubisys_S1-R.jpg
 zigbeemodel: ['S1-R (5601)']
 compatible: [z2m, deconz]
 mlink: https://www.ubisys.de/en/products/light-and-consumers/power-switch-s1-r/

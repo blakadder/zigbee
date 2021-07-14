@@ -8,7 +8,7 @@ image: /assets/images/devices/Sunricher_SR-ZG9001K4-DIM2.jpg
 zigbeemodel: ['ZG2833K4_EU06']
 compatible: [z2m]
 mlink: 
-link: https://www.tronika.no/en/smarthome/zigbee-products/zigbee-controllers/wall-controller-zg9001k4-dim2.html
+link: https://www.domadoo.fr/fr/peripheriques/5738-sunricher-controleur-mural-sans-fil-4-boutons-2-zones-zigbee.html
 link2: 
 link3: 
 ---

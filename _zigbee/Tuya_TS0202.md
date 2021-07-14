@@ -4,8 +4,8 @@ model: TS0202
 vendor: Tuya
 title: Motion Sensor
 category: sensor
-type: Contact
-supports: contact, battery, tamper
+type: motion sensor
+supports: occupancy, battery, tamper
 zigbeemodel: ['TS0202','_TYZB01_ef5xlc9q']
 compatible: [z2m]
 mlink: 

@@ -4,7 +4,6 @@ vendor: Centralite
 title: 3-Series Smart Outlet
 category: plug
 supports: on/off, power meter
-image: /assets/images/devices/Centralite_4256251-RZHAC.jpg
 zigbeemodel: ['4256251-RZHAC']
 compatible: [z2m,zha,deconz]
 deconz: 432

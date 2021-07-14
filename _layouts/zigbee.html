@@ -72,7 +72,7 @@ More information on <a href="{{ page.zigate }}">ZiGate site</a>.
     {% if page.category == "coordinator" %}
       <a class="button button-outline" href="https://www.zigbee2mqtt.io/information/supported_adapters.html">zigbee2mqtt</a>
     {% else %}
-      <a class="button button-outline" href="https://www.zigbee2mqtt.io/devices/{%- if page.z2m != nil -%}{{- page.z2m -}} {% else %} {{- page.model | replace: ' ', '_' | replace: '/', '_' -}} {% endif %}.html">zigbee2mqtt</a>{% endif %}
+      <a class="button button-outline" href="https://www.zigbee2mqtt.io/devices/{%- if page.z2m != nil -%}{{- page.z2m | replace: ' ', '_' | replace: '/', '_' -}} {% else %} {{- page.model | replace: ' ', '_' | replace: '/', '_' -}} {% endif %}.html">zigbee2mqtt</a>{% endif %}
     {% endif %}
     {% if page.compatible contains "deconz" %}
         {%- if page.deconz != nil -%}
@@ -92,6 +92,12 @@ More information on <a href="{{ page.zigate }}">ZiGate site</a>.
   </div>
     
 </div>
+<div class="row">
+  <div class="column">
+    <span class="small">If the device is following Zigbee standards it is possible it will work with other gateway solutions, it is just not confirmed as working yet!</span>
+  </div>
+</div>
+
 <p></p>
 {% include specific.html %}
 

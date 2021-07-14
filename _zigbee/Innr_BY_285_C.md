@@ -10,6 +10,6 @@ compatible: [z2m,iob]
 mlink: https://www.innr.com/en/product/smart-bulb-colour-b22/
 link: https://www.amazon.co.uk/Innr-Colour-Philips-Assistant-Required/dp/B07MRMS4BH
 link2: https://www.amazon.de/dp/B07MRMS4BH
-link3: https://www.smartplaceonline.com/products/innr-smart-bulb-colour-b22-works-with-philips-hue-alexa-google-home-hub-required-by-285c?_pos=1&_sid=acb64ffcf&_ss=r
+link3: https://www.domadoo.fr/fr/peripheriques/5791-innr-2x-ampoule-connectee-type-b22-zigbee-30-rgbw-blanc-reglable-8718781552336.html
 EAN: 8718781552329
 ---

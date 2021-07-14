@@ -7,6 +7,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['RGBBulb01UK', 'RGBBulb02UK']
 compatible: [z2m]
+z2m: AU-A1GSZ9RGBW_HV-GSCXZB269K
 mlink: https://auroralighting.com/gb/ProductDetail/AU-A1GSZ9RGBW
 link: https://www.downlightsdirect.co.uk/aurora-aone-smart-led-bulb-rgb-tuneable-lamps.html
 link2: 

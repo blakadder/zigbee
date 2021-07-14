@@ -4,9 +4,10 @@ vendor: Schneider Electric
 model: EER50000
 zigbeemodel: EH-ZB-HACT
 category: hvac
-title: Wiser Electric Heating Actuator
+supports: thermostat
+title: Wiser H-Relay
 mlink: https://www.se.com/fr/fr/product/EER50000/wiser---actionneur-de-chauffage-%C3%A9lectrique/
 link: https://www.amazon.fr/dp/B0158XGB74/
-compatible: [zigate]
+compatible: [zigate,z2m]
 zigate: https://github.com/pipiche38/Domoticz-Zigate-Wiki/blob/master/en-eng/Wiser-Thermostat.md
 ---

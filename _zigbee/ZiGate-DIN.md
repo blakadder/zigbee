@@ -2,7 +2,7 @@
 date_added: 2020-01-01
 model: ZIGATE-DIN
 vendor: ZiGate
-title: Universal Zigbee Gateway DIN Rail Mount
+title: Zigbee Gateway DIN Rail Mount
 category: coordinator
 supports: coordinator
 image: /assets/images/devices/ZiGate-DIN.jpg

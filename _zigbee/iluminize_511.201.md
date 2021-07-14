@@ -1,7 +1,7 @@
 ---
 model: 511.201
 vendor: Iluminize
-title: 230V HV Dimmer
+title: High Voltage 230V Dimmer Module
 category: dimmer
 supports: on/off, brightness
 image: /assets/images/devices/511.201.jpg

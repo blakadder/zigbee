@@ -6,11 +6,12 @@ title: Touch Dimmer Switch EU
 category: dimmer
 supports: on/off, brightness
 zigbeemodel: ['TS0601']
-compatible: [z2m,zha,zigate]
+compatible: [z2m,zha,zigate,deconz]
 z2m: TS0601_dimmer
+deconz: 4577
 mlink: https://www.alibaba.com/product-detail/Earda-EU-Standard-Wall-Dimmer-Electric_1600092367445.html
 link: https://www.aliexpress.com/item/1005001505069156.html
-link2: 
+link2: https://www.moeshouse.com/collections/zigbee/products/new-zigbee-smart-touch-light-dimmer-switch-timer-brightness-memory-smart-life-tuya-app-remote-control-work-with-alexa-google
 link3: 
 ---
 This dimmer switch is manufactured by Earda and sold on Aliexpress under many brands such Girier, Lonsonho, Moes and white label. 

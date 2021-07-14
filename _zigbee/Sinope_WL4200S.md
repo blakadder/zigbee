@@ -1,11 +1,10 @@
 ---
-date_added: 2020-07-12
+date_added: 2021-07-08
 model: WL4200S
 vendor: Sinope
 title: Water Leak Detector with Sensor
 category: sensor
 supports: water leak, batterypct
-image: /assets/images/devices/Sinope_WL4200S.jpg
 zigbeemodel: ['WL4200']
 compatible: [deconz,z2m]
 mlink: https://www.sinopetech.com/en/product/smart-water-leak-detector-with-sensor-zigbee/

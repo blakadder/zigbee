@@ -7,7 +7,7 @@ title: Remote Controllers
 <!-- ######################################################################  -->
 {% assign categories = site.zigbee | where: "category", "remote" %}
 {% assign vendor = categories | group_by: 'vendor' %} 
-{% assign vendors = vendor | sort: 'name' %} 
+{% assign vendors = vendor | sort_natural: 'name' %} 
 <table>
     <tbody>
     {% for type in vendors %}

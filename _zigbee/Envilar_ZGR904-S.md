@@ -8,7 +8,7 @@ category: remote
 supports: action
 zigbeemodel: ['ZGR904-S']
 compatible: [deconz]
-deconz: 4502
+deconz: 4269
 mlink: 
 link: https://www.plusled.dk/zgr904-s-zigbee-fjernbetjening-touchlink.html
 link2: 

@@ -2,7 +2,7 @@
 date_added: 2020-05-16
 model: CCTFR6100
 vendor: Schneider Electric 
-title: Wiser Radiator Thermostat
+title: Drayton Wiser Radiator Thermostat
 category: hvac
 supports: temperature, batterypct, keypad lock, heating demand
 zigbeemodel: ['iTRV']

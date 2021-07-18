@@ -12,4 +12,4 @@ mlink: https://www.aqara.com/cn/productDetail/d30
 link: 
 ---
 
-Identified by the new Aqara logo ![](/assets/images/new_aqara_logo.jpg)
+

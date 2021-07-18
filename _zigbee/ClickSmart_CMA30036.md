@@ -2,7 +2,7 @@
 date_added: 2021-02-09
 model: SM-SO306EZ-10
 vendor: ClickSmart
-title: 13A 2 Gang Socket Outlet
+title: 13A 2 Gang Switched Socket Outlet UK
 category: plug
 type: [wall outlet, uk]
 supports: on/off

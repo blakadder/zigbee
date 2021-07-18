@@ -1,11 +1,10 @@
 ---
 date_added: 2020-02-22
-model: LXZB-02A
+model: MS-107D
 vendor: Moes
 title: Smart Light Dimmer
 category: light
 supports: on/off, brightness
-image: /assets/images/devices/Moes_LXZB-02A.jpg
 zigbeemodel: ['LXN56-DC27LX1.1']
 compatible: [z2m]
 mlink: https://www.moeshouse.com/collections/zigbee-3-0-module-switch/products/zigbee-3-0-diy-smart-home-automation-dimmer-switch-remote-control-work-with-echo-plus-alexa-smartthings-fit-for-most-zigbee-hub

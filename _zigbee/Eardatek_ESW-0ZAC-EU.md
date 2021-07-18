@@ -1,7 +1,7 @@
 ---
 date_added: 2021-06-02
 model: ESW-0ZAC-EU
-vendor: Earda
+vendor: Eardatek
 title: Wireless Scene Switch 2 Buttons
 category: remote
 supports: action, battery

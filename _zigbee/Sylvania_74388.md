@@ -4,9 +4,9 @@ model: 74388
 vendor: Sylvania
 title: Smart+ Contact and Temperature Sensor
 category: sensor
-supports: contact, temperature, batterylow
+supports: contact, temperature, tamper, batterylow
 zigbeemodel: ['Contact Sensor-A']
-compatible: [zha]
+compatible: [zha, z2m]
 mlink: https://consumer.sylvania.com/our-products/smart/product-info/zigbee/sylvania-smart-zigbee-contact-and-temperature-sensor/index.jsp
 link: https://www.amazon.com/dp/B072HH5VP4/
 link2: 

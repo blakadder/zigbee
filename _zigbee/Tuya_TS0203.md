@@ -7,7 +7,7 @@ category: sensor
 type: Contact
 supports: contact, batterypct
 zigbeemodel: ['TS0203']
-compatible: [z2m,iob]
+compatible: [z2m,iob, zigate]
 mlink: 
 link: https://crsmarthome.nl/product/smart-deurraam-sensor/
 link2: 

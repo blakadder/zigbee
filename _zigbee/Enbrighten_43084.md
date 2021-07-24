@@ -7,7 +7,7 @@ category: switch
 type: In-Wall Switch
 supports: on/off, brightness
 zigbeemodel: ['43084']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: 
 link: https://www.amazon.com/dp/B08428P2MC/
 link2: 

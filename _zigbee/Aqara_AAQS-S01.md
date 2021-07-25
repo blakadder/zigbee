@@ -15,4 +15,4 @@ zigbeemodel: ['lumi.airmonitor.acn01']
 compatible: [zha,tasmota,z2m]
 EAN: VOCKQJK11LM
 ---
-Only temperature and humidity values are exposed in ZHA and Tasmota. Tasmota shows batterz voltage and battery percentage too.
+Only temperature and humidity values are exposed in ZHA and Tasmota. Tasmota shows battery voltage and battery percentage too.

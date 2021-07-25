@@ -1,15 +1,15 @@
 ---
-date_added: 2021-04-15
-model: SS600ZB
+date_added: 2021-07-21
+model: SS6200ZB
 vendor: LoraTap
-title: Remote 3 Button
+title: Remote 2 Button
 category: remote
 supports: action, battery
 actions: single, double, long
-zigbeemodel: ['TS0043','_TZ3000_bi6lpsew']
-compatible: [z2m,iob,tasmota,zha,zigate,deconz]
-mlink: 
-link: https://www.aliexpress.com/item/1005001298730723.html
+zigbeemodel: ['TS0042']
+compatible: [zha]
+mlink: https://www.loratap.com/
+link: https://www.aliexpress.com/item/1005002847630452.html
 link2: https://www.domadoo.fr/fr/peripheriques/5712-loratap-telecommande-zigbee-3-boutons.html
 ---
 

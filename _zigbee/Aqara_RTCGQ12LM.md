@@ -11,7 +11,7 @@ mlink: https://www.aqara.com/cn/productDetail/d17
 link: https://www.aliexpress.com/item/1005001889397376.html
 ---
 
-Identified by the new Aqara logo ![](/assets/images/new_aqara_logo.jpg)
+
 
 ## Note
 Illuminance not working in Zigbee2MQTT

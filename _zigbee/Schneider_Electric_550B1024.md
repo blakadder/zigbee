@@ -5,7 +5,7 @@ vendor: Schneider Electric
 title: LK Wiser Temperature and Humidity Sensor
 category: sensor
 supports: temperature, humidity, battery
-zigbeemodel: ['CCT595011_AS']
+zigbeemodel: ['CCT593011_AS']
 compatible: [deconz]
 deconz: 4801
 mlink: https://www.lk.dk/produkter?iid=13903

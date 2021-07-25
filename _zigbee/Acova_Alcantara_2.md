@@ -8,7 +8,7 @@ category: hvac
 supports: temperature, heating
 zigbeemodel: ['ALCANTARA2 D1.00P1.01Z1.00']
 compatible: [deconz]
-deconz: 4700
+deconz: 4298
 mlink: https://acova.fr/radiateur-electrique/alcantara-2-connecte-156864
 link: 
 EAN: 

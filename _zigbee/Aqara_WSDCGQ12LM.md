@@ -11,7 +11,7 @@ mlink: https://www.aqara.com/cn/productDetail/d20
 link: 
 ---
 
-Identified by the new Aqara logo ![](/assets/images/new_aqara_logo.jpg)
+
 
 ### Pairing
 Press and hold the reset button on the device for +- 5 seconds (until the blue light starts blinking).

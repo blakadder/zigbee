@@ -6,7 +6,8 @@ title: Gen. 2 Hybrid E-Wand Single Unit
 category: cover
 supports: battery, tilt
 zigbeemodel: ['E-Wand']
-compatible: [z2m]
+compatible: [z2m,deconz]
+deconz: 5041
 mlink: https://www.myewand.com/product-page/gen-2-hybrid-e-wand-single-unit
 link: 
 link2: 

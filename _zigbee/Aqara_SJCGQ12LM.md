@@ -11,7 +11,7 @@ deconz: 4440
 mlink: https://www.aqara.com/cn/productDetail/d19
 link: 
 ---
-Identified by the new Aqara logo ![](/assets/images/new_aqara_logo.jpg)
+
 
 ### Pairing
 Press and hold water logo on the device for +- 10 seconds until the blue light blinks

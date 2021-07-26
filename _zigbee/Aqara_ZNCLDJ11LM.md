@@ -5,7 +5,7 @@ title: Curtain Motor
 category: cover
 type: curtain motor
 supports: open/close, stop, position
-zigbeemodel: ['lumi.curtain', 'lumi.curtain.aq2']
+zigbeemodel: ['lumi.curtain']
 compatible: [z2m,iob,deconz]
 mlink: https://www.aqara.com/en/smart_curtain_motor.html
 link: https://www.aliexpress.com/item/32864093167.html

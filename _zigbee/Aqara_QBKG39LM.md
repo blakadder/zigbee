@@ -7,7 +7,7 @@ category: switch
 supports: on/off, power outage memory, decouple mode
 action: single_left, double_left, single_right, double_right, single_both, double_both
 zigbeemodel: ['lumi.switch.b2lc04']
-compatible: [z2m]
+compatible: [z2m, deconz]
 mlink: https://www.aqara.com/cn/productDetail/smart-wall-switch-e1
 link: 
 link2:

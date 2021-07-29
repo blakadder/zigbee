@@ -1,14 +1,15 @@
 ---
-date_added: 2021-05-17
+date_added: 2021-07-27
 model: ZM-CG205
 vendor: Tuya
 title: Door Magnetic Sensor
 category: sensor
-supports: contact
+supports: contact, battery, tamper
 mlink: 
 link: https://www.aliexpress.com/item/1005002440470114.html 
-zigbeemodel: 
-compatible: deconz
+link2: https://www.aliexpress.com/item/1005002512326796.html
+zigbeemodel: ['TS0203', '_TYZB01_xph99wvr']
+compatible: [deconz,z2m]
 ---
 
 ## Pairing

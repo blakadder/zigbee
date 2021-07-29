@@ -4,11 +4,11 @@ model: 3328-G
 vendor: Centralite
 title: 3-Series Micro Motion Sensor
 category: sensor
-supports: occupancy
+supports: occupancy, temperature
 mlink: https://centralite.com/products/micro-motion-sensor
 link: https://www.amazon.com/dp/B0713STYJQ/
 zigbeemodel: 3328-G
-compatible: zha
+compatible: [zha,z2m]
 ---
 
 

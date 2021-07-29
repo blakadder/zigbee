@@ -4,9 +4,9 @@ model: WS-EUK01
 vendor: Aqara
 title: Smart Wall Switch H1 EU (No Neutral, Single Rocker)
 category: switch
-supports: on/off
+supports: on/off, power outage memory, switch decouple
 zigbeemodel: ['lumi.switch.l1aeu1']
-compatible: []
+compatible: [z2m]
 mlink: https://www.aqara.com/eu/product/smart-wall-switch-h1-no-neutral
 link: https://www.domadoo.fr/fr/peripheriques/5726-xiaomi-aqara-interrupteur-mural-intelligent-h1-zigbee-30-sans-neutre-6970504214774.html
 ---

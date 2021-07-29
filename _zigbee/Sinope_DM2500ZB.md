@@ -8,5 +8,5 @@ supports: on/off, brightness
 zigbeemodel: ['DM2500ZB']
 mlink: https://www.sinopetech.com/en/product/smart-dimmer-600-w-zigbee/
 link: https://www.amazon.com/Sinop%C3%A9-Smart-programmable-dimmer-switch/dp/B07BN188C1
-compatible: [zha]
+compatible: [zha,z2m]
 ---

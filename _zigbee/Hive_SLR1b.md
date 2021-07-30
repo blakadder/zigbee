@@ -7,7 +7,7 @@ category: hvac
 supports: thermostat, occupied heating, weekly schedule
 image: /assets/images/devices/Hive_SLR1b.jpg
 zigbeemodel: ['SLR1b']
-compatible: [z2m,deconz]
+compatible: [zha,z2m,deconz]
 deconz: 3090
 mlink: https://www.hivehome.com/bg/products/hive-active-heating?cid=cen.bg..heat_HAH
 link: 

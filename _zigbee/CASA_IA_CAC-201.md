@@ -1,7 +1,7 @@
 ---
 date_added: 2021-03-12
 model: CAC-201
-vendor: CASA.IA
+vendor: CASA.ia
 title: AC Controler
 category: hvac
 mlink: https://casaia.fr/product/controleur-de-climatiseur-zigbee/

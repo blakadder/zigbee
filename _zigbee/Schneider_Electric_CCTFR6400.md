@@ -4,7 +4,7 @@ model: CCTFR6700
 vendor: Schneider Electric 
 title: Wiser Room Thermostat
 category: hvac
-supports: battery, thermostat, humidity, actions, climate control
+supports: battery, thermostat, humidity, actions, climate control, Override Cycle ( 30', 1 h, 2h )
 zigbeemodel: ['CCTFR6400', 'Thermostat']
 compatible: [z2m, zigate]
 mlink: https://www.se.com/ww/en/product/CCTFR6400/

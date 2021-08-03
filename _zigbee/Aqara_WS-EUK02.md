@@ -11,4 +11,6 @@ mlink: https://www.aqara.com/eu/product/smart-wall-switch-h1-no-neutral
 link: https://www.domadoo.fr/fr/peripheriques/5727-xiaomi-aqara-interrupteur-mural-double-intelligent-h1-zigbee-30-sans-neutre-6970504214781.html
 link2: https://homekitfit.com/product/stenen-smart-klyuch-dvoen-aqara-wall-switch-h1-eu-no-neutral
 ---
-Currently there's a bug in the firmware where pressing the right rocker physically won't report the changed state.
+
+## ZHA
+Pressing the right rocker physically won't report the changed state.

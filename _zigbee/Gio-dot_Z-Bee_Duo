@@ -1,0 +1,13 @@
+---
+date_added: 2021-08-09
+model: Z-Bee Duo
+vendor: @Gio-dot
+title: Gio-dot Z-Bee Duo with CC2652P
+category: coordinator
+supports: coordinator
+mlink: https://github.com/Gio-dot/Z-Bee-Duo
+link: https://www.tindie.com/products/23046/
+zigbeemodel: Z-Bee Duo
+compatible: [z2m,zha]
+---
+3 in 1 adapter: USB Stick, PI Zero Hat, Ser2net, with external antenna and 3D printed case

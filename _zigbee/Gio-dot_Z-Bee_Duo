@@ -1,8 +1,8 @@
 ---
 date_added: 2021-08-09
 model: Z-Bee Duo
-vendor: @Gio-dot
-title: Gio-dot Z-Bee Duo with CC2652P
+vendor: Gio-dot
+title: Z-Bee Duo CC2652P 3 in 1 Adapter
 category: coordinator
 supports: coordinator
 mlink: https://github.com/Gio-dot/Z-Bee-Duo

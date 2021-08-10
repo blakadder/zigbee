@@ -1,7 +1,7 @@
 ---
 date_added: 2020-12-20
 model: CPC-321-80
-vendor: CASA.IA
+vendor: CASA.ia
 title: Energy Monitor 80A with 3 Clamps
 category: sensor
 link: https://www.domadoo.fr/fr/peripheriques/5583-casaia-compteur-d-energie-3-pinces-zigbee-3770021021182.html

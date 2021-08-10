@@ -1,7 +1,7 @@
 ---
 date_added: 2021-07-07
 model: SMD4106W-RGB-ZB
-vendor: Mercator
+vendor: Mercator Ikuü
 title: Walter 7W RGB-CCT LED Downlight IP44
 category: light
 supports: on/off, brightness, colortemp, color

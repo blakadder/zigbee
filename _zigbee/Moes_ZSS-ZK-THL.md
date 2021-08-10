@@ -16,7 +16,7 @@ link3: https://www.domadoo.fr/fr/domotique/5789-moes-capteur-de-temperature-humi
 ---
 
 ## ZHA
-When the screen refreshes, some values get reported as `0` for a while!
+The device seems to reset every 150 seconds and this causes the temperature to be reported, via ZigBee (not on the display), as 0 degrees, and the display displays 0 Lux. Continuous resets, at least once, caused a small "!" to appear on the screen while virtually nothing was updated, suggesting some internal processing error. All in all, the device is next to unusable.
 
 ## Pairing
 Hold the orange button until three dots appear at the top left of the screen.

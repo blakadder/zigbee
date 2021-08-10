@@ -1,12 +1,12 @@
 ---
-date_added: 2020-06-15
+date_added: 2021-08-06
 model: GZCGQ11LM
 vendor: Aqara
-title: Light Sensor T1
+title: Light Detection Sensor T1
 category: sensor
-supports: illuminance, batterylow
-zigbeemodel: []
-compatible: [deconz,zha,zigate]
+supports: illuminance, battery
+zigbeemodel: ['lumi.sen_ill.agl01']
+compatible: [deconz,zha,zigate,z2m]
 mlink: https://www.aqara.com/cn/productDetail/d16
 link: 
 ---

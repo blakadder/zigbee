@@ -1,7 +1,7 @@
 ---
 date_added: 2021-03-12
 model: CAC-221
-vendor: CASA.IA
+vendor: CASA.ia
 title: A/C IR Controller
 category: hvac
 link: https://www.domadoo.fr/fr/controle-chauffage-clim/5581-casaia-controleur-ir-pour-climatiseur-zigbee-3770021021083.html

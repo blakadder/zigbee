@@ -11,4 +11,6 @@ compatible: [z2m]
 mlink: https://www.innr.com/
 link: https://www.amazon.com/dp/B08BPJXDDW
 link2: https://www.amazon.co.uk/dp/B08BPH87SR/
+link3: https://www.domadoo.fr/fr/peripheriques/5796-innr-spot-cylindre-led-connecte-zigbee-additionnel-pour-jardin-8718781552787.html
+link4: https://www.domadoo.fr/fr/peripheriques/5795-innr-spot-cylindre-led-connecte-zigbee-pour-jardin-pack-de-3-8718781552770.html
 ---

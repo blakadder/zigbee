@@ -4,7 +4,7 @@ model: MOSZB-140
 vendor: Develco
 title: Frient Motion Sensor Pro
 category: sensor
-supports: occupancy
+supports: occupancy, battery, illuminance, temperature, tamper
 zigbeemodel: ['MOSZB-140']
 compatible: [z2m, zigate, zha, tasmota]
 mlink: https://frient.com/products/motion-sensor-pro/

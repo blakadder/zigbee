@@ -1,8 +1,8 @@
 ---
 date_added: 2020-05-11
 model: QBKG03LM
-vendor: Xiaomi
-title: Aqara No Neutral Wall Switch (Double Rocker)
+vendor: Aqara
+title: Wall Switch (No Neutral, Double Rocker)
 category: switch
 supports: action, lr_on_off, temperature, decoupled mode
 action: click, hold, release

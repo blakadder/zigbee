@@ -1,8 +1,8 @@
 ---
 date_added: 2020-03-31
 model: QBKG04LM
-vendor: Xiaomi
-title: Aqara No Neutral Wall Switch Single Key
+vendor: Aqara
+title: Wall Switch (No Neutral, Single Rocker)
 category: switch
 supports: action, on/off, decoupled mode
 action: click, hold, release

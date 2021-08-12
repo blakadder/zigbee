@@ -6,7 +6,8 @@ title: High Precision Motion Sensor
 category: sensor
 supports: occupancy, batterypct
 zigbeemodel: ['lumi.motion.agl04']
-compatible: [z2m]
+compatible: [z2m,deconz]
+deconz: 5141
 mlink: https://www.aqara.com/cn/productDetail/high-precision-motion-sensor
 link: 
 ---

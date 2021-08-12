@@ -2,7 +2,7 @@
 date_added: 2021-06-30
 model: WS-EUK02
 vendor: Aqara
-title: Smart Wall Switch H1 EU (No Neutral, Double Rocker)
+title: H1 EU Wall Switch (No Neutral, Double Rocker)
 category: switch
 supports: on/off, power outage memory, switch decouple
 zigbeemodel: ['lumi.switch.l2aeu1']

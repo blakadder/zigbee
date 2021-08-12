@@ -2,7 +2,7 @@
 date_added: 2021-07-26
 model: QBKG40LM
 vendor: Aqara
-title: E1 1 Gang Wall Switch (With Neutral)
+title: E1 Wall Switch (With Neutral, Single Rocker)
 category: switch
 supports: on/off, power outage memory, decouple mode, power monitoring
 action: single, double

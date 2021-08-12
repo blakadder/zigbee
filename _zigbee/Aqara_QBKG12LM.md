@@ -1,8 +1,8 @@
 ---
 date_added: 2020-05-11
 model: QBKG12LM
-vendor: Xiaomi
-title: Aqara Wired Wall Switch Double Key 
+vendor: Aqara
+title: Wall Switch (With Neutral, Double Rocker)
 category: switch
 supports: decoupled mode, lr_on_off, power measurement, click
 action: click, hold, release

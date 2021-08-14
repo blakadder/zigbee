@@ -4,9 +4,9 @@ model: ZB-GW04
 vendor: eWeSmart
 title: EFR32MG21A020F768IM32 Zigbee 3.0 USB Dongle
 category: coordinator
-mlink: https://www.aliexpress.com/item/1005002791666029.html
-link: https://www.easyiot.tech
-zigbeemodel: 
+mlink: https://www.easyiot.tech
+link: https://www.aliexpress.com/item/1005002791666029.html
+zigbeemodel: ZB-GW04
 compatible: zha
 ---
 It comes pre-flashed from ITead with an unsigned EmberZNet 6.7.9 Zigbee NCP application firmware with Silabs standard EZSP v8 (EmberZNet Serial Protocol version 8) interface enabled as well as the standard Silabs Gecko Bootloader firmware for recovery, meaning it can be used either as-is out-of-the-box or flashed with custom application firmware via USB.

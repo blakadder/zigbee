@@ -2,7 +2,7 @@
 date_added: 2021-06-30
 model: WRS-R02
 vendor: Aqara
-title: Wireless Remote Switch H1 (Double Rocker) 
+title: H1 Wireless Remote Switch (Double Rocker) 
 category: remote
 supports: action, batterypct
 action: single, double, triple, hold, release

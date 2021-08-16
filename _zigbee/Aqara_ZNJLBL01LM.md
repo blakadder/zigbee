@@ -1,13 +1,14 @@
 ---
-date_added: 2020-08-16
-model: ZNCLDJ12LM
+date_added: 2021-08-12
+model: ZNJLBL01LM
 vendor: Aqara
-title: Roller Shade Motor E1
+title: Roller Blind Motor E1
 category: cover
 type: curtain motor
-supports: open/close, stop, position, battery
-zigbeemodel: ['']
-compatible: []
-mlink: https://www.aqara.com/cn/smart_curtain_motor_b1.html
+supports: cover position, battery
+zigbeemodel: ['lumi.curtain.acn002']
+compatible: [z2m]
+mlink: https://www.aqara.com/cn/productDetail/Roller_Shade_Driver_E1
 link: https://www.aliexpress.com/item/1005003053362431.html
+link2: 
 ---

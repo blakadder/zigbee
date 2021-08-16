@@ -1,8 +1,8 @@
 ---
 date_added: 2020-05-11
 model: QBKG11LM
-vendor: Xiaomi
-title: Aqara Wired Wall Switch Single Key
+vendor: Aqara
+title: Wall Switch (With Neutral, Single Rocker)
 category: switch
 supports: on/off, click, power measurement, decoupled mode
 action: click, hold, release

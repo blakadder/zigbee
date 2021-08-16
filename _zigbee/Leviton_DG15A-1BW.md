@@ -1,6 +1,6 @@
 ---
 date_added: 2020-01-12
-model: DG15S-1BW
+model: DG15A-1BW
 vendor: Leviton 
 title: Indoor Decora Plug-in Outlet
 category: plug

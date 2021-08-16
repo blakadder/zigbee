@@ -2,7 +2,7 @@
 date_added: 2020-09-12
 model: QBKG26LM
 vendor: Aqara
-title: D1 3 Gang Wall Switch
+title: D1 Wall Switch (With Neutral, Triple Rocker)
 category: switch
 supports: on/off, action, power measurement, decouple mode
 zigbeemodel: ['lumi.switch.n3acn3']

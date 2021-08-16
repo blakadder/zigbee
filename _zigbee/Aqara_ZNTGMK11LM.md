@@ -1,12 +1,13 @@
 ---
-date_added: 2020-08-15
+date_added: 2021-08-16
 model: ZNTGMK11LM
 vendor: Aqara
-title: RGBW LED Controller T1
+title: RGBW Dimming Module T1
 category: light
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['lumi.light.rgbac1']
 compatible: [z2m]
 mlink: https://www.aqara.com/cn/productDetail/d24
-link: 
+link: https://www.aliexpress.com/item/1005002915162802.html
+link2: https://www.aliexpress.com/item/1005003099155669.html
 ---

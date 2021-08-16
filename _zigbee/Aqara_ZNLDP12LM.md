@@ -2,7 +2,7 @@
 date_added: 2020-06-21
 model: ZNLDP12LM
 vendor: Aqara
-title: Tunable White Light Bulb E27
+title: Led Bulb (Tunable White)
 category: light
 type: E27 Bulb
 supports: on/off, brightness, colortemp

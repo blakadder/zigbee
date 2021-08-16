@@ -2,7 +2,7 @@
 date_added: 2021-08-12
 model: QBKG31LM
 vendor: Aqara
-title: H1 EU Wall Switch (With Neutral, Double Rocker)
+title: H1 Pro Wall Switch (With Neutral, Double Rocker)
 category: switch
 supports: on/off, power outage memory, decouple mode
 action: single_left, double_left, single_right, double_right

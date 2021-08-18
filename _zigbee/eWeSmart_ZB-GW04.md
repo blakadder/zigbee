@@ -13,6 +13,6 @@ It comes pre-flashed from ITead with an unsigned EmberZNet 6.7.9 Zigbee NCP appl
 
 Hardware is at its core based on Silicon Labs EFR32MG21 Series 2 Multiprotocol Wireless SoC (part number EFR32MG21A020F1024IM32) and a WCH CH340E USB to Serial/UART Bridge Controller. While it only has a PCB circuit board antenna the radio has an integrated +20 dBm Power Amplifier (output power) and -104.5 dBm Receive Sensitivity which should be made for a very good Zigbee coordinator or Zigbee router if both hardware and firmware were properly implemented.
 
-The Elelabs EZSP Firmware Upgrade Utility or walthowd firmware update Docker image can be used to flash the firmware to a newer or older version. New and old firmware official images are currently being provided at https://github.com/xsp1989/zigbeeFirmware"
+The Elelabs EZSP Firmware Upgrade Utility or walthowd firmware update Docker image can be used to flash the firmware to a newer or older version. New and old firmware official images are currently being provided at https://github.com/xsp1989/zigbeeFirmware
 
 

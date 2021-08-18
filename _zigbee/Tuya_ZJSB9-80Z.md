@@ -3,7 +3,7 @@ date_added: 2021-06-15
 model: ZJSB9-80Z
 vendor: Tuya
 title: Circuit Breaker
-category: hvac
+category: switch
 supports: on/off
 zigbeemodel: ['TS011F', '_TZ3000_1hwjutgo']
 compatible: [z2m]

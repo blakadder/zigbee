@@ -8,7 +8,7 @@ category: remote
 supports: click, action, brightness, scenes
 image: /assets/images/devices/iCasa_ICZB-KPD18S.jpg
 zigbeemodel: ['ICZB-KPD18S']
-compatible: [deconz,z2m,iob]
+compatible: [zha,deconz,z2m,iob]
 deconz: 1124
 mlink: https://www.icasa.io/wandschakelaars?lang=en
 link: https://www.amazon.de/dp/B07L2SLY29/
@@ -16,3 +16,6 @@ link2: https://www.domadoo.fr/fr/peripheriques/5693-icasa-controleur-mural-sans-
 link3: 
 link4: 
 ---
+
+## ZHA
+Blueprint to detect button presses: https://community.home-assistant.io/t/zha-icasa-pulse-s8-keypad-remote/267243

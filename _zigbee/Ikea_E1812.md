@@ -2,7 +2,7 @@
 date_added: 2020-11-10
 model: E1812
 vendor: IKEA
-title: Tradfri Shortcut Button
+title: Tradfri Shortcut Button (White)
 category: remote
 supports: action, battery
 action: on, brightness up/down, brightness stop

@@ -16,3 +16,6 @@ link2: https://www.domadoo.fr/fr/peripheriques/5693-icasa-controleur-mural-sans-
 link3: 
 link4: 
 ---
+
+## ZHA
+Blueprint to detect button presses: https://community.home-assistant.io/t/zha-icasa-pulse-s8-keypad-remote/267243

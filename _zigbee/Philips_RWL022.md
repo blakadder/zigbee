@@ -13,6 +13,7 @@ deconz: 4287
 mlink: https://www.philips-hue.com/sv-se/p/hue-dimmer-switch/8719514274617
 link: https://www.amazon.co.uk/dp/B08PKMT2DV
 link2: https://www.amazon.de/dp/B08PKMT2DV
+link3: https://www.alza.de/philips-hue-dimmer-switch-v2-d6302607.htm
 EAN:
   - 8719514274617
   - 929002398602

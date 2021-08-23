@@ -10,7 +10,7 @@ supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['LCL001']
 compatible: [z2m,iob,zha]
 mlink: https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambience-lightstrip-plus-base-2-metre/8718699703424
-link: https://www.conrad.com/p/philips-lighting-hue-led-strip-lightstrip-plus-20-w-2268877
+link: https://www.alza.de/philips-hue-lightstrip-plus-v4-d5878432.htm
 EAN:
   - 8718699703424
   - 929002269101

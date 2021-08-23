@@ -10,6 +10,6 @@ zigbeemodel: ['IM-Z3.0-DIM']
 compatible: [z2m]
 mlink: https://www.immaxneo.cz/en/products/immax-neo-smart-led-e14-5w-color-dimmable-zigbee-3-0/
 link: https://www.amazon.de/dp/B07T71NMSC
-link2: 
+link2: https://www.alza.cz/immax-neo-led-e14-5w-400lm-zigbee-dim-rgbw-d5278179.htm
 link3: 
 ---

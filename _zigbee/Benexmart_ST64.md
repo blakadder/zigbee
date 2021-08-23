@@ -6,7 +6,6 @@ title: ST64 E27 Dual Color Filament Bulb
 category: light
 mlink: https://benexmart.com
 link: https://www.aliexpress.com/item/1005002328614570.html
-zigbeemodel: ['TS0502A']
-compatible: deconz
+zigbeemodel: ['TS0502B', '_TZ3210_psgq7ysz']
 compatible: [z2m,iob,zha,deconz]
 ---

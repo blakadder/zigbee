@@ -10,7 +10,7 @@ compatible: [z2m,zha]
 z2m: 8719514279131
 mlink: https://www.philips-hue.com/en-gb/p/hue-white-filament-1-pack-g125-e27-filament-globe/8719514279131
 link: https://www.amazon.de/dp/B08CXYWPK7
-link2: 
+link2: https://www.alza.de/philips-hue-white-filament-7-watt-e27-g125-d6133262.htm
 link3: 
 EAN: 
   - 8719514279131

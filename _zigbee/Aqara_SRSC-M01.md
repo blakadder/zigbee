@@ -9,4 +9,5 @@ zigbeemodel: ['lumi.curtain.aq2']
 compatible: [z2m,deconz]
 mlink: https://www.aqara.com/eu/product/smart-roller-shade-controller
 link: https://www.amazon.de/dp/B08Y59J9S2
+link2: https://www.alzashop.com/aqara-smart-roller-shade-controller-d6345581.htm
 ---

@@ -11,6 +11,6 @@ compatible: [z2m,deconz]
 deconz: 2196
 mlink: https://www.immaxneo.cz/en/products/security/immax-neo-smart-keyfob/
 link: https://www.amazon.de/dp/B07TYW4GW1/
-link2: 
+link2: https://www.alza.cz/immax-neo-smart-klicenka-d5569074.htm
 link3: 
 ---

@@ -1,5 +1,5 @@
 ---
-date_added: 2020-08-24
+date_added: 2021-08-25
 model: MCCGQ14LM
 vendor: Aqara
 title: E1 Door & Window Sensor

@@ -1,6 +1,6 @@
 ---
 date_added: 2021-08-24
-model: SJCGQ14LM
+model: SJCGQ13LM
 vendor: Aqara
 title: E1 Water Leak Sensor
 category: sensor

@@ -14,4 +14,4 @@ link3:
 ---
 
 ## Pairing
-Short press the"key" button 3 times. The LED starts flashing rapidly once the device is in pairing mode.
+Short press the "key" button 3 times. The LED starts flashing rapidly once the device is in pairing mode.

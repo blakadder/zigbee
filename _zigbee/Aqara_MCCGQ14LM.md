@@ -7,7 +7,7 @@ category: sensor
 supports: contact, battery
 zigbeemodel: ['']
 compatible: []
-mlink: 
+mlink: https://www.xiaomiyoupin.com/detail?gid=147149
 link: https://www.aliexpress.com/item/1005003173532634.html
 link2: 
 ---

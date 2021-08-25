@@ -9,5 +9,5 @@ actions: single, double, triple, quadruple, many, hold, release, shake, clockwis
 zigbeemodel: ['lumi.remote.rkba01']
 compatible: []
 mlink: https://www.aqara.com/cn/productDetail/wireless-smart-knob-h1
-link: https://www.aliexpress.com/item/1005002063653556.html
+link: https://www.aliexpress.com/item/1005003146847004.html
 ---

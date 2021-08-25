@@ -5,8 +5,7 @@ vendor: Zemismart
 title: Temperature and Humidity Sensor
 category: sensor
 supports: humidity, temperature, batterypct
-image: /assets/images/devices/Zemismart_ZXZTH.jpg
-zigbeemodel: ['RH3052']
+zigbeemodel: ['RH3052', '_TZ3000_lfa05ajd', 'TS0201']
 compatible: [tasmota,iob,z2m,deconz]
 deconz: 3263
 mlink: https://www.zemismart.com/zemismart-tuya-zigbee-hub-wifi-bridge-wireless-smart-home-remote-control-p0267.html

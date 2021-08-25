@@ -6,7 +6,7 @@ title: Styrbar Remote Control (White)
 category: remote
 supports: action, battery
 zigbeemodel: ['Remote Control N2']
-compatible: [z2m,deconz]
+compatible: [z2m,deconz,zha]
 z2m: W2049
 mlink: https://www.ikea.com/gb/en/p/tradfri-remote-control-kit-colour-and-white-spectrum-60462432/
 link: 

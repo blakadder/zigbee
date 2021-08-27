@@ -1,5 +1,5 @@
 ---
-model: ZNCZ12LM
+model: ZNCZ15LM
 vendor: Aqara
 title: Aqara Power Plug T1 CN
 category: plug

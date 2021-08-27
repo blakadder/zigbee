@@ -5,8 +5,8 @@ z2m: SRAC-23B-ZBSR
 vendor: Climax
 title: Siren 
 category: sensor
-supports: warning, battery, tamper
-zigbeemodel: ['SRACBP5_00.00.03.06TC', 'SRAC_00.00.00.16TC']
+supports: alarm, battery, tamper
+zigbeemodel: ['SRACBP5_00.00.03.06TC', 'SRAC_00.00.00.16TC', 'SRACBP5_00.00.05.10TC']
 compatible: [z2m]
 mlink: https://www.climax.com.tw/new/srac23zb.php
 link: 

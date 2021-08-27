@@ -9,7 +9,7 @@ supports: on/off, brightness, colortemp
 zigbeemodel: ['ColorTemperature']
 compatible: [z2m]
 mlink: https://www.immaxneo.cz/en/products/design-luminaires/canto/
-link: https://www.alza.cz/immax-neo-canto-07071l-smart-led?dq=5619845
+link: https://www.alza.cz/immax-neo-canto-07071l-smart-led
 link2: 
 link3: 
 EAN:

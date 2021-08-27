@@ -11,5 +11,5 @@ deconz: 2819
 mlink: https://www.immaxneo.cz/en/products/security/immax-neo-smart-sensor-4v1/
 link: https://www.amazon.de/dp/B07VS1ZPM2/
 link2: https://www.alzashop.com/immax-neo-smart-motion-sensor-4in1-d5569070.htm
-link3: https://www.alza.de/immax-neo-smart-bewegungssensor-4in1-d5569070.htm
+link3: https://www.alza.cz/immax-neo-smart-pohybovy-senzor-4v1-d5569070.htm
 ---

@@ -11,7 +11,10 @@ compatible: [z2m,iob,deconz,zigate,tasmota,zha]
 mlink: https://www2.meethue.com/en-us/p/hue-motion-sensor/046677473389
 link: https://www.amazon.com/Philips-Hue-Motion-Installation-Free-Exclusive/dp/B01KJYSOGI
 link2: https://www.amazon.de/dp/B0748NCMNW
-link3: https://www.amazon.com.au/Philips-Hue-Installation-Free-Exclusive-Compatible/dp/B076ZFF1KR
+link3: https://www.amazon.com.au/dp/B076ZFF1KR
+link4: https://www.alza.de/philips-hue-motion-sensor-d5097013.htm
+EAN:
+  - 929001260761
 ---
 
 #### Tasmota Configuration

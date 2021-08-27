@@ -9,7 +9,7 @@ compatible: [z2m,zha,zigate,deconz]
 mlink: https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-play-light-bar-single-pack/7820130U7
 link: https://www.amazon.de/Philips-Hue-Millionen-steuerbar-kompatibel/dp/B07FXRS4ZW 
 link2: https://www.amazon.com/Philips-White-Color-Ambiance-Double/dp/B07GXB3S7Z
-link3: 
+link3: https://www.alza.de/philips-hue-white-und-color-ambiance-play-einzelpackung-7820130-p7-d5450178.htm
 EAN: 
   - 8718696170717
   - 915005733701

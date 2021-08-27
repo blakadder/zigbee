@@ -1,5 +1,5 @@
 ---
-model: 3130
+model: 3130-G
 vendor: Centralite
 title: 3-Series Smart Switch
 category: remote

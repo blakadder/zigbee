@@ -2,8 +2,6 @@
 {{ link | append: "?p=CM27171011078201412U&custlinkid=759721" }}
 {% elsif link contains "gearbest" %}
 {{ link | append: "?lkid=78266777" }}
-{% elsif link contains "alza" %}
-{{ link | append: "?IDP=13979" }}
 {% elsif link contains "amazon.de" %}
 {{ link | append: "?tag=blakadderzigbee0a-21" }}
 {% elsif link contains "amazon.com.au" %}
@@ -38,6 +36,8 @@
 {{ link | uri_escape | prepend: "https://www.anrdoezrs.net/links/100155213/type/dlg/" }}
 {% elsif link contains "www.alibaba.com" %}
 {{ link | uri_escape | prepend: "https://offer.alibaba.com/cps/ais1lue4?bm=cps&src=saf&url=" }}
+{% elsif link contains "alza" %}
+{{ link | append: "?idp=13979&banner_id=39281" }}
 {% else %}
 {{ link }}
 {% endif %}

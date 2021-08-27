@@ -9,7 +9,7 @@ supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['E27-filament-Dim-ZB3.0']
 compatible: [z2m]
 mlink: https://www.immaxneo.cz/produkty/immax-neo-smart-led-filament-e27-85w-tepla-bila-stmivatelna-zigbee-3-0/
-link: 
+link: https://www.alza.cz/immax-neo-smart-filament-e27-6-3w-tepla-bila-stmivatelna-zigbee-3-0-d5653211.htm
 link2: 
 link3: 
 EAN:

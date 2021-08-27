@@ -9,7 +9,7 @@ zigbeemodel: ['LCE002']
 compatible: [z2m,zha]
 mlink: 
 link: https://www.amazon.com.au/dp/B08CJN74PS
-link2: 
+link2: https://www.alza.de/philips-hue-white-and-color-ambiance-6w-e14-set-2ks-d4826632.htm
 link3: 
 EAN: 
   - 929002294203

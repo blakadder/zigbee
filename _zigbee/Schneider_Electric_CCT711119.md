@@ -5,7 +5,7 @@ vendor: Schneider Electric
 title: Wiser Smart Plug 16A
 category: plug
 tyoe: ['plug','eu']
-supports: on/off
+supports: on/off, electrical measurement
 zigbeemodel: ['SMARTPLUG/1']
 compatible: [z2m]
 mlink: https://www.se.com/ww/en/product/CCT711119/wiser-smart-plug/

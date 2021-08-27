@@ -7,6 +7,6 @@ category: sensor
 supports: metering, electrical measurement
 zigbeemodel: ['HAN']
 compatible: [z2m]
-mlink: https://www.datek.no/dv-cms/resources/home-meterreader-2.pdf
+mlink: 
 link: 
 ---

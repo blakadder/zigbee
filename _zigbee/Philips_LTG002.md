@@ -11,8 +11,9 @@ compatible: [z2m,iob, zigate]
 mlink: https://www2.meethue.com/en-gb/p/hue-white-ambience-1-pack-gu10/8718699628673
 link: https://www.amazon.co.uk/Philips-Ambiance-Spotlight-Bluetooth-Assistant/dp/B07ST56JS6
 link2: https://www.amazon.de/dp/B07ST56JS6 
-link3: 
+link3: https://www.alza.de/philips-hue-single-gu10
 EAN: 
   - 929001953301
+  - 929001953303
   - 8718699628673
 ---

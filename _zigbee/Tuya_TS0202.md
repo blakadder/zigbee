@@ -7,7 +7,7 @@ category: sensor
 type: motion sensor
 supports: occupancy, battery, tamper
 zigbeemodel: ['TS0202','_TYZB01_ef5xlc9q']
-compatible: [z2m]
+compatible: [z2m, zigate]
 mlink: 
 link: https://www.aliexpress.com/item/1005001895670295.html
 link2: 

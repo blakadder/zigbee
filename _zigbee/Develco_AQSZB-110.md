@@ -6,7 +6,7 @@ title: frient Air Quality Sensor
 category: sensor
 supports: voc, temperature, humidity, air quality, battery
 zigbeemodel: ['AQSZB-110']
-compatible: [deconz,z2m]
+compatible: [deconz,z2m,zha]
 deconz: 3542
 mlink: https://frient.dk/products/air-quality-sensor/
 link: https://www.domadoo.fr/fr/peripheriques/5408-frient-capteur-de-qualite-d-air-zigbee-ha-5713594002392.html
@@ -17,3 +17,5 @@ EAN:
   - 5713594002392
 ---
 
+### Pairing
+Press and hold the button under the plastic cover for 15 seconds to start the pairing process. The light will flash once at 5 seconds, twice at 10 seconds and will flash rapidly at 15 seconds at which point you can release.

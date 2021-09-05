@@ -17,3 +17,5 @@ EAN:
   - 5713594002392
 ---
 
+### Pairing
+Press and hold the button under the plastic cover for 15 seconds to start the pairing process. The light will flash once at 5 seconds, twice at 10 seconds and will flash rapidly at 15 seconds at which point you can release.

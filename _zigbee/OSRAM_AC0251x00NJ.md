@@ -10,6 +10,7 @@ image: /assets/images/devices/OSRAM_AC0251x00NJ.jpg
 zigbeemodel: ['Lightify Switch Mini', 'Lightify Switch Mini blue']
 compatible: [z2m,zigate,zha,deconz,iob]
 deconz: 2917
+z2m: AC0251100NJ/AC0251600NJ/AC0251700NJ
 mlink: https://www.osram-lamps.com/appsinfo/pdc/pdf.do?cid=GPS01_3576333&vid=PP_EUROPE_Europe_retail_eCat&lid=EN
 link: https://www.amazon.de/OSRAM-Smart-Switch-Light-Integriert/dp/B077VNS235
 link2: https://www.amazon.co.uk/Osram-Smart-Mini-Switch-Wireless/dp/B074PZKX4G

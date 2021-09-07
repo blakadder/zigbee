@@ -5,7 +5,7 @@ vendor: Heiman
 title: Metering Plug
 category: plug
 supports: on/off, power measurement
-zigbeemodel: ['SmartPlug','SmartPlug-N']
+zigbeemodel: ['SmartPlug', 'SmartPlug-N', 'SmartPlug-EF-3.0']
 compatible: [z2m,deconz,iob,zha]
 mlink: http://www.heimantech.com/product/?type=detail&id=15
 link: https://www.aliexpress.com/item/32859364431.html

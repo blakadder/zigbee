@@ -1,12 +1,12 @@
 ---
-date_added: 2021-04-24
+date_added: 2021-09-02
 model: AV2010/32
 vendor: SMaBiT
 title: Wall Thermostat
 category: hvac
 supports: temperature
 zigbeemodel: ['902010/32']
-compatible: [zigate,iob,deconz,z2m]
+compatible: [zigate,iob,deconz,z2m,zha]
 deconz: 4662
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/thermostatbitron90201032
 mlink: https://bvsite.smabit.eu/index.php/produkte/smart-home-produkte/funkthermostat/

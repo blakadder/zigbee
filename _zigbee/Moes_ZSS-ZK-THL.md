@@ -14,9 +14,11 @@ link: https://www.aliexpress.com/item/1005002525279564.html
 link2: https://www.banggood.com/MoesHouse-Smart-ZigBee-or-bluetooth-Mesh-Brightness-Thermometer-Light-Temperature-Humidity-Detector-Tuya-Smart-App-Alexa-Control-p-1842856.html
 link3: https://www.domadoo.fr/fr/domotique/5789-moes-capteur-de-temperature-humidite-et-luminosite-zigbee.html
 ---
+Temperature and humidity are reported at a fixed 60 minute interval.
+
+## Pairing
+Hold the orange button until three dots appear at the top left of the screen.
 
 ## ZHA
 The device seems to reset every 150 seconds and this causes the temperature to be reported, via ZigBee (not on the display), as 0 degrees, and the display displays 0 Lux. Continuous resets, at least once, caused a small "!" to appear on the screen while virtually nothing was updated, suggesting some internal processing error. All in all, the device is next to unusable.
 
-## Pairing
-Hold the orange button until three dots appear at the top left of the screen.

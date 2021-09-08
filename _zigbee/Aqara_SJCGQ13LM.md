@@ -1,12 +1,12 @@
 ---
-date_added: 2021-08-24
+date_added: 2021-08-31
 model: SJCGQ13LM
 vendor: Aqara
 title: E1 Water Leak Sensor
 category: sensor
 supports: water leak, battery
-zigbeemodel: ['']
+zigbeemodel: ['lumi.flood.acn001']
 compatible: []
 mlink: https://www.xiaomiyoupin.com/detail?gid=147148
-link: https://www.aliexpress.com/item/1005003173525706.html
+link: https://www.aliexpress.com/item/1005003197506130.html
 ---

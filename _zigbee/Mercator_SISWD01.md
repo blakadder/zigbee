@@ -11,4 +11,3 @@ z2m: TS0601_dimmer
 mlink: https://www.ikuu.com.au/product/inline-switch-with-dimmer/
 link: 
 ---
-This dimmer switch is manufactured by Earda and sold on Aliexpress under many brands such Girier, Lonsonho, Moes and white label. 

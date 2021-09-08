@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Philips_LTW017.jpg
 zigbeemodel: ['LTW017']
-compatible: [deconz,iob]
+compatible: [deconz,z2m]
 mlink: https://www2.meethue.com/en-au/p/hue-white-ambiance-adore-bathroom-mirror-light/3435111P7
 link: https://www.amazon.de/dp/B07F9812TN/
 link2: https://www.amazon.com.au/Philips-Including-Dimmable-Controlled-Compatible/dp/B07F9812TN/

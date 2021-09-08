@@ -15,4 +15,4 @@ EAN:
   - 20202500
   - 5713594002361
 ---
-Sensor is capable to have 3 different Off to On motion delays configured via Cluster 0x0400, Attribute 0x0010
+Sensor is capable to have 3 different Off to On motion delays configured via Cluster 0x0400, Attribute 0x0010. Default motion delay is 12 seconds.

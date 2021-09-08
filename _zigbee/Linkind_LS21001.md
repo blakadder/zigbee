@@ -4,7 +4,7 @@ model: LS21001
 vendor: Linkind
 title: Water Leak Sensor
 category: sensor
-supports: water leak, battery
+supports: water leak, battery, alert
 zigbeemodel: ['A001082']
 compatible: [z2m]
 mlink: https://www.linkind.com/product-page/door-window-sensor-zigbee-for-use-with-linkind-smart-device

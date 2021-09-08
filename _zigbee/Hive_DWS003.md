@@ -4,7 +4,7 @@ model: DWS003
 vendor: Hive
 title: Window or Door Sensor
 category: sensor
-supports: contact, temperature, battery
+supports: contact, temperature, battery, illuminance
 zigbeemodel: ['DWS003']
 compatible: [z2m,deconz,zha]
 deconz: 3053

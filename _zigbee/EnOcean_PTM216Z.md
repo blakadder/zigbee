@@ -5,10 +5,10 @@ vendor: EnOcean
 title: Green Power Generic Switch Pushbutton Transmitter Module 
 category: remote
 supports: action, green power
-zigbeemodel: ['']
+zigbeemodel: ['GreenPower_7']
+greenpower: ['31.133.242']
 compatible: [deconz,z2m]
 deconz: 4828
-z2m: GreenPower_On_Off_Switch
 mlink: https://www.enocean.com/en/products/enocean_modules_24ghz/ptm-216z/
 link: 
 link2: 

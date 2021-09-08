@@ -8,7 +8,7 @@ type: [temperature sensor, humidity sensor, illumination sensor]
 supports: temperature, humidity, illumination, battery
 zigbeemodel: ['TS0201','_TZ3000_qaaysllp']
 zb3: true
-compatible: [deconz]
+compatible: [deconz,zha]
 mlink: 
 link: https://www.aliexpress.com/item/1005002384720598.html
 link2: 

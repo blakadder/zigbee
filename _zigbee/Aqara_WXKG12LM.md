@@ -1,7 +1,7 @@
 ---
 model: WXKG12LM
-vendor: Xiaomi
-title: Aqara Wireless Mini Switch with Gyroscope
+vendor: Aqara
+title: Wireless Mini Switch with Gyroscope
 category: remote
 supports: action, batterypct
 action: single, double, hold, release, shake

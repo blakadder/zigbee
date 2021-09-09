@@ -7,7 +7,7 @@ category: remote
 supports: action, green power
 zigbeemodel: ['GreenPower_2']
 greenpower: ['31.197.242']
-compatible: []
+compatible: [z2m]
 mlink: https://www.legrand.fr/pro/catalogue/44688-version-celiane-with-netatmo/commande-double-sans-fils-sans-pile-self-e-celiane-with-netatmo-pour-eclairage-et-prises-enjoliveur-blanc
 link: 
 link2: 

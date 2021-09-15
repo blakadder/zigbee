@@ -17,3 +17,28 @@ link3:
 
 ## Tasmota
 For Tasmota, the attribute `"EnergyTotal":"0x000000001152"` gives the total energy in increments of '10 Wh'. I.e. divide by 100 to get the number of KWh.
+
+SHP13 does not report power spontaneously, so you need to probe regularly. One way to do it is to group all SHP13 in a same zigbee group and send a read request every minute.
+
+### Adding devices to a group
+
+Let's add all SHP13 devices to group number 220. For each device run:
+
+```ZbSend {"device":"<device_name_or_id>","Send":{"AddGroup":220}}```
+
+You should receive confirmation similar to this: `{"ZbReceived":{"<device>":{"Device":"<device>","Name":"Plug_Cave","0004<00":"00DC00","AddGroup":220,"AddGroupStatus":0,"AddGroupStatusMsg":"SUCCESS","Endpoint":1,"LinkQuality":110}}}`
+
+Note: list all groups the device is in with: `ZbSend {"device":"<device>","Send":{"GetAllGroups":true}}`
+
+### Create a rule to read every minute
+
+Use a rule similar to:
+
+```
+Rule1 on zbstate#status==0 do backlog ruletimer1 10 endon on rules#timer=1 do backlog ruletimer1 60; ZbSend {"Group":220,"Read":{"RMSVoltage":true,"ActivePower":true}} endon
+```
+
+Then enable the Rule:
+```
+Rule1 1
+```

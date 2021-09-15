@@ -1,5 +1,5 @@
 ---
-date_added: 2021-07-21
+date_added: 2021-09-15
 model: AAQS-S01
 vendor: Aqara
 title: TVOC Air Quality Monitor
@@ -15,4 +15,3 @@ zigbeemodel: ['lumi.airmonitor.acn01']
 compatible: [zha,tasmota,z2m]
 EAN: VOCKQJK11LM
 ---
-Only temperature and humidity values are exposed in ZHA and Tasmota. Tasmota shows battery voltage and battery percentage too.

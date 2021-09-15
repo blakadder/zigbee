@@ -9,7 +9,7 @@ action: single, double
 zigbeemodel: ['lumi.switch.b1lc04']
 compatible: [deconz,z2m]
 mlink: https://www.aqara.com/cn/productDetail/smart-wall-switch-e1
-link: https://www.banggood.com/Aqara-E1-Zigbee-Smart-Wall-Switch-Voice-APP-Remote-Control-Timing-Function-Switch-Work-With-Mijia-Apple-HomeKit-p-1850113.html
+link: https://www.banggood.com/Aqara-E1-1Gang-or-2Gang-Smart-Wall-Switch-APP-Remote-Control-Zigbee3_0-Timing-Control-Over-Temperature-Protection-Work-Mijia-App-HomeKit-p-1893862.html
 link2: https://www.aliexpress.com/item/1005003143304270.html
 link3: 
 ---

@@ -21,8 +21,8 @@ Press the button on the front 3 times in quick successsion (Note: there will be 
 
 To change sensitivity use:
 
-`ZbSend {"Device":"<device>","Write":{"0500/FFF1%23":"0x04020000"}}` where the value is one of the following: `'low': 0x04010000, 'medium': 0x04020000, 'high': 0x04030000`
+`ZbSend {"Device":"<device>","Manuf":"0x115F","Write":{"0500/FFF1%23":"0x04020000"}}` where the value is one of the following: `'low': 0x04010000, 'medium': 0x04020000, 'high': 0x04030000`
 
 To run a self-test use:
 
-`ZbSend {"Device":"<device>","Write":{"0500/FFF1%23":"0x03010000"}}`
+`ZbSend {"Device":"<device>","Manuf":"0x115F","Write":{"0500/FFF1%23":"0x03010000"}}`

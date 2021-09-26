@@ -5,7 +5,7 @@ title: Combustible gas sensor
 category: sensor
 supports: gas
 image: /assets/images/devices/Heiman_HS3CG.jpg
-zigbeemodel: ['GASSensor-N']
+zigbeemodel: ['GASSensor-N','GASSensor-N-3.0']
 compatible: [z2m,deconz]
 mlink: 
 link: 

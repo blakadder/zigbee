@@ -6,7 +6,7 @@ title: LED Bulb T1 (Tunable White)
 category: light
 type: E27 Bulb
 supports: on/off, brightness, colortemp
-zigbeemodel: ['']
+zigbeemodel: ['lumi.light.cwac02']
 compatible: []
 mlink: https://www.aqara.com/cn/productDetail/led_light_t1
 link: https://www.aliexpress.com/item/1005003143112875.html

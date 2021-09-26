@@ -4,7 +4,7 @@ model: ZS1100400-IN-V1A02
 vendor: Linkind
 title: PIR Motion Sensor
 category: sensor
-supports: occupancy
+supports: occupancy, battery
 zigbeemodel: ['ZB-MotionSensor-D0003']
 compatible: [z2m]
 mlink: https://www.linkind.com/product/pir-motion-sensor-zigbee/

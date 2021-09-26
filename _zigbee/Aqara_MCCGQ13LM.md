@@ -8,8 +8,7 @@ supports: contact, battery
 zigbeemodel: ['']
 compatible: []
 mlink: https://www.aqara.com/cn/productDetail/aqara-door-and-windows-sensor-p1
-link: https://www.aliexpress.com/item/1005003060555957.html
-link2: https://www.aliexpress.com/item/1005003071227973.html
+link: https://www.aliexpress.com/item/1005003071227973.html
 ---
 
 

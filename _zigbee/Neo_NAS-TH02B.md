@@ -11,6 +11,6 @@ zb3: true
 compatible: [deconz,zha]
 mlink: 
 link: https://www.aliexpress.com/item/1005002384720598.html
-link2: 
+link2: https://www.domadoo.fr/fr/domotique/5887-neo-capteur-de-temperature-humidite-et-luminosite-zigbee.html
 link3: 
 ---

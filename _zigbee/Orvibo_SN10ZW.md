@@ -5,7 +5,7 @@ vendor: Orvibo
 title: Motion Sensor
 category: sensor
 supports: occupancy
-zigbeemodel: ['895a2d80097f4ae2b2d40500d5e03dcc']
+zigbeemodel: ['131c854783bc45c9b2ac58088d09571c', 'b2e57a0f606546cd879a1a54790827d6', '585fdfb8c2304119a2432e9845cf2623']
 compatible: [deconz,z2m,zha]
 mlink: https://www.orvibo.com/en/product/bodysensor.html
 link: https://www.amazon.co.uk/Orvibo-SN10ZW-1CO-Motion-Intelligent-Control/dp/B07BS2S2RX

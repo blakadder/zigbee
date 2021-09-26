@@ -5,7 +5,7 @@ vendor: SMaBiT
 title: SMaBiT Wall Switch with 4 Function Keys
 category: remote
 supports: click
-zigbeemodel: ['AV2010/34']
+zigbeemodel: ['AV2010/34', '902010/14']
 compatible: [z2m]
 mlink: https://manuals.smabit.eu/len/av2010_34.html
 link: https://www.amazon.de/dp/B01LX5R8RN

@@ -28,7 +28,7 @@ Remove the 4 rubber feet to access screws and disassemble the device. Take out t
 |GND     | GND
 |3v3     | 3V3/VCC
 
-Download [tasmota-zbbridge](https://github.com/arendst/Tasmota/blob/firmware/firmware/tasmota/tasmota-zbbridge.bin?raw=true), a unique binary built specifically for ZBBridge and flash it using your favorite flashing software.
+Download [tasmota-zbbridge](http://ota.tasmota.com/tasmota/release/tasmota-zbbridge.bin), a unique binary built specifically for ZBBridge and flash it using your favorite flashing software.
 
 When the ZbBridge is flashed with Tasmota, **disconnect all breadboard wires** and power the board using its USB port with a 5V 1A power supply. Configure Wi-Fi [over Tasmota AP](https://tasmota.github.io/docs/Getting-Started/#using-web-ui) (you cannot configure the device over serial with this binary). After it is connected to your network access the webUI again. 
 

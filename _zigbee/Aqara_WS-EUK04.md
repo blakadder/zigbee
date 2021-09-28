@@ -4,7 +4,7 @@ model: WS-EUK04
 vendor: Aqara
 title: H1 EU Wall Switch (With Neutral, Double Rocker)
 category: switch
-supports: on/off, power outage memory, switch decouple, temperature, power monitoring 
+supports: on/off, power outage memory, switch decouple, device temperature, power monitoring 
 action: single_left, double_left, single_right, double_right, single_both, double_both
 zigbeemodel: ['lumi.switch.n2aeu1']
 compatible: [z2m]

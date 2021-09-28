@@ -3,8 +3,7 @@ model: E1810
 vendor: IKEA
 title: Tradfri Remote Control
 category: remote
-supports: action, batterypct
-image: /assets/images/devices/Ikea_E1810.jpg
+supports: action, battery
 zigbeemodel: ['TRADFRI Remote Control']
 compatible: [z2m,zigate,zha,deconz,tasmota]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ikeatradfritlcommande

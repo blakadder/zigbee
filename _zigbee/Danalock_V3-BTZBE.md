@@ -6,7 +6,7 @@ title: V3 Smart Lock
 category: lock
 supports: lock/unlock, batterypct
 zigbeemodel: ['V3-BTZBE']
-compatible: [z2m]
+compatible: [z2m,zha]
 z2m: V3-BTZB/V3-BTZBE
 mlink: https://danalock.com/products/danalock-v3-smart-lock/
 link: https://www.domadoo.fr/fr/controle-acces/4540-danalock-serrure-connectee-bluetooth-et-zigbee-danalock-v3-5712560000493.html

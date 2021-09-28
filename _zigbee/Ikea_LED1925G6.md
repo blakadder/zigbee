@@ -11,5 +11,7 @@ mlink: https://www.ikea.com/gb/en/p/tradfri-led-bulb-e14-470-lumen-wireless-dimm
 link: 
 link2: 
 link3: 
-EAN: 705.176.36
+EAN: 
+  - 705.176.36
+  - 704.391.96
 ---

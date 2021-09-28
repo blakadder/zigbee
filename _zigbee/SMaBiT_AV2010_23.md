@@ -4,8 +4,7 @@ vendor: SMaBiT
 title: 4-Button Remote Control
 category: remote
 supports: action, battery
-image: /assets/images/devices/SMaBiT_AV2010_23.jpg
-zigbeemodel: ['902010/23']
+zigbeemodel: ['AV2010/23', '902010/23']
 compatible: [deconz,z2m]
 deconz: 2392
 z2m: 902010/23

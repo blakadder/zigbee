@@ -22,3 +22,10 @@ Hold the orange button until three dots appear at the top left of the screen.
 ## ZHA
 The device seems to reset every 150 seconds and this causes the temperature to be reported, via ZigBee (not on the display), as 0 degrees, and the display displays 0 Lux. Continuous resets, at least once, caused a small "!" to appear on the screen while virtually nothing was updated, suggesting some internal processing error. All in all, the device is next to unusable.
 
+## Z2M
+Same problems with Z2M.
+
+## Device not suitable for home automation
+- Reports temperature / humidity  every hours, can't be used for controlling heater or dehumidifier
+- Hangs when not used with tuya hub.
+

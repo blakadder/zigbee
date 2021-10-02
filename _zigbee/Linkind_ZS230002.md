@@ -5,7 +5,6 @@ vendor: Linkind
 title: 5-Key Smart Bulb Dimmer Switch Light Remote Control
 category: remote
 supports: action, battery
-action: 'on', 'off', 'brightness_step_up', 'brightness_step_down', 'color_temperature_move', 'color_move', 'brightness_move_up', 'brightness_move_down', 'brightness_stop', 'brightness_move_to_level', 'color_temperature_move_up', 'color_temperature_move_down'
 zigbeemodel: ['ZBT-RGBWSwitch-D0801']
 compatible: [z2m]
 mlink: https://www.linkind.com/product/5-key-smart-bulb-dimmer-switch/

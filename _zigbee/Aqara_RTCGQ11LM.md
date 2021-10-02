@@ -3,7 +3,7 @@ model: RTCGQ11LM
 vendor: Aqara
 title: Motion and Illuminance Sensor
 category: sensor
-supports: occupancy, illuminance, batterypct
+supports: occupancy, illuminance, batterypct, device temperature
 image: /assets/images/devices/RTCGQ11LM.jpg
 zigbeemodel: ['lumi.sensor_motion.aq2']
 compatible: [z2m, zigate, deconz, tasmota, zha, iob]

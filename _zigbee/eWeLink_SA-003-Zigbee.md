@@ -6,7 +6,7 @@ category: switch
 supports: on/off
 image: /assets/images/devices/eWeLink_SA-003.jpg
 zigbeemodel: ['SA-003-Zigbee']
-compatible: [z2m,iob,zigate,zha,tasmota]
+compatible: [z2m,iob,zigate,zha,tasmota,deconz]
 mlink: 
 link: https://www.aliexpress.com/item/4000645044358.html
 link2: https://www.amazon.ca/dp/B08RNJR6PS

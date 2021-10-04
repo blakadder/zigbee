@@ -8,5 +8,5 @@ supports:
 zigbeemodel: ['lumi.remote.rkba01']
 compatible: []
 mlink: https://www.aqara.com/cn/productDetail/smart-wall-switch-H1-with-neutral
-link: https://www.aliexpress.com/item/1005003146723749.html
+link: https://www.aliexpress.com/item/1005003147237964.html
 ---

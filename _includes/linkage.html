@@ -29,13 +29,17 @@
 {% elsif link contains "moeshouse.com" %}
 {{ link | append: "?ref=v4thya2eufek" }}
 {% elsif link contains "www.aliexpress.com" %}
-{{ link | append: "?aff_platform=link-c-tool&cpt=1579460387259&sk=_sPA71V&aff_trace_key=1ea588879adf4a71b69472fcc8469bea-1579460387259-01187-_sPA71V&terminal_id=5ab3b3bf703c438dac102dcfef054d7e" }}
-{% elsif link contains "itead.cc" %}
-{{ link | uri_escape | prepend: "https://www.anrdoezrs.net/links/100155213/type/dlg/" }}
-{% elsif link contains "geekbuying.com" %}
-{{ link | uri_escape | prepend: "https://www.anrdoezrs.net/links/100155213/type/dlg/" }}
+{{ link | append: "?aff_fcid=838cd87b9730419a949bb351a9225daf-1635037251054-04238-_9gTCE1&tt=CPS_NORMAL&aff_fsk=_9gTCE1&aff_platform=shareComponent-detail&sk=_9gTCE1&aff_trace_key=838cd87b9730419a949bb351a9225daf-1635037251054-04238-_9gTCE1&terminal_id=c60aa1c2bd3d4f80907b0cc2716fb935" }}
 {% elsif link contains "www.alibaba.com" %}
 {{ link | uri_escape | prepend: "https://offer.alibaba.com/cps/ais1lue4?bm=cps&src=saf&url=" }}
+{% elsif link contains "geekbuying.com" %}
+{{ link | remove_first: 'https://' | uri_escape | prepend: "https://www.shareasale.com/r.cfm?b=371154&u=2442238&m=38812&urllink=" }}
+{% elsif link contains "itead.cc" %}
+{{ link | remove_first: 'https://' | uri_escape | prepend: "https://www.shareasale.com/r.cfm?b=829657&u=2442238&m=63930&urllink=" }}
+{% elsif link contains "linkind.com" %}
+{{ link | remove_first: 'https://' | uri_escape | prepend: "https://www.shareasale.com/r.cfm?b=1616481&u=2442238&m=101126&urllink="  }}
+{% elsif link contains "avatarcontrols.com" %}
+{{ link | remove_first: 'https://' | uri_escape | prepend: "https://www.shareasale.com/r.cfm?b=1651554&u=2442238&m=102746&urllink="  }}
 {% elsif link contains "alza" %}
 {{ link | append: "?idp=13979&banner_id=39281" }}
 {% else %}

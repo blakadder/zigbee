@@ -8,7 +8,7 @@ zigbeemodel: ['LWA011']
 compatible: [z2m]
 z2m: 929001821618
 mlink: 
-link: https://www.aliexpress.com/i/1005001765336746.html
+link: 
 link2: 
 link3: 
 ---

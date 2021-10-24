@@ -3,7 +3,7 @@ date_added: 2020-10-14
 vendor: Saswell
 model: SEA801-Zigbee 
 title: eTRV+ Radiator Valve
-zigbeemodel: ['GbxAXL2','_TYST11_KGbxAXL2']
+zigbeemodel: ['GbxAXL2','_TYST11_KGbxAXL2','_TZE200_9gvruqf5']
 category: hvac
 supports: temperature, thermostat, battery
 mlink: https://www.saswell.com/etrv-smart-radiator-valve-tuya-zigbee-thermostatic-radiator-valve-sea801-zigbee_p103.html

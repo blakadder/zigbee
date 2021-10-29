@@ -5,7 +5,7 @@ title: Hue White A60 E27
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/Philips_LWB006.jpg
-zigbeeModel: ['LWB006']
+zigbeemodel: ['LWB006']
 compatible: [z2m,deconz,zigate]
 mlink: https://www2.meethue.com/es-cl/p/hue-white-ampolleta-individual-e27/8718696449578
 link: https://www.amazon.de/dp/B0152WXI0E/

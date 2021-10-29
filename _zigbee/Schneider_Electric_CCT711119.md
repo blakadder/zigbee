@@ -4,7 +4,7 @@ model: CCT711119
 vendor: Schneider Electric 
 title: Wiser Smart Plug 16A
 category: plug
-tyoe: ['plug','eu']
+type: ['plug','eu']
 supports: on/off, electrical measurement
 zigbeemodel: ['SMARTPLUG/1']
 compatible: [z2m]

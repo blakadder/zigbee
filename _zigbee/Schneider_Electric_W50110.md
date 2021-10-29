@@ -4,7 +4,7 @@ model: W50110
 vendor: Schneider Electric 
 title: Wiser Micro Module Light Switch
 category: switch
-tyoe: ['module','switch']
+type: ['module','switch']
 supports: on/off
 zigbeemodel: ['PUCK/SWITCH/1']
 compatible: [z2m]

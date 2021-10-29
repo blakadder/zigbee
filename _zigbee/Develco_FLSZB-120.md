@@ -1,5 +1,5 @@
 ---
-dadte_added: 2021-08-23
+date_added: 2021-08-23
 model: FLSZB-120
 vendor: Develco
 title: frient Water Leak Detector 

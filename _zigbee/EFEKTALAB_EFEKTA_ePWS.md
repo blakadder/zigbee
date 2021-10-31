@@ -7,8 +7,8 @@ category: sensor
 supports: temperature, soil moisture, battery
 zigbeemodel: ['EFEKTA_ePWS']
 compatible: [z2m]
-mlink: https://github.com/smartboxchannel/Wireless-capacitive-soil-moisture-mini-sensor-with-e-paper-display-1.02inch
-link: https://www.tindie.com/products/diyberk/soil-moisture-mini-sensor-with-e-paper-display/
+mlink: https://github.com/smartboxchannel/e-Flower
+link: https://www.tindie.com/products/diyberk/plant-watering-sensor-with-e-ink-display-zigbee/
 link2: 
 link3: 
 ---

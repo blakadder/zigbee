@@ -7,7 +7,7 @@ category: cover
 supports: open/close, stop, position, tilt
 image: /assets/images/devices/Legrand_067726.jpg
 zigbeemodel: [' Shutter switch with neutral']
-compatible: [z2m,zigate,deconz]
+compatible: [zha,z2m,zigate,deconz]
 z2m: 067776
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/interrupteurfilaireconnectpourvoletroulant
 deconz: 883

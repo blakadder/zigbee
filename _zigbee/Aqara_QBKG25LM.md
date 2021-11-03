@@ -2,7 +2,7 @@
 date_added: 2020-06-07
 model: QBKG25LM
 vendor: Aqara
-title: D1 Wall Switch (No Neutral, Double Rocker)
+title: D1 Wall Switch (No Neutral, Triple Rocker)
 category: switch
 supports: on/off, action, power measurement, decouple mode, device temperature, led disabled night
 zigbeemodel: ['lumi.switch.l3acn3']

@@ -5,7 +5,7 @@ vendor: Zemismart
 title: Curtain Motor with Track
 category: cover
 supports: open, close, stop, position
-zigbeemodel: ['TS0601','_TZE200_xaabybja']
+zigbeemodel: ['TS0601','_TZE200_xaabybja','_TZE200_rmymn92d']
 compatible: [z2m]
 z2m: TS0601_cover
 mlink: https://www.zemismart.com/

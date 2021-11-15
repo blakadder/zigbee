@@ -9,6 +9,6 @@ zigbeemodel: ['lumi.curtain']
 compatible: [z2m,iob,deconz]
 mlink: https://www.aqara.com/en/smart_curtain_motor.html
 link: https://www.aliexpress.com/item/32864093167.html
-link3: https://www.banggood.com/XIAOMI-Aqara-Smart-Curtain-Motor-Intelligent-Zig_bee-Wifi-For-xiaomi-Smart-Home-Device-Wireless-Remote-Control-Via-Mi-Home-APP-p-1476591.html
+link3: https://www.banggood.com/Aqara-Smart-Curtain-Motor-Intelligent-Zibee-Wifi-For-Smart-Home-Device-Wireless-Remote-Control-Via-Mi-Home-APP-p-1896513.html?cur_warehouse=CN&rmmds=search
 link2: https://www.amazon.de/dp/B07Z3B1QNH
 ---

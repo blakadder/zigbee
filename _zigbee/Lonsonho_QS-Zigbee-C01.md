@@ -6,7 +6,7 @@ title: Curtain/Blind Motor Controller Module
 category: cover, tilt
 type: Module
 supports: on/off
-zigbeemodel: ['TS130F','_TZ3000_vd43bbfq']
+zigbeemodel: ['TS130F', '_TZ3000_vd43bbfq', '_TZ3000_fccpjz5z']
 compatible: [z2m,deconz,zha]
 mlink: 
 link: https://www.aliexpress.com/item/1005001625209250.html

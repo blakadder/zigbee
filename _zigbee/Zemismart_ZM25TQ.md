@@ -11,6 +11,6 @@ deconz: 4132
 z2m: TS0601_cover
 mlink: https://www.zemismart.com/zemismart-tuya-zigbee-roller-shade-motor-for-38mm-tube-alexa-echo-google-home-control-electric-engine-shutter-rod-p0274.html
 link: https://www.aliexpress.com/item/4000336263991.html
-link2: 
+link2: https://www.aliexpress.com/item/4000899220814.html
 link3: 
 ---

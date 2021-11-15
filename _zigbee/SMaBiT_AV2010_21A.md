@@ -5,9 +5,8 @@ EAN: 8023874396033
 vendor: SMaBiT
 title: Compact Magnetic Contact Sensor
 category: sensor
-supports: contact, tamper
-image: /assets/images/devices/SMaBiT_AV2010_21A.jpg
-zigbeemodel: ['902010/21A']
+supports: contact, tamper, battery low
+zigbeemodel: ['AV2010/21A', '902010/21A']
 compatible: [z2m,zigate,deconz,iob]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/chargeurusb-
 mlink: https://manuals.smabit.eu/len/av2010_21a.html

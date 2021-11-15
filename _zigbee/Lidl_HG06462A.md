@@ -5,7 +5,7 @@ vendor: Lidl
 title: Livarno Lux E27 A60 Filament Bulb
 category: light
 supports: on/off, brightness
-zigbeemodel: ['TS0501A','_TZ3000_7dcddnye']
+zigbeemodel: ['TS0501A','_TZ3000_7dcddnye','_TZ3000_nosnx7im','_TZ3000_nbnmw9nc']
 compatible: [z2m]
 mlink: https://www.lidl.com/
 link: 

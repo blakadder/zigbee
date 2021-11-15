@@ -4,7 +4,7 @@ model: NH3516
 vendor: Schneider Electric 
 title: Wiser Universal Rotary Dimmer
 category: dimmer
-tyoe: ['wall','dimmer']
+type: ['wall','dimmer']
 supports: on/off, brightness
 zigbeemodel: ['NHROTARY/DIMMER/1']
 compatible: [z2m]

@@ -8,6 +8,6 @@ supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['lumi.light.rgbac1']
 compatible: [z2m]
 mlink: https://www.aqara.com/cn/productDetail/d24
-link: https://www.aliexpress.com/item/1005002915162802.html
-link2: https://www.aliexpress.com/item/1005003099155669.html
+link: https://www.aliexpress.com/item/1005003099155669.html
+link2: 
 ---

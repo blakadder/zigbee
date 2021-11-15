@@ -5,7 +5,7 @@ vendor: Tuya
 title: Circuit Breaker
 category: switch
 supports: on/off
-zigbeemodel: ['TS011F', '_TZ3000_1hwjutgo']
+zigbeemodel: ['TS011F', '_TZ3000_1hwjutgo','_TZ3000_lnggrqqi']
 compatible: [z2m]
 z2m: TS011F_circuit_breaker
 mlink: https://expo.tuya.com/product/329829

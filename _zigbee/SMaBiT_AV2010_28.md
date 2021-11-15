@@ -5,7 +5,7 @@ vendor: SMaBiT
 title: Smart Plug with Switch 16A
 category: plug
 supports: on/off
-zigbeemodel: ['902010/28']
+zigbeemodel: ['AV2010/28', '902010/28']
 compatible: [zigate,z2m]
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/902010
 mlink: https://manuals.smabit.eu/len/av2010_28.html

@@ -4,7 +4,7 @@ model: W50100
 vendor: Schneider Electric 
 title: Wiser Micro Module Dimmer
 category: dimmer
-tyoe: ['module','dimmer']
+type: ['module','dimmer']
 supports: on/off, brightness
 zigbeemodel: ['PUCK/DIMMER/1']
 compatible: [z2m]

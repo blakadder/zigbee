@@ -3,7 +3,7 @@ date_added: 2020-11-01
 vendor: HiHome
 model: WZB-TRVL
 title: Smart Radiator Thermostat
-zigbeemodel: ['uhszj9s','_TYST11_zuhszj9s']
+zigbeemodel: ['uhszj9s','_TYST11_zuhszj9s','_TZE200_zuhszj9s']
 category: hvac
 supports: temperature, thermostat, battery
 mlink: https://hihome.eu/products/hihome-smart-zigbee-radiator-thermostat

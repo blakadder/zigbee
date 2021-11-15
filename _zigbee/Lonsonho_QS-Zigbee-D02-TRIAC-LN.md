@@ -11,4 +11,5 @@ compatible: [z2m,zigate,zha]
 mlink: 
 link: https://www.aliexpress.com/item/4001279149071.html
 link2: https://www.banggood.com/220-240V-Tuya-Smart-Solution-1Gang-ZB-Dimming-Switch-Smart-Home-Modification-Module-p-1790204.html
+link3: https://www.amazon.nl/dp/B09153LHKN/
 ---

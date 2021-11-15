@@ -5,7 +5,7 @@ vendor: SMaBiT
 title: Outdoor Siren and Flashing Light
 category: sensor
 supports: alarm, tamper, battery
-zigbeemodel: ['902010/29']
+zigbeemodel: ['AV2010/29', '902010/29']
 compatible: [deconz,iob,z2m]
 z2m: 902010/29
 deconz: 3092 

@@ -12,7 +12,7 @@ link: https://www.aliexpress.com/item/4000537100802.html
 link2: https://www.aliexpress.com/item/4000523263373.html
 link3: 
 zigbeemodel: ['DS01']
-compatible: [z2m,iob,zha,zigate,tasmota]
+compatible: [z2m,iob,zha,zigate,tasmota,deconz]
 ---
 
 #### Tasmota Configuration

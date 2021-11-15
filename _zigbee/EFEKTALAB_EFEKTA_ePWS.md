@@ -1,5 +1,5 @@
 ---
-date_added: 2021-11-18
+date_added: 2021-11-08
 model: EFEKTA_ePWS
 vendor: EFEKTALAB
 title: Plant Watering Sensor with E-ink Display

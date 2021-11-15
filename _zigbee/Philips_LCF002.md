@@ -14,7 +14,6 @@ link2: https://www.amazon.com/Philips-Hue-802090-Calla-Lighting/dp/B07DBN3FSQ/
 link3: https://www.amazon.com.au/Philips-Ambiance-Outdoor-mounting-Requires/dp/B07DBN3FSQ
 EAN: 
   - 8718696167991
-  - 8718696168011
   - 046677802097
   - 046677802080
 ---

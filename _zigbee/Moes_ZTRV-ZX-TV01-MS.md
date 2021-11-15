@@ -7,7 +7,7 @@ category: hvac
 type: trv
 supports: climate, battery
 zigbeemodel: ['TS0601','_TZE200_e9ba97vf']
-compatible: [zha]
+compatible: [zha,z2m]
 z2m: TS0601_thermostat
 mlink: https://www.moeshouse.com/products/tuya-zigbee3-0-new-mini-radiator-actuator-valve-smart-programmable-thermostat-temperature-controller-external-sensor-accurate-heater-trv-thermostatic-radiator-valve-voice-control-with-alexa
 link: https://www.aliexpress.com/item/1005003136136233.html

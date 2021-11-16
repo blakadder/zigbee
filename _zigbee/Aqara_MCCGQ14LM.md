@@ -6,7 +6,7 @@ title: E1 Door & Window Sensor
 category: sensor
 supports: contact, battery
 zigbeemodel: ['lumi.magnet.acn001']
-compatible: []
+compatible: [z2m]
 mlink: https://www.xiaomiyoupin.com/detail?gid=147149
 link: https://www.aliexpress.com/item/1005003410251901.html
 link2: https://www.banggood.com/Aqara-E1-Window-And-Door-Sensor-Zibee-3_0-Wireless-Remote-Control-Smart-Home-Kit-Remote-Alarm-Eco-System-Works-With-Homekit-And-Mi-Home-APP-p-1898162.html

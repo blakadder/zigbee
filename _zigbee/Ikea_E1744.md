@@ -15,3 +15,6 @@ EAN:
   - 203.704.82
   - 404.337.80
 ---
+
+### Pairing
+To factory reset the Symfonisk Sound Controller, open the battery cover and press the button 4 times rapidly, if the LED turns solid red it means the remote is successfully connected.

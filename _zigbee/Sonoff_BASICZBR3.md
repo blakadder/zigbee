@@ -12,7 +12,7 @@ zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/basiczbr3
 mlink: https://sonoff.tech/product/zigbee-diy-smart-switches/basiczbr3
 link3: https://www.amazon.de/dp/B0813DJ477
 link2: https://www.amazon.com/dp/B07ZPRXMMD
-link: https://www.itead.cc/smart-home/sonoff-basiczbr3.html
+link: https://itead.cc/product/sonoff-basiczbr3/
 link4: https://www.domadoo.fr/fr/peripheriques/5258-sonoff-module-commutateur-10a-zigbee-30.html
 ---
 ### Pairing

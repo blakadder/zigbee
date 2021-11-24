@@ -12,4 +12,5 @@ mlink: https://www.aqara.com/en/product/roller-shade-driver-e1
 link: https://www.aliexpress.com/item/1005003053362431.html
 link2: https://www.amazon.de/dp/B097YFL7RS/
 link3: https://www.domadoo.fr/fr/peripheriques/5892-xiaomi-aqara-motorisation-intelligente-pour-store-enrouleur-a-chainette-zigbee-30-rsd-m01-6970504215085.html
+link4: https://www.idealo.de/preisvergleich/Typ/6970504215085.html
 ---

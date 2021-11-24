@@ -32,6 +32,8 @@
 {{ link | append: "?aff_fcid=838cd87b9730419a949bb351a9225daf-1635037251054-04238-_9gTCE1&tt=CPS_NORMAL&aff_fsk=_9gTCE1&aff_platform=shareComponent-detail&sk=_9gTCE1&aff_trace_key=838cd87b9730419a949bb351a9225daf-1635037251054-04238-_9gTCE1&terminal_id=c60aa1c2bd3d4f80907b0cc2716fb935" }}
 {% elsif link contains "www.alibaba.com" %}
 {{ link | uri_escape | prepend: "https://offer.alibaba.com/cps/ais1lue4?bm=cps&src=saf&url=" }}
+{% elsif link contains "idealo.de" %}
+{{ link | remove_first: 'https://' | uri_escape | prepend: "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=930253&ued=" }}
 {% elsif link contains "geekbuying.com" %}
 {{ link | remove_first: 'https://' | uri_escape | prepend: "https://www.shareasale.com/r.cfm?b=371154&u=2442238&m=38812&urllink=" }}
 {% elsif link contains "itead.cc" %}

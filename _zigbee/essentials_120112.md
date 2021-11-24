@@ -8,7 +8,7 @@ category: hvac
 supports: temperature, thermostat, battery
 mlink: 
 link: https://www.amazon.com/essentials-120112-Smart-Home-Thermostat/dp/B0816X9ZDF
-link2: 
+link2: https://www.idealo.de/preisvergleich/OffersOfProduct/200684364_-essentials-heizkoerperthermostat-zigbee-120144-wesmartify.html
 compatible: [z2m,iob,deconz,zha]
 deconz: 3381
 z2m: GS361A-H04

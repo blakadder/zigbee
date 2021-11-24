@@ -11,4 +11,5 @@ compatible: [zigate,z2m,deconz]
 deconz: 4282
 mlink: https://www.lidl.com/
 link: https://www.lidl.de/de/silvercrest-tuerklingel-zigbee-smart-home/p365253
+link2: https://www.idealo.de/preisvergleich/OffersOfProduct/201549082_-tuerklingel-zigbee-smart-home-silvercrest-multimedia.html
 ---

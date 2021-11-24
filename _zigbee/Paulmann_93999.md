@@ -10,7 +10,7 @@ zigbeemodel: ['H036-0001']
 compatible: [z2m]
 mlink: https://en.paulmann.com/outdoor-lighting/garden-lighting-system/control/plug-und-shine-zigbeecontroller-ip68-24vdc-max.-75w-black/93999
 link: https://www.amazon.de/dp/B075X17RMG/
-link2: 
+link2: https://www.idealo.de/preisvergleich/OffersOfProduct/6884034_-plug-shine-zigbee-controller-outdoor-ip68-939-99-paulmann.html
 link3: 
 ---
 

@@ -12,6 +12,7 @@ link: https://www.domadoo.fr/fr/peripheriques/5751-xiaomi-aqara-moniteur-de-qual
 link3: https://www.alzashop.com/zigbee-air-quality-sensor-aqara-tvoc-air-quality-monitor-d6519580.htm
 link4: https://www.banggood.com/Aqara-Indoor-Air-Quality-Monitor-Pollution-Meter-for-TVOC-Temperature-and-Humidity-with-a-High-Contrast-E-Ink-Screen-Supports-HomeKit-Google-Alexa-and-IFTTT-for-Living-Room-Bedroom-and-Office-p-1885763.html
 zigbeemodel: ['lumi.airmonitor.acn01']
-compatible: [zha,tasmota,z2m]
+compatible: [zha,tasmota,z2m,deconz]
+deconz: 4704
 EAN: VOCKQJK11LM
 ---

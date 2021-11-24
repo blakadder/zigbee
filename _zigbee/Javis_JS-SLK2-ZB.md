@@ -5,7 +5,7 @@ vendor: Javis
 title: Intelligent Biometric Digital Lock
 category: lock
 supports: action
-zigbeemodel: ['JAVISLOCK']
+zigbeemodel: ['JAVISLOCK','doorlock_5001','E321V000A03']
 compatible: [z2m]
 mlink: https://javishome.vn/khoa-thong-minh-js-slk2-zb-dung-cho-cua-go
 link: 

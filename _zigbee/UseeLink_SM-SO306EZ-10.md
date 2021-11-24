@@ -7,7 +7,7 @@ category: plug
 type: [power strip, eu]
 supports: on/off
 zigbeemodel: ['TS011F']
-compatible: [z2m,deconz,zha, zigate]
+compatible: [z2m,deconz,zha,zigate]
 mlink: 
 link: https://www.aliexpress.com/item/4000981707898.html
 link2: https://www.domadoo.fr/fr/peripheriques/5489-useelink-multiprise-connectee-16a-zigbee-ha-4-prises-2-ports-usb.html

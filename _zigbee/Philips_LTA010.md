@@ -8,7 +8,7 @@ supports: on/off, brightness, colortemp
 zigbeemodel: ['LTA010']
 compatible: [z2m]
 z2m: 9290024683
-mlink: 
+mlink: https://www.philips-hue.com/en-gb/p/-/8719514291119
 link: 
 link2: 
 link3: 

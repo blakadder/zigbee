@@ -11,7 +11,7 @@ deconz: 3542
 mlink: https://frient.dk/products/air-quality-sensor/
 link: https://www.domadoo.fr/fr/peripheriques/5408-frient-capteur-de-qualite-d-air-zigbee-ha-5713594002392.html
 link2: https://www.amazon.de/dp/B08WXT6166
-link3: 
+link3: https://www.idealo.de/preisvergleich/Typ/5713594002392.html
 EAN:
   - 20204000 
   - 5713594002392

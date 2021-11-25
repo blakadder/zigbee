@@ -11,6 +11,7 @@ mlink: https://www.busch-jaeger.de/en/search-online-catalogue?tx_solr%5Bq%5D=lig
 link: https://www.amazon.de/dp/B017KXGJDG
 link2: https://www.amazon.it/dp/B017KXGRQA
 link3: https://www.amazon.se/dp/B017KXGJDG/
+link4: https://www.idealo.de/preisvergleich/OffersOfProduct/200949080_-zigbee-light-link-1-kanal-busch-jaeger.html
 ---
 "XX" in model number signifies multiple colors.
 

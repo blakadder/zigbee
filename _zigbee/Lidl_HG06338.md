@@ -11,4 +11,5 @@ deconz: 3838
 z2m: TS011F_switch
 mlink: https://www.lidl.com/
 link: https://www.lidl.de/de/silvercrest-steckerleiste-zigbee-smart-home/p355170
+link2: https://www.idealo.de/preisvergleich/Typ/4056233451825.html
 ---

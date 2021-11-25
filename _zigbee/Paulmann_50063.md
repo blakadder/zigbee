@@ -9,7 +9,7 @@ zigbeemodel: ['RGBW light']
 compatible: [z2m,iob]
 z2m: 50049/500.63
 mlink: https://en.paulmann.com/indoor-lighting/smart-home/zigbee/controlling/smarthome-zigbee-yourled-rgb-controller-max.-60w/50049
-link: https://www.led-centrum.de/smart-home/marken/paulmann-home/paulmann-50063-smarthome-zb-led-reflektor-3-5w-gu10-rgbw-dimmbar.html
+link: https://www.idealo.de/preisvergleich/OffersOfProduct/6153010_-smarthome-zigbee-rgbw-led-3-5w-50063-paulmann.html
 link2: 
 link3: 
 EAN: 4000870500637

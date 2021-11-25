@@ -1,13 +1,12 @@
 ---
-date_added: 2021-01-15
-model: CC2538.router
-vendor: jethome
-title: Modkam Stick CC2538 Router
-category: router
-supports: router
-zigbeeid: ['cc2538.router.v1']
-compatible: [z2m,iob,zha,tasmota]
-z2m: cc2538.router.v1
-mlink: https://github.com/jethome-ru/zigbee-firmware/tree/master/ti/router/cc2538_cc2592
+date_added: 2021-11-25
+model: WS7
+vendor: JetJome
+title: Three Channel Digital Input Module
+category: remote
+supports: action, battery
+zigbeeid: ['WS7']
+compatible: [z2m]
+mlink: https://wiki.jethome.ru/ws7_v1
 link: https://www.aliexpress.com/item/4000848221784.html
 ---

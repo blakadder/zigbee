@@ -11,6 +11,7 @@ mlink: https://www.aqara.com/en/single_switch_T1_no-neutral.html
 link: https://www.domadoo.fr/fr/peripheriques/5387-aqara-micromodule-onoff-zigbee-30-1250w-sans-neutre-6970504213302.html
 link2: https://www.amazon.de/dp/B08XW9LYG1/
 link3: https://www.alzashop.com/aqara-single-switch-module-t1-no-neutral-d6258582.htm
+link4: https://www.idealo.de/preisvergleich/Typ/6970504213302.html
 ---
 
 Does not work as a router!

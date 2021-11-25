@@ -11,6 +11,7 @@ mlink: https://www.busch-jaeger.de/en/search-online-catalogue?tx_solr%5Bq%5D=lig
 link: https://www.amazon.de/dp/B017KXHF3O/
 link2: https://www.amazon.co.uk/Busch-Jaeger-6737-815-Yellow-Wireless-Receiver-4011395200438/dp/B017KXHCUU
 link3: https://www.amazon.es/Busch-Jaeger-2CKA006730A0110-Busch-J-Bedienelement-edelstahl/dp/B017KXHFQQ
+link4: https://www.idealo.de/preisvergleich/OffersOfProduct/200945874_-zigbee-light-link-4-fach-busch-jaeger.html
 ---
 "XX" in model number signifies multiple colors.
 

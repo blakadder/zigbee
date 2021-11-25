@@ -8,5 +8,5 @@ supports: on/off, brightness
 zigbeemodel: ['S240135']
 compatible: [z2m]
 mlink: https://www.tlg.no/slc-smartone-zigbee-wall-remote-4-x-mono
-link: 
+link: https://www.idealo.de/preisvergleich/Typ/7070938062428.html
 ---

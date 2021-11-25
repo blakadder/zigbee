@@ -4,7 +4,7 @@ model: E1766
 vendor: IKEA
 title: Tradfri Open/Close Remote
 category: remote
-supports: batterypct, click
+supports: batterypct, click, open and close command to windows covering devices
 image: /assets/images/devices/Ikea_E1766.jpg
 zigbeemodel: ['TRADFRI open/close remote']
 compatible: [z2m,deconz,iob, zigate,zha]

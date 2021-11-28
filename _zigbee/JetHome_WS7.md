@@ -1,7 +1,7 @@
 ---
 date_added: 2021-11-25
 model: WS7
-vendor: JetJome
+vendor: JetHome
 title: Three Channel Digital Input Module
 category: remote
 supports: action, battery

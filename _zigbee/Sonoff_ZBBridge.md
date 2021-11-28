@@ -5,13 +5,14 @@ vendor: Sonoff
 title: Zigbee Bridge
 category: coordinator
 supports: coordinator
-zigbeemodel: ['']
+zigbeemodel:
 compatible: [tasmota,zha]
-mlink: https://www.itead.cc/sonoff-zbbridge.html
-link: https://www.itead.cc/sonoff-zbbridge.html
+mlink: https://itead.cc/product/sonoff-zbbridge/
+link: https://www.amazon.com/dp/B08BFT44QL/
 link2: https://www.aliexpress.com/af/sonoff-zbbridge.html
 link3: https://www.banggood.com/SONOFF-ZBBridge-Smart-Bridge-p-1674754.html
 link4: https://www.amazon.de/dp/B08DRBPCPQ
+link5: https://www.aliexpress.com/wholesale?SearchText=zbbridge
 ---
 
 ## Flash ESP8266

@@ -2,7 +2,7 @@
 date_added: 2021-07-13
 model: WK36
 vendor: TramSmart
-title: Smart Plug 16A with Power MonitoringEU
+title: Smart Plug 16A with Power Monitoring EU
 category: plug
 supports: on/off
 zigbeemodel: ['TS011F','_TZ3000_ps3dmato']

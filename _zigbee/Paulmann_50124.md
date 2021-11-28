@@ -11,7 +11,7 @@ z2m: 4137
 mlink: https://en.paulmann.com/p/led-pear-smart-home-zigbee-e27-230v-806lm-9-3w-rgbw-matt/50124
 link: https://www.amazon.de/dp/B08KYH6QV5/
 link2: https://www.elektro-wandelt.de/Paulmann-501-24-Smart-Home-Zigbee-LED-Leuchtmittel-9-3W-Matt-E27-RGBW.html
-link3: 
+link3: https://www.idealo.de/preisvergleich/Typ/4000870501245.html
 EAN: 4000870501245
 ---
 

@@ -9,5 +9,6 @@ zigbeemodel: ['TS0501B','_TZ3210_dxroobu3']
 compatible: [z2m]
 mlink: https://miboxer.com/light/xqy/fut036z.html
 link: https://www.aliexpress.com/item/1005002776866370.html
-link2: 
+link2: https://www.ledbe.com/miboxer-fut036z-zigbee-dimmer-12v
+link3: https://www.idealo.de/preisvergleich/Typ/6970602181787.html
 ---

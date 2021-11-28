@@ -4,7 +4,7 @@ model: CCTFR6100
 vendor: Schneider Electric 
 title: Drayton Wiser Radiator Thermostat
 category: hvac
-supports: temperature, batterypct, keypad lock, heating demand, setpoint, open window detection, boost -2/+2 °C
+supports: temperature, batterypct, keypad lock, heating demand, setpoint, open window detection, boost -2/+2 °C, external temperature sensor
 zigbeemodel: ['iTRV']
 compatible: [z2m,zha,zigate, deconz]
 deconz: 4148

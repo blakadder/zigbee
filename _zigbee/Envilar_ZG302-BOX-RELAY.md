@@ -3,8 +3,7 @@ model: ZG302-BOX-RELAY
 vendor: Envilar
 title: In-Wall AC Switch Module
 category: dimmer
-type: In-Wall Dimmer
-supports: switching
+supports: switch
 zigbeemodel: ['ZG302-BOX-RELAY']
 compatible: [z2m]
 mlink: 

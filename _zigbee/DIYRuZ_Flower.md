@@ -6,7 +6,8 @@ title: Soil Moisture Sensor
 category: sensor
 supports: temperature, humidity, illuminance, soil_moisture, pressure, battery
 zigbeemodel: ['DIYRuZ_Flower']
-compatible: [z2m,iob]
+compatible: [z2m,deconz]
+deconz: 4893
 z2m: DIYRuZ_Flower
 mlink: https://modkam.ru/?p=1700
 link: 

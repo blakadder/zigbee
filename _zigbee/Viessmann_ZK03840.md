@@ -6,7 +6,7 @@ title: ViCare Radiator Thermostat Valve
 category: hvac
 supports: thermostat, battery
 mlink:
-link: https://www.badexo.de/viessmann-vicare-heizkoerper-thermostat
+link: https://www.idealo.de/preisvergleich/OffersOfProduct/201650687_-vicare-smart-home-zk03840-viessmann.html
 link2: 
 link3:
 zigbeemodel: ['7637434']

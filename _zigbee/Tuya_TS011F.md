@@ -7,10 +7,10 @@ category: plug
 supports: on/off, power metering, voltage, current
 zigbeemodel: ['TS011F', '_TZ3000_cphmq0q7', '_TZ3000_ew3ldmgx', '_TZ3000_dpo1ysak']
 compatible: [z2m,deconz,zha, zigate]
-z2m: TS011F_plug
+z2m: TS011F_plug_3
 deconz: 4838
 mlink: 
 link: https://www.aliexpress.com/item/1005002344798281.html
-link2: 
+link2: https://www.aliexpress.com/item/1005002518243120.html
 link3: 
 ---

@@ -4,10 +4,10 @@ model: E2007
 vendor: IKEA
 title: Starkvind Air Purifier
 category: hvac
-supports: fan mode
+supports: fan mode, fan speed, air quality, child lock, replace filter
 zigbeemodel: ['STARKVIND Air purifier']
 compatible: [z2m]
-mlink: https://www.ikea.com/it/it/manuals/starkvind-air-purifier-black__AA-2283689-2_pub.pdf
+mlink: https://www.ikea.com/nl/en/p/starkvind-air-purifier-white-50461942/
 link: 
 EAN: 
 ---

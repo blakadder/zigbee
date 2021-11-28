@@ -5,7 +5,7 @@ vendor: Tuya
 title: Dimmer Module 2 Channel
 category: switch
 supports: on/off
-zigbeemodel: ['TS1101', '_TZ3000_7ysdnebc']
+zigbeemodel: ['TS1101', '_TZ3000_7ysdnebc','_TZ3000_xfs39dbf']
 compatible: [z2m]
 z2m: TS1101_dimmer_module
 mlink: https://expo.tuya.com/product/906029

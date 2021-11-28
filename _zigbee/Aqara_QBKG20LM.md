@@ -8,5 +8,5 @@ supports: on/off, power outage memory, decouple mode, power monitoring
 zigbeemodel: ['lumi.switch.b2nacn01']
 compatible: [z2m]
 mlink: https://www.aqara.com/cn/productDetail/d31
-link: 
+link: https://www.aliexpress.com/item/1005003163916431.html
 ---

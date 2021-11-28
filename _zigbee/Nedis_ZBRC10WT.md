@@ -12,5 +12,6 @@ z2m: TS0215A_remote
 mlink: https://nedis.com/en-us/product/550735173/smart-remote-contoller-zigbee-4-buttons-battery-included-white
 link: https://www.amazon.de/dp/B087QSD3VC
 link2: https://www.alza.de/nedis-smarte-fernbedienung-zbrc10wt-d6526236.htm
+link3: https://www.idealo.de/preisvergleich/Typ/5412810330997.html
 EAN: '5412810330997'
 ---

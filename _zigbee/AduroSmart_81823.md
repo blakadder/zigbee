@@ -9,6 +9,6 @@ zigbeemodel: ['VMS_ADUROLIGHT']
 compatible: [z2m,iob,zha,deconz]
 mlink: https://adurosmart.com/product/eria-smart-motion-sensor/
 link: https://www.amazon.com/dp/B07HJSKDWV
-link2: 
+link2: https://www.idealo.de/preisvergleich/Typ/644558228716.html
 link3: 
 ---

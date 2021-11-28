@@ -7,7 +7,7 @@ category: cover
 supports: open, close, stop, position
 zigbeemodel: ['TS0601']
 compatible: [z2m]
-z2m: TS0601_curtain
+z2m: TS0601_cover
 mlink: http://www.binthen.com/en/pd.jsp?id=187
 link: 
 link2: 

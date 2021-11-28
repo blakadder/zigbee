@@ -7,7 +7,7 @@ category: cover
 supports: open, close, stop, position
 zigbeemodel: ['TS0601','_TZE200_nueqqe6k']
 compatible: [z2m,deconz,zigate]
-z2m: TS0601_curtain
+z2m: TS0601_cover
 deconz: 4521
 mlink: 
 link: https://www.aliexpress.com/item/1005002089498926.html

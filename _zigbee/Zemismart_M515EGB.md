@@ -8,7 +8,7 @@ supports: open, close, stop, position
 zigbeemodel: ['TS0601','_TZE200_xuzcvlku']
 compatible: [z2m,deconz,zha]
 deconz: 3398
-z2m: TS0601_curtain
+z2m: TS0601_cover
 mlink: https://www.zemismart.com/
 link: https://www.aliexpress.com/item/4001343586623.html
 link2: https://www.amazon.co.uk/dp/B0876WLL7Y

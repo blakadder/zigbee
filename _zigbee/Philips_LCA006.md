@@ -1,4 +1,5 @@
 ---
+date_added: 2021-12-03
 model: LCA006
 vendor: Philips
 title: Hue White and Color 1100 A60 E27

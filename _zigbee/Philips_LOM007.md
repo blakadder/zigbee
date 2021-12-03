@@ -10,7 +10,7 @@ compatible: [z2m]
 z2m: 929003050601
 mlink: https://www.philips-hue.com/de-de/p/hue-smart-plug/8719514342309
 link: https://www.amazon.de/dp/B09CV7QQKB
-link2: 
+link2: https://www.tink.de/philips-hue-smart-plug-smarte-steckdose
 link3: 
 EAN:
   - 8719514342309

@@ -11,4 +11,5 @@ compatible: [z2m]
 mlink: https://www.innr.com/en/product/outdoor-flex-light-colour/
 link: https://www.amazon.co.uk/dp/B085GLBCXN
 link2: https://www.domadoo.fr/fr/eclairage/5482-innr-ruban-flexible-outdoor-couleur-4m-zigbee-lightlink-8718781552527.html
+link3: https://www.tink.de/innr-smart-outdoor-flex-light-colour-led-streifen
 ---

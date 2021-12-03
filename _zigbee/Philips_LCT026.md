@@ -9,9 +9,9 @@ image: /assets/images/devices/Philips_LCT026.jpg
 zigbeemodel: ['LCT026','7602031P7']
 compatible: [z2m,deconz,zigate,iob,zha]
 z2m: 7602031P7
-mlink: https://www2.meethue.com/de-at/p/hue-white-and-color-ambiance-go-tragbare-leuchte-(neuestes-modell)/7602031P7
+mlink: https://www.philips-hue.com/de-at/p/hue-white-and-color-ambiance-go-tragbare-leuchte-(neuestes-modell)/7602031P7
 link: https://www.amazon.co.uk/Philips-Plastic-Table-Bedside-Light/dp/B07SQ2FZTK
-link2: 
+link2: https://www.tink.de/philips-hue-white-color-ambiance-go-bluetooth-tischleuchte
 link3: 
 EAN: 
   - 76020/31/P7

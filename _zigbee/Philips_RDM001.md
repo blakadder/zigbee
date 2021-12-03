@@ -10,8 +10,8 @@ compatible: [z2m,deconz]
 z2m: 929003017102
 deconz: 4287
 mlink: https://www.philips-hue.com/en-gb/p/hue-philips-hue-wall-switch-module/8719514318045
-link: 
-link2: 
+link: https://www.tink.de/philips-hue-wandschalter-modul
+link2: https://www.idealo.de/preisvergleich/OffersOfProduct/201541947_-hue-wandschaltermodul-philips.html
 EAN:
   - 8719514318045
   - 929003017101

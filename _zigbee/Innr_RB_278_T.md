@@ -11,5 +11,5 @@ compatible: [z2m,iob,zigate,deconz]
 mlink: https://www.innr.com/en/product/smart-bulb-comfort-e27-2pack/
 link: https://www.amazon.de/dp/B07JB9ZV2K/
 link2: https://www.domadoo.fr/fr/peripheriques/5353-innr-ampoule-connectee-type-e27-zigbee-30-pack-de-2-ampoules-blanc-reglable-2200k-a-5000k-8718781552312.html
-link3: 
+link3: https://www.tink.de/innr-led-e27-lampe-dimmbar-weiss-zigbee-3-0-rb-278-t-2-2er-set
 ---

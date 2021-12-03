@@ -2,7 +2,7 @@
 date_added: 2020-07-05
 model: YRL220
 vendor: Yale
-title:  Real Living Touchscreen Lever Lock
+title: Real Living Touchscreen Lever Lock
 category: lock
 supports: lock/unlock, batterypct
 zigbeemodel: ['YYRL220 TS LL']

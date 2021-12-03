@@ -10,6 +10,6 @@ compatible: [z2m]
 mlink: https://www2.meethue.com/de-de/p/hue-white-and-color-ambiance-sana-wandleuchte/4090130P9
 link: https://www.amazon.co.uk/Philips-Ambiance-Dimmable-Controlled-Compatible/dp/B07FY38KKM
 link2: https://www.amazon.de/dp/B07ST67HFW
-link3: 
+link3: https://www.tink.de/philips-hue-white-color-ambiance-sana-bluetooth-wandleuchte
 EAN: 4090130P7
 ---

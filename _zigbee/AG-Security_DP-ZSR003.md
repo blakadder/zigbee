@@ -6,7 +6,7 @@ title: Wireless Scene Switch 2 Gang
 category: remote
 supports: action, battery
 zigbeemodel: ['TS0043','_TZ3400_key8kk7r']
-compatible: [deconz,zha]
+compatible: [deconz,zha,z2m]
 mlink: https://www.alibaba.com/product-detail/Tuya-Wireless-Remote-Control-Smart-Zigbee_62306595053.html
 link: https://www.aliexpress.com/item/1005001687942333.html
 link2: 

@@ -14,3 +14,6 @@ link: https://www.aliexpress.com/item/4001343586623.html
 link2: https://www.amazon.co.uk/dp/B0876WLL7Y
 link3: 
 ---
+
+### Pairing
+Short press set (under device), after the light flashes red immediately press again and hold until light starts flashing red again (this should put the device in pairing mode for 2 minutes).

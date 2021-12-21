@@ -2,7 +2,7 @@
 date_added: 2021-11-08
 model: LTA004
 vendor: Philips
-title: Hue White Ambiance 800 E27 Bluetooth 
+title: Hue White Ambiance 800 E27  
 category: light
 supports: on/off, brightness, colortemp
 zigbeemodel: ['LTA004']

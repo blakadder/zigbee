@@ -22,7 +22,7 @@ If you are having trouble pairing, reset the device.
 - release ones 'rES' is displayed
 - hit boot once after 'Jin' is displayed
 
-Documentation for Zigbee parameters: https://eurotronic.org/wp-content/uploads/2019/11/Spirit_ZigBee_BAL_web_EN_November-2019.pdf
+Documentation for Zigbee parameters: https://eurotronic.org/wp-content/uploads/2021/07/Spirit_ZigBee_BDA_web_EN_2021.pdf
 
 ### Zigbee2Tasmota
 

@@ -5,7 +5,7 @@ vendor: Zemismart
 title: Curtain motor
 category: cover
 supports: open, close, stop, position
-zigbeemodel: ['owvfni3\u0000','TS0601','_TZE200_cowvfni3']
+zigbeemodel: ['owvfni3\u0000','TS0601','_TZE200_cowvfni3', '_TZE200_3i3exuay']
 compatible: [z2m,zha]
 z2m: TS0601_cover
 mlink: https://www.zemismart.com/zemismart-smart-life-zigbee-curtain-track-alexa-echo-google-home-control-via-tuya-electric-curtains-rod-broadlink-p0275.html

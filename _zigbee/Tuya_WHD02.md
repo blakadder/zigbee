@@ -5,7 +5,7 @@ vendor: Generic
 title: Mini Smart Switch 10A/16A
 category: switch
 supports: on/off
-zigbeemodel: ['TS0001', '_TZ3000_hktqahrq','TS000F','_TZ3000_m9af2l6g']
+zigbeemodel: ['TS0001', '_TZ3000_hktqahrq','TS000F', '_TZ3000_m9af2l6g']
 compatible: [zha,z2m]
 z2m: TS0121_plug
 mlink: 

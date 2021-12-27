@@ -5,7 +5,7 @@ vendor: Tuya
 title: Switch Module 2 Channel No Neutral
 category: switch
 supports: on/off, power on behaviour
-zigbeemodel: ['TS0012', '_TZ3000_jl7qyupf']
+zigbeemodel: ['TS0012', '_TZ3000_jl7qyupf', '_TZ3000_nPGIPl5D']
 compatible: [z2m,zigate]
 z2m: TS0012_switch_module
 mlink: https://expo.tuya.com/product/907024

@@ -2,7 +2,7 @@
 date_added: 2021-12-27
 model: 81848
 vendor: AduroSmart
-title: Eria Smart Plug with Power Analytics
+title: ERIA Smart Plug with Power Analytics
 category: plug
 supports: on/off, power metering
 mlink: 

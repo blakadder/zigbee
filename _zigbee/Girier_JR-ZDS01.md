@@ -5,7 +5,7 @@ vendor: Girier
 title: Smart Light Switch Module
 category: switch
 supports: on/off
-zigbeemodel: ['TS0001', '_TZ3000_majwnphg']
+zigbeemodel: ['TS0001', '_TZ3000_majwnphg', '_TZ3000_6axxqqi2']
 compatible: [z2m,zha]
 mlink: 
 link: https://www.aliexpress.com/item/1005002164359835.html

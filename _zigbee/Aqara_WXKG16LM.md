@@ -1,5 +1,5 @@
 ---
-date_added: 2021-09-02
+date_added: 2021-12-22
 model: WXKG16LM
 vendor: Aqara
 title: E1 Wireless Remote Switch (Single Rocker)

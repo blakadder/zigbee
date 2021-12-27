@@ -6,7 +6,7 @@ title: Thermostatic Radiator Valve
 zigbeemodel: ['TS0601','_TZE200_b6wax7g0']
 category: hvac
 supports: thermostat, temperature, battery, window detection, child lock
-compatible: [z2m,zha]
+compatible: [z2m]
 z2m: BRT-100-TRV 
 mlink: https://www.moeshouse.com/collections/zigbee/products/tuya-zigbee3-0-new-mini-radiator-actuator-valve-smart-programmable-thermostat-temperature-controller
 link: https://www.aliexpress.com/item/1005002433574444.html

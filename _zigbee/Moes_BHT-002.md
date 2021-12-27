@@ -3,7 +3,7 @@ date_added: 2020-09-12
 vendor: Moes
 model: BHT-002  
 title: Thermostat for Water/Gas Boiler
-zigbeemodel: ['TS0601','_TZE200_aoclfnxz','_TZE200_ztvwu4nk']
+zigbeemodel: ['TS0601','_TZE200_aoclfnxz','_TZE200_ztvwu4nk','_TZE200_u9bfwha0']
 category: hvac
 supports: thermostat, temperature
 mlink: https://www.moeshouse.com/

@@ -4,7 +4,7 @@ vendor: Sercomm
 title: Door/Window Sensor
 category: sensor
 supports: contact
-zigbeemodel: ['SZ-DWS08N', 'SZ-DWS08']
+zigbeemodel: ['SZ-DWS08N', 'SZ-DWS08', 'SZ-DWS08N-CZ3']
 compatible: [z2m]
 mlink: 
 link: https://www.amazon.co.uk/Securifi-DWS04-Door-Window-Sensor/dp/B01A6ZLNAY

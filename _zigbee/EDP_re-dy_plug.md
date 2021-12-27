@@ -5,7 +5,7 @@ vendor: EDP
 title: re:dy plug A/C
 category: plug
 supports: on/off, power measurement
-manufacturername: ['EDP-WITHUS']
+manufacturer: ['EDP-WITHUS']
 zigbeemodel: ['ZB-SmartPlug-1.0.0']
 compatible: [z2m,iob,zha,deconz]
 deconz: 3959

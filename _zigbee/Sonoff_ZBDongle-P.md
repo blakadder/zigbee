@@ -14,7 +14,7 @@ link3: https://www.domadoo.fr/fr/interface-domotique/5976-sonoff-cle-usb-zigbee-
 ---
 
 ## Firmware Upgrade
-Download [Z-Stack firmware](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_3.x.0/bin) (install Python for [Windows](https://www.python.org/downloads/windows/) (Python 3.10.1) and dependencies using 'pip3 install pyserial intelhex').
+Download [Z-Stack firmware](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_3.x.0/bin) (install Python for [Windows](https://www.python.org/downloads/windows/) (Python 3.10.1) and dependencies using `pip3 install pyserial intelhex`).
 
 Download flashing tool from: https://github.com/JelmerT/cc2538-bsl/tree/feature/ITead_Sonoff_Zigbee-delay
  

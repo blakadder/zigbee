@@ -12,3 +12,5 @@ link: https://itead.cc/product/sonoff-zigbee-3-0-usb-dongle-plus/
 link2: https://cloudfree.shop/product/sonoff-zigbee-3-0-dongle/
 link3: https://www.domadoo.fr/fr/interface-domotique/5976-sonoff-cle-usb-zigbee-30-antenne-externe-20dbm-compatible-zha-zigbee2mqtt.html
 ---
+
+[Firmware upgrade instructions](https://sonoff.tech/wp-content/uploads/2021/12/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-1-1.pdf)

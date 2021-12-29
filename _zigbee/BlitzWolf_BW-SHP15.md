@@ -14,3 +14,5 @@ link2: https://www.aliexpress.com/item/1005002766783366.html
 link3: 
 ---
 
+### Pairing
+Press and hold the on/off button for 5s until it starts blinking.

@@ -14,11 +14,13 @@ link3: https://www.domadoo.fr/fr/interface-domotique/5976-sonoff-cle-usb-zigbee-
 ---
 
 ## Firmware Upgrade
-Download [Z-Stack firmware](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_3.x.0/bin) (install Python for [Windows](https://www.python.org/downloads/windows/) (Python 3.10.1) and dependencies using `pip3 install pyserial intelhex`).
+Install Python ([Windows install link](https://www.python.org/downloads/windows/)) and required dependencies using `pip3 install pyserial intelhex`.
 
 Download flashing tool from: https://github.com/JelmerT/cc2538-bsl/tree/feature/ITead_Sonoff_Zigbee-delay
- 
-Place the firmware file in the same folder as cc2538-bsl then run:
+
+Download [Z-Stack firmware](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_3.x.0/bin) and place it in the same folder as cc2538-bsl 
+
+Run (change port accordingly):
  
 ```
 python.exe cc2538-bsl.py -p COM4 -evw CC1352P2_CC2652P_launchpad_coordinator_20210708.hex --bootloader-sonoff-usb

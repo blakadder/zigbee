@@ -6,7 +6,7 @@ title: Switch Module 3 Channel
 category: switch
 supports: on/off
 zigbeemodel: ['TS0003', '_TZ3000_vsasbzkf','_TZ3000_odzoiovu']
-compatible: [z2m,zha]
+compatible: [z2m,zha, zigate]
 z2m: TS0003_switch_module
 mlink: https://expo.tuya.com/product/907020
 link: https://www.aliexpress.com/item/1005002996241009.html

@@ -14,7 +14,7 @@ mlink: https://www.aqara.com/us/vibration_sensor.html
 link: https://www.aliexpress.com/item/32954158161.html
 link2: https://www.banggood.com/International-Version-Original-Aqara-Smart-Motion-Sensor-Smart-Home-Vibration-Detection-Alarm-p-1510741.html
 link3: https://www.amazon.com/dp/B07PJT939B
-link4: https://www.domadoo.fr/fr/peripheriques/4667-aqara-capteur-de-vibration-zigbee-192784000113.html
+link4: https://www.domadoo.fr/en/peripheriques/4667-aqara-capteur-de-vibration-zigbee-192784000113.html
 ---
 
 # Zigbee2Tasmota

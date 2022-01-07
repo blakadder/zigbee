@@ -8,7 +8,7 @@ supports: on/off
 zigbeemodel: ['SIN-4-1-20']
 compatible: [z2m]
 mlink: https://nodon.fr/en/nodon/zigbee-multifunction-relay-switch/
-link: https://www.domadoo.fr/fr/peripheriques/5688-nodon-module-multifonction-zigbee-3700313925188.html
+link: https://www.domadoo.fr/en/peripheriques/5688-nodon-module-multifonction-zigbee-3700313925188.html
 link2: 
 link3: 
 ---

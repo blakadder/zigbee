@@ -8,7 +8,7 @@ supports: occupancy, battery, illuminance, temperature, tamper
 zigbeemodel: ['MOSZB-140']
 compatible: [z2m, zigate, zha, tasmota]
 mlink: https://frient.com/products/motion-sensor-pro/
-link: https://www.domadoo.fr/fr/peripheriques/5404-frient-detecteur-de-mouvement-zigbee-30-capteur-de-temperature-et-luminosite-5713594002361.html
+link: https://www.domadoo.fr/en/peripheriques/5404-frient-detecteur-de-mouvement-zigbee-30-capteur-de-temperature-et-luminosite-5713594002361.html
 link2: https://www.amazon.de/dp/B08WXSZ56Z
 link3: https://www.idealo.de/preisvergleich/Typ/5713594002361.html
 EAN:

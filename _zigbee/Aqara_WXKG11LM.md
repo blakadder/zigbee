@@ -13,7 +13,7 @@ mlink: https://www.aqara.com/en/smart_wireless_mini_switch.html
 link: https://www.banggood.com/Original-Xiaomi-Aqara-Smart-Wireless-Switch-Smart-Home-Kit-Remote-Control-Touch-Switch-p-1224921.html
 link3: https://www.amazon.de/dp/B07D19YXND
 link2: https://www.aliexpress.com/item/32919919934.html
-link4: https://www.domadoo.fr/fr/peripheriques/4669-aqara-interrupteur-sans-fil-intelligent-zigbee-192784000052.html
+link4: https://www.domadoo.fr/en/peripheriques/4669-aqara-interrupteur-sans-fil-intelligent-zigbee-192784000052.html
 link5: https://www.idealo.de/preisvergleich/OffersOfProduct/200871787_-wxkg11lm-aqara.html
 ---
 ###### Actions

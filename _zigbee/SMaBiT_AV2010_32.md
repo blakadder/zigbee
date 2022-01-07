@@ -11,7 +11,7 @@ deconz: 4662
 zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/thermostatbitron90201032
 mlink: https://manuals.smabit.eu/len/av2010_32.html
 link: https://www.amazon.de/dp/B016V7IJRG/
-link2: https://www.domadoo.fr/fr/peripheriques/5565-smabit-thermostat-intelligent-zigbee-avec-relais-8023874395883.html
+link2: https://www.domadoo.fr/en/peripheriques/5565-smabit-thermostat-intelligent-zigbee-avec-relais-8023874395883.html
 link3: 
 link4:
 EAN: '8023874395883' 

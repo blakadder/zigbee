@@ -9,7 +9,7 @@ zigbeemodel: ['ZHEMI101']
 compatible: [z2m,zha,deconz,zigate]
 deconz: 4337
 mlink: https://frient.com/products/electricity-meter-interface/
-link: https://www.domadoo.fr/fr/peripheriques/5424-frient-compteur-optique-de-consommation-d-electricite-zigbee-ha-5713594002583.html
+link: https://www.domadoo.fr/en/peripheriques/5424-frient-compteur-optique-de-consommation-d-electricite-zigbee-ha-5713594002583.html
 link2: 
 link3: 
 EAN: 

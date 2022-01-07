@@ -10,7 +10,7 @@ zigbeeid: none
 compatible: [zigate,zha,z2m,iob]
 mlink: https://zigate.fr
 link: https://zigate.fr/produit/zigate-pack-wifi-v1-3/
-link2: https://www.domadoo.fr/fr/interface-domotique/4939-zigate-passerelle-universelle-zigbee-zigate-wi-fi-3770014375025.html
+link2: https://www.domadoo.fr/en/interface-domotique/4939-zigate-passerelle-universelle-zigbee-zigate-wi-fi-3770014375025.html
 link3: 
 ---
 ZiGate allows you to interface your ZigBee ® compatible objects to your computer or home automation box.

@@ -10,7 +10,7 @@ zigbeemodel: ['FLSZB-120']
 compatible: [deconz]
 deconz: 1960
 mlink: https://frient.dk/products/water-leak-detector/
-link: https://www.domadoo.fr/fr/peripheriques/5427-frient-detecteur-d-inondation-zigbee-30-5713594002453.html
+link: https://www.domadoo.fr/en/peripheriques/5427-frient-detecteur-d-inondation-zigbee-30-5713594002453.html
 link2: https://www.amazon.de/dp/B08WXTC74Q
 link3: 
 EAN: 

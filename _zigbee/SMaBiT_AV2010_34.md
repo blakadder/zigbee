@@ -9,7 +9,7 @@ zigbeemodel: ['AV2010/34', '902010/14']
 compatible: [z2m]
 mlink: https://manuals.smabit.eu/len/av2010_34.html
 link: https://www.amazon.de/dp/B01LX5R8RN
-link2: https://www.domadoo.fr/fr/peripheriques/5568-smabit-interrupteur-mural-zigbee-avec-piles-8021156061037.html
+link2: https://www.domadoo.fr/en/peripheriques/5568-smabit-interrupteur-mural-zigbee-avec-piles-8021156061037.html
 link3: 
 EAN: '8021156061037'
 ---

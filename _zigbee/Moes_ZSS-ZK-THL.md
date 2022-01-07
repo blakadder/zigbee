@@ -12,7 +12,7 @@ compatible: [zha,tasmota,z2m]
 mlink: https://www.moeshouse.com/collections/zigbee/products/zigbee-smart-brightness-thermometer-real-time-light-sensitive-temperature-and-humidity-detector
 link: https://www.aliexpress.com/item/1005002525279564.html
 link2: https://www.banggood.com/MoesHouse-Smart-ZigBee-or-bluetooth-Mesh-Brightness-Thermometer-Light-Temperature-Humidity-Detector-Tuya-Smart-App-Alexa-Control-p-1842856.html
-link3: https://www.domadoo.fr/fr/domotique/5789-moes-capteur-de-temperature-humidite-et-luminosite-zigbee.html
+link3: https://www.domadoo.fr/en/domotique/5789-moes-capteur-de-temperature-humidite-et-luminosite-zigbee.html
 ---
 Temperature and humidity are reported at a fixed 60 minute interval.
 

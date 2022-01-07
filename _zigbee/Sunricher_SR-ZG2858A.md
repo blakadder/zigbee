@@ -9,7 +9,7 @@ zigbeemodel: ['ZG2858A']
 compatible: [z2m, zigate]
 z2m: ZG2858A
 mlink: 
-link: https://www.domadoo.fr/fr/peripheriques/5247-sunricher-telecommande-3-en-1-zigbee-30.html
+link: https://www.domadoo.fr/en/peripheriques/5247-sunricher-telecommande-3-en-1-zigbee-30.html
 link2: 
 link3: 
 ---

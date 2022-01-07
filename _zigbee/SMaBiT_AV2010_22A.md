@@ -10,6 +10,6 @@ zigbeemodel: ['AV2010/22A', '902010/22A']
 compatible: [z2m,iob]
 mlink: https://manuals.smabit.eu/len/av2010_22a.html
 link: https://www.amazon.de/dp/B01LY4X4QE
-link2: https://www.domadoo.fr/fr/peripheriques/5549-smabit-detecteur-de-mouvement-design-zigbee-8021156061013.html
+link2: https://www.domadoo.fr/en/peripheriques/5549-smabit-detecteur-de-mouvement-design-zigbee-8021156061013.html
 link3: 
 ---

@@ -10,7 +10,7 @@ zigbeemodel: ['NHROTARY/DIMMER/1']
 compatible: [z2m]
 z2m: WDE002334
 mlink: https://www.se.com/ww/en/product/CCT5010-0001/wiser-micro-module-dimmer/
-link: https://www.domadoo.fr/fr/peripheriques/5718-schneider-electric-variateur-rotatif-connecte-zigbee-30-wiser-odace-blanc-3606481019554.html
+link: https://www.domadoo.fr/en/peripheriques/5718-schneider-electric-variateur-rotatif-connecte-zigbee-30-wiser-odace-blanc-3606481019554.html
 EAN:
   - NU351630
   - WDE002334

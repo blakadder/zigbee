@@ -10,7 +10,7 @@ zigbeeid: none
 compatible: [zigate,zha,z2m,iob]
 mlink: https://zigate.fr
 link: https://zigate.fr/produit/zigatev2-usb-din/
-link2: https://www.domadoo.fr/fr/interface-domotique/5210-zigate-passerelle-zigbee-sur-rail-din-zigate-din-3770014375049.html
+link2: https://www.domadoo.fr/en/interface-domotique/5210-zigate-passerelle-zigbee-sur-rail-din-zigate-din-3770014375049.html
 link3: https://lixee.fr/produits/35-zigate-usb-din-3770014375124.html
 ---
 The ZiGate+ DIN allows you to interface your ZigBee ® compatible objects to your computer or home automation box.

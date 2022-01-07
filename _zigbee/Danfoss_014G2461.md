@@ -6,7 +6,7 @@ title: Ally Radiator Thermostat
 category: hvac
 supports: thermostat, local temperature battery, ota, child lock, external temperature sensor, % opening, open window detection
 mlink: https://www.smartheating.danfoss.com/
-link: https://www.domadoo.fr/fr/peripheriques/5156-danfoss-tete-electronique-ally-zigbee-30-5702425245008.html
+link: https://www.domadoo.fr/en/peripheriques/5156-danfoss-tete-electronique-ally-zigbee-30-5702425245008.html
 link2: https://www.amazon.de/dp/B08DRCVDG4
 link3: https://www.alza.de/danfoss-ally-etrv-zigbee-thermostatkopf-014g2460-d6277322.htm
 link4: https://www.idealo.de/preisvergleich/OffersOfProduct/200712379_-ally-funk-heizkoerperthermostat-014g2460-danfoss.html

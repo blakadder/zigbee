@@ -9,7 +9,7 @@ supports: on/off, electrical measurement
 zigbeemodel: ['SMARTPLUG/1']
 compatible: [z2m]
 mlink: https://www.se.com/ww/en/product/CCT711119/wiser-smart-plug/
-link: https://www.domadoo.fr/fr/peripheriques/5722-schneider-electric-micromodule-interrupteur-eclairage-connecte-zigbee-30-wiser-3606481048172.html
+link: https://www.domadoo.fr/en/peripheriques/5722-schneider-electric-micromodule-interrupteur-eclairage-connecte-zigbee-30-wiser-3606481048172.html
 EAN:
   - CCT711119
   - EKO07699

@@ -12,7 +12,7 @@ compatible: [z2m,deconz,iob]
 deconz: 1124
 mlink: https://www.icasa.io/wandschakelaars?lang=en
 link: https://www.amazon.de/dp/B07L2ZYC53/
-link2: https://www.domadoo.fr/fr/peripheriques/5694-icasa-controleur-mural-sans-fil-zigbee-pulse-4s-7061252046461.html
+link2: https://www.domadoo.fr/en/peripheriques/5694-icasa-controleur-mural-sans-fil-zigbee-pulse-4s-7061252046461.html
 link3: 
 link4: 
 ---

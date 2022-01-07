@@ -6,7 +6,7 @@ title: Curtain Motor Controller
 category: cover
 supports: open, close
 mlink: https://www.sunricher.com/zigbee-series.html
-link: https://www.domadoo.fr/fr/peripheriques/5245-sunricher-module-volet-roulant-zigbee-30.html
+link: https://www.domadoo.fr/en/peripheriques/5245-sunricher-module-volet-roulant-zigbee-30.html
 zigbeemodel: ['HK-ZCC-A']
 compatible: [deconz,zigate,z2m]
 ---

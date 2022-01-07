@@ -8,7 +8,7 @@ supports: action, battery
 zigbeemodel: ['KEPZB-110']
 compatible: [z2m]
 mlink: https://www.develcoproducts.com/products/sensors-and-alarms/keypad/
-link: https://www.domadoo.fr/fr/peripheriques/5537-frient-clavier-a-codes-intelligent-zigbee-30-lecteur-rfid-5713594002415.html
+link: https://www.domadoo.fr/en/peripheriques/5537-frient-clavier-a-codes-intelligent-zigbee-30-lecteur-rfid-5713594002415.html
 link2: https://www.amazon.com/dp/B08WXSXDW3
 link3: 
 EAN:

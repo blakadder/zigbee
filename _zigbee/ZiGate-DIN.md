@@ -12,7 +12,7 @@ mlink: https://zigate.fr
 link: https://zigate.fr/produit/zigate-usb-din/
 link2: https://www.amazon.fr/Zigate-Passerelle-USB-avec-ZigBee/dp/B07Z6P9HX6/
 link3: https://www.domoticalia.es/en/zigbee-home-automation/1317-zigate-usb-din-3770014375018.html
-link4: https://www.domadoo.fr/fr/interface-domotique/5210-zigate-passerelle-zigbee-sur-rail-din-zigate-din-3770014375049.html
+link4: https://www.domadoo.fr/en/interface-domotique/5210-zigate-passerelle-zigbee-sur-rail-din-zigate-din-3770014375049.html
 ---
 The ZiGate-DIN allows you to interface your ZigBee ® compatible objects to your computer or home automation box.
 

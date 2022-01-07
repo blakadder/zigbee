@@ -11,7 +11,7 @@ compatible: [zigate,deconz,z2m,iob,tasmota]
 deconz: 2678
 mlink: https://www.innr.com/en/product/smart-plug-uk-version/
 link: https://www.amazon.co.uk/Zigbee-Philips-Google-Required-2-Pack/dp/B07SLZVM78
-link2: https://www.domadoo.fr/fr/peripheriques/5364-innr-prise-connectee-super-slim-zigbee-30-pack-de-2-prises-8718781552664.html
+link2: https://www.domadoo.fr/en/peripheriques/5364-innr-prise-connectee-super-slim-zigbee-30-pack-de-2-prises-8718781552664.html
 link3: https://www.tink.de/innr-smart-plug-sp220-smarter-zwischenstecker-2er-pack
 EAN: 
 ---

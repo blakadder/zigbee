@@ -9,7 +9,7 @@ zigbeeid: none
 compatible: [zigate,zha,z2m,iob]
 mlink: https://zigate.fr
 link2: https://www.amazon.fr/Zigate-Passerelle-USB-avec-ZigBee/dp/B07Z6P9HX6/
-link: https://www.domadoo.fr/fr/interface-domotique/4938-zigate-passerelle-universelle-zigbee-zigate-usb-3770014375001.html
+link: https://www.domadoo.fr/en/interface-domotique/4938-zigate-passerelle-universelle-zigbee-zigate-usb-3770014375001.html
 ---
 ZiGate allows you to interface your ZigBee ® compatible objects to your computer or home automation box.
 

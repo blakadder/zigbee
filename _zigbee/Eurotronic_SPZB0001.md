@@ -13,7 +13,7 @@ zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ttethermostat
 mlink: https://eurotronic.org/produkte/zigbee-heizkoerperthermostat/spirit-zigbee/
 link: https://www.amazon.de/dp/B077GCDDBY
 link2: https://www.idealo.de/preisvergleich/OffersOfProduct/5773103_-spirit-zigbee-eurotronic-technology.html
-link3: https://www.domadoo.fr/fr/peripheriques/5188-eurotronic-tete-thermostatique-zigbee-4260012711233.html
+link3: https://www.domadoo.fr/en/peripheriques/5188-eurotronic-tete-thermostatique-zigbee-4260012711233.html
 link4: https://www.amazon.se/dp/B077GCDDBY/
 ---
 ### Pairing

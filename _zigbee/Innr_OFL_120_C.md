@@ -10,5 +10,5 @@ zigbeemodel: ['OFL 120 C']
 compatible: [z2m]
 mlink: https://www.innr.com/en/product/outdoor-flex-light-colour/
 link: https://www.amazon.co.uk/dp/B085GLBCXN
-link2: https://www.domadoo.fr/fr/eclairage/5462-innr-ruban-flexible-outdoor-couleur-2m-zigbee-lightlink-8718781552503.html
+link2: https://www.domadoo.fr/en/eclairage/5462-innr-ruban-flexible-outdoor-couleur-2m-zigbee-lightlink-8718781552503.html
 ---

@@ -12,5 +12,5 @@ mlink: https://www.innr.com/en/product/smart-spot-colour/
 link: https://www.amazon.de/dp/B07W5JCFJR
 link2: https://www.amazon.co.uk/dp/B07W5JCFJR/
 link3: https://www.tink.de/innr-smart-spot-gu10-rgbw-cct-rs-230-c-2er-pack
-link4: https://www.domadoo.fr/fr/peripheriques/5452-innr-2x-ampoule-connectee-type-gu10-zigbee-30-rgbwblanc-reglable-8718781552046.html
+link4: https://www.domadoo.fr/en/peripheriques/5452-innr-2x-ampoule-connectee-type-gu10-zigbee-30-rgbwblanc-reglable-8718781552046.html
 ---

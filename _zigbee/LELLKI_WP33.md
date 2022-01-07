@@ -10,6 +10,6 @@ compatible: [z2m,zha]
 z2m: WP33-EU
 mlink: 
 link: https://www.aliexpress.com/item/4001352735475.html
-link2: https://www.domadoo.fr/fr/peripheriques/5430-lellki-multiprise-connectee-zigbee-30-4-prises-2-ports-usb.html
+link2: https://www.domadoo.fr/en/peripheriques/5430-lellki-multiprise-connectee-zigbee-30-4-prises-2-ports-usb.html
 link3: https://www.aliexpress.com/item/4000372097774.html
 ---

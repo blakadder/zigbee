@@ -8,7 +8,7 @@ supports: coordinator
 zigbeeid: none
 compatible: [zigate,zha,z2m,iob]
 mlink: https://zigate.fr/produit/zigate-usb/
-link: https://www.domadoo.fr/fr/interface-domotique/5734-lixee-dongle-usb-zigbee-zigate-v2-compatible-jeedom-eedomus-domoticz-3770014375094.html
+link: https://www.domadoo.fr/en/interface-domotique/5734-lixee-dongle-usb-zigbee-zigate-v2-compatible-jeedom-eedomus-domoticz-3770014375094.html
 link2: https://lixee.fr/produits/31-zigate-plus-v2-3770014375094.html
 ---
 ZiGate+ USB allows you to interface your ZigBee ® compatible objects to your computer or home automation box.

@@ -9,7 +9,7 @@ supports: on/off, brightness
 zigbeemodel: ['PUCK/DIMMER/1']
 compatible: [z2m]
 mlink: https://www.se.com/ww/en/product/CCT5010-0001/wiser-micro-module-dimmer/
-link: https://www.domadoo.fr/fr/peripheriques/5720-schneider-electric-micromodule-variateur-eclairage-connecte-zigbee-30-wiser-3606481048165.html
+link: https://www.domadoo.fr/en/peripheriques/5720-schneider-electric-micromodule-variateur-eclairage-connecte-zigbee-30-wiser-3606481048165.html
 EAN:
   - CCT5010-0001
   - MEG5010-0001

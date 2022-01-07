@@ -11,7 +11,7 @@ compatible: [z2m,iob,zha,deconz, zigate]
 deconz: 2583
 mlink: 
 link: https://www.aliexpress.com/item/4000641951882.html
-link2: https://www.domadoo.fr/fr/peripheriques/5305-xiaomi-prise-connectee-zigbee-mi-smart-plug-6934177706493.html
+link2: https://www.domadoo.fr/en/peripheriques/5305-xiaomi-prise-connectee-zigbee-mi-smart-plug-6934177706493.html
 link3: 
 ---
 

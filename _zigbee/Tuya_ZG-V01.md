@@ -10,7 +10,7 @@ compatible: [zha,deconz]
 z2m: TS0111_valve
 mlink: 
 link: https://www.aliexpress.com/item/4000595176844.html
-link2: https://www.domadoo.fr/fr/peripheriques/5264-gr-smarthome-motorisation-zigbee-30-pour-vanne-14-de-tour.html
+link2: https://www.domadoo.fr/en/peripheriques/5264-gr-smarthome-motorisation-zigbee-30-pour-vanne-14-de-tour.html
 link3: 
 ---
 

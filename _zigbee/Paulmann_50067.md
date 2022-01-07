@@ -5,7 +5,7 @@ title: Gent Remote Control
 category: remote
 supports: action
 zigbeemodel: ['RemoteControl ']
-compatible: [zigate,z2m,tasmota]
+compatible: [z4d,z2m,tasmota]
 mlink: https://en.paulmann.com/indoor-lighting/smart-home/zigbee/controlling/smarthome-zigbee-remote-control-gent-with-wall-mounting-bracket/50067
 link: https://www.amazon.de/dp/B071WZZ12Y
 link2: 

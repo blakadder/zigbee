@@ -6,7 +6,7 @@ title: frient Intelligent Smoke Alarm
 category: sensor
 supports: alarm, battery, smoke, temperature, test
 zigbeemodel: ['SMSZB-120']
-compatible: [deconz,z2m,zha,zigate]
+compatible: [deconz,z2m,zha,z4d]
 deconz: 1534
 mlink: https://frient.com/products/intelligent-smoke-alarm/
 link: https://www.domadoo.fr/en/peripheriques/5409-frient-detecteur-de-fumee-intelligent-zigbee-30-5713594002330.html

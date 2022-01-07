@@ -7,7 +7,7 @@ category: remote
 supports: action, battery
 actions: single, double, long
 zigbeemodel: ['TS0043','_TZ3000_bi6lpsew']
-compatible: [z2m,iob,tasmota,zha,zigate,deconz]
+compatible: [z2m,iob,tasmota,zha,z4d,deconz]
 mlink: 
 link: https://www.aliexpress.com/item/1005001298730723.html
 link2: https://www.domadoo.fr/en/peripheriques/5712-loratap-telecommande-zigbee-3-boutons.html

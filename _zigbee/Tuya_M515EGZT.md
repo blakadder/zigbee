@@ -6,7 +6,7 @@ title: Pull Bead Curtain Motor
 category: cover
 supports: open, close, stop, position
 zigbeemodel: ['TS0601','_TZE200_nueqqe6k']
-compatible: [z2m,deconz,zigate]
+compatible: [z2m,deconz,z4d]
 z2m: TS0601_cover
 deconz: 4521
 mlink: 

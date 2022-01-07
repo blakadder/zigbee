@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness
 image: /assets/images/devices/Trust_ZLED-2709.jpg
 zigbeemodel: ['ZLL-DimmableLigh']
-compatible: [z2m,iob,tasmota,zigate,zha]
+compatible: [z2m,iob,tasmota,z4d,zha]
 z2m: ZLED-2709
 mlink: https://www.trust.com/en/product/71155-zigbee-dimmable-led-bulb-zled-2709
 link: https://www.amazon.de/Trust-ZLED-2709-kompatibel-Philips-warmwei%C3%9Fes/dp/B0744Q1ML4

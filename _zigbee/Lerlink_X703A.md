@@ -6,7 +6,7 @@ category: switch
 supports: lrc_on_off, power meter
 image: /assets/images/devices/Lerlink_X703A.jpg
 zigbeemodel: ['TS0003']
-compatible: [z2m,zigate,iob,tasmota,zha]
+compatible: [z2m,z4d,iob,tasmota,zha]
 mlink: https://www.lerlink.com/productinfo/1016978.html
 link: https://www.aliexpress.com/item/4000424075729.html
 link2: 

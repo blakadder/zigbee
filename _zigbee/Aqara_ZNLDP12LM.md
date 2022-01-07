@@ -7,8 +7,8 @@ category: light
 type: E27 Bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: ['lumi.light.aqcn02']
-compatible: [z2m,zigate,iob,deconz,zha]
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ampouleaqaraznldp12lm
+compatible: [z2m,z4d,iob,deconz,zha]
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/ampouleaqaraznldp12lm
 deconz: 1057
 mlink: https://www.aqara.com/en/smart_light_bulb.html
 link: https://www.aliexpress.com/af/ZNLDP12LM-bulb.html

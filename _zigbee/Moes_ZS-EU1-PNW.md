@@ -6,7 +6,7 @@ title: Switch 1 Gang EU/UK
 category: switch
 supports: on/off
 zigbeemodel: ['TS0001']
-compatible: [z2m,iob,zigate,tasmota,zha]
+compatible: [z2m,iob,z4d,tasmota,zha]
 z2m: TS0001
 mlink: https://www.moeshouse.com/collections/tuya-zigbee-switch/products/tuya-zigbee-smart-switch-eu-uk-push-button-wall-light-switch-no-neutral-wire-and-n-l-required-with-multi-control-assosciation
 link: https://www.aliexpress.com/item/4001104399379.html

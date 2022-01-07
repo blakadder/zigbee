@@ -6,7 +6,7 @@ title: Light Switch 3 Gang
 category: switch
 supports: on/off
 zigbeemodel: ['TS0003','_TZ3000_v4l4b0lp']
-compatible: [zha,z2m,tasmota,zigate]
+compatible: [zha,z2m,tasmota,z4d]
 mlink: https://www.eardatek.com/Smart/index.html
 link: https://www.aliexpress.com/item/1005002252363635.html
 link3: https://www.alibaba.com/product-detail/Earda-EU-Standard-Zigbee-Home-Wall_1600081294256.html

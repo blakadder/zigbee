@@ -7,8 +7,8 @@ category: light
 supports: on/off, brightness, colorxy
 image: /assets/images/devices/Ikea_LED1624G9-E12.jpg
 zigbeemodel: ['TRADFRI bulb E14 CWS opal 600lm']
-compatible: [z2m,zha,iob,zigate]
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ikeatradfrie14
+compatible: [z2m,zha,iob,z4d]
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/ikeatradfrie14
 mlink: https://www.ikea.com/nl/en/p/tradfri-led-bulb-e14-600-lumen-wireless-dimmable-colour-and-white-spectrum-opal-white-50411565/
 link: 
 link2: 

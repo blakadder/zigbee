@@ -8,7 +8,7 @@ supports: on/off, brightness
 image: /assets/images/devices/Ikea_ICPSHC24-10EU-IL-1.jpg
 zigbeemodel: ['TRADFRI transformer 10W', 'TRADFRI Driver 10W']
 compatible: [z2m,iob,deconz,zha]
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ikeatradfritransformateurlectriqueconnect
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/ikeatradfritransformateurlectriqueconnect
 deconz: 466
 mlink: https://www.ikea.com/us/en/p/tradfri-driver-for-wireless-control-gray-10356189/
 link: https://www.amazon.com/IKEA-103-561-89-Tr%C3%A5dfri-Wireless-Control/dp/B07KM28NR3

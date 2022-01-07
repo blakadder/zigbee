@@ -4,9 +4,9 @@ vendor: Philips
 title: Hue Go Portable Light
 category: light
 supports: on/off, brightness, colortemp, colorxy
-compatible: [z2m, zigate, deconz, zha]
+compatible: [z2m, z4d, deconz, zha]
 zigbeemodel: ['LLC020']
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ampoulesconnecteswhiteambiancee27--
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/ampoulesconnecteswhiteambiancee27--
 mlink: https://www2.meethue.com/en-us/p/hue-white-and-color-ambiance-go-portable-light/714606048
 link: https://www.amazon.com/Philips-7146060PH-Hue-Compatible-Assistant/dp/B079TCRFC3
 link2: https://www.amazon.de/dp/B00UEMFGQM

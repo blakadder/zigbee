@@ -6,7 +6,7 @@ category: remote
 supports: action, batterypct
 action: single, double, hold
 zigbeemodel: ['lumi.remote.b286acn01']
-compatible: [z2m,zigate,deconz,zha,iob,tasmota]
+compatible: [z2m,z4d,deconz,zha,iob,tasmota]
 deconz: 811
 z2m: WXKG02LM_rev2
 mlink: https://www.aqara.com/en/wireless_remote_switch.html

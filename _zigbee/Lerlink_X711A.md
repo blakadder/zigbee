@@ -7,7 +7,7 @@ category: switch
 supports: on/off
 image: /assets/images/devices/Lerlink_X711A.jpg
 zigbeemodel: ['TS0011']
-compatible: [z2m,iob,zigate,deconz,tasmota]
+compatible: [z2m,iob,z4d,deconz,tasmota]
 mlink: https://www.lerlink.com/productinfo/1024674.html
 link: https://www.aliexpress.com/item/4000423219189.html
 link2: 

@@ -7,8 +7,8 @@ supports: action, batterylow, sensitivity
 action: drop, tilt, touch
 image: /assets/images/devices/DJT11LM.jpg
 zigbeemodel: ['lumi.vibration.aq1']
-compatible: [z2m,zigate,tasmota,zha,iob,deconz]
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/capteurvibration
+compatible: [z2m,z4d,tasmota,zha,iob,deconz]
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/capteurvibration
 deconz: 748
 mlink: https://www.aqara.com/us/vibration_sensor.html
 link: https://www.aliexpress.com/item/32954158161.html

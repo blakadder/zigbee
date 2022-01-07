@@ -5,7 +5,7 @@ title: Puck Light White
 category: light
 supports: on/off, brightness
 zigbeemodel: ['PL 115']
-compatible: [z2m,zigate,deconz]
+compatible: [z2m,z4d,deconz]
 mlink: 
 link: https://www.amazon.de/dp/B083M8GFV1
 link2: https://www.domadoo.fr/en/peripheriques/5457-innr-pack-de-3-pucks-encastrables-blanc-chaud-2700k-intensite-reglable-8718781552442.html

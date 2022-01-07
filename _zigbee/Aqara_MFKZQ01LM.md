@@ -6,8 +6,8 @@ category: remote
 supports: action, batterypct
 action: shake, wakeup, fall, tap, slide, flip180, flip90, rotate_left, rotate_right
 zigbeemodel: ['lumi.sensor_cube', 'lumi.sensor_cube.aqgl01']
-compatible: [z2m,zigate,deconz,tasmota,zha,iob]
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/cubemagic
+compatible: [z2m,z4d,deconz,tasmota,zha,iob]
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/cubemagic
 deconz: 138
 mlink: https://www.aqara.com/eu/cube.html
 link2: https://www.aliexpress.com/af/aqara-magic-cube.html

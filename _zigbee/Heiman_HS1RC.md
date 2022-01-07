@@ -6,7 +6,7 @@ title: Remote Controller
 category: remote
 supports: action
 zigbeemodel: ['RC_V14','RC-EM','RC-N','RC-EF-3.0']
-compatible: [deconz,z2m,zigate]
+compatible: [deconz,z2m,z4d]
 z2m: HS1RC-N
 deconz: 3828
 mlink: http://www.heimantech.com/product/?type=detail&id=10

@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-C-008.jpg
 zigbeemodel: ['GLEDOPTO','GL-C-008']
-compatible: [zha,z2m,iob,zigate]
+compatible: [zha,z2m,iob,z4d]
 mlink: http://www.gledopto.com/h-col-303.html
 link: https://www.aliexpress.com/item/32858603964.html
 link2: https://www.banggood.com/GLEDOPTO-GL-C-008-ZIG_BEE-ZLL-RGBCCT-Smart-APP-LED-Strip-Controller-Work-With-Home-Kit-Philip-Hub-p-1471007.html

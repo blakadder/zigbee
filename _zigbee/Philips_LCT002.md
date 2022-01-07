@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCT002.jpg
 zigbeemodel: ['LCT002']
-compatible: [z2m,deconz,zigate]
+compatible: [z2m,deconz,z4d]
 mlink: 
 link: https://www.amazon.com/Philips-Hue-Generation-Equivalent-Compatible/dp/B00HNLQQ7K
 link2: 

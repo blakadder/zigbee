@@ -7,8 +7,8 @@ category: switch
 supports: decoupled mode, lr_on_off, power measurement, click
 action: click, hold, release
 zigbeemodel: ['lumi.ctrl_ln2.aq1', 'lumi.ctrl_ln2']
-compatible: [z2m,zigate,deconz,tasmota,iob,zha]
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/interrupteurmuralsurpiledoubletouche
+compatible: [z2m,z4d,deconz,tasmota,iob,zha]
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/interrupteurmuralsurpiledoubletouche
 deconz: 1420
 mlink: 
 link: https://www.aliexpress.com/item/4000075319292.html

@@ -6,7 +6,7 @@ title: Touch Dimmer Switch EU
 category: dimmer
 supports: on/off, brightness
 zigbeemodel: ['TS0601','_TZE200_0nauxa0p']
-compatible: [z2m,zha,zigate,deconz]
+compatible: [z2m,zha,z4d,deconz]
 z2m: TS0601_dimmer
 deconz: 4577
 mlink: https://www.alibaba.com/product-detail/Earda-EU-Standard-Wall-Dimmer-Electric_1600092367445.html

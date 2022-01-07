@@ -8,7 +8,7 @@ supports: local temperature, setpoint, motion, door opened, thermostat mode
 mlink: https://acova.fr/radiateur-electrique/taffetas-2-connecte-156863
 link: https://www.leroymerlin.fr/produits/chauffage-plomberie/chauffage-electrique/radiateur-electrique/radiateur-a-inertie/radiateur-electrique-a-inertie-seche-1500-w-acova-taffetas-2-connecte-blanc-82646782.html
 zigbeemodel: ['TAFFETAS2 D1.00P1.01Z1.00']
-compatible: zigate
+compatible: z4d
 EAN:
   - 5012-0030
   - 5012-0040

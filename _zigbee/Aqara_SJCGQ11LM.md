@@ -5,8 +5,8 @@ title: Water Leak Sensor
 category: sensor
 supports: water leak, battery, device temperature
 zigbeemodel: ['lumi.sensor_wleak.aq1']
-compatible: [z2m,zha,iob,deconz,zigate,tasmota]
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/capteurinondation
+compatible: [z2m,zha,iob,deconz,z4d,tasmota]
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/capteurinondation
 tasmota: 
 mlink: https://www.aqara.com/en/water_sensor.html
 link: https://www.aliexpress.com/item/4000071259351.html

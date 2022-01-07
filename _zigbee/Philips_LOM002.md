@@ -7,7 +7,7 @@ category: plug
 supports: on/off
 image: /assets/images/devices/Philips_LOM002.jpg
 zigbeemodel: ['LOM002']
-compatible: [z2m, zigate]
+compatible: [z2m, z4d]
 mlink: https://www2.meethue.com/en-ca/p/hue-smart-plug/046677552343
 link: https://www.amazon.ca/dp/B07XD578LD/
 link2: 

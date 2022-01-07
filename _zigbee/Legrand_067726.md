@@ -7,9 +7,9 @@ category: cover
 supports: open/close, stop, position, tilt
 image: /assets/images/devices/Legrand_067726.jpg
 zigbeemodel: [' Shutter switch with neutral']
-compatible: [zha,z2m,zigate,deconz]
+compatible: [zha,z2m,z4d,deconz]
 z2m: 067776
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/interrupteurfilaireconnectpourvoletroulant
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/interrupteurfilaireconnectpourvoletroulant
 deconz: 883
 mlink: https://www.legrand.fr/pro/catalogue/42566-version-celiane-with-netatmo/interrupteur-filaire-connecte-celiane-with-netatmo-pour-volet-roulant-blanc
 link: https://www.amazon.fr/dp/B07G3GHLPG/

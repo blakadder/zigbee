@@ -7,7 +7,7 @@ category: plug
 type: au, br, ch, cn, in, it, fr, il, jp, us, uk, eu
 supports: on/off
 zigbeemodel: ['TS0112']
-compatible: [z2m,deconz,iob,zigate]
+compatible: [z2m,deconz,iob,z4d]
 mlink: https://www.moeshouse.com/collections/zigbee-3-0-socket
 link: https://www.aliexpress.com/item/4000181115109.html
 link2: https://www.amazon.com/dp/B07XT1C9N5/

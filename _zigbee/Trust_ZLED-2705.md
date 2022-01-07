@@ -7,9 +7,9 @@ category: light
 supports: on/off, brightness
 image: /assets/images/devices/Trust_ZLED-2705.jpg
 zigbeemodel: ['ZLL-DimmableLigh']
-compatible: [z2m,iob,tasmota,zigate,zha]
+compatible: [z2m,iob,tasmota,z4d,zha]
 z2m: ZLED-2709
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/trust71159gu10-350lumen/
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/trust71159gu10-350lumen/
 mlink: https://www.trust.com/en/product/71159-zigbee-dimmable-led-spot-zled-g2705
 link: https://www.amazon.de/dp/B0743LBN68/
 link2: https://www.amazon.co.uk/Trust-Smart-Spotlight-Compatible-Certified/dp/B0743LBN68

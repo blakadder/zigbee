@@ -53,9 +53,9 @@ layout: default
 <!-- <p>
 
 <p>
-{%- if page.compatible contains "zigate" and page.zigate != nil -%}
+{%- if page.compatible contains "z4d" and page.z4d != nil -%}
 <h6>Zigate</h6>
-More information on <a href="{{ page.zigate }}">ZiGate site</a>.
+More information on <a href="{{ page.z4d }}">ZiGate site</a>.
 {% endif %}
 <p></p> -->
 
@@ -81,8 +81,8 @@ More information on <a href="{{ page.zigate }}">ZiGate site</a>.
         <a class="button button-outline" href="https://github.com/dresden-elektronik/deconz-rest-plugin/wiki">deCONZ</a>
         {% endif %}
     {% endif %}
-    {% if page.compatible contains "zigate" %}
-        <a class="button button-outline" href="{%- if page.compatible contains "zigate" and page.zigate != nil -%}{{ page.zigate }}{% else %}https://zigate.fr{% endif %}">ZiGate</a>
+    {% if page.compatible contains "z4d" %}
+        <a class="button button-outline" href="{%- if page.compatible contains "z4d" and page.z4d != nil -%}{{ page.z4d }}{% else %}https://z4d.fr{% endif %}">ZiGate</a>
         
     {% endif %}
     {% if page.compatible contains "iob"  %}

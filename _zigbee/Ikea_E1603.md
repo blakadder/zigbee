@@ -6,10 +6,10 @@ category: plug
 supports: on/off
 image: /assets/images/devices/Ikea_E1702.jpg
 zigbeemodel: ['TRADFRI control outlet']
-compatible: [z2m, zigate, deconz, zha, iob]
+compatible: [z2m, z4d, deconz, zha, iob]
 deconz: 779
 z2m: E1603/E1702/E1708
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ikeatradfripriseconnecte
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/ikeatradfripriseconnecte
 mlink: https://www.ikea.com/nl/en/p/tradfri-wireless-control-outlet-90356166/
 link: https://www.amazon.co.uk/TRADFRI-Wireless-Control-Lighting-Systems/dp/B07PK5LCL2
 link2: https://www.amazon.com/IKEA-303-561-69-Tr%C3%A5dfri-Wireless-Control/dp/B07KM9ZC31

@@ -6,7 +6,7 @@ title: PiZiGate V2 for Raspberry Pi
 category: coordinator
 supports: coordinator
 zigbeeid: none
-compatible: [zigate,zha,z2m,iob]
+compatible: [z4d,zha,z2m,iob]
 mlink: https://zigate.fr
 link: https://zigate.fr/produit/pizigatev2/
 link2: https://lixee.fr/produits/32-60-pizigate-3770014375100.html#/27-antenneexterne-non

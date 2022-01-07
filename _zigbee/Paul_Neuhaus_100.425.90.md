@@ -5,7 +5,7 @@ title: Q-Plug with Night Light
 category: plug
 supports: on/off
 zigbeemodel: ['NLG-plug ']
-compatible: [z2m, deconz, zigate]
+compatible: [z2m, deconz, z4d]
 z2m: NLG-plug
 mlink: 
 link: https://www.amazon.de/Q-LED-Nachtlicht-Smart-Home-Zwischenstecker-wei%C3%9F/dp/B075V185JD

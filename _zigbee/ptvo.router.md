@@ -6,7 +6,7 @@ category: router
 supports: state, description, type, rssi
 image: /assets/images/devices/ptvo.router.jpg
 zigbeemodel: ['lumi.router']
-compatible: [z2m,zha,deconz,iob,zigate]
+compatible: [z2m,zha,deconz,iob,z4d]
 mlink: http://ptvo.info/cc2530-based-zigbee-coordinator-and-router-112/
 link: https://www.amazon.com/Zripool-CC2530-Zigbee-Development-Wireless/dp/B07QPX544Y
 link2: https://www.aliexpress.com/af/cc2530-board.html

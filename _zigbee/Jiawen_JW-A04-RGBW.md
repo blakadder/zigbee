@@ -5,7 +5,7 @@ title: LED Controller RGBW
 category: light
 supports: on/off, brightness, colorxy
 zigbeemodel: 
-compatible: [zigate]
+compatible: [z4d]
 mlink: 
 link: https://www.aliexpress.com/item/32953308770.html
 link2: https://www.amazon.co.uk/dp/B074P338H7

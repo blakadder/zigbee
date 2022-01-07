@@ -7,5 +7,5 @@ category: light
 mlink: https://www.easyiot.tech
 link: https://www.aliexpress.com/item/1005003295723687.html
 zigbeemodel: ['ZB-SW01']
-compatible: [z2m,zha,tasmota,zigate]
+compatible: [z2m,zha,tasmota,z4d]
 ---

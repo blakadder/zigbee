@@ -5,9 +5,9 @@ vendor: Philips
 title: Hue Iris Table Lamp
 category: light
 supports: on/off, brightness, colorxy
-compatible: [z2m,deconz,zigate,iob,zha]
+compatible: [z2m,deconz,z4d,iob,zha]
 zigbeemodel: ['LLC010']
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/ampoulesconnecteswhiteambiancee27-
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/ampoulesconnecteswhiteambiancee27-
 mlink: https://www2.meethue.com/en-gb/p/hue-white-and-colour-ambience-iris-table-lamp/7199960PU
 link: https://www.amazon.de/dp/B00JGONFCG
 link2: https://www.amazon.co.uk/Philips-Dimmable-Changing-Compatible-Assistant/dp/B00IVZZBDC

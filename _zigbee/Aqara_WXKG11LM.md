@@ -6,8 +6,8 @@ category: remote
 supports: click, batterylow
 action: single, double, triple, quad
 zigbeemodel: ['lumi.sensor_switch.aq2', 'lumi.remote.b1acn01']
-compatible: [z2m, zigate, deconz, tasmota, zha, iob]
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/boutonaqara
+compatible: [z2m, z4d, deconz, tasmota, zha, iob]
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/boutonaqara
 deconz: 911
 mlink: https://www.aqara.com/en/smart_wireless_mini_switch.html
 link: https://www.banggood.com/Original-Xiaomi-Aqara-Smart-Wireless-Switch-Smart-Home-Kit-Remote-Control-Touch-Switch-p-1224921.html

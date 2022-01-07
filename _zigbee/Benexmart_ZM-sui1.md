@@ -7,7 +7,7 @@ category: remote
 supports: action, battery
 zigbeemodel: ['TS0041','_TZ3000_tk3s5tyg']
 z2m: TS0041
-compatible: [z2m,iob,deconz,zha,zigate]
+compatible: [z2m,iob,deconz,zha,z4d]
 deconz: 3398
 mlink: https://benexmart.com/
 link: https://www.aliexpress.com/item/4000793877542.html

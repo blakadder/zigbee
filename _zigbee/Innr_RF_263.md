@@ -5,8 +5,8 @@ title: Filament Bulb Vintage E27
 category: light
 supports: on/off, brightness
 zigbeemodel: ['RF 263']
-compatible: [z2m,iob,zigate,deconz]
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/RF263
+compatible: [z2m,iob,z4d,deconz]
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/RF263
 mlink: https://www.innr.com/en/product/smart-filament-bulb-e27-vintage/
 link: https://www.amazon.co.uk/Filament-Vintage-Philips-Google-Required/dp/B07V1GDH81
 link2: https://www.amazon.de/Smart-Filament-Vintage-Philips-1-Pack/dp/B07V1HN53P

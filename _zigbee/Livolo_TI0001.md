@@ -9,11 +9,11 @@ link: https://www.amazon.fr/Livolo-Interrupteur-bouton-tactile-Zigbee/dp/B07VX5T
 mlink: https://www.livoloeurope.eu/livolo-full-product-catalogue/livolo-zigbee-touch-light-switches
 link2: https://www.aliexpress.com/item/32918733716.html
 compatible: 
-  - zigate
+  - z4d
   - z2m
   - iob
   - deconz
-zigate: https://github.com/pipiche38/Domoticz-Zigate-Wiki/blob/master/en-eng/Livolo-corner.md
+z4d: https://github.com/pipiche38/Domoticz-Zigate-Wiki/blob/master/en-eng/Livolo-corner.md
 ---
 Needs to be paired on Channel 26!
 Then you can eventually switch the channel to 11 and Livolo devices will be switching automatically

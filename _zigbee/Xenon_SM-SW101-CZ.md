@@ -7,7 +7,7 @@ category: cover
 supports: open, close, stop
 zigbeemodel: ['TS0302']
 zb3: true
-compatible: [z2m,zigate,deconz]
+compatible: [z2m,z4d,deconz]
 deconz: 2999
 z2m: ZM-CSW032-D
 mlink: http://jinvoosmart.com.cn/zigbee-devices/sm-sw101-cz-curtain-switch.html

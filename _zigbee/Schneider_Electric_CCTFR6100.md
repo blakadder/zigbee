@@ -6,7 +6,7 @@ title: Drayton Wiser Radiator Thermostat
 category: hvac
 supports: temperature, batterypct, keypad lock, heating demand, setpoint, open window detection, boost -2/+2 °C, external temperature sensor
 zigbeemodel: ['iTRV']
-compatible: [z2m,zha,zigate, deconz]
+compatible: [z2m,zha,z4d, deconz]
 deconz: 4148
 mlink: https://www.se.com/ww/en/product/CCTFR6100/se---wiser-radiator-thermostat/
 link: https://www.amazon.co.uk/Drayton-Heating-Radiator-Thermostat-Amazon/dp/B075GNG6QF

@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator
 image: /assets/images/devices/ZiGate-DIN.jpg
 zigbeeid: none
-compatible: [zigate,zha,z2m,iob]
+compatible: [z4d,zha,z2m,iob]
 mlink: https://zigate.fr
 link: https://zigate.fr/produit/zigatev2-usb-din/
 link2: https://www.domadoo.fr/en/interface-domotique/5210-zigate-passerelle-zigbee-sur-rail-din-zigate-din-3770014375049.html

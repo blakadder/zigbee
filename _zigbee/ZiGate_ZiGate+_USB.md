@@ -6,7 +6,7 @@ title: Zigbee Gateway USB v2
 category: coordinator
 supports: coordinator
 zigbeeid: none
-compatible: [zigate,zha,z2m,iob]
+compatible: [z4d,zha,z2m,iob]
 mlink: https://zigate.fr/produit/zigate-usb/
 link: https://www.domadoo.fr/en/interface-domotique/5734-lixee-dongle-usb-zigbee-zigate-v2-compatible-jeedom-eedomus-domoticz-3770014375094.html
 link2: https://lixee.fr/produits/31-zigate-plus-v2-3770014375094.html

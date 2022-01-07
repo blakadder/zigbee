@@ -5,7 +5,7 @@ vendor: OpenLumi
 title: Lumi Router
 category: router
 zigbeemodel: ['openlumi.gw_router.jn5169']
-compatible: [z2m,zha,deconz,iob,zigate]
+compatible: [z2m,zha,deconz,iob,z4d]
 mlink: https://github.com/igo-r/Lumi-Router-JN5169
 link: https://www.amazon.de/dp/B07P6Z1VZ9
 link2: https://www.aliexpress.com/item/32950752296.html

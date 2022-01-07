@@ -7,7 +7,7 @@ category: remote
 supports: batterypct, click, open and close command to windows covering devices
 image: /assets/images/devices/Ikea_E1766.jpg
 zigbeemodel: ['TRADFRI open/close remote']
-compatible: [z2m,deconz,iob, zigate,zha]
+compatible: [z2m,deconz,iob, z4d,zha]
 deconz: 853
 mlink: https://www.ikea.com/gb/en/p/tradfri-wireless-dimmer-white-00468432/
 link: 

@@ -10,7 +10,7 @@ mlink: https://www.bankamp.de/L-lightLINE-Pendelleuchte-up-down/2154-1-33
 link: https://www.lampenwelt.de/bankamp-l-lightline-led-zigbee-up-down-anthrazit.html
 zigbeemodel: ['ZLL-DimmableLigh']
 z2m: ZLED-2709
-compatible: [z2m,iob,tasmota,zigate,zha]
+compatible: [z2m,iob,tasmota,z4d,zha]
 ---
 
 

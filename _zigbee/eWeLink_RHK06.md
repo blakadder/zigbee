@@ -11,7 +11,7 @@ link: https://www.aliexpress.com/item/4000537100802.html
 link2: https://www.aliexpress.com/item/4000523263373.html
 link3: 
 zigbeemodel: ['WB01','WB-01']
-compatible: [z2m,iob,zha,zigate,tasmota,deconz]
+compatible: [z2m,iob,zha,z4d,tasmota,deconz]
 deconz: 2990
 ---
 

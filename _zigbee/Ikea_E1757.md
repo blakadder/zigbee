@@ -7,7 +7,7 @@ category: cover
 supports: open/close, stop, position, batterypct
 image: /assets/images/devices/Ikea_E1757.jpg
 zigbeemodel:  ['FYRTUR block-out roller blind']
-compatible: [z2m,deconz,iob,zha,zigate]
+compatible: [z2m,deconz,iob,zha,z4d]
 deconz: 1121
 mlink: https://www.ikea.com/nl/en/p/fyrtur-block-out-roller-blind-wireless-battery-operated-grey-90408170/
 link: 

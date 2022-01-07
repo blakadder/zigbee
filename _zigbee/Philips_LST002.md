@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LST002.jpg
 zigbeemodel: ['LST002']
-compatible: [z2m,zigate,zha]
+compatible: [z2m,z4d,zha]
 mlink: https://www2.meethue.com/en-gb/p/hue-white-and-colour-ambience-lightstrip-plus/7190155PH
 link: https://www.amazon.com/Philips-Ambiance-LightStrip-Compatible-Assistant/dp/B0167H33DU/
 link2: https://www.amazon.de/dp/B0148NMVQA/

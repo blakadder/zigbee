@@ -6,7 +6,7 @@ title: Sound and Flash Siren
 category: sensor
 supports: alarm, volume, battery
 zigbeemodel: ['TS0216']
-compatible: [zigate, z2m,iob,deconz]
+compatible: [z4d, z2m,iob,deconz]
 mlink: 
 link: https://www.aliexpress.com/item/4001309486955.html
 link2: https://www.banggood.com/Zigbees-Smart-Sensor-Wireless-WiFi-Linkage-Smart-Sound-And-Light-Alarm-Horn-Siren-Remote-Controller-Smart-Module-p-1758665.html

@@ -7,7 +7,7 @@ category: lock
 supports: lock/unlock, batterypct
 image: /assets/images/devices/Danalock_V3-BTZB.jpg
 zigbeemodel: ['V3-BTZB']
-compatible: [z2m,iob,zha,zigate,deconz]
+compatible: [z2m,iob,zha,z4d,deconz]
 deconz: 3030
 z2m: V3-BTZB/V3-BTZBE
 mlink: https://danalock.com/products/danalock-v3-smart-lock/

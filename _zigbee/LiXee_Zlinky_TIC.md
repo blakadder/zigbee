@@ -5,9 +5,9 @@ vendor: LiXee
 title: Linky Meter Data Transmitter
 category: sensor
 mlink: 
-link: https://lixee.fr/produits/37-zigate-usb-ttl-3770014375148.html
+link: https://lixee.fr/produits/37-z4d-usb-ttl-3770014375148.html
 zigbeemodel: Zlinky_TIC
-compatible: [zigate,zha]
+compatible: [z4d,zha]
 EAN: 3770014375148
 ---
 Support Historic mode

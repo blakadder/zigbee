@@ -7,7 +7,7 @@ category: sensor
 supports: illuminance, batterylow
 image: /assets/images/devices/Xiaomi_GZCGQ01LM.jpg
 zigbeemodel: ['lumi.sen_ill.mgl01']
-compatible: [z2m,iob,deconz,zigate,zha,tasmota]
+compatible: [z2m,iob,deconz,z4d,zha,tasmota]
 deconz: 2300
 mlink: https://item.mi.com/product/11387.html?cfrom=search&selected=1194900027&pClass=c
 link: https://www.aliexpress.com/item/4000478783825.html

@@ -8,8 +8,8 @@ supports: action, on/off, decoupled mode
 action: click, hold, release
 image: /assets/images/devices/QBKG04LM.jpg
 zigbeemodel: ['lumi.ctrl_neutral1']
-compatible: [z2m,zigate,iob,deconz,zha]
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/interrupteurmuralsimpledoubletouche
+compatible: [z2m,z4d,iob,deconz,zha]
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/interrupteurmuralsimpledoubletouche
 mlink: https://www.aqara.com/en/smart_light_switch_no_neutral.html
 link: https://www.aliexpress.com/af/QBKG04LM-switch.html
 link2: https://www.banggood.com/Aqara-Neutral-Line-Type-Remote-Control-Switch-Home-Light-Controller-Intelligent-Wall-Switch-From-Xiaomi-Eco-Sy-p-1316484.html

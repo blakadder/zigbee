@@ -7,7 +7,7 @@ category: remote
 supports: action, battery
 actions: single, double, long
 zigbeemodel: ['TS0044','_TZ3000_vp6clf9d']
-compatible: [z2m,tasmota,zha,deconz,zigate]
+compatible: [z2m,tasmota,zha,deconz,z4d]
 mlink: https://www.alibaba.com/product-detail/Earda-Ziggbee-3-Gang-Smart-Wall_1600101179511.html
 link: https://www.aliexpress.com/item/1005001499593342.html
 link2: https://www.banggood.com/Zemismart-4-Gang-Tuya-Zigbee3_0-Wireless-Switch-Sticker-Battery-Power-SmartThings-Control-ZB-2MQTT-deCONZ-p-1837377.html

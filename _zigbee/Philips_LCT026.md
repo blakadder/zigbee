@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCT026.jpg
 zigbeemodel: ['LCT026','7602031P7']
-compatible: [z2m,deconz,zigate,iob,zha]
+compatible: [z2m,deconz,z4d,iob,zha]
 z2m: 7602031P7
 mlink: https://www.philips-hue.com/de-at/p/hue-white-and-color-ambiance-go-tragbare-leuchte-(neuestes-modell)/7602031P7
 link: https://www.amazon.co.uk/Philips-Plastic-Table-Bedside-Light/dp/B07SQ2FZTK

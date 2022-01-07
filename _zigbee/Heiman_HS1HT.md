@@ -7,9 +7,9 @@ category: sensor
 supports: temperature, humidity, batterypct
 image: /assets/images/devices/Heiman_HS1HT.jpg
 zigbeemodel: ['TH-EM','HT-EM','TH-T_V14','HT-N','HS1HT-N','HS1HT','HT-EF-3.0']
-compatible: [z2m,zha,deconz,zigate,iob]
+compatible: [z2m,zha,deconz,z4d,iob]
 z2m: HS1HT-N
-zigate: https://zigate.fr/le-materiel-compatible-zigate/compatible/capteurtempraturehumidit
+z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/capteurtempraturehumidit
 mlink: http://www.heimantech.com/product/?type=detail&id=12
 link: https://www.aliexpress.com/item/32908832168.html
 link2: https://www.amazon.co.uk/HEIMAN-Zigbee-Temperature-Humidity-Detector/dp/B07DJ6MF53

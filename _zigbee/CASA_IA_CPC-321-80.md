@@ -7,6 +7,6 @@ category: sensor
 link: https://www.domadoo.fr/en/peripheriques/5583-casaia-compteur-d-energie-3-pinces-zigbee-3770021021182.html
 mlink: https://casaia.fr/product/compteur-denergie-zigbee/
 zigbeemodel: PC321
-compatible: zigate
+compatible: z4d
 ---
 Voltage/Current/Power monitor for 3 different lines

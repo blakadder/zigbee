@@ -9,6 +9,6 @@ title: Wiser Thermostat
 mlink: https://www.se.com/fr/fr/product/EER51000/wiser---thermostat/
 link: https://www.amazon.fr/Schneider-Electric-Wiser-vanne-thermostatique/dp/B0158XIEYM
 link2: 
-compatible: [zigate,z2m]
-zigate: https://github.com/pipiche38/Domoticz-Zigate-Wiki/blob/master/en-eng/Wiser-Thermostat.md
+compatible: [z4d,z2m]
+z4d: https://github.com/pipiche38/Domoticz-Zigate-Wiki/blob/master/en-eng/Wiser-Thermostat.md
 ---

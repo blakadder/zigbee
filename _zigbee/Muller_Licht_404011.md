@@ -8,7 +8,7 @@ supports: action, brightness
 action: on, off, toggle, brightness up/down click/hold/release, move to colortemp, move to color, scene
 image: /assets/images/devices/Muller_Licht_404011.jpg
 zigbeemodel: ['ZBT-Remote-ALL-RGBW']
-compatible: [z2m,iob,deconz,zigate,tasmota,zha]
+compatible: [z2m,iob,deconz,z4d,tasmota,zha]
 deconz: 1209
 mlink: https://www.mueller-licht.de/_tool-gesamt_/index.php?Artikel=404011&L=en
 link: https://www.amazon.de/M%C3%9CLLER-LICHT-Fernbedienung-vorprogrammierten-individuelles-Stimmungslicht/dp/B07FMCLC2N

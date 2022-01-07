@@ -6,7 +6,7 @@ category: plug
 supports: on/off, power metering
 image: /assets/images/devices/SmartThings_IM6001-OTP05.jpg
 zigbeemodel: ['outlet','24fd5b00010cf377']
-compatible: [z2m,deconz,zigate]
+compatible: [z2m,deconz,z4d]
 deconz: 2576
 mlink: https://www.samsung.com/us/smart-home/smartthings/outlets/samsung-smartthings-outlet-2018-gp-u999sjvldaa/
 link: https://www.amazon.com/Samsung-SmartThings-Outlet-GP-U999SJVLDAA-Smart/dp/B07F96JB63

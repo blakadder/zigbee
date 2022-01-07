@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-FL-004TZ.jpg
 zigbeemodel: ['GL-FL-004TZ']
-compatible: [z2m,iob, zigate]
+compatible: [z2m,iob, z4d]
 mlink: http://www.gledopto.com/h-col-312.html
 link: https://www.amazon.com/GLEDOPTO-Dimmable-Floodlight-Compatible-Playground/dp/B07QXXD292
 link3: https://www.aliexpress.com/item/32961263460.html

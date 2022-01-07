@@ -8,6 +8,6 @@ supports: routing, power monitoring
 title: Wiser S-Meter
 mlink: https://www.se.com/fr/fr/product/EER32000/wiser---concentrateur-de-6-tc/
 link: https://www.amazon.fr/dp/B0158XINES
-compatible: [zigate]
-zigate: https://github.com/pipiche38/Domoticz-Zigate-Wiki/blob/master/en-eng/Wiser-Thermostat.md
+compatible: [z4d]
+z4d: https://github.com/pipiche38/Domoticz-Zigate-Wiki/blob/master/en-eng/Wiser-Thermostat.md
 ---

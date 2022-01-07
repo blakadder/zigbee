@@ -7,5 +7,5 @@ category: plug
 mlink: https://www.easyiot.tech
 link: https://www.aliexpress.com/item/1005002852281147.html
 zigbeemodel: ['SA-003-Zigbee']
-compatible: [z2m,zigate,zha,tasmota,deconz]
+compatible: [z2m,z4d,zha,tasmota,deconz]
 ---

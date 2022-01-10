@@ -4,7 +4,7 @@ model: RTCGQ12LM
 vendor: Aqara
 title: Motion and Illuminance Sensor T1
 category: sensor
-supports: occupancy, batterypct, illuminance
+supports: occupancy, batterypct, illuminance, detection interval
 zigbeemodel: ['lumi.motion.agl02']
 compatible: [z2m,zha]
 mlink: https://www.aqara.com/cn/productDetail/d17

@@ -8,6 +8,6 @@ supports:
 zigbeemodel: ['lumi.lunar.acn01']
 compatible: []
 mlink: https://www.aqara.com/cn/productDetail/smart-sleep-monitor
-link: https://aliexpress.com/item/1005003179418316.html
+link: https://www.aliexpress.com/item/1005003179418316.html
 ---
 

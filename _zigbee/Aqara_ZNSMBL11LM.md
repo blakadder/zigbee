@@ -2,7 +2,7 @@
 date_added: 2021-08-25
 model: ZNSMBL11LM  
 vendor: Aqara
-title: Sleeping Belt
+title: Sleep Monitoring Belt
 category: sensor
 supports:
 zigbeemodel: ['lumi.lunar.acn01']

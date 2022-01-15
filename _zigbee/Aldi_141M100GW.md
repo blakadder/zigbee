@@ -14,6 +14,4 @@ link: https://www.aldi-sued.de/de/homepage.html
 Setup same as [Lidl_TYGWZ-01](Lidl_TYGWZ-01)
 
 Picture of the inside:
-<div style="width:50%; margin:0 auto">
-   <img src="https://github.com/NafetsM/zigbee/blob/f3839c47c0f4f48aab68a1e31e4ff909c994f805/assets/images/megos_inside.JPG" alt="image with reference link">
-</div>
+![image](https://github.com/NafetsM/zigbee/blob/f3839c47c0f4f48aab68a1e31e4ff909c994f805/assets/images/megos_inside.JPG)

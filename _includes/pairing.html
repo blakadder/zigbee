@@ -9,12 +9,12 @@
 </ul>
 
 
-{%- elsif page.vendor contains "Xiaomi" -%}
+{%- elsif page.vendor contains "Xiaomi" or page.vendor contains "Aqara" -%}
 {%- unless page.title contains "Vima" or page.title contains "Honeywell" -%}
 <h6>Pairing Instructions</h6>
 
 Press and hold the button on the device until the blue light starts blinking, release it and the pairing should begin.
-<i>If you're having problems pairing, try keeping the device alive (press the button every second) after pairing started, until pairing completed (source: <a href="https://github.com/home-assistant/core/issues/43689#issuecomment-734836162">ZHA with Zigate and Aqara device</a>).</i>
+<p><i>If you're having problems pairing, try keeping the device alive (press the button every second) after pairing started, until pairing completed (source: <a href="https://github.com/home-assistant/core/issues/43689#issuecomment-734836162">ZHA with Zigate and Aqara device</a>).</i>
 <p>
 If you're having connection or pairing issues read <a href="https://community.hubitat.com/t/xiaomi-aqara-devices-pairing-keeping-them-connected/623">Xiaomi & Aqara Devices - Pairing & Keeping them connected</a>.
 {% endunless %}

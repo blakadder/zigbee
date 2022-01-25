@@ -15,3 +15,7 @@ link2: https://www.domadoo.fr/en/peripheriques/5691-icasa-telecommande-4-zones-z
 link3: 
 link4: 
 ---
+
+To enable the S1 and S2 buttons you have to excplicitly listen to the specified broadcast group. 
+To find the group, use `WebLog 4` and the group id should be displayed when you press S1/S2 `19:18:08.923 ZIG: Sniffing group 0xFF01`
+To listen to the topic, use eg. `ZbListen 0xFF01`

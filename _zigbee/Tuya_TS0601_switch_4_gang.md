@@ -1,8 +1,8 @@
 ---
 date_added: 2021-11-19
-model: TS0601_switch_3_gang
+model: TS0601_switch_4_gang
 vendor: Tuya
-title: Touch Switch 3 Gang No Neutral
+title: Touch Switch 4 Gang No Neutral
 category: switch
 supports: on/off
 zigbeemodel: ['TS0601','_TZE200_aqnazj70']

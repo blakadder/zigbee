@@ -1,10 +1,10 @@
 ---
-model: LCW002
+model: LCX002
 vendor: Philips
 title: Hue Play Gradient Lightstrip
 category: light
 supports: on/off, brightness, colortemp, colorxy
-zigbeemodel: ['LCW002', '4090230P9']
+zigbeemodel: ['LCX002']
 compatible: [z2m]
 mlink: https://www.philips-hue.com/en-gb/p/-/8718699784775
 link: https://www.amazon.co.uk/dp/B08JMXBYZK

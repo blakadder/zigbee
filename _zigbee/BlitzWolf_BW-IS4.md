@@ -4,7 +4,7 @@ model: BW-IS4
 vendor: BlitzWolf
 title: Temperature & Humidity Sensor with Display
 category: sensor
-supports: temperature, humidity, batterypct
+supports: temperature, humidity, battery
 image: /assets/images/devices/BlitzWolf_BW-IS4.jpg
 zigbeemodel: ['TS0201']
 compatible: [z2m,iob,z4d,tasmota,deconz]

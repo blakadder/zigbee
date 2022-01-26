@@ -2,7 +2,7 @@
 date_added: 2021-10-14
 model: '5110.040'
 vendor: Iluminize
-title:  LED-controller, 4 channel 5A, RGBW LED
+title: LED-controller, 4 channel 5A, RGBW LED
 category: light
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['HK-ZD-RGB-A', '5110.40']

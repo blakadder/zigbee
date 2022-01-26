@@ -9,7 +9,7 @@ supports: temperature, thermostat, battery
 mlink: https://hihome.eu/products/hihome-smart-zigbee-radiator-thermostat
 link: 
 compatible: [z2m,iob,deconz,zha,z4d]
-deconz: 4087
+deconz: 5495
 z2m: SEA801-Zigbee/SEA802-Zigbee
 ---
 ## Pairing

@@ -4,8 +4,8 @@ model: 914TRL
 vendor: Kwikset
 title: SmartCode Traditional Electronic Deadbolt
 category: lock
-supports: lock, unlock, batterypct
-zigbeemodel: ['SMARTCODE_DEADBOLT_10_L']
+supports: lock, battery
+zigbeemodel: ['SMARTCODE_DEADBOLT_10_L', 'SMARTCODE_DEADBOLT_10_W3']
 compatible: [z2m,deconz]
 z2m: 99140-002
 mlink: https://www.kwikset.com/products/detail/914-smartcode-traditional-electronic-deadbolt-with-zigbee-technology

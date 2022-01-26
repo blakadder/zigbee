@@ -7,7 +7,7 @@ category: plug
 mlink: https://www.se.com/ww/en/product/WDE002172/socket-outlet%2C-exxact%2C-wiser%2C-single%2C-16-a%2C-connected%2C-white/
 link: https://www.elbutik.se/product.html/schneider-exxact-wiser-zigbee-1-vagsuttag
 zigbeemodel: ['SOCKET/OUTLET/1']
-compatible: deconz 
+compatible: [deconz, z2m]
 ---
 
 The outlet supports power monitoring as well according to manufacturer - deCONZ only supports on/off state & switch.

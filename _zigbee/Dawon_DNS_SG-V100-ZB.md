@@ -8,7 +8,7 @@ supports: off, battery
 zigbeemodel: ['SG-V100-ZB']
 compatible: [z2m]
 mlink: https://cafe.naver.com/aipmlab/3535
-link: 
+link: https://pmshop.co.kr/product/detail.html?product_no=122&cate_no=1&display_group=2
 link2: 
 link3: 
 ---

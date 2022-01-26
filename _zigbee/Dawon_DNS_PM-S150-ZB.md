@@ -9,7 +9,7 @@ image: /assets/images/devices/Dawon_DNS_PM-S150-ZB.jpg
 zigbeemodel: ['PM-S150-ZB']
 compatible: [z2m]
 mlink: 
-link: 
+link: https://pmshop.co.kr/product/detail.html?product_no=115&cate_no=1&display_group=2
 link2: 
 link3: 
 ---

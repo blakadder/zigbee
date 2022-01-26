@@ -7,5 +7,5 @@ category: light
 mlink: https://benexmart.com
 link: https://www.aliexpress.com/item/1005002328614570.html
 zigbeemodel: ['TS0502B', '_TZ3210_psgq7ysz']
-compatible: [z2m,iob,zha,deconz]
+compatible: [z2m,zha,deconz]
 ---

@@ -6,7 +6,7 @@ title: H1 EU Wall Switch (No Neutral, Single Rocker)
 category: switch
 supports: on/off, power outage memory, switch decouple
 zigbeemodel: ['lumi.switch.l1aeu1']
-compatible: [z2m]
+compatible: [z2m,deconz]
 mlink: https://www.aqara.com/eu/product/smart-wall-switch-h1-no-neutral
 link: https://www.domadoo.fr/en/peripheriques/5726-xiaomi-aqara-interrupteur-mural-intelligent-h1-zigbee-30-sans-neutre-6970504214774.html
 link2: https://www.alzashop.com/aqara-smart-wall-switch-h1no-neutral-single-rocker-d6480894.htm

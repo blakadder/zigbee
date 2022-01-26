@@ -4,7 +4,7 @@ model: TH1300ZB
 vendor: Sinope
 title: Smart Floor Heating Thermostat 3600 W
 category: hvac
-supports: local temp, units, keypad lockout, mode, state, backlight, outdoor temp, time
+supports: local temperature, keypad lockout, mode, state, backlight, electrical measurement
 zigbeemodel: ['TH1300ZB']
 compatible: [zha,deconz,z2m]
 deconz: 1289

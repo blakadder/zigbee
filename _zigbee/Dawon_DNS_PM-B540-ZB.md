@@ -8,7 +8,7 @@ supports: on/off, power and energy measurement, device temperature
 zigbeemodel: ['PM-B540-ZB']
 compatible: [z2m]
 mlink: 
-link: https://pmshop.co.kr/product/detail.html?product_no=100&cate_no=33&display_group=1
+link: https://pmshop.co.kr/product/detail.html?product_no=116&cate_no=1&display_group=2
 link2: 
 link3: 
 ---

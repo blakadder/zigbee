@@ -7,7 +7,7 @@ category: remote
 supports: action
 action: on, off, brightness
 zigbeemodel: ['FLS/AIRLINK/4']
-compatible: [z2m]
+compatible: [z2m,deconz]
 mlink: https://www.lk.dk/produkter?iid=5703302169844
 link: https://www.proshop.dk/Lauritz-Knudsen/LK-FUGA-Wiser-traadloes-batteritryk-4-slutte-1-modul-hvid/2929907
 EAN:

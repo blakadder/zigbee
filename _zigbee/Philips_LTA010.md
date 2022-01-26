@@ -6,7 +6,7 @@ title: Hue White Ambiance 1100 E26 Bluetooth
 category: light
 supports: on/off, brightness, colortemp
 zigbeemodel: ['LTA010']
-compatible: [z2m]
+compatible: [z2m,zha]
 z2m: 9290024683
 mlink: https://www.philips-hue.com/en-gb/p/-/8719514291119
 link: 

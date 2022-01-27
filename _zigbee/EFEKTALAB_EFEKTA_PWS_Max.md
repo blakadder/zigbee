@@ -2,7 +2,7 @@
 date_added: 2022-01-18
 model: EFEKTA_PWS_Max
 vendor: EFEKTALAB
-title: Mini Plant Watering Sensor
+title: Plant Watering Sensor 
 category: sensor
 supports: temperature, humidity, illuminance, soil moisture, battery
 zigbeemodel: ['EFEKTA_PWS_Max']

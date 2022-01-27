@@ -12,4 +12,5 @@ z2m: TS0601_thermostat_1
 deconz: 4675
 mlink: 
 link: https://www.aliexpress.com/item/1005003065409914.html
+link2: https://www.houseiq.pl/pl/p/Glowica-termostatyczna-ZigBee-3.0-GTZ06-TUYA/1620
 ---

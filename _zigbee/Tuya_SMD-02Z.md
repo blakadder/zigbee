@@ -7,7 +7,7 @@ category: switch
 supports: on/off
 zigbeemodel: ['TS1101', '_TZ3000_7ysdnebc']
 compatible: [z2m]
-z2m: TS1101_dimmer_module
+z2m: TS1101_dimmer_module_2ch
 mlink: https://expo.tuya.com/product/906029
 link: https://www.aliexpress.com/item/1005003012298844.html
 link2: https://www.banggood.com/Tuya-Zigbee3_0-2CH-Dimmer-Smart-Switch-Module-Controller-2-Way-Remote-Control-Smart-Light-Switch-Relay-Google-Assistant-Alexa-p-1870862.html

@@ -7,7 +7,7 @@ category: switch
 supports: on/off
 zigbeemodel: ['TS1101', '_TZ3000_xfs39dbf']
 compatible: [z2m]
-z2m: TS1101_dimmer_module
+z2m: TS1101_dimmer_module_1ch
 mlink: https://expo.tuya.com/product/907025
 link: https://www.aliexpress.com/item/1005003012298844.html
 link2: 

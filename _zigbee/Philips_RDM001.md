@@ -5,7 +5,7 @@ vendor: Philips
 title: Hue Wall Switch Module
 category: switch
 supports: action, battery
-zigbeemodel: ['RDM001']
+zigbeemodel: ['RDM001', '9290030171']
 compatible: [z2m,deconz]
 z2m: 929003017102
 deconz: 4287

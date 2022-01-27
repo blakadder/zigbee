@@ -6,7 +6,7 @@ title: SilverCrest Smart Plug FR
 category: plug
 supports: on/off
 zigbeemodel: ['TS011F','_TZ3000_wamqdr3f']
-compatible: [z2m,zha,deconz,tasmota,z4d]
+compatible: [z2m, zha, deconz, tasmota, z4d]
 deconz: 3838
 mlink: https://www.lidl.fr/
 link: https://www.lidl-shop.be/fr-BE/SILVERCREST-Prise-connectee-Smart-Home/p100306992

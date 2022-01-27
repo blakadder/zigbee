@@ -10,5 +10,5 @@ compatible: [z2m,z4d]
 mlink: https://www.owon-smart.com/factory-source-zigbee-panic-button-zigbee-motion-sensor-with-wireless-alarm-for-smart-home-multisensor-pir313-owon-product/
 link: https://www.alibaba.com/product-detail/Smart-Home-Security-System-Wireless-Zigbee_60689342320.html
 link2: https://www.domadoo.fr/en/peripheriques/6010-owon-multi-sensor-zigbee-30-movements-temperature-and-humidity.html
-link3: 
+link3: https://casaia.fr/product/multi-sensor-zigbee-mouvements-vibrations-temp-hum-2/
 ---

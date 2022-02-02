@@ -9,5 +9,5 @@ supports: action, batterypct
 zigbeemodel: ['lumi.remote.cagl02']
 compatible: [zha]
 mlink: https://www.aqara.com/cn/productDetail/aqara_qube_t1_pro
-link: https://aliexpress.com/item/1005003653012896.html
+link: https://aliexpress.com/item/1005003815634738.html
 ---

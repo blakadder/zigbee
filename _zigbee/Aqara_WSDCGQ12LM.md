@@ -8,7 +8,7 @@ supports: temperature, humidity, pressure, batterylow
 zigbeemodel: ['lumi.sensor_ht.agl02']
 compatible: [z2m,zha]
 mlink: https://www.aqara.com/cn/productDetail/d20
-link: 
+link: https://aliexpress.com/item/1005003815593960.html
 ---
 
 

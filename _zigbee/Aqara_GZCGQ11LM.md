@@ -8,6 +8,6 @@ supports: illuminance, battery
 zigbeemodel: ['lumi.sen_ill.agl01']
 compatible: [deconz,zha,z4d,z2m]
 mlink: https://www.aqara.com/cn/productDetail/d16
-link: 
+link: https://aliexpress.com/item/1005003815739317.html
 ---
 

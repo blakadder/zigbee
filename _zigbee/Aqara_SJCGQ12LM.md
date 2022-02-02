@@ -9,7 +9,7 @@ zigbeemodel: ['lumi.flood.agl02']
 compatible: [z2m,z4d,deconz,zha]
 deconz: 4440
 mlink: https://www.aqara.com/cn/productDetail/d19
-link: 
+link: https://aliexpress.com/item/1005003815727332.html
 ---
 
 

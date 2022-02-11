@@ -9,7 +9,7 @@ zigbeemodel: ['lumi.sensor_magnet.agl02']
 compatible: [deconz,z2m]
 deconz: 4343
 mlink: https://www.aqara.com/cn/productDetail/d18
-link: 
+link: https://aliexpress.com/item/1005003674241144.html
 ---
 
 

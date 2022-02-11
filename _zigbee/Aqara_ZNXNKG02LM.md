@@ -8,5 +8,5 @@ supports: action, battery
 zigbeemodel: ['lumi.remote.rkba01']
 compatible: [z2m]
 mlink: https://www.aqara.com/cn/productDetail/wireless-smart-knob-h1
-link: https://www.aliexpress.com/item/1005003148103553.html
+link: https://www.aliexpress.com/item/1005003815604930.html
 ---

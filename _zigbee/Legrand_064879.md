@@ -7,7 +7,7 @@ category: plug
 supports: on/off
 image: /assets/images/devices/Legrand_064879.jpg
 zigbeemodel: ['Cable outlet']
-compatible: [deconz,z4d]
+compatible: [deconz,z2m,z4d]
 deconz: 883
 mlink: https://www.legrand.fr/pro/catalogue/43076-sortie-de-cable/sortie-de-cable-connectee-pour-installation-with-netatmo-compatible-fil-pilote-3000w-on-off-et-mesure-conso-blanc
 link: https://www.amazon.fr/Sortie-connect%C3%A9e-Netatmo-compatible-Blanche/dp/B08241RHMJ

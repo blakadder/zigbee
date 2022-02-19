@@ -7,7 +7,7 @@ category: switch
 type: In-Wall Dimmer
 supports: on/off, brightness
 zigbeemodel: ['43082']
-compatible: [z2m]
+compatible: [z2m,deconz]
 mlink: 
 link: https://www.amazon.com/dp/B08Q4FPF2V
 link2: 

@@ -20,7 +20,32 @@ Temperature and humidity are reported at a fixed 60 minute interval.
 Hold the orange button until three dots appear at the top left of the screen.
 
 ## ZHA
-The device seems to reset every 150 seconds and this causes the temperature to be reported, via ZigBee (not on the display), as 0 degrees, and the display displays 0 Lux. Continuous resets, at least once, caused a small "!" to appear on the screen while virtually nothing was updated, suggesting some internal processing error. All in all, the device is next to unusable.
+The device seems to reset every 150 seconds and this causes the temperature to be reported, via ZigBee (not on the display), as 0 degrees, and the display displays 0 Lux. Continuous resets, at least once, caused a small "!" to appear on the screen while virtually nothing was updated, suggesting some internal processing error. 
+
+This impact of this issue can be reduced by creating a template sensor in the home assistant configuration.yaml. (supposing the real measured value is not 0 degrees)
+
+``` 
+template:
+  - sensor:
+      - name: "Moes Thermometer Temperature Filtered" 
+        state: >-
+          {## Enter the entity_id of the thermometer below ##}
+          {% set moes_measurement = float(states("sensor.moes_thermometer_temperature"))  %}   
+          
+          {% if moes_measurement != 0  %}
+            {## Use the measured value ##}
+            {{ moes_measurement }}
+          {% else %}
+            {## Don't change the state ##}
+            {{ 
+              states("sensor.moes_thermometer_temperature_filtered") {## Should match with the name entered above ##}
+            }}
+          {% endif %}
+        unit_of_measurement: "°C"
+``` 
+
+For this template sensor to work properly, it's required for its entity (in the example: sensor.moes_thermometer_temperature_filtered) to be included in the [recorder](https://www.home-assistant.io/integrations/recorder/#configure-filter). Optionally, the unit of measurement can be changed to match with what's displayed on the e-ink screen.
+The same method can be used for the humidity.
 
 ## Z2M
 Same problems with Z2M.

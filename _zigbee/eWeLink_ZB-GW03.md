@@ -13,6 +13,8 @@ mlink:
 ---
 ZB-GW03 Zigbee to LAN bridge/gateway based on Espressif ESP32 and a "SM-011 V1.0" radio SiP module by CoolKit-Technologies (based on Silicon Labs EFR32MG21 MCU).
 
+The ESP32 can be flashed with Tasmota (or ESPHome) and the EFR32MG21 Zigbee module can be flashed with either a Zigbee Coordinator firmware or a Zigbee Router firmware image.
+
 ZB-GW03 eWeLink Ethernet Zigbee Gateway (ZB-GW03-V1.0, ZB-GW03-V1.2, ZB-GW03-V1.3) is also sold rebranded as:
 * Eachen eWeLink ZigBee Smart Hub
   * https://ewelink.eachen.cc/product/eachen-ewelink-zigbee-bridge-pro-zbbridge-pro/
@@ -24,5 +26,4 @@ ZB-GW03 eWeLink Ethernet Zigbee Gateway (ZB-GW03-V1.0, ZB-GW03-V1.2, ZB-GW03-V1.
 
 Flashing the Espressif ESP32 chip and Tasmota configuration [instructions](https://templates.blakadder.com/ewelink_ZB-GW03).
 
-EFR32MG21 be flashed with either a Zigbee Coordinator firmware or a Zigbee Router firmware image.
 

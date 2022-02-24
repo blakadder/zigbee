@@ -15,6 +15,10 @@ link4: https://www.amazon.de/dp/B08DRBPCPQ
 link5: https://www.aliexpress.com/wholesale?SearchText=zbbridge
 ---
 
+ITead Sonoff ZBBridge Zigbee Bridge is based on an Espressif ESP8266/ESP8285 and an "SM-011 V1.0" radio SiP module by CoolKit-Technologies (based on Silicon Labs EFR32MG21 MCU).
+
+The ESP8266 can be flashed with Tasmota (or ESPHome) and the EFR32MG21 Zigbee module can be flashed with either a Zigbee Coordinator firmware or a Zigbee Router firmware image.
+
 ## Flash ESP8266
 
 Remove the 4 rubber feet to access screws and disassemble the device. Take out the PCB and connect breadboard cables to labelled pin holes (if you only have Dupont wires you will need to solder them since the holes are too small for them).

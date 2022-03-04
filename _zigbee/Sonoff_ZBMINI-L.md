@@ -7,7 +7,7 @@ category: switch
 supports: on/off
 zigbeemodel: ['ZBMINI-L']
 compatible: [tasmota, zha]
-mlink: https://sonoff.tech/product/diy-smart-switch/zbmini/
+mlink: https://sonoff.tech/product/diy-smart-switch/zbmini-l/
 link: https://www.aliexpress.com/item/1005003979286063.html
 link2: https://www.aliexpress.com/item/1005003979286063.html
 

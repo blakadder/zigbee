@@ -8,7 +8,7 @@ supports: contact, battery
 zigbeemodel: ['lumi.magnet.ac01']
 compatible: [z2m]
 mlink: https://www.aqara.com/cn/productDetail/aqara-door-and-windows-sensor-p1
-link: https://www.aliexpress.com/item/1005003071227973.html
+link: https://www.aliexpress.com/item/1005003815769121.html
 ---
 
 

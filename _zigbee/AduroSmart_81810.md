@@ -2,7 +2,7 @@
 date_added: 2022-01-07
 model: 81810
 vendor: AduroSmart
-title: ERIA Diommable Warm White A60 B22 Bulb
+title: ERIA Dimmable Warm White A60 B22 Bulb
 category: light
 type: Bulb
 supports: on/off, brightness

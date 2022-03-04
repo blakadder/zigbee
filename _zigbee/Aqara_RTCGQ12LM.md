@@ -8,10 +8,5 @@ supports: occupancy, batterypct, illuminance, detection interval
 zigbeemodel: ['lumi.motion.agl02']
 compatible: [z2m,zha]
 mlink: https://www.aqara.com/cn/productDetail/d17
-link: https://www.aliexpress.com/item/1005003242439513.html
+link: https://www.aliexpress.com/item/1005003815716454.html
 ---
-
-
-
-## Note
-Illuminance not working in Zigbee2MQTT

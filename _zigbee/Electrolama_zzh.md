@@ -6,7 +6,7 @@ title: zig-a-zig-ah! CC2652R Multiprotocol RF Stick
 category: coordinator
 supports: coordinator
 zigbeeid: none
-compatible: [z2m,zha]
+compatible: [z2m,zha, z4d]
 mlink: https://electrolama.com/projects/zig-a-zig-ah/
 link: https://www.tindie.com/products/electrolama/zzh-cc2652r-multiprotocol-rf-stick/
 ---

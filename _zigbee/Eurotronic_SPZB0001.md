@@ -51,3 +51,8 @@ ZbSend {"Device":"<device>","Manuf":"0x1037","Write":{"EurotronicHostFlags":132}
 
 ZbSend {"Device":"<device>","Manuf":"0x1037","Write":{"EurotronicHostFlags":1}}
 ```
+
+### Known Problems
+
+Under some circumstances, there are known problems with writing the Temperature Set Point to the Device. 
+A discussion regarding the issues is available under [https://github.com/EUROTRONIC-Technology/Spirit-ZigBee/issues/1](https://github.com/EUROTRONIC-Technology/Spirit-ZigBee/issues/1)

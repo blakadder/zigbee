@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness
 image: /assets/images/devices/Gledopto_GL-C-009.jpg
 zigbeemodel: ['GL-C-009']
-compatible: [z2m,iob,z4d]
+compatible: [z2m, iob, z4d, deconz]
 z4d: 
 mlink: http://www.gledopto.com/h-col-321.html
 link: https://www.aliexpress.com/item/32896014532.html

@@ -5,9 +5,9 @@ vendor: Enbrighten
 title: In-Wall Dimmer
 category: switch
 type: In-Wall Dimmer
-supports: on/off, brightness
+supports: on/off, brightness, power meter, energy meter
 zigbeemodel: ['43082']
-compatible: [z2m,deconz]
+compatible: [z2m,deconz,zha]
 mlink: 
 link: https://www.amazon.com/dp/B08Q4FPF2V
 link2: 

@@ -7,7 +7,7 @@ category: sensor
 mlink: 
 link: https://lixee.fr/produits/37-z4d-usb-ttl-3770014375148.html
 zigbeemodel: Zlinky_TIC
-compatible: [z4d,zha]
+compatible: [z2m,z4d,zha]
 EAN: 3770014375148
 ---
 Support Historic mode

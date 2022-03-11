@@ -6,7 +6,7 @@ title: SilverCrest Zigbee Gateway
 category: coordinator
 supports: coordinator
 zigbeemodel: ['']
-compatible: [zha]
+compatible: [zha, z4d]
 mlink: https://go.tuya.com/en/productDetail?code=83jt6kkktau3
 link: https://www.lidl.de/p/silvercrest-gateway-zigbee-smart-home/p100306596
 link2: https://www.idealo.de/preisvergleich/OffersOfProduct/200961757_-gateway-zigbee-smart-home-silvercrest-multimedia.html

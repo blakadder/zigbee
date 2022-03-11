@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator
 image: /assets/images/devices/coordinator_Elelabs_ELU012.jpg
 zigbeeid: none
-compatible: [zha]
+compatible: [zha, z4d]
 mlink: https://elelabs.com/products/elelabs-usb-adapter.html
 link: https://www.tindie.com/products/elelabs/elelabs-zigbee-usb-adapter/
 link2: https://www.zw-store.ru/product/usb-zigbee-elelabs/

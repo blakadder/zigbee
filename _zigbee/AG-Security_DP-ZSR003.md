@@ -2,7 +2,7 @@
 date_added: 2021-07-07
 model: DP-ZSR003
 vendor: AG-Security
-title: Wireless Scene Switch 2 Gang 
+title: Wireless Scene Switch 3 Gang 
 category: remote
 supports: action, battery
 zigbeemodel: ['TS0043','_TZ3400_key8kk7r']

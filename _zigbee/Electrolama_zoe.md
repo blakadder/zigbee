@@ -6,7 +6,7 @@ title: zoe - Zigbee Radio for Raspberry Pi
 category: coordinator
 supports: coordinator
 zigbeeid: none
-compatible: [z2m,zha]
+compatible: [z2m,zha,z4d]
 mlink: https://electrolama.com/projects/zoe/
 link: https://www.tindie.com/products/electrolama/zoe-rtc-zigbee-radio-and-rtc-for-raspberry-pi/
 ---

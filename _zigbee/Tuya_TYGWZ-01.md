@@ -6,7 +6,7 @@ title: Ethernet Zigbee Gateway
 category: coordinator
 supports: coordinator
 zigbeemodel: ['']
-compatible: [zha]
+compatible: [zha, z4d]
 mlink: https://go.tuya.com/en/productDetail?code=83jt6kkktau3
 link: https://www.aliexpress.com/item/1005002441359324.html
 ---

@@ -6,7 +6,7 @@ title: ON/OFF Lighting Relay Switch
 category: switch
 supports: on/off
 zigbeemodel: ['SIN-4-2-20']
-compatible: [z2m,zha]
+compatible: [z2m, zha]
 mlink: https://nodon.fr/en/nodon/zigbee-on-off-lighting-relay-switch/
 link: https://www.domadoo.fr/en/peripheriques/5689-nodon-module-eclairage-onoff-zigbee-3700313925225.html
 link2: 

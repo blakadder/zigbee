@@ -6,7 +6,7 @@ title: Smoke Sensor
 category: sensor
 supports: smoke
 zigbeemodel: ['TS0205']
-compatible: [deconz,tasmota]
+compatible: [deconz, tasmota, zha]
 deconz: 3395
 mlink: 
 link: https://www.aliexpress.com/item/4001220370806.html

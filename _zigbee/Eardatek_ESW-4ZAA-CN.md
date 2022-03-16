@@ -7,7 +7,7 @@ category: remote
 supports: action, battery
 actions: on, off, brightness_move_up, brightness_step_up, brightness_step_down, brightness_move_down, brightness_stop
 zigbeemodel: ['TS004F','_TZ3000_xabckq1v']
-compatible: [deconz,z2m,zha, z4d]
+compatible: [deconz, z2m, zha, z4d]
 deconz: 5004
 z2m: TS004F
 mlink: 

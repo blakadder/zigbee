@@ -6,7 +6,7 @@ title: Single Switch Module T1 (No Neutral)
 category: switch, power outage memory, 
 supports: on/off
 zigbeemodel: ['lumi.switch.l0agl1']
-compatible: [z2m,zha,tasmota]
+compatible: [z2m, zha, tasmota, deconz]
 mlink: https://www.aqara.com/en/single_switch_T1_no-neutral.html
 link: https://www.domadoo.fr/en/peripheriques/5387-aqara-micromodule-onoff-zigbee-30-1250w-sans-neutre-6970504213302.html
 link2: https://www.amazon.de/dp/B08XW9LYG1/

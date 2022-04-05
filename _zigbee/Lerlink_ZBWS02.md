@@ -6,7 +6,7 @@ title: Wireless Switch 2 Gang
 category: remote
 supports: action, battery
 zigbeemodel: ['TS0042','_TZ3000_owgcnkrh']
-compatible: [z2m,deconz,iob,zha,tasmota]
+compatible: [z2m, deconz, zha, tasmota]
 deconz: 3398
 mlink: https://www.alibaba.com/product-detail/Lerlink-ZBWS02-2gang-Zigbee-Remote-Control_1600135012445.html
 link: https://www.aliexpress.com/item/4001095272467.html

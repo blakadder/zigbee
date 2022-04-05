@@ -6,6 +6,6 @@ title: Curtain Switch
 category: cover
 supports: open, close, stop, position
 zigbeemodel: ['TS130F','_TZ3000_l13erpv4'] 
-compatible: [deconz]
+compatible: [deconz, zha]
 mlink: 
 link: https://www.aliexpress.com/item/1005002547617654.html

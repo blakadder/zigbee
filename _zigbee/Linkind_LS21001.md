@@ -6,7 +6,7 @@ title: Water Leak Sensor
 category: sensor
 supports: water leak, battery, alert
 zigbeemodel: ['A001082']
-compatible: [z2m]
+compatible: [z2m, zha]
 mlink: https://www.linkind.com/product-page/door-window-sensor-zigbee-for-use-with-linkind-smart-device
 link: https://www.amazon.com/dp/B08YDB1PCK/
 EAN:

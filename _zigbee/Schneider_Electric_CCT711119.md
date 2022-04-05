@@ -7,7 +7,8 @@ category: plug
 type: ['plug','eu']
 supports: on/off, electrical measurement
 zigbeemodel: ['SMARTPLUG/1']
-compatible: [z2m]
+compatible: [z2m, deconz]
+deconz: 5845
 mlink: https://www.se.com/ww/en/product/CCT711119/wiser-smart-plug/
 link: https://www.domadoo.fr/en/peripheriques/5722-schneider-electric-micromodule-interrupteur-eclairage-connecte-zigbee-30-wiser-3606481048172.html
 EAN:

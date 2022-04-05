@@ -6,7 +6,7 @@ title: Touch Switch 2 Gang
 category: switch
 supports: on/off
 zigbeemodel: ['TS0012', '_TZ3000_e98krvvk']
-compatible: [z2m, deconz, tasmota, zha]
+compatible: [z2m, zha, z4d, deconz, tasmota]
 deconz: 5837
 mlink:
 link: https://www.aliexpress.com/item/1005002709241301.html

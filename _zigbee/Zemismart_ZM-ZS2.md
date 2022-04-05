@@ -6,7 +6,7 @@ title: 2 Gang Remote Switch
 category: remote
 supports: action, battery
 zigbeemodel: ['TS0042']
-compatible: [z2m,deconz,iob,zha]
+compatible: [z2m, deconz, zha]
 deconz: 3398
 mlink: https://www.zemismart.com/zemismart-zigbee-smart-remote-switch-work-with-tuya-zigbee-hub-zigbee-sticker-switch-p0259.html
 link: https://www.aliexpress.com/item/4000460643839.html

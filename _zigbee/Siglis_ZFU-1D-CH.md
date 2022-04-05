@@ -6,7 +6,7 @@ title: zigfred uno Wall Switch
 category: switch
 supports: on/off, brightness, action
 zigbeemodel: ['zigfred uno']
-compatible: [z2m]
+compatible: [z2m, zha]
 mlink: https://www.zigfred.ch/en/specs-zigfred-uno/
 link: https://www.zigfred.ch/en/order/
 link2: 

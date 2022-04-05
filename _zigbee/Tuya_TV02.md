@@ -7,7 +7,7 @@ category: hvac
 type: trv
 supports: temperature, thermostat, battery, window detection, child lock
 zigbeemodel: ['TS0601','_TZE200_hue3yfsn']
-compatible: [z2m]
+compatible: [z2m, zha]
 z2m: TV02-Zigbee
 mlink: 
 link: https://www.aliexpress.com/item/1005003119593616.html

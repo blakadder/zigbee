@@ -5,7 +5,7 @@ vendor: BSEED
 title: Touch Switch 3 Gang
 category: remote
 zigbeemodel: ['TS0042','_TZ3000_adkvzooy']
-compatible: [tasmota,z2m,zha]
+compatible: [tasmota, z2m, zha]
 mlink: 
 link: https://www.aliexpress.com/item/1005002637917367.html
 link2: 

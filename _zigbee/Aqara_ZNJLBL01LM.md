@@ -7,7 +7,7 @@ category: cover
 type: curtain motor
 supports: cover position, battery
 zigbeemodel: ['lumi.curtain.acn002']
-compatible: [z2m,deconz]
+compatible: [z2m, deconz, zha]
 deconz: 5330
 mlink: https://www.aqara.com/en/product/roller-shade-driver-e1
 link: https://www.aliexpress.com/item/1005003815724482.html

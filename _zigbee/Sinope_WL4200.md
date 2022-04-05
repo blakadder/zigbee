@@ -6,7 +6,7 @@ title: Water Leak Detector with Sensor
 category: sensor
 supports: water leak, batterypct
 zigbeemodel: ['WL4200']
-compatible: [deconz,z2m]
+compatible: [deconz, z2m, zha]
 mlink: https://www.sinopetech.com/en/product/smart-water-leak-detector-zigbee/
 link: https://www.amazon.com/dp/B07FB1ZTS8
 link2: 

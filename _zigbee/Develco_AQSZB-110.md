@@ -6,7 +6,7 @@ title: frient Air Quality Sensor
 category: sensor
 supports: voc, temperature, humidity, air quality, battery
 zigbeemodel: ['AQSZB-110']
-compatible: [deconz,z2m,zha]
+compatible: [deconz, z2m, zha]
 deconz: 3542
 mlink: https://frient.dk/products/air-quality-sensor/
 link: https://www.domadoo.fr/en/peripheriques/5408-frient-capteur-de-qualite-d-air-zigbee-ha-5713594002392.html

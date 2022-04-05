@@ -6,7 +6,7 @@ title: 4 Gang Wall Switch
 category: switch
 supports: on/off
 zigbeemodel: ['TS0004']
-compatible: [z2m]
+compatible: [z2m, zha]
 mlink: 
 link: 
 link2: 

@@ -8,5 +8,5 @@ supports: on/off, power monitoring
 zigbeemodel: ['SP2600ZB']
 mlink: https://www.sinopetech.com/en/product/smart-plug-zigbee/
 link: https://www.amazon.com/dp/B083Y5XTL4
-compatible: [z2m]
+compatible: [z2m, zha]
 ---

@@ -6,7 +6,8 @@ category: remote
 supports: click, batterypct
 image: /assets/images/devices/Sunricher_SR-ZG9001K4-DIM2.jpg
 zigbeemodel: ['ZG2833K4_EU06']
-compatible: [z2m]
+compatible: [z2m, deconz]
+deconz: 5619
 mlink: 
 link: https://www.domadoo.fr/en/peripheriques/5738-sunricher-controleur-mural-sans-fil-4-boutons-2-zones-zigbee.html
 link2: 

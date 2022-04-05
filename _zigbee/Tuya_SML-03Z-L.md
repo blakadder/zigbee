@@ -6,7 +6,7 @@ title: Switch Module 3 Channel No Neutral
 category: switch
 supports: on/off, power on behaviour
 zigbeemodel: ['TS0013', '_TZ3000_jl7qyupf']
-compatible: [z2m]
+compatible: [z2m, zha, z4d, deconz, tasmota]
 z2m: TS0013_switch_module
 mlink: https://expo.tuya.com/product/906025
 link: https://www.aliexpress.com/item/1005003108226482.html

@@ -8,6 +8,6 @@ supports: on/off
 zigbeemodel: ['SP2610ZB']
 mlink: https://www.sinopetech.com/en/product/smart-in-wall-outlet-zigbee/
 link: 
-compatible: [deconz]
+compatible: [deconz, zha]
 deconz: 4889
 ---

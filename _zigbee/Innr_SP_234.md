@@ -7,7 +7,7 @@ category: plug
 supports: on/off
 image: /assets/images/devices/Innr_SP_220.jpg
 zigbeemodel: ['SP 234']
-compatible: [deconz,z2m]
+compatible: [deconz, z2m, zha]
 deconz: 5256
 mlink: 
 link: https://www.amazon.com/dp/B08P3T48MD/

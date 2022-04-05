@@ -7,7 +7,7 @@ category: switch
 supports: lr_on_off
 image: /assets/images/devices/Lerlink_X712A.jpg
 zigbeemodel: ['TS0012']
-compatible: [z2m,iob,z4d,deconz,tasmota]
+compatible: [z2m, zha, z4d, deconz, tasmota]
 mlink: https://www.lerlink.com/productinfo/1024678.html
 link: https://www.aliexpress.com/item/4000423219189.html
 link2: 

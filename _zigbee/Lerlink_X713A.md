@@ -7,7 +7,7 @@ category: switch
 supports: lrc_on_off
 image: /assets/images/devices/Lerlink_X713A.jpg
 zigbeemodel: ['TS0013','_TYZB01_xiuox57i']
-compatible: [z2m,iob,z4d,deconz,tasmota]
+compatible: [z2m, zha, z4d, deconz, tasmota]
 mlink: https://www.lerlink.com/productinfo/1024681.html
 link: https://www.aliexpress.com/item/4000423219189.html
 link2: 

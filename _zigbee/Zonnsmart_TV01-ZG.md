@@ -7,7 +7,7 @@ category: hvac
 type: trv
 supports: climate, battery
 zigbeemodel: ['TS0601','_TZE200_e9ba97vf']
-compatible: [zha,z2m]
+compatible: [zha, z2m]
 z2m: TV01-ZB
 mlink: https://www.zonnsmart.com/products/view.php?id=4
 link: https://www.aliexpress.com/item/1005002377522262.html

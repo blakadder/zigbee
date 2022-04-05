@@ -6,7 +6,7 @@ title: Curtain Motor
 category: cover
 supports: open, close, stop, position
 zigbeemodel: ['TS0601','_TZE200_zpzndjez']
-compatible: [deconz,zha]
+compatible: [deconz, zha]
 z2m: TS0601_cover
 deconz: 4521
 mlink: 

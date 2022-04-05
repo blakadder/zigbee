@@ -5,7 +5,7 @@ vendor: Zemismart
 title: Wireless Scene Switch 2 Button
 category: remote
 zigbeemodel: ['TS0042','_TZ3000_adkvzooy']
-compatible: [tasmota,deconz,zha]
+compatible: [tasmota, deconz, zha]
 mlink: https://www.zemismart.com/products/zb-l04c
 link: https://www.aliexpress.com/item/4001227549409.html
 link2: 

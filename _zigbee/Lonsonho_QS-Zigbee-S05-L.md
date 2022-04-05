@@ -7,7 +7,7 @@ category: switch
 type: Module
 supports: on/off
 zigbeemodel: ['TS0011', '_TZ3000_pmvbt5hh']
-compatible: [zha,deconz]
+compatible: [zha, deconz]
 mlink: 
 link: https://www.aliexpress.com/item/4001178298316.html
 link2: https://www.aliexpress.com/item/1005001704971372.html

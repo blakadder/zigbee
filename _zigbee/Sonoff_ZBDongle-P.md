@@ -28,3 +28,5 @@ python.exe cc2538-bsl.py -p COM4 -evw CC1352P2_CC2652P_launchpad_coordinator_202
 
 Sonoff Dongle Plus is using CP210x, if you don't have one, download the device driver from https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 
+/assets/images/devices/Sonoff_ZBDongle-P-1.jpg
+/assets/images/devices/Sonoff_ZBDongle-P-2.jpg

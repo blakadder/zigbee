@@ -7,7 +7,7 @@ category: plug
 supports: on/off, power measurement
 image: /assets/images/devices/ZNCZ04LM.jpg
 zigbeemodel: ['lumi.plug.mmeu01']
-compatible: [z2m,iob,zha,deconz, z4d]
+compatible: [z2m, zha, deconz, z4d]
 deconz: 2583
 mlink: 
 link: https://www.aliexpress.com/item/4000641951882.html

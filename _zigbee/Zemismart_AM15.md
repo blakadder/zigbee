@@ -6,7 +6,7 @@ title: Rechargeable Battery Roller Shade Motor
 category: cover
 supports: open, close, stop, position
 zigbeemodel: ['TS0601','_TZE200_iossyxra']
-compatible: [z2m, deconz]
+compatible: [z2m, deconz, zha]
 z2m: TS0601_cover
 deconz: 5191
 mlink: https://www.zemismart.com/products/zmam1502

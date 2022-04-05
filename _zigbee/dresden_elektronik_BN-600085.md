@@ -1,5 +1,6 @@
 ---
 model: BN-600085
+EAN: BN-600085
 vendor: dresden elektronik
 title: Scene Switch
 category: switch

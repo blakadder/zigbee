@@ -5,8 +5,13 @@ vendor: Tuya
 title: Curtain Motor
 category: cover
 supports: open, close, stop, position
+<<<<<<< HEAD
 zigbeemodel: ['TS0601','_TZE200_zpzndjez']
 compatible: [deconz, zha]
+=======
+zigbeemodel: ['TS0601', '_TZE200_zpzndjez', '_TZE200_68nvbio9']
+compatible: [deconz,zha]
+>>>>>>> d951ca60480c79a7b85a8b6dc4cf97406aaefbe7
 z2m: TS0601_cover
 deconz: 4521
 mlink: 

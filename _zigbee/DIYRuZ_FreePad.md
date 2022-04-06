@@ -7,7 +7,7 @@ category: remote
 supports: action
 actions: single, double, triple, quadruple, many, hold/release
 zigbeemodel: ['DIYRuZ_FreePad', 'FreePadLeTV8']
-compatible: [z2m,iob]
+compatible: [z2m, zha]
 z2m: DIYRuZ_FreePad
 mlink: http://modkam.ru/?p=1114
 link: 

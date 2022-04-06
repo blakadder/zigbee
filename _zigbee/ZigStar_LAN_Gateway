@@ -7,7 +7,7 @@ category: coordinator
 link: https://www.tindie.com/products/zigstar/zigstar-lan-gateway/
 mlink: https://zig-star.com/projects/zigbee-gw-lan/
 zigbeemodel: 
-compatible: z2m
+compatible: [z2m,z4d]
 ---
 
 

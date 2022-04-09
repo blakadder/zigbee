@@ -5,7 +5,7 @@ title: Door Sensor
 category: sensor
 supports: contact, batterypct
 zigbeemodel: ['DoorSensor-EM','DOOR_TPV13','DOOR_TPV12','DoorSensor-EF-3.0']
-compatible: [z2m,deconz,z4d]
+compatible: [zha,z2m,deconz,z4d]
 z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/dtecteurdouverturedeporte
 mlink: http://www.heimantech.com/product/?type=detail&id=9
 link: https://www.aliexpress.com/item/4000182104601.html

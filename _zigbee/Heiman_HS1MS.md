@@ -6,7 +6,7 @@ title: Motion Sensor
 category: sensor
 supports: occupancy, battery, tamper
 zigbeemodel: [PIRSensor-EM','PIR_TPV16','TY0202']
-compatible: [deconz,z4d,z2m]
+compatible: [zha,deconz,z4d,z2m]
 deconz: 1974
 z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/dtecteurdemouvement-
 mlink: http://www.heimantech.com/product/?type=detail&id=6

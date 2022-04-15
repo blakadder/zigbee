@@ -6,7 +6,7 @@ title: WW/CW LED Controller Pro
 category: light
 supports: on/off, brightness, colortemp
 zigbeemodel: ['GL-C-006P']
-compatible: [z2m,iob,zha]
+compatible: [z2m,iob,zha,z4d]
 mlink: 
 link: https://www.aliexpress.com/item/1005001830910265.html
 ---

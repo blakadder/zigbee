@@ -15,3 +15,6 @@ link2:
 link3: 
 ---
 local temp, units, keypad lockout, mode, state, backlight, outdoor temp, time, hvac
+
+## deConz
+managing Sinope specific cluster (including Outdoor temprature on display) is not supported using deConz-rest-api

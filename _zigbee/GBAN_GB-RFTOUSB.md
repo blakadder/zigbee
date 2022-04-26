@@ -6,7 +6,7 @@ title: ZigBee RF to USB Dongle
 category: coordinator
 supports: coordinator, router
 zigbeeid: none
-compatible: [z2m,iob,zha]
+compatible: [z2m,iob,zha,z4d]
 mlink: http://www.gban.cn/en/product_show.asp?id=43
 link: https://www.aliexpress.com/item/4000060995530.html
 link2: https://www.aliexpress.com/item/4000136938567.html

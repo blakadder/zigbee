@@ -8,6 +8,6 @@ supports: coordinator
 mlink: https://github.com/Gio-dot/Z-Bee-Duo
 link: https://www.tindie.com/products/23046/
 zigbeemodel: Z-Bee Duo
-compatible: [z2m,zha]
+compatible: [z2m,zha, z4d]
 ---
 3 in 1 adapter: USB Stick, PI Zero Hat, Ser2net, with external antenna and 3D printed case

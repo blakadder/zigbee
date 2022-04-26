@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator, router
 image: /assets/images/devices/Ebyte_E18-2G4U04B.jpg
 zigbeeid: none
-compatible: [z2m,zha,tasmota]
+compatible: [z2m,zha,tasmota,z4d]
 mlink: http://ebyte.com/en/product-view-news.aspx?id=523
 link: https://www.aliexpress.com/item/32973371661.html
 link2: https://www.amazon.co.uk/Ebyte-E18-2G4U04B-Transmitter-Receiver-Indicator/dp/B07P16MXBT

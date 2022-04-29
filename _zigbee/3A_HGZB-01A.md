@@ -6,7 +6,7 @@ category: switch
 supports: on/off
 image: /assets/images/devices/3A_HGZB-01A.jpg
 zigbeemodel: ['FNB56-ZSW23HG1.1', 'LXN56-LC27LX1.1', 'LXN56-LC27LX1.3']
-compatible: [z2m]
+compatible: [z2m, z4d]
 mlink: https://3asmarthome.com/smart-in-ceiling-light-controller
 link: https://www.amazon.com.au/Controller-Compatible-Control-Downlights-Automation/dp/B07L31QFHZ/
 link2: https://www.amazon.co.uk/Nue-ZigBee-Inline-Light-Switch/dp/B07L31QFHZ

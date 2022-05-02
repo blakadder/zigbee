@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/iCasa_ICZB-B3FC64.jpg
 zigbeemodel: ['ICZB-FC']
-compatible: [z2m,iob]
+compatible: [z2m,iob,z4d]
 mlink: https://www.icasa.io/filamentlampen?lang=en
 link: https://www.amazon.de/dp/B07YYBL3MD/
 link2: 

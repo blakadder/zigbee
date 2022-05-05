@@ -6,7 +6,7 @@ title: BLE 15A Smart Plug
 category: plug
 supports: on/off, 
 zigbeemodel: ['3RSP019BZ']
-compatible: [z2m]
+compatible: [z2m, zha]
 mlink: 
 link: https://www.amazon.com/dp/B09CP9PL42
 link2: 

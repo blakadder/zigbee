@@ -4,9 +4,12 @@ model: JY-GZ-01AQ
 vendor: Aqara
 title: Smart Smoke Detector
 category: sensor
-supports:
+supports: batterypct, smoke, smoke density, selftest, mute buzzer, heartbeat indicator, linkage alarm
 zigbeemodel: ['lumi.sensor_smoke.acn03']
-compatible: []
-mlink: https://www.aqara.com/cn/productInner/Aqara%20Presence%20Detector?on=0
-link: https://aliexpress.com/item/1005003914880584.html
+compatible: [z2m]
+mlink: https://www.aqara.com/cn/productDetail/Aqara%20Presence%20Detector
+link: https://aliexpress.com/item/1005003924773900.html
 ---
+
+###### Pairing
+Press the button on the front 3 times in quick succession.

@@ -4,7 +4,7 @@ model: HS2WD
 vendor: Heiman
 title: Sound and Flash Siren
 category: sensor
-supports: warning, batterypct
+supports: warning, batterypct, flash
 zigbeemodel: ['WarningDevice', 'WarningDevice-EF-3.0', 'SRHMP-I1', 'TS0216', '_TYZB01_8scntis1']
 compatible: [deconz,z2m,z4d,zha,iob]
 z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/sirneheiman

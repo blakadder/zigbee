@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator, router
 image: /assets/images/devices/ptvo.router.jpg
 zigbeeid: none
-compatible: [z2m,tasmota,iob,zha]
+compatible: [z2m,tasmota,iob,zha,z4d]
 mlink: 
 link: https://www.aliexpress.com/item/33007098493.html
 link2: https://www.amazon.com/Huilier-CC2530-Development-Wireless-Module/dp/B07R5R89C5

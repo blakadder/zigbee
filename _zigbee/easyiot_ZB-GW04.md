@@ -7,7 +7,7 @@ category: coordinator
 mlink: https://www.easyiot.tech
 link: https://www.aliexpress.com/item/1005002791666029.html
 zigbeemodel: ZB-GW04
-compatible: zha
+compatible: [zha,z4d]
 ---
 It comes pre-flashed with an unsigned EmberZNet 6.7.9 Zigbee NCP application firmware with Silabs standard EZSP v8 (EmberZNet Serial Protocol version 8) interface enabled as well as the standard Silabs Gecko Bootloader firmware for recovery, meaning it can be used either as-is out-of-the-box or flashed with custom application firmware via USB.
 

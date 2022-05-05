@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator
 image: /assets/images/devices/Ebyte_E18-MS1PA-PCB.jpg
 zigbeeid: none
-compatible: [tasmota,z2m,zha]
+compatible: [tasmota,z2m,zha, z4d]
 mlink: http://www.ebyte.com/en/product-view-news.aspx?id=121
 link: https://www.amazon.com/cdebyte-Wireless-Transceiver-E18-MS1PA1-PCB-Antenna/dp/B082M6W88K/
 link2: https://www.amazon.de/dp/B07P8Z383W/

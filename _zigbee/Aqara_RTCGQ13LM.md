@@ -9,5 +9,9 @@ zigbeemodel: ['lumi.motion.agl04']
 compatible: [z2m, deconz]
 deconz: 5141
 mlink: https://www.aqara.com/cn/productDetail/high-precision-motion-sensor
-link: https://aliexpress.com/item/1005003815798076.html
+link: https://aliexpress.com/item/1005004207551732.html
 ---
+
+###### Pairing
+Press and hold the reset button on the device for +- 5 seconds (until the blue light starts blinking).
+After this the device will automatically join.

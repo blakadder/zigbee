@@ -24,8 +24,8 @@ The device seems to reset every 150 seconds and this causes the temperature to b
 
 This impact of this issue can be reduced by creating a template sensor in the home assistant configuration.yaml. (supposing the real measured value is not 0 degrees)
 
-``` 
-template:
+{% highlight yaml %}
+{% raw %}template:
   - sensor:
       - name: "Moes Thermometer Temperature Filtered" 
         state: >-
@@ -41,8 +41,8 @@ template:
               states("sensor.moes_thermometer_temperature_filtered") {## Should match with the name entered above ##}
             }}
           {% endif %}
-        unit_of_measurement: "°C"
-``` 
+        unit_of_measurement: "°C"{% endraw %} 
+{% endhighlight %}
 
 For this template sensor to work properly, it's required for its entity (in the example: sensor.moes_thermometer_temperature_filtered) to be included in the [recorder](https://www.home-assistant.io/integrations/recorder/#configure-filter). Optionally, the unit of measurement can be changed to match with what's displayed on the e-ink screen.
 The same method can be used for the humidity.

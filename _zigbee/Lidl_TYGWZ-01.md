@@ -79,7 +79,8 @@ Save the output of these commands, it should be something like:
 
 Download the Python script from Paul's Github here: [lidl_auskey_decode.py](https://github.com/banksy-git/lidl-gateway-freedom/blob/master/scripts/lidl_auskey_decode.py)
 
-Run the script and input the output from the commands you ran above (making sure to exclude the `80000000:` and `80000010:`)
+Run the script and input the output from the commands you ran above (making sure to INCLUDE the `80000000:` and `80000010:`)
+
 
 The script should then print your gateway's root password.
 

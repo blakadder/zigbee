@@ -5,7 +5,7 @@ vendor: Aqara
 title: Roller Shade Driver E1
 category: cover
 type: curtain motor
-supports: cover position, battery
+supports: cover position, battery, device temperature
 zigbeemodel: ['lumi.curtain.acn002']
 compatible: [z2m, deconz, zha]
 deconz: 5330

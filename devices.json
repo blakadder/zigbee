@@ -15,8 +15,8 @@ layout: null
         {% if device.category != nil %}"category": "{{ device.category }}",{% endif %}
         {% if device.zigbeemodel != nil %}"zigbeemodel": [{% assign zbmodel = device.zigbeemodel %}{% for item in zbmodel %}"{{ item }}"{% unless forloop.last %},{% endunless %}{% endfor %}],{% endif %}
         {% if device.compatible != nil %}"compatible": [{% assign compat = device.compatible %}{% for item in compat %}"{{ item }}"{% unless forloop.last %},{% endunless %}{% endfor %}],{% endif %}
-        {% if device.image != nil %}"image":    {{ device.image | jsonify }},{% endif %}
-        "link":     "{{ site.baseurl }}{{ device.url }}",
+        "image":    {{ device.url | remove: ".html" | prepend: 'https://zigbee/blakadder.com/assets/images/devices' | append: '.jpg' }},{% endif %}
+        "link":     "{{ device.url }}",
         }{% unless forloop.last %},{% endunless %}
     {% endfor %}
     ]

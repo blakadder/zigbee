@@ -16,7 +16,7 @@ layout: null
         {% if device.zigbeemodel != nil %}"zigbeemodel": [{% assign zbmodel = device.zigbeemodel %}{% for item in zbmodel %}"{{ item }}"{% unless forloop.last %},{% endunless %}{% endfor %}],{% endif %}
         {% if device.compatible != nil %}"compatible": {{ device.compatible | jsonify }},{% endif %}
         "image":    "{{ device.url | remove: ".html" | prepend: 'https://zigbee/blakadder.com/assets/images/devices' | append: '.jpg' }}",
-        "link":     "{{ device.url }}",
+        "link":     "{{ device.url }}"
         }{% unless forloop.last %},{% endunless %}
     {% endfor %}
     ]

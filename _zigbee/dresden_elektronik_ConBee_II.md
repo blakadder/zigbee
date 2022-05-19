@@ -10,7 +10,7 @@ compatible: [deconz,zha,z2m]
 mlink: https://phoscon.de/en/conbee2
 link: https://www.amazon.com/dp/B07PZ7ZHG5
 link2: https://www.domadoo.fr/en/interface-domotique/4974-phoscon-passerelle-universelle-zigbee-usb-conbee-ii-4260350821328.html
-link3: 
+link3: https://www.kjell.com/se/produkter/smarta-hem/controllers/conbee-ii-zigbee-controller-for-usb-p51419
 ---
 Zigbee Home Automation 1.2 (ZHA 1.2) compatible coordinator.
 

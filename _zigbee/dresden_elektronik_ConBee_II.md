@@ -20,4 +20,4 @@ Compatible with following Home Automation solutions:
 - Home Assistant via "deCONZ Component" or "ZHA"
 - openHAB via "deCONZ Binding"
 - FHEM via "Hue Plugin"
-- Linux or Windows PC with the [free application of CONZ](https://phoscon.de/en/conbee2/install) 
+- Linux or Windows PC with the [free application of deCONZ](https://phoscon.de/en/conbee2/install) 

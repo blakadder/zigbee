@@ -6,6 +6,8 @@ title: Phoscon Kobold Smart Dimmer Switch
 category: dimmer
 mlink: https://www.phoscon.de/en/kobold
 link: https://www.amazon.de/dp/B09K81HJ69
+link2: https://www.berrybase.de/neu/kobold-der-intelligente-unterputzaktor-zigbee-3.0-dimmer?c=2382
+link3: https://www.brack.ch/dresden-elektronik-phoscon-kobold-zigbee-dimmaktor-400-w-1377027
 zigbeemodel: ['Kobold']
 compatible: deconz
 ---

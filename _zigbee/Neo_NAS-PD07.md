@@ -1,5 +1,5 @@
 ---
-date_added: 2023-04-03
+date_added: 2022-04-03
 model: NAS-PD07
 vendor: Neo 
 title: Motion, Temperature & Humidity Sensor

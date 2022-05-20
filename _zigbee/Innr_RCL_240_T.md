@@ -9,6 +9,7 @@ zigbeemodel: ['RCL 240 T']
 compatible: [z2m]
 mlink: https://www.innr.com/en/product/smart-round-ceiling-lamp-white/
 link: https://www.amazon.co.uk/dp/B08C365GZR
-link2: https://www.idealo.de/preisvergleich/Typ/8718781553203.html
-link3: 
+link2: https://www.domadoo.fr/en/lighting/6105-innr-connected-led-ceiling-light-40-cm-white-comfort-2200-to-5000-k-8718781553203.html
+link3: https://www.idealo.de/preisvergleich/Typ/8718781553203.html
+link4: 
 ---

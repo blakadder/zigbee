@@ -10,6 +10,6 @@ compatible: [deconz]
 deconz: 4703
 mlink: 
 link: https://www.alibaba.com/product-detail/Unique-C4-version-Zigbee-Push-Button_1600101361722.html
-link2: 
+link2: https://www.domadoo.fr/en/peripheriques/6161-sunricher-zigbee-30-push-button-coupler-for-scene-control.html
 link3: 
 ---

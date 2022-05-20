@@ -6,7 +6,7 @@ title: Tubular Motor for Roller Shades
 category: cover
 supports: open, close, stop, position
 zigbeemodel: ['mcdj3aq', '_TYST11_wmcdj3aq','_TZE200_fzo2pocs','TS0601']
-compatible: [z2m,deconz,zha]
+compatible: [z2m, deconz, zha]
 deconz: 4132
 z2m: TS0601_cover
 mlink: https://www.zemismart.com/zemismart-tuya-zigbee-roller-shade-motor-for-38mm-tube-alexa-echo-google-home-control-electric-engine-shutter-rod-p0274.html

@@ -5,7 +5,7 @@ vendor: Eardatek
 title: Smart Knob
 category: remote
 supports: action
-zigbeemodel: ['TS004F', '_TZ3000_4fjiwweb', '_TZ3000_uri7ongn']
+zigbeemodel: ['TS004F', '_TZ3000_4fjiwweb', '_TZ3000_uri7ongn', '_TZ3000_ixla93vd']
 compatible: [z2m, zha]
 mlink: https://www.alibaba.com/product-detail/Earda-Zigbee-Tuya-Alexa-Smartphone-Remote_1600325270928.html
 link: https://www.aliexpress.com/item/1005003379547049.html

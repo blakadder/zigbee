@@ -7,5 +7,5 @@ category: plug
 mlink: https://www.ajaxonline.co.uk/product/smart-zignito-zigbee-plug/
 link: https://www.amazon.co.uk/dp/B09N43BBC1
 zigbeemodel: TS011F
-compatible: zha
+compatible: [zha]
 ---

@@ -13,9 +13,6 @@ link2: https://www.amazon.de/dp/B09QKVMMTB/
 link3: https://www.amazon.com/dp/B09YVDBTMS/
 ---
 
-###### Note
-Trigger indicator not supported for now in Zigbee2MQTT.
-
 ###### Pairing
 Press and hold the reset button on the device for +- 5 seconds (until the blue light starts blinking).
 After this the device will automatically join.

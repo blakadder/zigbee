@@ -5,7 +5,7 @@ title: Hue White Ambiance BR30 680lm WW Bulb
 category: light
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/464800.jpg
-compatible: [z2m,deconz]
+compatible: [zha,z2m,deconz]
 mlink: ['LTW011']
 link: https://www.amazon.com/Philips-Hue-Ambiance-Equivalent-Assistant/dp/B01KJYSOHC
 link2: https://www.amazon.ca/Ambiance-Equivalent-Dimmable-Compatible-Assistant/dp/B01KJYSOHC

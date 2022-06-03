@@ -1,5 +1,5 @@
 ---
-date_added: 2022-01-09
+date_added: 2022-06-03
 model: RTCZCGQ11LM
 vendor: Aqara
 title: Presence Detector FP1
@@ -9,6 +9,7 @@ zigbeemodel: ['lumi.motion.ac01']
 compatible: [z2m]
 mlink: https://www.aqara.com/cn/productDetail/Aqara-Presence-Detector-FP1
 link: https://aliexpress.com/item/1005003783058983.html
+link2: https://www.aliexpress.com/item/1005004356228897.html
 ---
 
 ###### Note

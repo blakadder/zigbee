@@ -6,7 +6,7 @@ title: Motion Sensor, Pet Friendly
 category: sensor
 supports: occupancy, battery
 zigbeemodel: ['3RMS16BZ']
-compatible: [z2m, zha]
+compatible: [z2m, zha, deconz]
 mlink: https://usermanual.wiki/Third-Reality/3RMS16BZ
 link: https://www.amazon.com/dp/B08RRRWK6B
 link2: 

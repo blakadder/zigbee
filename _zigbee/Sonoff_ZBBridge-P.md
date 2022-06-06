@@ -1,6 +1,6 @@
 ---
 date_added: 2022-05-27
-model: ZBBridge-p
+model: ZBBridge-P
 vendor: Sonoff
 title: Zigbee Bridge Pro
 category: coordinator

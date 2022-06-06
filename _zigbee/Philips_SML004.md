@@ -6,7 +6,8 @@ title: Hue Outdoor Sensor
 category: sensor
 supports: occupancy, temperature, illuminance, battery, motion sensitivity, occupancy timeout, led indication
 zigbeemodel: ['SML004']
-compatible: [z2m, zha]
+compatible: [z2m, zha, deconz]
+deconz: 6012
 z2m: 9290030674
 mlink: https://www.philips-hue.com/en-gb/p/-/8719514342262
 link: https://www.manomano.de/catalogue/p/philips-hue-bewegungsmelder-outdoor-schwarz-batteriebetrieben-ip-54-41424571

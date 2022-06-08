@@ -13,3 +13,6 @@ link:
 link2: 
 link3: 
 ---
+Pairing: you can reset it and put it into pairing mode by holding down the button on the siren while plugging it in. You will want to keep holding it for a second or two after plugging it in until you see the LED on the button turn off, then release the button.
+
+If done correctly you should see the LED blink 3 times every few seconds to indicate it is in pairing mode.

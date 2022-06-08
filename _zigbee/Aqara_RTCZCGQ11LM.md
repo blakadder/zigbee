@@ -9,7 +9,7 @@ zigbeemodel: ['lumi.motion.ac01']
 compatible: [z2m, deconz]
 deconz: 6070
 mlink: https://www.aqara.com/cn/productDetail/Aqara-Presence-Detector-FP1
-link: https://www.aliexpress.com/item/1005004356228897.html
+link: 
 ---
 
 ###### Note

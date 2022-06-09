@@ -12,5 +12,4 @@ deconz: 915
 mlink: https://www.aqara.com/cn/wireless_switch.html
 link: https://aliexpress.com/item/4000515929494.html
 link2: https://www.banggood.com/Gyroscope-UpgraVersion-Original-Aqara-Wireless-Switch-Smart-Home-Remote-Sensor-Switch-p-1290177.html
-link3: https://www.amazon.de/dp/B07QQY5LF3
 ---

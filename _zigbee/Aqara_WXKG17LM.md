@@ -8,8 +8,6 @@ supports: action, battery, click mode
 zigbeemodel: ['lumi.remote.acn004']
 compatible: [z2m]
 mlink: https://www.xiaomiyoupin.com/detail?gid=147135
-link: https://www.aliexpress.com/item/1005003309872541.html
-link2: 
-link3: 
+link: https://de.aliexpress.com/item/1005004360065394.html
 ---
  

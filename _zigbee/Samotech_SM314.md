@@ -10,7 +10,4 @@ zigbeemodel: ['Micro Smart Dimmer', 'SM311', 'HK-SL-RDIM-A']
 zb3: true
 compatible: [z2m, deconz, zha]
 mlink: https://www.samotech.co.uk/products/zigbee-dimmer-switch-hue-compatible/
-link: https://www.amazon.com/dp/B08CSSGJR2/
-link2: 
-link3: 
 ---

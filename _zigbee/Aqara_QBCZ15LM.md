@@ -7,6 +7,5 @@ supports: on/off, power measurement, ota
 zigbeemodel: ['lumi.plug.sacn03']
 compatible: [z2m]
 mlink: https://www.aqara.com/cn/productDetail/smart-wall-outlet-h1-usb
-link: https://www.aliexpress.com/af/QBCZ11LM-socket.html
-
+link: https://aliexpress.com/item/1005003345632258.html
 ---

@@ -8,8 +8,6 @@ image: /assets/images/devices/innr_SP_120.jpg
 zigbeemodel: ['SP 120']
 compatible: [z2m, deconz, iob, z4d]
 mlink: https://shop.innrlighting.com/en/shop/134/smart-plug-
-link: https://www.amazon.de/SP-120-intelligente-Funkschalt-Steckdose-kompatibel/dp/B074MD6W37
-link2: 
-link3: 
+link: https://www.bol.com/nl/nl/p/innr-slimme-stekker-zigbee-smart-plug/9300000001640326/
 EAN: 8718781551735
 ---

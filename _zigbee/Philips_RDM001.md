@@ -18,3 +18,4 @@ EAN:
   - 8719514318021
   - 929003017102
 ---
+Pairing is done by resetting the device (press the reset Button for 10 Seconds) and shorting the two pins afterwards. 

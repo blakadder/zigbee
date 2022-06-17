@@ -10,6 +10,7 @@ compatible: [z2m, deconz]
 deconz: 5141
 mlink: https://www.aqara.com/cn/productDetail/high-precision-motion-sensor
 link: https://www.aliexpress.com/item/1005004404872221.htm
+link2: https://www.aliexpress.com/item/1005004388243744.html
 ---
 
 ###### Pairing

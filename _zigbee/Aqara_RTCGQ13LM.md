@@ -1,5 +1,5 @@
 ---
-date_added: 2021-08-16
+date_added: 2022-06-16
 model: RTCGQ13LM
 vendor: Aqara
 title: High Precision Motion Sensor 

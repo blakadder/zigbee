@@ -10,7 +10,7 @@ compatible: [deconz,z2m]
 deconz: 2292
 mlink: https://aone.auroralighting.com/ProductDetails/AU-A1ZBDSS
 link: https://www.edwardes.co.uk/products/aurora-au-a1zbdss-aone-smart-13a-double-socket
-link2: 
+link2: https://www.smart-secure.co.uk/product/aone-zigbee-twin-switched-socket/
 link3: 
 EAN: 
 ---

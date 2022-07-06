@@ -5,7 +5,7 @@ title: Hue White Ambiance 110 A19 E27
 category: light
 supports: on/off, brightness, colortemp
 zigbeemodel: ['LTW010']
-compatible: [z2m, tasmota]
+compatible: [z2m, tasmota, z4d]
 mlink: https://www.philips-hue.com/en-gb/p/-/8719514291256
 link: 
 link2: 

@@ -1,5 +1,5 @@
 ---
-date_added: 2021-08-16
+date_added: 2022-06-16
 model: RTCGQ13LM
 vendor: Aqara
 title: High Precision Motion Sensor 
@@ -9,7 +9,8 @@ zigbeemodel: ['lumi.motion.agl04']
 compatible: [z2m, deconz]
 deconz: 5141
 mlink: https://www.aqara.com/cn/productDetail/high-precision-motion-sensor
-link: https://aliexpress.com/item/1005004207551732.html
+link: https://www.aliexpress.com/item/1005004404872221.htm
+link2: https://www.aliexpress.com/item/1005004388243744.html
 ---
 
 ###### Pairing

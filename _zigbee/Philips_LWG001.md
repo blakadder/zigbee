@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness
 image: /assets/images/devices/Philips_LWG001.jpg
 zigbeemodel: ['LWG001'] 
-compatible: [z2m,iob]
+compatible: [z2m,iob,z4d]
 mlink: https://www2.meethue.com/en-gb/p/hue-white-single-bulb-gu10/8718699605513
 link: https://www.amazon.co.uk/Philips-Single-Spotlight-Bluetooth-Assistant/dp/B07SS37HPV
 link2: https://www.amazon.de/dp/B07FY1PV8K/

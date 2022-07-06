@@ -9,9 +9,7 @@ zigbeemodel: ['SMARTCODE_DEADBOLT_10_L', 'SMARTCODE_DEADBOLT_10_W3']
 compatible: [z2m,deconz]
 z2m: 99140-002
 mlink: https://www.kwikset.com/products/detail/914-smartcode-traditional-electronic-deadbolt-with-zigbee-technology
-link: https://www.amazon.com/Kwikset-SmartCode-Keypad-Smart-Amazon/dp/B071KLHWSN
-link2: https://www.amazon.com/Kwikset-SmartCode-Keypad-Smart-Amazon/dp/B072NCD27B
-link3: 
+link: https://www.amazon.com/Kwikset-SmartCode-Electronic-Featuring-Technology/dp/B08XNZWNH9/
 EAN: 
   - 99140-027
   - 99140-025

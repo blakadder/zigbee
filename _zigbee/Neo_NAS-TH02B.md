@@ -7,7 +7,7 @@ category: sensor
 type: [temperature sensor, humidity sensor, illumination sensor]
 supports: temperature, humidity, illuminance, battery, alarm
 zigbeemodel: ['TS0201','_TZ3000_qaaysllp']
-compatible: [deconz,zha,z2m]
+compatible: [deconz,z2m]
 z2m: LCZ030
 mlink: 
 link: https://www.aliexpress.com/item/1005002384720598.html

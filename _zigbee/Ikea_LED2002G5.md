@@ -6,7 +6,7 @@ title: Tradfri LED bulb E14 470 lumen, dimmable, white
 category: light
 supports: on/off, brightness
 zigbeemodel: ['TRADFRIbulbE14WSglobeopal470lm']
-compatible: [z2m]
+compatible: [z2m,deconz]
 mlink: 
 link: 
 link2: 

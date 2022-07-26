@@ -6,7 +6,7 @@ title: Build In AC Phase Cut Dimmer
 category: dimmer
 supports: on/off
 zigbeemodel: ['HK-LN-DIM-A']
-compatible: [z2m,zha]
+compatible: [z2m,deconz,zha]
 z2m: HK-LN-DIM-A
 mlink: https://www.led-trading.de/zigbee-unterputz-triac-dimmer-steuergeraet-controller-230v-kompatibel
 link:

@@ -4,9 +4,9 @@ model: SLR2
 vendor: Hive
 title: Heating Thermostat Dual Channel Receiver
 category: hvac
-supports: communicate via thermostat
+supports: communicate via thermostat, thermostat
 zigbeemodel: ['SLR2']
-compatible: [deconz,z2m]
+compatible: [deconz,z2m,zha]
 deconz: 2978
 mlink: 
 link: 

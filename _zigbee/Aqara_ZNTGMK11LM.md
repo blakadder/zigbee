@@ -6,7 +6,7 @@ title: RGBW Dimming Module T1
 category: light
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['lumi.light.rgbac1']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: https://www.aqara.com/cn/productDetail/d24
 link: https://www.aliexpress.com/item/1005003815801071.html
 link2: 

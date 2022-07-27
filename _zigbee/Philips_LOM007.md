@@ -6,7 +6,7 @@ title: Hue Smart Plug EU
 category: plug
 supports: on/off
 zigbeemodel: ['LOM007']
-compatible: [z2m]
+compatible: [z2m,zha,z4d]
 z2m: 929003050601
 mlink: https://www.philips-hue.com/de-de/p/hue-smart-plug/8719514342309
 link: https://www.amazon.de/dp/B09CV7QQKB

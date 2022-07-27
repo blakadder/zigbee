@@ -1,7 +1,7 @@
 ---
 model: HMSZB-110
 vendor: Develco
-title: Temperature and Humidity Sensor
+title: frient Temperature and Humidity Sensor
 category: sensor
 supports: temperature, humidity, battery
 zigbeemodel: ['HMSZB-110']

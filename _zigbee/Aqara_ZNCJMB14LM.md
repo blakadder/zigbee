@@ -1,5 +1,5 @@
 ---
-date_added: 2021-04-12
+date_added: 2022-06-17
 model: ZNCJMB14LM
 vendor: Aqara
 title: Smart Scene Panel Switch S1 
@@ -8,7 +8,7 @@ supports:
 zigbeemodel: ['lumi.switch.n4anc4']
 compatible: [z2m]
 mlink: https://www.aqara.com/cn/productInner/d22
-link: https://www.aliexpress.com/item/1005001749465078.html
+link: https://www.aliexpress.com/item/1005004404801635.html
 link2: 
 ---
 

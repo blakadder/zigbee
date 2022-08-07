@@ -6,7 +6,7 @@ title: 4 Channel Relay Board DC 5V/7-32V
 category: switch
 supports: on/off
 zigbeemodel: ['TS0004', '_TZ3000_excgg5kb']
-compatible: [deconz, zha, z4d]
+compatible: [deconz, zha, z4d,z2m]
 deconz: 5085
 mlink: 
 link: https://www.aliexpress.com/item/1005002519585205.html

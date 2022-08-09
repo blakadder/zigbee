@@ -1,7 +1,7 @@
 ---
 date_added: 2020-04-06
 model: TPZRCO2HT-Z3
-vendor: Tuya
+vendor: Titan Products Ltd
 title: Room CO2, Humidity & Temperature Sensor
 category: sensor
 supports: temperature, humidity, co2

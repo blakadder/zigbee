@@ -6,7 +6,7 @@ title: Starkvind Air Purifier
 category: hvac
 supports: fan mode, fan speed, air quality, child lock, replace filter
 zigbeemodel: ['STARKVIND Air purifier']
-compatible: [z2m,deconz]
+compatible: [z2m, zha, deconz]
 deconz: 5351
 mlink: https://www.ikea.com/nl/en/p/starkvind-air-purifier-white-50461942/
 link: 

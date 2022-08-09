@@ -6,7 +6,7 @@ title: Dimmer Switch Module With Neutral 1 Gang
 category: dimmer
 type: In-Wall Dimmer
 supports: on/off, brightness
-zigbeemodel: ['TS110F','_TYZB01_qezuin6k']
+zigbeemodel: ['TS110F', 'TS110E', '_TYZB01_qezuin6k', '_TZ3210_ngqk6jia']
 compatible: [z2m,z4d,zha]
 mlink: 
 link: https://www.aliexpress.com/item/4001279149071.html

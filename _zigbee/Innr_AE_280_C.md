@@ -6,7 +6,7 @@ title: RGBW Colour E26 Bulb
 category: light
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['AE 280 C']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: 
 link: https://www.amazon.com/Philips-SmartThings-Required-Dimmable-Equivalent/dp/B08428JSDZ
 link2: 

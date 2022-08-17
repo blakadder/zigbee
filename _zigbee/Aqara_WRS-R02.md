@@ -9,6 +9,7 @@ action: single, double, triple, hold, release
 zigbeemodel: ['lumi.remote.b28ac1']
 compatible: [z2m, deconz, z4d, zha]
 deconz: 4842
+z2m: WXKG15LM
 mlink: https://www.aqara.com/en/product/wireless-remote-switch-h1
 link: https://www.domadoo.fr/en/peripheriques/5725-xiaomi-aqara-interrupteur-mural-double-sans-fil-h1-zigbee-30-6970504215023.html
 link2: https://www.amazon.de/dp/B094QL17GY/

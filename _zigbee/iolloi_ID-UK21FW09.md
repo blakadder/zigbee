@@ -8,5 +8,5 @@ supports: on/off, brightness
 zigbeemodel: ['Dimmer-Switch-ZB3.0']
 compatible: [z2m,deconz]
 mlink: https://www.iolloi.co.uk/products/iolloi-uk-rotary-zigbee-dimmer-led-dimmer-switch-1-gang
-link: https://www.amazon.co.uk/dp/B08VJ4CVWZ/
+link:
 ---

@@ -8,5 +8,5 @@ supports: water leak, battery
 zigbeemodel: ['lumi.flood.acn001']
 compatible: []
 mlink: https://www.xiaomiyoupin.com/detail?gid=147148
-link: https://www.aliexpress.com/item/1005003197506130.html
+link: https://aliexpress.com/item/32988557016.html
 ---

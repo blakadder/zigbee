@@ -9,6 +9,4 @@ compatible: [z2m,z4d,deconz,zha,iob,tasmota]
 z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/interrupteurmuralsurpilesimpletouche
 mlink: https://www.aqara.com/en/wireless_light_switch.html
 link: https://www.aliexpress.com/item/32875105783.html
-link2: https://www.amazon.de/dp/B07F3J562X
-link3: 
 ---

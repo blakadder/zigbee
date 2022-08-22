@@ -10,5 +10,5 @@ compatible: [z2m, zha]
 mlink: https://www.alibaba.com/product-detail/Earda-Zigbee-Tuya-Alexa-Smartphone-Remote_1600325270928.html
 link: https://www.aliexpress.com/item/1005003379547049.html
 link2: https://www.moeshouse.com/collections/new-arrivals/products/tuya-zigbee-smart-knob-switch-wireless-scene-switch-button-scene-button-controller-battery-powered-automation-scenario
-link3: https://www.amazon.com/dp/B09MK2D17W
+link3: https://www.amazon.com/MOES-Wireless-Control-Automation-Scenario/dp/B09QSTL9T9/
 ---

@@ -8,9 +8,7 @@ supports: action, batterypct
 action: single, double, long 
 image: /assets/images/devices/eWeLink_RHK07.jpg
 mlink: 
-link: https://www.aliexpress.com/item/4000537100802.html
-link2: https://www.aliexpress.com/item/4000523263373.html
-link3: 
+link: 
 zigbeemodel: ['DS01']
 compatible: [z2m,iob,zha,z4d,tasmota,deconz]
 ---

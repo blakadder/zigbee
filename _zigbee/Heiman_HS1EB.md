@@ -11,8 +11,5 @@ compatible: [z2m]
 z2m: HS1EB/HS1EB-E
 mlink: http://www.heimantech.com/product/?type=detail&id=11
 link: https://www.aliexpress.com/item/4000075282903.html
-link2: https://www.amazon.co.uk/HEIMAN-Automation-Intelligent-Emergency-Suitable/dp/B01MS5L3LO
-link3: https://www.amazon.co.uk/HEIMAN-SmartHome-Button-Emergency-Compatible/dp/B0793QH2LM
-link4: https://www.amazon.de/HEIMAN-Smarthome-Notruf-Knopf-Hausnotruf-kompatibel/dp/B0793QH2LM
 EAN:
 ---

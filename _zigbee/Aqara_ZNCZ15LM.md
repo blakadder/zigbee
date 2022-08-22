@@ -7,5 +7,5 @@ supports: on/off, power measurement, power outage memory, device temperature, ov
 zigbeemodel: ['lumi.plug.macn01']
 compatible: [z2m]
 mlink: https://www.aqara.com/cn/productDetail/d37
-link: https://aliexpress.com/item/1005003815709427.html
+link:
 ---

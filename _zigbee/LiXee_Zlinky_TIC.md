@@ -11,8 +11,7 @@ compatible: [z2m, zha, deconz, z4d]
 deconz: 5459
 EAN: 3770014375148
 ---
-Support Historic mode (z4d )
-Support Standard mode for consumption (z4d )
+
+Support Historic mode (z4d)
+Support Standard mode for consumption (z4d)
 Support Standard mode for production
-
-

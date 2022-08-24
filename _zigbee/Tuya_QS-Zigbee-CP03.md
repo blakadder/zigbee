@@ -5,9 +5,9 @@ vendor: Tuya
 title: Curtain/Blind Motor Controller Module
 category: cover, tilt
 type: Module
-supports: on/off
+supports: on/off, level
 zigbeemodel: ['TS130F', '_TZ3000_zirycpws']
-compatible: [z2m, zha]
+compatible: [z2m, zha, z4d]
 mlink: 
 link: https://www.aliexpress.com/item/1005003703776508.html
 ---

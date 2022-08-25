@@ -13,4 +13,4 @@ mlink: https://www.alibaba.com/product-detail/Earda-EU-Standard-Wall-Dimmer-Elec
 link: https://www.aliexpress.com/item/1005001505069156.html
 link3: 
 ---
-This dimmer switch is manufactured by Earda and sold on Aliexpress under many brands such Girier, Lonsonho, Moes and white label. 
+This dimmer switch is manufactured by Eardatek and sold on Aliexpress under many brands such Girier, Lonsonho, Moes and white label. 

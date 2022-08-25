@@ -6,7 +6,7 @@ title: Askvader On/Off Switch
 category: switch
 supports: on/off
 zigbeemodel: ['ASKVADER on/off switch']
-compatible: [z2m,deconz]
+compatible: [z2m, deconz, zha]
 mlink: https://www.ikea.com/dk/da/p/askvaeder-taend-slukkontakt-50463880/
 link: 
 EAN: 504.638.80

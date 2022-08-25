@@ -3,7 +3,7 @@ date_added: 2021-05-21
 model: SSM-U02
 vendor: Aqara
 title: Single Switch Module T1 (No Neutral)
-category: switch, power outage memory, 
+category: switch 
 supports: on/off
 zigbeemodel: ['lumi.switch.l0agl1']
 compatible: [z2m, zha, tasmota, deconz]

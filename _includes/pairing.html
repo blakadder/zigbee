@@ -1,4 +1,7 @@
-{%- if page.vendor contains "Gledopto" -%}
+{%- if page.pairing != nil -%}
+{% include pairing.md %}
+
+{%- elsif page.vendor contains "Gledopto" -%}
 <h6>Pairing Instructions</h6>
 
 <ul>
@@ -50,15 +53,6 @@ After resetting the bulb will automatically connect.
   Turn the light bulb five times on and off. After turning it on the sixth time, it will indicate with colors that the bulb is pairing.
   <p>
     
-  <!-- {%- elsif page.vendor contains "Müller Licht" and page.category == "light" -%}
-
-  <h6> Pairing Instructions</h6>
-  <ol>1. Switch on your device.
-  <ol>Now switch off and on within 2 seconds.
-  <ol>Repeat off/on four times.
-  <ol>Reset is done when the device is switched on in the fifth time and the light stays on after blinking 4 times
-  <p> -->
-
 {%- elsif page.vendor contains "Legrand" -%}
 Some Legrand devices work only on Zigbee channel 11. With certain devices you need the Legrand Hub to update the firmware to have all features available.
 

@@ -9,6 +9,7 @@ compatible: [tasmota, deconz]
 mlink: https://www.alibaba.com/product-detail/Earda-Zigbee-Tuya-Alexa-Amazon-Smartphone_1600082250475.html
 link: https://www.aliexpress.com/item/1005002054418583.html
 link2: https://www.amazon.de/dp/B08J3TMGJH
+link3: https://www.aliexpress.com/item/1005001471055202.html
 tuya: https://expo.tuya.com/product/785025
 pairing: "To enter pairing mode hold bottom left button for 10 seconds until all 4 LEDs start flashing."
 ---

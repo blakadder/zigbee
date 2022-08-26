@@ -14,6 +14,5 @@ link: https://www.domadoo.fr/en/peripheriques/5685-woox-controleur-d-arrosage-in
 link2: https://www.amazon.de/dp/B08M9RWQP6
 link3: https://www.buy4u.eu/collections/smarthome/products/woox-r7060-smarthome-garden-bewasserungssteuerung-alexa-google-tuya-app-zigbee
 link4: https://www.alza.de/woox-r7060-smart-steuerung-der-gartenbewasserung-d6219811.htm
+pairing: "Press the red button for 5 seconds until the led flashes."
 ---
-### Pairing
-Press the red button for 5 seconds until the led flashes.

@@ -6,6 +6,7 @@ title: Wireless Scene Switch 4 Buttons
 category: remote
 zigbeemodel: ['TS0044','_TZ3000_wkai4ga5']
 compatible: [tasmota, deconz]
+deconz: 5881
 mlink: https://www.alibaba.com/product-detail/Earda-Zigbee-Tuya-Alexa-Amazon-Smartphone_1600082250475.html
 link: https://www.aliexpress.com/item/1005002054418583.html
 link2: https://www.amazon.de/dp/B08J3TMGJH

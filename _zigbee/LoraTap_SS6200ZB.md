@@ -8,7 +8,7 @@ supports: action, battery
 actions: single, double, long
 zigbeemodel: ['TS0042']
 compatible: [zha]
-mlink: https://www.loratap.com/
+mlink: https://www.loratap.com/products/ss6200zb
 link: https://www.aliexpress.com/item/1005002847630452.html
 ---
 

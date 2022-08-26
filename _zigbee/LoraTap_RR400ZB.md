@@ -8,6 +8,6 @@ supports: on/off
 zigbeemodel: ['TS011F','_TZ3000_oiymh3qu']
 compatible: [z2m,iob,deconz]
 z2m: TS011F_socket_module
-mlink: https://www.loratap.com/
+mlink: https://www.loratap.com/products/rr400zb
 link: https://www.aliexpress.com/item/1005001556887737.html
 ---

@@ -4,7 +4,7 @@ vendor: Sunricher
 title: Green Power Switch 2 Dim
 category: remote
 supports: action
-actions: 'press_on', 'press_off', 'hold_on', 'hold_off', 'release'
+actions: press_on, press_off, hold_on, hold_off, release
 zigbeemodel: ['GreenPower_2']
 compatible: [z2m]
 mlink: 

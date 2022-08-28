@@ -7,6 +7,6 @@ category: sensor
 supports: presence
 mlink: 
 link: https://www.aliexpress.com/item/1005004296422003.html
-zigbeemodel: [`TS0601`, '_TZE200_9qayzqa8']
+zigbeemodel: ['TS0601', '_TZE200_9qayzqa8']
 compatible: []
 ---

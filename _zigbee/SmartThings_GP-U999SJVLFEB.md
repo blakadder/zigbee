@@ -8,7 +8,7 @@ mlink: https://www.samsung.com/de/smartthings/outlet/smartthings-outlet-gp-u999s
 link: https://www.amazon.de/dp/B07XZ8MNJH
 link2: https://www.idealo.de/preisvergleich/OffersOfProduct/200333008_-gp-u999sjvlfeb-samsung.html
 link3: https://www.future-x.de/samsung-smartthings-zwischenstecker-outlet-p-8575681/
-zigbeemodel: [`outletv4`]
+zigbeemodel: ['outletv4']
 compatible: [zha]
 ---
 

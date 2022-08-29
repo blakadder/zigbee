@@ -7,6 +7,6 @@ category: plug
 mlink: https://www.zemismart.com/products/tb242-zb
 link: https://www.aliexpress.com/item/1005003821863185.html
 tuya: https://expo.tuya.com/product/951007
-zigbeemodel: [`TS011F`, `_TZ3000_3zofvcaa`]
+zigbeemodel: ['TS011F', '_TZ3000_3zofvcaa']
 compatible: [zha]
 ---

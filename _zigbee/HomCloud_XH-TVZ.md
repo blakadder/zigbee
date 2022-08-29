@@ -11,3 +11,4 @@ compatible: [zha, sz2m]
 z2m: TS0601_thermostat
 mlink: https://www.inkloud.eu/p/XH-TVZ-6568
 link: https://www.homeevolution.it/homcloud-domotica-valvola-termostatica-per-radiatori-smart-digitale-zigbee-xh-tvz/
+---

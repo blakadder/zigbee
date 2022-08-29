@@ -4,7 +4,7 @@ model: ZMS4
 vendor: Rehent
 title: PIR Motion Sensor
 category: sensor
-zigbeemodel: ['TS0202', `_TZ3000_lltemgsf`]
+zigbeemodel: ['TS0202', '_TZ3000_lltemgsf']
 z2m: TS0202_1
 compatible: [z2m]
 mlink: 

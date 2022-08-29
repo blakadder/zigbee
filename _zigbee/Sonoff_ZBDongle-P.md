@@ -2,7 +2,7 @@
 date_added: 2021-10-30
 model: ZBDongle-P
 vendor: Sonoff
-title: Zigbee 3.0 Dongle Plus
+title: Zigbee 3.0 CC2652P Dongle Plus
 category: coordinator
 supports: coordinator
 zigbeemodel:

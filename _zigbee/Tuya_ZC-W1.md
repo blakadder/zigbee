@@ -7,7 +7,7 @@ category: sensor
 supports: temperature, humidity, battery
 zigbeemodel: ['TS0201', '_tz3000_i8jfiezr']
 compatible: [deconz]
-deconz: 5299
+deconz: 6125
 mlink: 
 link: https://www.aliexpress.com/i/1005002276387929.html
 ---

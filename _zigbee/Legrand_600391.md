@@ -9,7 +9,7 @@ mlink: https://www.legrand.fr/catalogue/prise/prise-de-courant-16a-pour-installa
 link: https://www.amazon.fr/dp/B07GY3BW2S
 link2: https://www.domomat.com/32375-prise-de-courant-connectee-dooxie-with-netatmo-16a-3680w-blanc-legrand-600391.html
 zigbeemodel: ['Connected outlet']
-compatible: [z2m,z4d,deconz]
+compatible: [z2m, z4d, deconz, tasmota]
 deconz: 883
 z2m: 067775/741811
 EAN: '3414971044104'

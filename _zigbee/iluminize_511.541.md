@@ -6,7 +6,7 @@ title: Touch Wall Dimmer RGBCCT 1 Zone
 category: remote
 supports: action
 zigbeemodel: ['ZGRC-TEUR-002']
-compatible: [z2m]
+compatible: [z2m, tasmota]
 mlink: https://www.iluminize.com/de/shop/led-steuerung/wand-dimmer/product/498-511-541-zigbee-wand-dimmer-schalter-rgbw-rgbws-led-1z.html
 link: https://www.amazon.de/dp/B07PHGQ1PH
 link2: 

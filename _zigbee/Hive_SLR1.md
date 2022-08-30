@@ -8,7 +8,7 @@ supports: thermostat, occupied heating, weekly schedule
 zigbeemodel: ['SLR1']
 compatible: [z2m]
 link: https://www.hivehome.com/bg/products/hive-active-heating
-link: https://www.amazon.co.ukdp/B00NAWL14O
+link: https://www.amazon.co.uk/dp/B00NAWL14O
 link2: 
 link3: 
 ---

@@ -36,3 +36,13 @@ plugins:
   - jekyll-sitemap
   
 google_analytics: UA-140681905-3
+
+image_processing:
+  detail:
+    source: assets/images/devices
+    destination: assets/images/devices-detail
+    resize_to_limit: [400, 350]
+  table:
+    source: assets/images/devices
+    destination: assets/images/devices-table
+    resize_to_limit: [~, 75]

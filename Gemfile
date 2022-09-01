@@ -4,3 +4,4 @@ gemspec
 gem 'jekyll-seo-tag'
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem "webrick", "~> 1.7"
+gem 'jekyll_image_processing', git: 'https://github.com/benubois/jekyll_image_processing'

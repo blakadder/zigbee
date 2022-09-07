@@ -6,7 +6,7 @@ title: SilverCrest Motion Sensor
 category: sensor
 supports: occupancy, batterypct
 zigbeemodel: ['TY0202']
-compatible: [z2m, zha, tasmota, deconz]
+compatible: [z2m,zha,tasmota,deconz, z4d]
 deconz: 3736
 z2m: HG06335/HG07310
 mlink: https://www.lidl.com/

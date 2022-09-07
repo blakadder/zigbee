@@ -609,7 +609,7 @@ th:last-child {
   padding-left: 1;
   text-align: center;
   width: 14%;
-  // width: 150px;
+  min-width: 40px;
 }
 
 .td-10,
@@ -625,6 +625,7 @@ th:last-child {
 .td-compat {
   text-align: center;
   width: 30px;
+  min-width: 25px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;

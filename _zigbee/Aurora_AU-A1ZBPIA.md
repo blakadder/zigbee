@@ -8,7 +8,7 @@ supports: on/off, power measurement
 zigbeemodel: ['SingleSocket50AU']
 compatible: [z2m]
 mlink: https://aone.auroralighting.com/ProductDetails/AU-A1ZBPIAB
-link: 
+link: https://www.smart-secure.co.uk/product/aone-zigbee-207-253v-13a-plug-in-adaptor/
 link2: 
 link3: 
 EAN: 

@@ -3,7 +3,7 @@ date_added: 2022-08-30
 model: ZX-7155-919
 vendor: Royal Gardineer
 title: Irrigation Computer with Valve
-category: hvac
+category: misc
 zigbeemodel: ['TS0601', '_TZE200_2wg5qrjy']
 compatible: [z2m, deconz]
 deconz: 6058

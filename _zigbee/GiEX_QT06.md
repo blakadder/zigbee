@@ -3,7 +3,7 @@ date_added: 2022-08-20
 model: QT06
 vendor: GiEX
 title: Irrigation Valve
-category: hvac
+category: misc
 supports: battery, state, mode, water_consumed
 zigbeemodel: ['TS0601', '_TZE200_sh1btabb']
 compatible: [tasmota, z2m]

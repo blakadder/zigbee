@@ -3,7 +3,7 @@ date_added: 2021-07-21
 model: ZVG1
 vendor: RTX
 title: Irrigation Valve
-category: hvac
+category: misc
 supports: on/off, timer, battery, state, water consumed
 zigbeemodel: ['TS0601', '_TZE200_akjefhj5', '_TZE200_81isopgh']
 compatible: [z2m, z4d, zha]

@@ -6,7 +6,7 @@ title: AOne Smart 13A Double Socket UK
 category: plug
 supports: on/off, electrical measurement
 zigbeemodel: ['DoubleSocket50AU']
-compatible: [deconz,z2m]
+compatible: [deconz,z2m, zha]
 deconz: 2292
 mlink: https://aone.auroralighting.com/ProductDetails/AU-A1ZBDSS
 link: https://www.edwardes.co.uk/products/aurora-au-a1zbdss-aone-smart-13a-double-socket

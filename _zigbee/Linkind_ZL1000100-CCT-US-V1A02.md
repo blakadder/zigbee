@@ -12,4 +12,6 @@ mlink: https://www.linkind.com/product-page/smart-zigbee-led-9w-a19-bulb-dimmabl
 link: https://www.amazon.com/dp/B07QTGWH2Y
 link2: https://www.amazon.com/gp/product/B07V1GJZYD
 link3: 
+pairing: "Need to switch it off and on again 6 times until it flashes twice to show its in pairing mode"
 ---
+

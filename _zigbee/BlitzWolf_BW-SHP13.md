@@ -5,7 +5,7 @@ vendor: BlitzWolf
 title: Electricity Metering 16A EU Plug 
 category: plug
 supports: on/off, power metering
-zigbeemodel: ['TS0121','_TZ3000_g5xawfcq','_TZ3000_3ooaz3ng']
+zigbeemodel: ['TS0121','_TZ3000_g5xawfcq','_TZ3000_3ooaz3ng', "_TZ3000_amdymr7l", "TS011F"]
 compatible: [z2m, deconz, z4d, tasmota, zha]
 z2m: TS0121_plug
 deconz: 2988

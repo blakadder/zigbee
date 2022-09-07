@@ -6,7 +6,8 @@ title: Starkvind Air Purifier Table
 category: hvac
 supports: fan mode, fan speed, air quality, child lock, replace filter
 zigbeemodel: ['STARKVIND Air purifier table']
-compatible: [z2m, zha]
+compatible: [z2m, zha, deconz]
+deconz: 6124
 mlink: https://www.ikea.com/nl/en/p/starkvind-table-with-air-purifier-stained-oak-veneer-white-80461945/
 link: 
 EAN: 

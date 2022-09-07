@@ -5,7 +5,7 @@ vendor: Sunricher
 title: Push Button Coupler C4
 category: switch
 supports: on/off
-zigbeemodel: ['ZG2833PAC']
+zigbeemodel: ['ZG2833PAC', 'VIVARES_PBC4_01']
 compatible: [deconz]
 deconz: 4703
 mlink: 

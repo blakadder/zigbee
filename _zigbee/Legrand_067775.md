@@ -7,7 +7,7 @@ category: plug
 supports: on/off, power measurement
 image: /assets/images/devices/Legrand_067775.jpg
 zigbeemodel: [' Connected outlet']
-compatible: [z2m,z4d,deconz]
+compatible: [z2m, z4d, deconz, tasmota]
 deconz: 883
 z2m: 067775/741811
 mlink: https://www.legrand.fr/pro/catalogue/42563-version-celiane-with-netatmo/prise-de-courant-connectee-celiane-with-netatmo-16a-3680w-connexion-par-bornes-automatiques-titane

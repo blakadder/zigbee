@@ -6,7 +6,8 @@ title: LK FUGA Wiser Wireless Dimmer
 category: dimmer
 supports: on/off, brightness
 zigbeemodel: ['LK Dimmer']
-compatible: [z2m]
+compatible: [z2m, deconz]
+deconz: 5878
 mlink: https://www.lk.dk/produkter?iid=5703302169813
 link: https://www.proshop.se/Lauritz-Knudsen/LK-fuga-wiser-wireless-dimmer-1m-white/2929893
 EAN:

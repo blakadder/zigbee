@@ -3,7 +3,7 @@ date_added: 2022-03-11
 model: QS-Zigbee-CP03
 vendor: Tuya
 title: Curtain/Blind Motor Controller Module
-category: cover, tilt
+category: cover
 type: Module
 supports: on/off, level
 zigbeemodel: ['TS130F', '_TZ3000_zirycpws']

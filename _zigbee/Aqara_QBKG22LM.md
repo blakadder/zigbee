@@ -6,7 +6,7 @@ title: D1 Wall Switch (No Neutral, Double Rocker)
 category: switch
 supports: on/off, action, decoupled mode
 zigbeemodel: ['lumi.switch.b2lacn02']
-compatible: [z2m,zha,deconz]
+compatible: [z2m, zha, deconz]
 deconz: 4199
 mlink: https://www.xiaomiyoupin.com/detail?gid=118897
 link: https://www.aliexpress.com/item/32974697281.html

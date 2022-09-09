@@ -13,4 +13,5 @@ link: https://www.domadoo.fr/en/peripheriques/5726-xiaomi-aqara-interrupteur-mur
 link2: https://www.alzashop.com/aqara-smart-wall-switch-h1no-neutral-single-rocker-d6480894.htm
 link3: https://www.amazon.de/dp/B094R8PXNH
 link4: https://www.idealo.de/preisvergleich/Typ/6970504214774.html
+link5: https://www.smart-secure.co.uk/product/aqara-smart-wall-switch-h1-no-neutral-single-rocker/
 ---

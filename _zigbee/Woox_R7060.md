@@ -3,7 +3,7 @@ date_added: 2021-07-15
 model: R7060
 vendor: Woox
 title: Smart Garden Irrigation Control
-category: hvac
+category: misc
 type: valve
 supports: on/off, battery
 zigbeemodel: ['TS0101','_TZ3210_eymunffl']

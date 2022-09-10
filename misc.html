@@ -1,0 +1,22 @@
+---
+layout: default
+title: Miscellaneous
+---
+<h2>{{ page.title }}</h2>
+
+This list includes devices that are repeaters. Almost any mains powered device (typically bulbs, plugs and switches) will act as a router as well but they're not listed here. 
+<p></p>
+<!-- ######################################################################  -->
+{% assign categories = site.zigbee | where: "category", "misc" %}
+{% assign vendor = categories | group_by: 'vendor' %} 
+{% assign vendors = vendor | sort_natural: 'name' %} 
+<table>
+    <tbody>
+    {% for type in vendors %}
+        {% assign type_sorted = type.items | sort_natural: 'title' %}     
+        {% for template in type_sorted %}
+        {% include tablerow.html %}
+        {% endfor %}
+        {% endfor %}
+    </tbody>
+</table>

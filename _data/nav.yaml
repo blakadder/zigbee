@@ -13,7 +13,9 @@ toc:
     url: locks.html
   - name: Plugs
     url: plugs.html
-  - name: Remote Controllers
+  - name: Miscellaneous
+    url: misc.html
+  - name: Remote Switches
     url: remotes.html
   - name: Routers
     url: routers.html

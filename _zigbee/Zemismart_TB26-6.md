@@ -1,8 +1,8 @@
 ---
-date_added: 2022-08-20
+date_added: 2022-09-07
 model: TB26-6
 vendor: Zemismart
-title: 6 Gang Remote Switch 4x4
+title: 6 Gang Remote Switch 4x4 + GreenPowerProxy
 category: remote
 supports: action, battery
 zigbeemodel: ['TS0601', '_TZE200_9mahtqtg']

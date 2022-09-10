@@ -25,6 +25,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Cache Jekyll Build
+        uses: actions/cache@v3
+        with:
+          path: ./_site
+          key: ${{ runner.os }}-jekyll
       # Jekyll Picture Tag requires libvips libraries for resizing images, which must be installed
       - name: Install JPT's dependencies
         run: sudo apt-get install libvips-tools

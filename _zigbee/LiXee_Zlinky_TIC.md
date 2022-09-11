@@ -11,7 +11,7 @@ compatible: [z2m, zha, deconz, z4d]
 deconz: 5459
 EAN: 3770014375148
 ---
-
+Recommended firmware version is 5 and above
 Support Historic mode (z4d)
 Support Standard mode for consumption (z4d)
 Support Standard mode for production

@@ -7,7 +7,7 @@ category: sensor
 supports: contact, tamper
 image: /assets/images/devices/Immax_07045L.jpg
 zigbeemodel: ['DoorWindow-Sensor-ZB3.0']
-compatible: [z2m,deconz]
+compatible: [z2m,deconz,zha]
 deconz: 5034
 mlink: https://www.immaxneo.cz/en/products/security/immax-neo-smart-3x-door-window-sensor/
 link: https://www.amazon.de/dp/B07TYWJX2N

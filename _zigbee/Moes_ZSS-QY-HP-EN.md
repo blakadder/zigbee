@@ -7,7 +7,7 @@ category: sensor
 supports: illuminance, presence, set delay, sensitivity, set range
 link: https://www.aliexpress.com/item/1005004148507209.html
 mlink: https://www.moeshouse.com/products/smart-zigbee-human-presence-detector-pir-mmwave-radar-detection-sensor-ceiling-mount?variant=39946880057425
-zigbeemodel: ['TS0601', '_TZE200_ikvncluo']
+zigbeemodel: ['TS0601', '_TZE200_ikvncluo', '_TZE200_wukb7rhc']
 z2m: TS0601_smart_human_presense_sensor
-compatible: [z2m, zha]
+compatible: [z2m]
 ---

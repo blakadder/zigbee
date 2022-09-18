@@ -7,7 +7,7 @@ category: switch
 supports: on/off, brightness, action
 zigbeemodel: ['zigfred uno']
 compatible: [deconz, z2m, zha]
-deconz: 6258
+deconz: 6282
 mlink: https://www.zigfred.ch/en/specs-zigfred-uno/
 link: https://www.zigfred.ch/en/order/
 link2: 

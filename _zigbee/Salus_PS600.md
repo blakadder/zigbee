@@ -5,7 +5,7 @@ vendor: Salus
 title: Pipe Temperature Sensor
 category: sensor
 supports: temperature, battery, tamper
-zigbeemodel: ['SP600']
+zigbeemodel: ['SP600', 'SS909ZB']
 compatible: [z2m]
 mlink: https://salus-controls.eu/product-card/34/PS600
 link: https://www.manomano.de/catalogue/p/salus-ps600-funk-temperatursensor-funkfuehler-batteriebetriben-112680-18495872

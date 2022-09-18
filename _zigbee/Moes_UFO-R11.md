@@ -6,6 +6,7 @@ title: Universal Infrared Remote Controller
 category: misc
 mlink: https://www.moeshouse.com/products/tuya-zigbee-smart-ir-remote-control-universal-infrared-remote-controller-for-smart-home-for-ac-tv-dvd
 link: https://www.aliexpress.com/item/1005004256727926.html
+link2: https://www.domadoo.fr/en/controle-chauffage-clim/6327-moes-tuya-zigbee-infrared-universal-remote-control.html
 zigbeemodel: ['TS1201', '_TZ3290_j37rooaxrcdcqo5n', '_TZ3290_ot6ewjvmejq5ekhl']
 compatible: [z2m]
 ---

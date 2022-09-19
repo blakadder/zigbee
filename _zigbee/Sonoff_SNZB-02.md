@@ -15,6 +15,9 @@ link3: https://www.banggood.com/SONOFF-SNZB-02-ZB-Temperature-And-Humidity-Senso
 link4: https://www.domadoo.fr/en/peripheriques/5319-sonoff-capteur-de-temperature-et-d-humidite-zigbee-30.html
 link5: https://www.amazon.com/dp/B08BCJNDYQ/
 ---
+#### Custom Firmware
+
+[Instructions](https://blakadder.com/sonoff-th-custom-firmware/) on flashing custom firmware with custom reporting interval and temperature and humidity offset 
 
 #### Pairing
 Long press reset button for 5s until the LED indicator flashes three times, which means the device has entered pairing mode

@@ -1,5 +1,5 @@
 ---
-date_added: 2020-07-19
+date_added: 2022-09-19
 model: SNZB-02
 vendor: Sonoff
 title: Temperature And Humidity Sensor

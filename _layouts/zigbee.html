@@ -15,6 +15,10 @@ layout: default
   <div class="column column-60">
     <span style="font-size: large;">Model {{ page.model  }} manufactured by {{ page.vendor }} </span>
 </div>
+<div class="row">
+  <div class="column column-60">
+    <span style="font-size: large;">{% if page.zigbeemodel != nil %}Zigbee ID: {% for zmodel in page.zigbeemodel %}{{ zmodel }}{% unless forloop.last %} | {% endunless %}{% endfor %}{% endif %}</span>
+</div>
 <div class="column column-40">
   <span style="font-size: large;"></span>
 </div>
@@ -45,9 +49,6 @@ layout: default
     </table>
     {% endif %}
     </div>
-</div>
-<div class="row">
-  <div class="column column-90">{% if page.zigbeemodel != nil %}Zigbee ID: {% for zmodel in page.zigbeemodel %}"{{ zmodel }}"{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}</div>
 </div>
 
 

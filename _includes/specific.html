@@ -1,3 +1,12 @@
+{%- if page.tasmota != nil -%}
+<p>
+<h4>Tasmota Configuration</h4>
+Download <a class="button" href="{{ page.tasmota append: '.zb' }}">configuration file</a>.
+<BR>
+Download the configuration file and put it in the file-system of Tasmota. It should be loaded automatically and provide the mapping for the device.
+</p>
+{% endif %}
+
 <p>{%- if page.vendor == "IKEA" or page.vendor == "Ubisys" or page.vendor == "OSRAM" or page.vendor == "Ledvance" or page.vendor == "Philips"  or page.vendor == "Sengled" -%}
 
 <h4>OTA Updates</h4>

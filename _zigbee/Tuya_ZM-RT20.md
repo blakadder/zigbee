@@ -10,4 +10,5 @@ compatible: [deconz, z2m]
 deconz: 5299
 mlink: 
 link: https://www.aliexpress.com/item/1005003606082802.html
+link2: https://www.aliexpress.com/item/1005003661259185.html
 ---

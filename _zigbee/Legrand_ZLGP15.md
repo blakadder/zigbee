@@ -10,7 +10,7 @@ greenpower: ['37.197.242']
 compatible: [z2m]
 mlink: https://www.legrand.fr/pro/catalogue/44696-version-celiane-with-netatmo/commande-sans-fils-sans-pile-self-e-celiane-with-netatmo-4-scenarios-enjoliveur-blanc
 link: https://www.leroymerlin.fr/marques/legrand/legrand-interrupteurs-et-prises/commande-sans-fil-4-scenarios-legrand-celiane-with-netatmo-blanc-84710230.html
-link2: 
+link2: https://www.materielelectrique.com/legrand-commande-4-scenarios-configurables-sans-fil-sans-pile-celiane-blanc-p-535343.html
 EAN: 
   - 067755L
   - 067756L

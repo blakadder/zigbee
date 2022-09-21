@@ -2,7 +2,7 @@
 date_added: 2022-09-16
 model: ZM25RX-0.8/30
 vendor: Zemismart
-title: Rechargeable Tubuluar Motor 36/37mm
+title: Rechargeable Tubular Motor 36/37mm
 category: cover
 mlink: https://www.zemismart.com/products/zm25rx-08-30
 link: https://www.aliexpress.com/item/1005004545581891.html

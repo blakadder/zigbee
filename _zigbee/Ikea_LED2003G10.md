@@ -6,7 +6,8 @@ title: Tradfri LED bulb E27 1055 lumen, dimmable, white spectrum, opal white
 category: light
 supports: on/off, brightness
 zigbeemodel: ['TRADFRIbulbE27WSglobeopal1055lm']
-compatible: [z2m, zha]
+compatible: [z2m, zha, deconz]
+deconz: 6311
 mlink: https://www.ikea.com/cz/en/p/tradfri-remote-control-kit-white-spectrum-80513416/
 link: 
 link2: 

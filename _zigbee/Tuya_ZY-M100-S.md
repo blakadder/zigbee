@@ -1,6 +1,6 @@
 ---
-date_added: 2022-08-24
-model: ZY-M100
+date_added: 2022-10-05
+model: ZY-M100-S
 vendor: Tuya
 title: Human Presence Detector 5.8GHz Wall Mount
 category: sensor

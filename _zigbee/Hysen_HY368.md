@@ -3,7 +3,7 @@ date_added: 2020-11-17
 vendor: Hysen
 model: HY368
 title: Thermostatic Radiator Valve Controller
-zigbeemodel: ['TS0601','_TZE200_ywdxldoj','_TZE200_fhn3negr ']
+zigbeemodel: ['TS0601','_TZE200_ywdxldoj','_TZE200_fhn3negr', '_TZE200_8whxpsiw']
 category: hvac
 supports: temperature, thermostat, battery
 mlink: https://expo.tuya.com/product/543210

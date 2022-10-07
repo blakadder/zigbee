@@ -45,6 +45,8 @@ jobs:
         id: pages
         uses: actions/configure-pages@v2
       - name: Copy original device images to _site to allow caching
+        run: ls -la .
+      - name: Copy original device images to _site to allow caching
         run: cp -rp ./assets/images/devices ./_site/assets/images/devices
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default

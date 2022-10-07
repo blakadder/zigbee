@@ -7,7 +7,7 @@ supports: temperature, humidity, battery
 zigbeemodel: ['HMSZB-110']
 compatible: [z2m,deconz,z4d]
 deconz: 4008
-mlink: https://wattle.com/support/our-products/older-products/humidity-sensor/
+mlink: https://www.develcoproducts.com/products/sensors-and-alarms/humidity-sensor/
 link: https://www.domadoo.fr/en/peripheriques/5407-frient-capteur-de-temperature-et-humidite-intelligent-zigbee-30-5713594002385.html
 link2: 
 link3: 

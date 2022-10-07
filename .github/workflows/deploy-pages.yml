@@ -25,16 +25,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
       - name: Cache Jekyll Build
         uses: actions/cache@v3
         with:
           path: ./_site
           key: ${{ runner.os }}-jekyll
-      # Jekyll Picture Tag requires libvips libraries for resizing images, which must be installed
-      - name: Install JPT's dependencies
+      - name: Install jekyll_image_processing dependencies
         run: sudo apt-get install libvips-tools
-      - name: Checkout
-        uses: actions/checkout@v3
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:

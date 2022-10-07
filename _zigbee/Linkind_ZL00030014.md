@@ -7,7 +7,8 @@ category: light
 supports: on/off, brightness, colortemp
 mlink: https://www.linkind.com/product/smart-zigbee-cct-gu10-led-bulbs-eu/
 zigbeemodel: ZBT-CCTLight-M3500107
-compatible: zha
+compatible: [zha, deconz]
+deconz: 6326
 link: 
 EAN: 791342688956
 ---

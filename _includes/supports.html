@@ -1,3 +1,4 @@
+{% if page.supports != nil %}
     <table>
     <thead>
         <tr><th style="border-bottom: none">Supports:</th></tr>
@@ -33,4 +34,5 @@
     {% endfor %}
     {% endif %}
     </tbody>
-</table>
+    </table>
+{% endif %}

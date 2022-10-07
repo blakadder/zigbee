@@ -1,0 +1,9 @@
+#Z2Tv1
+# MOES
+# 
+# Moes Thermostat
+:TS0601, _TZE200_aoclfnxz
+EF00/0210=0201/FFF1,mul:100         # temp target in 1/100 °C
+EF00/0210,MoesHeatingSetpoint       # attribute used to write value
+EF00/0218=0201/0000,mul:10          # Local Temperature in 1/100 °C
+EF00/0424,MoesValve

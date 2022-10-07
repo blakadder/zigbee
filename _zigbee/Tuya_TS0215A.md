@@ -5,7 +5,7 @@ vendor: Tuya
 title: SOS Button
 category: remote
 supports: action, batterypct
-zigbeemodel: ['TS0215A','_TZ3000_4fsgukof','_TZ3000_wr2ucaj9']
+zigbeemodel: ['TS0215A','_TZ3000_4fsgukof','_TZ3000_wr2ucaj9', '_TZ3000_zsh6uat3']
 compatible: [z2m]
 z2m: TS0215A_sos
 mlink: 

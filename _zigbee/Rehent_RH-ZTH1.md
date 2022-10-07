@@ -10,7 +10,7 @@ zigbeemodel: ['RH3052']
 compatible: [z2m,iob,tasmota,deconz,z4d]
 deconz: 3263
 mlink: https://rehentech.en.alibaba.com/product/62424533138-814349013/RH_ZTH1_temperature_sensor_tuya_zigbee_temperature.html
-link: https://www.aliexpress.com/item/33050959831.html
+link:
 link2: 
 link3: 
 ---

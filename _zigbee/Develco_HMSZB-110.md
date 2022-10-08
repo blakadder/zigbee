@@ -9,7 +9,7 @@ compatible: [z2m,deconz,z4d]
 deconz: 4008
 mlink: https://wattle.com/support/our-products/older-products/humidity-sensor/
 link: https://www.domadoo.fr/en/peripheriques/5407-frient-capteur-de-temperature-et-humidite-intelligent-zigbee-30-5713594002385.html
-link2: 
+link2: https://www.hornbach.de/shop/frient-Smart-Humidity-Sensor-Zigbee-Feuchtigkeitssensor-weiss-Kompatibel-mit-SMART-HOME-by-hornbach/10493597/artikel.html
 link3: 
 ---
 

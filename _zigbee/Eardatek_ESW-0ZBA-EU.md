@@ -18,4 +18,4 @@ This wireless switch is manufactured by Eardatek and sold on Aliexpress under ma
 
 This is an updated model of [Eardatek ESW-0ZAA-EU](Eardatek_ESW-0ZAA-EU). 
 
-![How it looks](/assets/images/devices/Eardatek_ESW-0ZBA-EU_look.jpg)
+![How it looks](/assets/images/devices/Eardatek_ESW-0ZBA-EU_look.webp)

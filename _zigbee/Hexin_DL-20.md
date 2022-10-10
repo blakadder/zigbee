@@ -21,6 +21,6 @@ Identify the required pins and follow flashing instructions:
 - flash using [Raspberry Pi](http://www.marrold.co.uk/2019/12/flashing-cc2530-cc2591-zigbee-module.html)
 - flash using [CC Debugger](http://ptvo.info/how-to-select-and-flash-cc2530-144/) 
 
-![Pinout](/assets/images/devices/DL-20_pinout.jpg)
+![Pinout](/assets/images/devices/DL-20_pinout.webp)
 
-![Wiring example](/assets/images/devices/DL-20_wiring.jpg)
+![Wiring example](/assets/images/devices/DL-20_wiring.webp)

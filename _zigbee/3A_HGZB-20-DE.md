@@ -12,4 +12,4 @@ link: https://www.amazon.de/Intelligente-Steckdose-kompatibel-SmartThings-Steuer
 link2: 
 link3: 
 ---
-![](3A_HGZB-20-DE-2.jpg)
+![Product label](/assets/images/devices/3A_HGZB-20-DE-2.webp)

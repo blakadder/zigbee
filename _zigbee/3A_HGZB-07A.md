@@ -12,4 +12,3 @@ link: https://www.amazon.co.uk/Downlight-Working-Compatible-Automation-Control/d
 link2: https://www.amazon.com.au/Smart-Light-Automation-Google-Control/dp/B07T9CPJ5S
 link3: 
 ---
-![](3A_HGZB-07A_2.jpg)

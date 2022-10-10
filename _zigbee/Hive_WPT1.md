@@ -13,4 +13,4 @@ link: https://www.amazon.co.uk/BRITISH-WIRELESS-PROGRAMMABLE-THERMOSTAT-WPT1/dp/
 link2: 
 link3: 
 ---
-![](/assets/images/devices/Hive_WPT1_a.jpg)
+![Device with opened battery compartment](/assets/images/devices/Hive_WPT1_a.webp)

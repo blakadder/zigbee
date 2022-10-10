@@ -13,4 +13,4 @@ link2: https://www.amazon.ca/Third-Reality-Smart-Switch-Starter/dp/B07HGXMFJ3
 link3: 
 ---
 
-![](Third_Reality_3RSS008Z-2.jpg)
+![Product image](/assets/images/devices/Third_Reality_3RSS008Z-2.webp)

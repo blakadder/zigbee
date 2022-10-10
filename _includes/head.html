@@ -7,7 +7,7 @@
 
     <!-- {% if page.layout == zigbee %}{{ page.vendor | escape }} {{ page.model | escape }} {{ page.title | escape }} {{ page.type | escape }}{% else %}{{ site.title | escape }}{% endif %} Zigbee Compatibility</title> -->
   <meta name="description" content="{% if page.compatible != nil %}Zigbee ID: {% for zmodel in page.zigbeemodel %}{{ zmodel }}{% unless forloop.last %} | {% endunless %}{% endfor %} - {{ page.model | escape }} compatibility with third party gateways {% else %}{{ site.description | escape }}{% endif %}">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/favicon.ico">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
   <meta name="keywords" content="zigbee, tasmota, deconz, deconz, z4d, hue, tradfri">  

@@ -6,7 +6,7 @@ title: Zigbee Bridge
 category: coordinator
 supports: coordinator
 zigbeemodel:
-compatible: [tasmota,zha]
+compatible: [tasmota, zha]
 mlink: https://itead.cc/product/sonoff-zbbridge/
 link: https://www.amazon.com/dp/B08BFT44QL/
 link2: https://www.aliexpress.com/af/sonoff-zbbridge.html

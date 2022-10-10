@@ -3,10 +3,10 @@ date_added: 2021-09-24
 models: ZB-GW03-V1.0, ZB-GW03-V1.2, ZB-GW03-V1.3
 vendor: eWeLink
 title:  Zigbee Ethernet Gateway
-category: coordinator, router
+category: coordinator
 supports: coordinator, router
 zigbeemodel: 
-compatible: [tasmota]
+compatible: [tasmota, zha]
 link: https://www.aliexpress.com/item/1005003065061179.html
 link2: https://www.amazon.de/dp/B094JKVLNR
 mlink: 

@@ -10,6 +10,6 @@ zigbeemodel:
 compatible: zha
 ---
 
-Flashing and configuration instructions same as [Sonoff ZBBridge](Sonoff_ZBBridge.md)
+Flashing and configuration instructions same as [Sonoff ZBBridge](Sonoff_ZBBridge)
 
 ![Back label](/assets/images/devices/eWeLink_ZBBridge-SA_label.webp)

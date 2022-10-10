@@ -1,4 +1,3 @@
 FROM gitpod/workspace-full
 
-RUN apt update \
-    && apt install -y libvips
+RUN sudo install-packages libvips

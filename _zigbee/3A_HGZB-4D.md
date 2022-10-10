@@ -11,4 +11,4 @@ z2m: HGZB-04D___HGZB-4D-UK
 mlink: https://3asmarthome.com/zigbee-smart-dimmer-switch
 link: https://www.amazon.com.au/dp/B078LC45BX/
 ---
-![Label](/assets/images/devices/3A_HGZB-4D_a.jpg)
+![Label](/assets/images/devices/3A_HGZB-4D_a.webp)

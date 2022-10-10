@@ -1,0 +1,22 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^(http|https)://"
+    },
+    {
+      "pattern": "^\\(/"
+    },
+    {
+      "pattern": "^/*flashing_ccloader"
+    },
+    {
+      "pattern": "^{{"
+    }
+  ],
+  "replacementPatterns": [
+    {
+      "pattern": "^/",
+      "replacement": "../"
+    }
+  ]
+}

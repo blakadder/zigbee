@@ -17,4 +17,4 @@ link3:
 ### Pairing
 Factory reset the plug (hold the switch button for >10sec). After resetting the switch will automatically connect. 
 
-![Label](/assets/images/devices/EDP_re-dy_2.jpg)
+![Label](/assets/images/devices/EDP_re-dy_2.webp)

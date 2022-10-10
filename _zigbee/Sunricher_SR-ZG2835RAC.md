@@ -13,4 +13,4 @@ link: https://www.domadoo.fr/en/peripheriques/5736-sunricher-interrupteur-variat
 link2: 
 link3: 
 ---
-![Back](/assets/images/devices/Sunricher_ZG2835RAC-backside.jpg)
+![Back](/assets/images/devices/Sunricher_ZG2835RAC-backside.webp)

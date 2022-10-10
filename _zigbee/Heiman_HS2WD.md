@@ -15,4 +15,4 @@ link2: https://www.domadoo.fr/en/peripheriques/5714-heiman-sirene-interieure-int
 link4: https://heimansmart.en.alibaba.com/product/60661259935-803267292/The_latest_HEIMAN_Zigbee_3_0_smart_wireless_indoor_siren_with_standby_battery.html
 link3: https://www.amazon.com/Zigbee-Strobe-Flash-Siren-Power/dp/B07DCPZ2JZ
 ---
-![Label](/assets/images/devices/Heiman_HS2WD-E-label.jpg)
+![Label](/assets/images/devices/Heiman_HS2WD-E-label.webp)

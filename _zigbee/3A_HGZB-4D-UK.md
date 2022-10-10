@@ -13,4 +13,4 @@ link: https://www.amazon.co.uk/3A-Germany-ZigBee-Dimmer-Switch/dp/B07LD9TBQZ
 link2: 
 link3: 
 ---
-![Label](/assets/images/devices/3A_HGZB-4D-UK_a.jpg)
+![Label](/assets/images/devices/3A_HGZB-4D-UK_a.webp)

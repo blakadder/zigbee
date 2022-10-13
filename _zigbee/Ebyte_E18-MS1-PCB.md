@@ -16,7 +16,7 @@ link4: https://www.banggood.com/Ebyte-E18-MS1-PCB-IO-CC2530-Mesh-Network-2_4GHz-
 ---
 This module consists of a TI CC2530 with 2.5mW transmit power.
 
-![Back](/assets/images/devices/Ebyte_E18-MS1-PCB_back.jpg)
+![Back](/assets/images/devices/Ebyte_E18-MS1-PCB_back.webp)
 
 PCB pins are 1.27mm and slightly harder to solder wires to.
 
@@ -30,6 +30,6 @@ Identify the required pins and follow flashing instructions:
 
 VCC pin tolerates 3.6V max. **DO NOT** connect to 5V.
 
-![Pinout](/assets/images/devices/Ebyte_E18-MS1PA-PCB_pinout.jpg)
+![Pinout](/assets/images/devices/Ebyte_E18-MS1PA-PCB_pinout.webp)
 
 [User manual](/assets/files/E18-MS1-PCB_Usermanual_EN_v1.1.pdf).

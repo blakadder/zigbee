@@ -14,8 +14,7 @@ link3: https://www.amazon.com/dp/B07Y4SDXMJ
 This firmware is a replacement for the original firmware for the __Zigbee__ chip JN5169 on __Xiaomi DGNWG05LM__ and __Aqara ZHWG11LM__ gateways which allows to use the gateway as a router (repeater-like) in any Zigbee network instead of the stock coordinator firmware for the propriate Xiaomi MiHome Network.
 
 __Aqara ZHWG11LM__    
-![Aqara ZHWG11LM](/assets/images/devices/Aqara_ZHWG11LM.jpg)
+![Aqara ZHWG11LM](/assets/images/devices/Aqara_ZHWG11LM.webp)
 
 __Xiaomi DGNWG05LM__    
-![Xiaomi DGNWG05LM](/assets/images/devices/Xiaomi_DGNWG05LM.jpg)
-
+![Xiaomi DGNWG05LM](/assets/images/devices/Xiaomi_DGNWG05LM.webp)

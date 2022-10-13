@@ -14,4 +14,4 @@ link3:
 ---
 Can be found under different brands such as Lonsonho, Zemismart, Moes
 
-![Internals](/assets/images/devices/Lonsonho_DP-ZR3_internals.jpg)
+![Internals](/assets/images/devices/Lonsonho_DP-ZR3_internals.webp)

@@ -13,4 +13,4 @@ link: https://www.amazon.com/dp/B01IE35PCC
 link2: 
 link3: 
 ---
-![](/assets/images/devices/SmartThings_3325-S-back.jpg)
+![Back of the device with label](/assets/images/devices/SmartThings_3325-S-back.webp)

@@ -12,4 +12,4 @@ mlink: https://expo.tuya.com/product/839359
 link: https://www.aliexpress.com/item/1005002995672152.html
 ---
 
-![Another image](/assets/images/devices/Tuya_RSH-AirBox02_1.jpg)
+![Another image](/assets/images/devices/Tuya_RSH-AirBox02_1.webp)

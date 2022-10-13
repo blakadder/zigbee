@@ -12,4 +12,4 @@ compatible: zha
 
 Flashing and configuration instructions same as [Sonoff ZBBridge](Sonoff_ZBBridge)
 
-![Back label](/assets/images/eWeLink_ZBBridge-SA_label.jpg)
+![Back label](/assets/images/devices/eWeLink_ZBBridge-SA_label.webp)

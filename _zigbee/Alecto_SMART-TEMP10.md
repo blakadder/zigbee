@@ -7,6 +7,7 @@ category: sensor
 mlink: https://alectohome.com/products/alecto-smart-temp10-smart-zigbee-temperatuur-en-vochtigheidssensor-wit
 link: https://www.mediamarkt.nl/nl/product/_alecto-smart-temp10-1649910.html
 link2: https://www.dustin.be/nl/niet-gecategoriseerd/alecto/alecto-smart-zigbee-temperature-humidity-sensor-white-art-smart-temp10-num-12168366/
+link3: https://www.mediamarkt.de/de/product/_alecto-smart-temp10-smarter-zigbee-temperatur--94032641.html
 zigbeemodel: ['RH3052']
 compatible: [z2m, iob, tasmota, deconz, z4d]
 deconz: 3263

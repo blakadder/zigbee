@@ -7,6 +7,7 @@ category: hvac
 supports: temperature, thermostat, battery
 zigbeemodel: ['TS0601', '_TZE200_husqqvux', '_TZE200_lnbfnyxd']
 compatible: [zha, z2m]
+z2m: TV02-Zigbee
 mlink: https://www.teslasmart.com/en/products/smart-heating/tesla-smart-thermostatic-valve/
 link: https://www.alzashop.com/tesla-smart-thermostatic-valve-d6551963.htm
 link2: https://www.alza.de/tesla-smart-thermostatventil-d6551963.htm

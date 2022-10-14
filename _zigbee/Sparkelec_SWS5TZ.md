@@ -1,7 +1,7 @@
 ---
 date_added: 2022-10-14
 model: SWS5TZ
-vendor: SPARKELEC
+vendor: Sparkelec
 title: 5 Gang Light Switch
 category: switch
 supports: on/off

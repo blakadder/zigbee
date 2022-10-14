@@ -1,13 +1,14 @@
 ---
-date_added: 2021-11-02
+date_added: 2022-10-13
 model: ZB-GW04
 vendor: easyiot
-title: easyiot EFR32MG21 Zigbee 3.0 USB Dongle
+title: EFR32MG21 Zigbee 3.0 USB Dongle
 category: coordinator
 mlink: https://www.easyiot.tech
 link: https://www.aliexpress.com/item/1005002791666029.html
+link2: https://www.aliexpress.com/item/1005003762989921.html
 zigbeemodel: ZB-GW04
-compatible: [zha,z4d]
+compatible: [zha, z4d, z2m]
 ---
 It comes pre-flashed with an unsigned EmberZNet 6.7.9 Zigbee NCP application firmware with Silabs standard EZSP v8 (EmberZNet Serial Protocol version 8) interface enabled as well as the standard Silabs Gecko Bootloader firmware for recovery, meaning it can be used either as-is out-of-the-box or flashed with custom application firmware via USB.
 

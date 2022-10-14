@@ -3,7 +3,7 @@ model: LM-1ZBS
 vendor: Climax
 title: Ambient Light, Temperature and Humidity Sensor 
 category: sensor
-supports: illuminance, temperature, humidity, occupancy
+supports: illuminance
 image: /assets/images/devices/Climax_LM-1ZBS.jpg
 zigbeemodel: ['LM_']
 compatible: [deconz]

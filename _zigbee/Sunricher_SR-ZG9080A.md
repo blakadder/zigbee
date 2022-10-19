@@ -8,7 +8,8 @@ supports: open, close
 mlink: https://www.sunricher.com/zigbee-series.html
 link: https://www.domadoo.fr/en/peripheriques/5245-sunricher-module-volet-roulant-zigbee-30.html
 zigbeemodel: ['HK-ZCC-A']
-compatible: [deconz,z4d,z2m]
+compatible: [deconz, z4d, z2m]
+deconz: 6405
 ---
 
 

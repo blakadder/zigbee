@@ -12,6 +12,7 @@ link: https://www.aliexpress.com/item/1005001459823340.html
 link2: https://www.aliexpress.com/item/4001230151655.html
 link3: https://www.amazon.se/dp/B08R6D3QWY/
 link4: https://www.aliexpress.com/item/1005004447135734.html
+pairing: "Plug and unplug the device from USB at least 3 times, until the tiny LED starts blinking."
 ---
 
-Comes under various brand names (LoraTap, Lonsonho, Smarsecur, etc )
+Comes under various brand names (LoraTap, Lonsonho, Smarsecur, etc)

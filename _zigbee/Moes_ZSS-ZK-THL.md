@@ -15,14 +15,16 @@ link2: https://www.banggood.com/MoesHouse-Smart-ZigBee-or-bluetooth-Mesh-Brightn
 link3: https://www.domadoo.fr/en/domotique/5789-moes-capteur-de-temperature-humidite-et-luminosite-zigbee.html
 pairing: "Hold the orange button until three dots appear at the top left of the screen."
 ---
-This device will not work correctly unless previously paired with a Tuya compatible gateway.
+This device will not work correctly unless previously paired with a Tuya compatible gateway. It may also work with Sonoff dongles, but not with Sonoff minis.
 
 Temperature and humidity are reported at a fixed 60 minute interval.
 
 ## ZHA
-The device seems to reset every 150 seconds and this causes the temperature to be reported, via ZigBee (not on the display), as 0 degrees, and the display displays 0 Lux. Continuous resets, at least once, caused a small "!" to appear on the screen while virtually nothing was updated, suggesting some internal processing error. 
+The device seems to reset every 150 seconds and sometimes this causes the temperature to be reported, via ZigBee (not on the display), as 0 degrees. In all scenarios, these resets will stuck the Lux sensor at 0 at the display, reporting as 1 lux via ZigBee. Continuous resets, at least once, caused a small "!" to appear on the screen while virtually nothing was updated, suggesting some internal processing error. 
 
-This impact of this issue can be reduced by creating a template sensor in the home assistant configuration.yaml. (supposing the real measured value is not 0 degrees)
+The luminance sensor will report correct values again after the luminance changes - shadowing it or covering its sensor for a few seconds.
+
+The impact of the temperature issue can be reduced by creating a template sensor in the home assistant configuration.yaml. (supposing the real measured value is not 0 degrees)
 
 {% highlight yaml %}
 {% raw %}template:

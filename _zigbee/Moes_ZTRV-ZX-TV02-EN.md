@@ -10,4 +10,5 @@ compatible: [zha, z2m]
 z2m: TV02-Zigbee
 mlink: https://www.moeshouse.com/products/zigbee-smart-heating-thermostat-energy-saving-radiator-thermostat-radiator-valve-controller
 link: https://www.aliexpress.com/item/1005003136136233.html
+link2: https://www.domadoo.fr/en/peripheriques/6389-moes-tuya-zigbee-smart-thermostatic-head.html
 ---

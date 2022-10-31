@@ -9,7 +9,7 @@ zigbeemodel: ['ZG2855-RGB']
 compatible: [deconz]
 deconz: ZG2858A
 mlink: https://www.sunricher.com/dim-cct-rgb-3-in-1-zigbee-push-button-remote-sr-zg2855-5c.html
-link: https://www.domadoo.fr/fr/peripheriques/5710-sunricher-telecommande-3-en-1-zigbee-30.html
+link: https://www.domadoo.fr/en/peripheriques/5710-sunricher-telecommande-3-en-1-zigbee-30.html
 link2: 
 link3: 
 ---

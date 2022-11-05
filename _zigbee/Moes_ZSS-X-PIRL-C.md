@@ -1,6 +1,6 @@
 ---
 date_added: 2021-11-04
-model: ZSS-X-PIRL-C-EN
+model: ZSS-X-PIRL-C
 vendor: Moes
 title: PIR Motion Sensor Human Detector
 category: sensor

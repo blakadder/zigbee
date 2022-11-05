@@ -1,8 +1,8 @@
 ---
 date_added: 2022-08-24
-model: ZSS-QY-HP-EN
+model: ZSS-QY-HP
 vendor: Moes
-title: Light and Human Presence Detector 5.8GHz
+title: Light and Human Presence Sensor 5.8GHz
 category: sensor
 supports: illuminance, presence, set delay, sensitivity, set range
 link: https://www.aliexpress.com/item/1005004148507209.html

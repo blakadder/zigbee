@@ -12,4 +12,4 @@ link2:
 link3: 
 ---
 
-![Internals](/assets/images/devices/Zemismart_ZB-L03C_internals.jpg)
+![Internals](/assets/images/devices/Zemismart_ZB-L03C_internals.webp)

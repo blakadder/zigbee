@@ -6,7 +6,7 @@ title: Light Switch 1 Gang
 category: switch
 supports: on/off
 zigbeemodel: ['ZB-SW01']
-compatible: [z2m,zha,tasmota,z4d]
+compatible: [z2m, zha, tasmota, z4d, deconz]
 mlink: 
 link: https://www.aliexpress.com/item/1005001291853225.html
 link2: https://www.chytrevypinace.cz/Tlacitkovy-ZigBee-vypinac-1CH-d209.htm

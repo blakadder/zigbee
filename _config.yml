@@ -14,6 +14,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - vendor/
 
 sass:
   sass_dir: _sass
@@ -36,3 +37,9 @@ plugins:
   - jekyll-sitemap
   
 google_analytics: UA-140681905-3
+
+image_processing:
+  table:
+    source: assets/images/devices
+    destination: assets/images/devices-table
+    resize_to_limit: [~, 75]

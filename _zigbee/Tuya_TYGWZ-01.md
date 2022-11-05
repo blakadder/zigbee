@@ -130,7 +130,7 @@ reboot
 
 In Home Assistant (requires version 0.113+) go to **Configuration - Integrations**, click the **+** icon, search for ZHA integration and select it. 
 
-[![Gateway ZHA Configuration](/assets/images/sonoff_ZBBridge_zha.jpg)]((/assets/images/sonoff_ZBBridge_zha.jpg))
+[![Gateway ZHA Configuration](/assets/images/sonoff_ZBBridge_zha.jpg)](/assets/images/sonoff_ZBBridge_zha.jpg)
 
 1. choose "Enter Manually" for serial port
 2. for Radio Type choose "EZSP" 
@@ -139,4 +139,4 @@ In Home Assistant (requires version 0.113+) go to **Configuration - Integrations
    - set port speed to "115200"
 4. when the Gateway is discovered you will get a confirmation message
 
-[![Gateway ZHA Configuration](/assets/images/sonoff_ZBBridge_zha2.jpg)]((/assets/images/sonoff_ZBBridge_zha2.jpg))
+[![Gateway ZHA Configuration](/assets/images/sonoff_ZBBridge_zha2.jpg)](/assets/images/sonoff_ZBBridge_zha2.jpg)

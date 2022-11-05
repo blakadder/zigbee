@@ -16,4 +16,4 @@ link3:
 
 ## Make sure it has the new Aqara logo
 
-![New logo](/assets/images/devices/Aqara_MCCGQ14LM_logo.jpg)
+![New logo](/assets/images/devices/Aqara_MCCGQ14LM_logo.webp)

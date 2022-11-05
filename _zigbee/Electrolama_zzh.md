@@ -24,4 +24,4 @@ Self-programming via the TI CC-series serial bootloader. As long as it is not ex
 Think of it as an upgrade to the ubiquitous CC2531 USB Sticks commonly used for Zigbee tinkering. CC2652 has a much beefier processor, more memory and a sane free compiler that should enable easier development compared to the old 8051 based CC2530/1 devices.
 
 
-![Pinout](/assets/images/devices/Electrolama_zzh-case.jpg)
+![Pinout](/assets/images/devices/Electrolama_zzh-case.webp)

@@ -18,4 +18,4 @@ Can be found under different brands such as Lonsonho, Zemismart, Moes
 ## Pairing
 Hold pair button for 10 seconds.
 
-![Internals](/assets/images/devices/Lerlink_ZBWS02_internals.jpg)
+![Internals](/assets/images/devices/Lerlink_ZBWS02_internals.webp)

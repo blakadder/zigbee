@@ -6,7 +6,7 @@ title: Zigbee Bridge
 category: coordinator
 supports: coordinator
 zigbeemodel:
-compatible: [tasmota,zha]
+compatible: [tasmota, zha]
 mlink: https://itead.cc/product/sonoff-zbbridge/
 link: https://www.amazon.com/dp/B08BFT44QL/
 link2: https://www.aliexpress.com/af/sonoff-zbbridge.html
@@ -88,7 +88,7 @@ Enable rule with `Rule1 1` and restart ZbBridge.
 
 In Home Assistant (requires version 0.113+) go to **Configuration - Integrations**, click the **+** icon, search for ZHA integration and select it. 
 
-[![ZBBridge ZHA Configuration](/assets/images/sonoff_ZBBridge_zha.jpg)]((/assets/images/sonoff_ZBBridge_zha.jpg))
+[![ZBBridge ZHA Configuration](/assets/images/sonoff_ZBBridge_zha.jpg)](/assets/images/sonoff_ZBBridge_zha.jpg)
 
 1. choose "Enter Manually" for serial port
 2. for Radio Type choose "EZSP" 
@@ -97,4 +97,4 @@ In Home Assistant (requires version 0.113+) go to **Configuration - Integrations
    - set port speed to "115200"
 4. when the ZbBridge is discovered you will get a confirmation message
 
-[![ZBBridge ZHA Configuration](/assets/images/sonoff_ZBBridge_zha2.jpg)]((/assets/images/sonoff_ZBBridge_zha2.jpg))
+[![ZBBridge ZHA Configuration](/assets/images/sonoff_ZBBridge_zha2.jpg)](/assets/images/sonoff_ZBBridge_zha2.jpg)

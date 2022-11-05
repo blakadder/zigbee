@@ -6,7 +6,7 @@ title: Wireless Scene Switch 3 Buttons
 category: remote
 supports: action, battery
 zigbeemodel: ['TS0043','_TZ3000_rrjr1q0u']
-compatible: [deconz,zha]
+compatible: [deconz, zha]
 deconz: 4751
 mlink: https://www.alibaba.com/product-detail/Earda-Ziggbee-3-Gang-Smart-Wall_1600101179511.html
 link: https://www.aliexpress.com/item/1005002326756203.html

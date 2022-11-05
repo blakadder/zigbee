@@ -11,6 +11,16 @@
 		var searchStore = lunr(function () {
 			var self = this
 
+			self.pipeline.remove(lunr.stemmer);
+			self.searchPipeline.remove(lunr.stemmer);
+
+			let leftAnchoredSearch = function (token) {
+				token.update(function () { return token.toString() + '*' });
+				return token;
+			};
+			lunr.Pipeline.registerFunction(leftAnchoredSearch, 'las');
+			self.searchPipeline.add(leftAnchoredSearch);
+
 			self.field('id');
 			self.field('vendor');
 			self.field('model', { boost: 20 });
@@ -72,7 +82,7 @@
 
 	function searchStore(store, data) {
 		return function (term) {
-			var results = store.search(term + "*")
+			var results = store.search(term)
 
 			return results.map(function (result) {
 				return data[result.ref]

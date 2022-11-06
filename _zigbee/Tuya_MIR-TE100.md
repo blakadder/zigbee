@@ -2,7 +2,7 @@
 date_added: 2020-01-31
 model: MIR-TE100
 z2m: TS0201
-vendor: Generic
+vendor: Tuya
 title: Temperature & Humidity Sensor with Display
 category: sensor
 supports: temperature, humidity, batterypct

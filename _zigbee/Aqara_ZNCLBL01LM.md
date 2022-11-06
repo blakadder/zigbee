@@ -9,12 +9,13 @@ supports: state, position, batterypct, battery voltage, device temperature, acti
 zigbeemodel: ['lumi.curtain.acn003','lumi.curtain.agl001']
 compatible: [z2m]
 mlink: https://www.aqara.com/en/product/curtain-driver-e1
-link: https://aliexpress.com/item/1005004302280943.html
+link: https://www.bol.com/nl/nl/p/aqara-curtain-driver-e1-zigbee-3-0-retrofit-gordijncontroller/9300000112313801/
 link2: https://smarterhome.sk/en/xiaomi-aqara/aqara-curtain-driver-e1-rod-version-cm-m01-1219.html
 link3: https://smarterhome.sk/en/xiaomi-aqara/aqara-curtain-driver-e1-track-version-cm-m01-1279.html
 ---
 
 ###### Pairing
+
 Press and hold the reset button on the device for +- 5 seconds (until the blue light starts blinking).
 After this the device will automatically join.
 

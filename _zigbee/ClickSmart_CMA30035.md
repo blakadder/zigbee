@@ -10,5 +10,5 @@ zigbeemodel: ['TS011F','_TYZB01_mtunwanm']
 compatible: [z2m]
 z2m: TS011F_wall_outlet
 mlink: https://click-smart.com/products/1-gang-smart-socket
-link: https://www.amazon.de/gp/product/B08VRGLKYF
+link: 
 ---

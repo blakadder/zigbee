@@ -11,4 +11,5 @@ compatible: [z2m]
 mlink: https://www.innr.com/en/product/outdoor-flex-light-colour/
 link: https://www.amazon.co.uk/dp/B085GLBCXN
 link2: https://www.domadoo.fr/en/eclairage/5462-innr-ruban-flexible-outdoor-couleur-2m-zigbee-lightlink-8718781552503.html
+link3: https://www.bol.com/nl/nl/p/innr-smart-buitenverlichting-werkt-met-philips-hue-smart-led-strip-color-outdoor-zigbee-2-meter/9300000001640333/
 ---

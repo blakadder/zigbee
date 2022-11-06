@@ -13,5 +13,6 @@ mlink: https://www.innr.com/en/product/smart-plug-uk-version/
 link: https://www.amazon.co.uk/Zigbee-Philips-Google-Required-2-Pack/dp/B07SLZVM78
 link2: https://www.domadoo.fr/en/peripheriques/5364-innr-prise-connectee-super-slim-zigbee-30-pack-de-2-prises-8718781552664.html
 link3: https://www.tink.de/innr-smart-plug-sp220-smarter-zwischenstecker-2er-pack
+link4: https://www.bol.com/nl/nl/p/innr-slimme-stekker-werkt-met-philips-hue-zigbee-smart-plug-2-pack/9300000001640325/
 EAN: 
 ---

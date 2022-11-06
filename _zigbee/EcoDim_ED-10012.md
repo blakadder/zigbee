@@ -9,7 +9,7 @@ zigbeemodel: ['ED-10012']
 compatible: [deconz, z2m]
 mlink: https://www.ecodim.nl/draadloze-schakelaar-zigbee-2-groepen-wit.html
 link: https://www.ecobright.nl/zigbee-wandschakelaar/zigbee-wandschakelaar-draadloos-wit-2-zones/
-link2: 
+link2: https://www.bol.com/nl/nl/p/draadloze-zigbee-schakelaar-van-ecodim-geschikt-voor-philips-hue-amazon-alexa-2-groepen-wit/9300000070361556/
 link3: 
 EAN: 8719322371331
 ---

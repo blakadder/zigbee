@@ -7,6 +7,7 @@ category: remote
 supports: action, battery
 zigbeemodel: ['ZBT-DIMSwitch-D0000']
 compatible: [z2m]
+z2m: 8718801528334
 mlink: 
 link: https://www.ledlampenkopen.nu/ynoa-1-knops-afstandsbediening-zigbee-3-0.html
 link2: 

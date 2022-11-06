@@ -13,4 +13,5 @@ link: https://www.aliexpress.com/item/32858603964.html
 link2: https://www.banggood.com/GLEDOPTO-GL-C-008-ZIG_BEE-ZLL-RGBCCT-Smart-APP-LED-Strip-Controller-Work-With-Home-Kit-Philip-Hub-p-1471007.html
 link3: https://www.amazon.com/GLEDOPTO-Controller-Compatible-SmartThings-Lightify/dp/B07R32CS17
 link4: https://www.amazon.de/dp/B0779F3KZ6
+link5: https://www.bol.com/nl/nl/p/losse-zigbee-controller-voor-rgbww-led-strips-geschikt-voor-philips-hue/9200000130872948/
 ---

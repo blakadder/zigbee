@@ -5,7 +5,7 @@ vendor: Tuya
 title: Motion Sensor ZB3.0
 category: sensor
 supports: occupancy
-zigbeemodel: ['TS0202','_TYZB01_dl7cejts','_TZ3000_mcxw5ehu']
+zigbeemodel: ['TS0202','_TYZB01_dl7cejts']
 compatible: [tasmota, z2m, zha]
 mlink: 
 link: https://www.aliexpress.com/item/1005003320192145.html

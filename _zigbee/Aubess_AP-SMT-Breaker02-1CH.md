@@ -5,9 +5,9 @@ vendor: Aubess
 title: Power Monitoring Switch
 category: switch
 supports: on/off
-zigbeemodel: ['TS0001', '_TZ3000_xkap8wtb']
+zigbeemodel: ['TS000F', '_TZ3000_xkap8wtb']
 compatible: [z2m]
-z2m: TS0001_power
+z2m: TS000F_powerv
 mlink: 
-link: https://www.aliexpress.com/item/1005004605451027.html
+link: https://www.aliexpress.com/item/1005003637851837.html
 ---

@@ -13,4 +13,5 @@ mlink: https://wooxhome.com/products-c10/security-c6/woox-r7054-smart-remote-con
 link: https://www.amazon.de/dp/B08HZGGC7N
 link2: https://www.domadoo.fr/en/peripheriques/5684-woox-telecommande-intelligente-4-boutons-zigbee-30-8435606701136.html
 link3: https://www.alza.de/woox-smart-security-controller-r7054-d6192757.htm
+link4: https://www.bol.com/nl/nl/p/woox-smart-remote-control-zigbee/9300000005842335/
 ---

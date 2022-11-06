@@ -12,7 +12,7 @@ deconz: 5717
 mlink: https://frient.com/products/smart-plug-mini/
 link: https://www.domadoo.fr/en/peripheriques/5420-frient-prise-intelligente-mini-avec-mesure-de-consommation-zigbee-ha-version-schuko-5713594002347.html
 link2: https://www.amazon.de/dp/B08WXTPZ4F
-link3: 
+link3: https://www.bol.com/nl/nl/p/frient-smart-plug-mini-zigbee/9300000017202240/
 EAN: 
   - 20201000
   - 5713594002347

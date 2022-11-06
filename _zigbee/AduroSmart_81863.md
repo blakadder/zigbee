@@ -12,10 +12,6 @@ mlink: https://adurosmart.com/product/eria-smart-extended-color-led-strip-3m-eri
 link: https://www.homedepot.com/p/AduroSmart-ERIA-120-in-Flexible-Color-and-White-LED-Dimmable-Smart-Strip-Light-81863/312889631
 link2: https://www.amazon.co.uk/dp/B084GZRLLM
 link3: 
+pairing: "Unplug/plug 5 times to factory reset and enter pairing mode."
 ---
-
-## Pairing
-
-Unplug/plug 5 times to factory reset and enter pairing mode.
-
 

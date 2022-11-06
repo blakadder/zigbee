@@ -11,4 +11,5 @@ mlink: https://miboxer.com/light/xqy/fut036z.html
 link: https://www.aliexpress.com/item/1005002776866370.html
 link2: https://www.ledbe.com/miboxer-fut036z-zigbee-dimmer-12v
 link3: https://www.idealo.de/preisvergleich/Typ/6970602181787.html
+link4: https://www.bol.com/nl/nl/p/losse-zigbee-controller-voor-witte-led-strips-geschikt-voor-philips-hue/9200000130874475/
 ---

@@ -11,7 +11,7 @@ compatible: [z2m]
 z2m: TS0215A_remote
 mlink: https://nedis.com/en-us/product/550735173/smart-remote-contoller-zigbee-4-buttons-battery-included-white
 link: https://www.amazon.de/dp/B087QSD3VC
-link2: https://www.alza.de/nedis-smarte-fernbedienung-zbrc10wt-d6526236.htm
+link2: https://www.bol.com/nl/nl/p/nedis-smartlife-afstandsbediening-zigbee-3-0-aantal-knoppen-4-android-ios-wit/9300000009084230/
 link3: https://www.idealo.de/preisvergleich/Typ/5412810330997.html
 EAN: '5412810330997'
 ---

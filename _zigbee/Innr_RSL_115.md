@@ -12,4 +12,5 @@ link: https://www.domadoo.fr/en/eclairage/5460-innr-plafonnier-encastrable-metal
 link2: https://www.domadoo.fr/en/eclairage/5461-innr-plafonnier-encastrable-metal-1-spot-additionnel-blanc-chaud-2700k-8718781552893.html
 link3: https://www.amazon.de/dp/B08DRJ2ZRD
 link4: https://www.tink.de/innr-smarter-einbauspot-rsl115-3er-pack
+link5: https://www.bol.com/nl/nl/p/innr-slimme-inbouwspot-white-werkt-met-philips-hue-warmwit-licht-zigbee-smart-led-lamp-dimbaar-3-pack/9300000017783190/
 ---

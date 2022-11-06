@@ -7,7 +7,7 @@ category: hvac
 type: trv
 zigbeemodel: ['TS0601','_TZE200_bvu2wnxz']
 compatible: [z2m]
-z2m: TV02-Zigbee
+z2m: TS0601_thermostat
 mlink: 
 link: https://www.aliexpress.com/item/1005003952150617.html
 ---

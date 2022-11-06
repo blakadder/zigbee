@@ -1,7 +1,7 @@
 ---
 date_added: 2022-10-14
 model: WZ5
-vendor: Tuya
+vendor: Skydance
 title: 5 CH LED Controller 
 category: light
 supports: on/off, brightness

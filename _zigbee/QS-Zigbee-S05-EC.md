@@ -4,7 +4,7 @@ model: QS-Zigbee-S05-EC
 vendor: Tuya
 title: 1 Gang Power Monitoring Switch Module with Neutral
 category: switch
-zigbeemodel: ['TS0001', '_TZ3000_qnejhcsu']
+zigbeemodel: ['TS0001', '_TZ3000_qnejhcsu', '_TZ3000_x3ewpzyr']
 compatible: [z2m]
 z2m: TS0001_power
 mlink: 

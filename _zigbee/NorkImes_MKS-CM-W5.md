@@ -17,11 +17,11 @@ link3:
 
 ## Zigbee2Tasmota
 
-Turn on gang 1: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550101000101"}`    
-Turn off gang 1: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550101000100"}`    
-Turn on gang 2: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550201000101"}`    
-Turn off gang 2: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550201000100"}`    
-Turn on gang 3: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550301000101"}`    
-Turn off gang 3: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550301000100"}`    
-Turn on gang 4: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550401000101"}`    
-Turn off gang 4: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550401000100"}`    
+Turn on gang 1: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550101000101"}`
+Turn off gang 1: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550101000100"}`
+Turn on gang 2: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550201000101"}`
+Turn off gang 2: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550201000100"}`
+Turn on gang 3: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550301000101"}`
+Turn off gang 3: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550301000100"}`
+Turn on gang 4: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550401000101"}`
+Turn off gang 4: `ZbSend {"Device":"0xDEVICE_ID","Send":"EF00!00/00550401000100"}`

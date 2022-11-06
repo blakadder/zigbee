@@ -7,7 +7,7 @@ category: remote
 supports: action, battery
 zigbeemodel: ['ZBT-RGBWSwitch-D0801']
 compatible: [z2m]
-mlink: https://www.linkind.com/product/5-key-smart-bulb-dimmer-switch/
+mlink: https://www.linkind.com/
 link: https://www.amazon.com/Linkind-Wireless-Control-Dimmers-Required/dp/B07Z68SCC5
 link2: 
 link3: 

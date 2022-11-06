@@ -11,5 +11,8 @@ mlink: https://www2.meethue.com/de-de/p/hue-white-and-color-ambiance-calla-ausen
 link: https://www.amazon.de/dp/B07BXT4NQT
 link2: https://www.amazon.com/Philips-Hue-802090-Calla-Lighting/dp/B07DBN3FSQ/
 link3: https://www.amazon.com.au/Philips-Ambiance-Outdoor-mounting-Requires/dp/B07DBN3FSQ
+EAN:
+  - 8718696167991
+  - 915005630301
 ---
 

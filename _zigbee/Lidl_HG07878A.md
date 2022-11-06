@@ -9,5 +9,5 @@ supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['TS0502A', '_TZ3000_el5kt5im']
 compatible: [z2m]
 mlink: https://www.lidl.com/
-link: https://www.lidl.nl/p/livarno-home-led-lamp-wittinten-zigbee-smart-home/p100340974
+link: https://www.lidl.de/p/livarno-home-lichtfarbensteuerung-zigbee-smart-home-3-fach-sort/p100335191001
 ---

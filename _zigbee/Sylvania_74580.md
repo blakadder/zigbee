@@ -1,7 +1,7 @@
 ---
 model: 74580
 vendor: Sylvania
-title: Smart+ Soft White PAR38 Outdoor Flood Light Bulb
+title: Smart+ PAR38 Soft White Lamop
 category: light
 supports: on/off, brightness
 image: /assets/images/devices/74580.jpg

@@ -3,7 +3,7 @@ date_added: 2021-05-17
 model: ZP2
 vendor: RTX
 title: 16A Smart Plug
-category: switch
+category: plug
 supports: on/off, power monitoring
 zigbeemodel: ['TS011F','_TZ3000_waho4jtj']
 compatible: [z2m]

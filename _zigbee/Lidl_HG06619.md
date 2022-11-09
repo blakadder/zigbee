@@ -6,7 +6,7 @@ title: SilverCrest Outdoor Plug
 category: plug
 supports: on/off
 zigbeemodel: ['TS0101','_TZ3000_pnzfdr9y']
-compatible: [z2m,tasmota,zha]
+compatible: [z2m,tasmota,zha,deconz]
 mlink: https://www.lidl.com/
 link: https://www.lidl.de/de/silvercrest-steckdose-zwischenstecker-zigbee-smart-home/p355168
 ---

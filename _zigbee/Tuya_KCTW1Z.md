@@ -6,10 +6,12 @@ title: Temperature and Humidity Sensor with Display
 category: sensor
 supports: humidity, temperature, batterypct
 zigbeemodel: ['_TZ3000_itnrsufe', 'TS0201']
-compatible: [z2m, zha]
+zigbeemodel: ['_TZ3000_ywagc4rj', 'TS0201']
+compatible: [z2m, zha, tasmota]
 mlink: https://fccid.io/2A5TM-KCTW1Z/External-Photos/External-photos-5867957
 link: https://www.moeshouse.com/products/smart-zigbee-temperature-and-humidity-sensor-indoor-hygrometer-thermometer-detector
 link2: https://www.aliexpress.com/item/1005004443497564.html
 link3: 
 ---
 
+With Tasmota, the reported humidity value is divided by 10.

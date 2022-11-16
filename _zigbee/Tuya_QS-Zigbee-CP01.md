@@ -7,7 +7,8 @@ category: switch
 type: Module
 supports: on/off
 zigbeemodel: ['TS0001', '_TZ3000_tygpxwqa']
-compatible: []
+tasmota: TS0001_switch
+compatible: [tasmota]
 mlink: 
 link: https://www.aliexpress.com/item/1005003696463914.html
 ---

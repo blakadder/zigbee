@@ -5,7 +5,8 @@ title: T1 Wall Outlet
 category: plug
 supports: on/off, power measurement, temperature
 zigbeemodel: ['lumi.plug.sacn02']
-compatible: [z2m]
+compatible: [z2m, tasmota]
+tasmota: lumi.plug
 mlink: https://www.aqara.com/cn/productDetail/d39
 link: 
 ---

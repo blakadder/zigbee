@@ -7,7 +7,8 @@ category: switch
 type: [no neutral, wall switch]
 supports: on/off
 zigbeemodel: ['TS0001','_TZ3000_wrhhi5h2']
-compatible: [tasmota,z2m,zha]
+compatible: [tasmota, z2m, zha]
+tasmota: TS0001_switch
 mlink: 
 link: https://www.aliexpress.com/item/1005001979915069.html
 link2: 

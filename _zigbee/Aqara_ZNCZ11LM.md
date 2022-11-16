@@ -6,7 +6,8 @@ title: Smart Socket CN
 category: plug
 supports: on/off, power measurement, power outage memory, device temperature, led disable
 zigbeemodel: ['lumi.plug.aq1']
-compatible: [z2m]
+compatible: [z2m, tasmota]
+tasmota: lumi.plug
 mlink: http://eigenstone.cn/html/products.html
 link: 
 ---

@@ -12,4 +12,4 @@ tuya: https://expo.tuya.com/product/1050040
 link: https://www.aliexpress.com/item/1005004226378468.html
 link2: https://www.moeshouse.com/products/ip55-waterproof-smart-zigbee-scene-switch-wireless-remote-dimmer
 ---
-This device is manufactured by Eardatek and sold on Aliexpress under many brands such Girier, Lonsonho, Moes and white label. 
+This device is manufactured by Eardatek and sold under many brands such Girier, Lonsonho, Moes and white label. 

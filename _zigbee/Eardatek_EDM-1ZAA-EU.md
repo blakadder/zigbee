@@ -14,4 +14,4 @@ link: https://www.aliexpress.com/item/1005001505069156.html
 link2: https://www.moeshouse.com/collections/zigbee/products/new-zigbee-smart-touch-light-dimmer-switch-timer-brightness-memory-smart-life-tuya-app-remote-control-work-with-alexa-google
 link3: 
 ---
-This dimmer switch is manufactured by Eardatek and sold on Aliexpress under many brands such Girier, Lonsonho, Moes and white label. 
+This dimmer switch is manufactured by Eardatek and sold under many brands such Girier, Lonsonho, Moes and white label. 

@@ -12,9 +12,9 @@ link: https://www.aliexpress.com/item/1005002054418583.html
 link2: https://www.amazon.de/dp/B08J3TMGJH
 link3: https://www.aliexpress.com/item/1005001471055202.html
 tuya: https://expo.tuya.com/product/785025
-pairing: "To enter pairing mode hold bottom left button for 10 seconds until all 4 LEDs start flashing."
+pairing: "To enter pairing mode hold bottom left button for 10 seconds until all LEDs start flashing."
 ---
-This wireless switch is manufactured by Eardatek and sold on Aliexpress under many brands such Girier, Lonsonho, [Moes](https://www.moeshouse.com/?ref=v4thya2eufek), Yagusmart, Zemismart and white label. 
+This wireless switch is manufactured by Eardatek and sold under many brands such Girier, Lonsonho, [Moes](https://www.moeshouse.com/?ref=v4thya2eufek), Yagusmart, Zemismart and white label. 
 
 This is an updated model of [Eardatek ESW-0ZAA-EU](Eardatek_ESW-0ZAA-EU). 
 

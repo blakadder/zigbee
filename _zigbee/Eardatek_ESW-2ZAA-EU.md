@@ -12,7 +12,7 @@ link: https://www.aliexpress.com/item/1005001468917347.html
 link2: 
 link3: 
 ---
-This switch is manufactured by Eardatek and sold on Aliexpress under many brands such Girier, Lonsonho, Moes and white label. 
+This switch is manufactured by Eardatek and sold under many brands such Girier, Lonsonho, Moes and white label. 
 
 ## Pairing 
 To enter pairing mode hold left button for 10 seconds until both LEDs start flashing.

@@ -13,5 +13,6 @@ link: https://www.aliexpress.com/item/1005001504737652.html
 link2: https://www.amazon.de/gp/product/B08XJTJ379/
 link3: https://www.domadoo.fr/en/domotique/5786-moes-interrupteur-intelligent-sans-fil-zigbee-2-boutons.html
 link4: https://www.aliexpress.com/item/1005001504737652.html
+pairing: "To enter pairing mode hold left button for 10 seconds until all LEDs start flashing."
 ---
-This wireless switch is manufactured by Eardatek and sold on Aliexpress under many brands such Girier, Lonsonho, Moes and white label. 
+This wireless switch is manufactured by Eardatek and sold under many brands such Girier, Lonsonho, Moes and white label. 

@@ -8,7 +8,7 @@ category: hvac
 supports: temperature, thermostat, battery
 mlink: https://hihome.eu/products/hihome-smart-zigbee-radiator-thermostat
 link: https://www.bol.com/nl/nl/p/hihome-smart-zigbee-slimme-radiator-thermostaat-v2/9300000128973175/
-compatible: [z2m,iob,deconz,zha,z4d]
+compatible: [z2m, iob, deconz, zha, z4d]
 deconz: 5495
 z2m: SEA801-Zigbee/SEA802-Zigbee
 ---

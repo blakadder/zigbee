@@ -54,9 +54,9 @@ This assumes you already have a basic knowledge of installing custom addons in H
 2. Add the following line to the Configuration > Options > Serial text field.
     - replace `[athomzbbrdg_ip]` with its IP address
     - if you changed the port number use the configured port
-```
-port: tcp://[athomzbbrdg_ip]:8888
-```
+    ```
+    port: tcp://[athomzbbrdg_ip]:8888
+    ```
     - For serial (USB) rather than network communication, [serial_id] needs to be replaced
 [![Athomzbbrdg ZHA Configuration](/assets/images/athom_zbbridge_serial.png)]((/assets/images/athom_zbbridge_serial.png))
 ```

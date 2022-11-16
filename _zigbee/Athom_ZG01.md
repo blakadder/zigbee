@@ -1,5 +1,5 @@
 ---
-date_added: 2022-11-16
+date_added: 2022-11-20
 model: ZG01
 vendor: Athom
 title: Zigbee Gateway

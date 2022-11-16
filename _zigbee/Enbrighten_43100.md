@@ -7,7 +7,7 @@ category: plug
 type: Outdoor Plug
 supports: on/off
 zigbeemodel: ['43100']
-compatible: [z2m]
+compatible: [z2m, deconz]
 mlink: 
 link: https://www.amazon.com/dp/B0842B57S3
 link2: 

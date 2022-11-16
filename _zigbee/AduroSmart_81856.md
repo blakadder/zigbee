@@ -10,5 +10,6 @@ compatible: [z2m]
 z2m: BPU3
 mlink: https://adurosmart.com/
 link: https://www.amazon.de/dp/B08PKVRVVS
+link2: https://www.bol.com/nl/nl/p/adurosmart-eria-zigbee-3-0-stekker-aan-uit-werkt-met-smarthings-en-adurosmart-eria/9200000130863129/
 EAN: '644558224589'
 ---

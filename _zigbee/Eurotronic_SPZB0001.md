@@ -16,13 +16,17 @@ link2: https://www.idealo.de/preisvergleich/OffersOfProduct/5773103_-spirit-zigb
 link3: https://www.domadoo.fr/en/peripheriques/5188-eurotronic-tete-thermostatique-zigbee-4260012711233.html
 link4: https://www.amazon.se/dp/B077GCDDBY/
 ---
+
+## Warning
+Some device have firmware with broken OTA and usually either reports 0% or 100% as pi_heating_demand
+
 ### Pairing
 If you are having trouble pairing, reset the device.
 - hold boost, +, and - (a count from 1 to 10 will be on the display)
 - release ones 'rES' is displayed
 - hit boot once after 'Jin' is displayed
 
-Documentation for Zigbee parameters: https://eurotronic.org/wp-content/uploads/2021/07/Spirit_ZigBee_BDA_web_EN_2021.pdf
+[Documentation for Zigbee parameters](https://eurotronic.org/wp-content/uploads/2021/07/Spirit_ZigBee_BDA_web_EN_2021.pdf)
 
 ### Zigbee2Tasmota
 

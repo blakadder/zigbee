@@ -1,6 +1,6 @@
 ---
 date_added: 2022-05-23
-model: SPPUSB02
+model: SPP02
 vendor: Mercator Ikuü 
 title: Double Power Point 
 category: switch

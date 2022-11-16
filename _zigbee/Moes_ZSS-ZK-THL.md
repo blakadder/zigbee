@@ -15,14 +15,14 @@ link2: https://www.banggood.com/MoesHouse-Smart-ZigBee-or-bluetooth-Mesh-Brightn
 link3: https://www.domadoo.fr/en/domotique/5789-moes-capteur-de-temperature-humidite-et-luminosite-zigbee.html
 pairing: "Hold the orange button until three dots appear at the top left of the screen."
 ---
-This device will not work correctly unless previously paired with a Tuya compatible gateway.
+This device will not work correctly unless previously paired with a Tuya compatible gateway. It may also work with Sonoff dongles (such as the [ZB Dongle-P](/Sonoff_ZBDongle-P.html)), but not with Sonoff minis.
 
 Temperature and humidity are reported at a fixed 60 minute interval.
 
 ## ZHA
-The device seems to reset every 150 seconds and this causes the temperature to be reported, via ZigBee (not on the display), as 0 degrees, and the display displays 0 Lux. Continuous resets, at least once, caused a small "!" to appear on the screen while virtually nothing was updated, suggesting some internal processing error. 
+The device seems to reset every 150 seconds and this causes all sensors to be reported momentarily, via ZigBee, as 0 degrees. Temperature and humidity do show show as zero on the display, and quickly get back to the correct values via ZigBee. However, luminance stays at zero in the screen, reports as 1 lux via ZigBee, and needs a "physical reset" (shadowing or covering its sensor for a few seconds) to report values correctly again. Continuous resets, at least once, caused a small "!" to appear on the screen while virtually nothing was updated, suggesting some internal processing error. 
 
-This impact of this issue can be reduced by creating a template sensor in the home assistant configuration.yaml. (supposing the real measured value is not 0 degrees)
+The impact of the temperature/humidity issues can be reduced by creating one template sensor for each of those measurements, in the Home Assistant's `configuration.yaml`. (supposing the real measured value is not 0 degrees)
 
 {% highlight yaml %}
 {% raw %}template:
@@ -44,7 +44,7 @@ This impact of this issue can be reduced by creating a template sensor in the ho
         unit_of_measurement: "°C"{% endraw %} 
 {% endhighlight %}
 
-For this template sensor to work properly, it's required for its entity (in the example: sensor.moes_thermometer_temperature_filtered) to be included in the [recorder](https://www.home-assistant.io/integrations/recorder/#configure-filter). Optionally, the unit of measurement can be changed to match with what's displayed on the e-ink screen.
+For these template sensors to work properly, it's required for its entity (in the example: sensor.moes_thermometer_temperature_filtered) to be included in the [recorder](https://www.home-assistant.io/integrations/recorder/#configure-filter). Optionally, the unit of measurement can be changed to match with what's displayed on the e-ink screen.
 The same method can be used for the humidity.
 
 ## Z2M

@@ -8,6 +8,7 @@ mlink: https://www.alibaba.com/product-detail/2-in-1-new-Tuya-Zigbee_16005490134
 link: https://www.aliexpress.com/item/1005004018051598.html
 link2: https://www.aliexpress.com/item/1005004095233195.html
 link3: https://www.aliexpress.com/item/1005004295765145.html
-zigbeemodel: ['_TZE200_3towulqd', 'TS0601']
+link4: 
+zigbeemodel: ['_TZE200_3towulqd', 'TS0601', '_TZE200_1ibpyhdc']
 compatible: z2m
 ---

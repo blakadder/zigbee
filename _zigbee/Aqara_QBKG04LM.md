@@ -8,7 +8,8 @@ supports: action, on/off, decoupled mode
 action: click, hold, release
 image: /assets/images/devices/QBKG04LM.jpg
 zigbeemodel: ['lumi.ctrl_neutral1']
-compatible: [z2m,z4d,iob,deconz,zha]
+compatible: [z2m, z4d, iob, deconz, zha]
+deconz: 6488
 z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/interrupteurmuralsimpledoubletouche
 mlink: https://www.aqara.com/en/smart_light_switch_no_neutral.html
 link: https://www.aliexpress.com/af/QBKG04LM-switch.html

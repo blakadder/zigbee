@@ -5,7 +5,7 @@ vendor: Alecto
 title: Temperature and Humidity Sensor
 category: sensor
 mlink: https://alectohome.com/products/alecto-smart-temp10-smart-zigbee-temperatuur-en-vochtigheidssensor-wit
-link: https://www.mediamarkt.nl/nl/product/_alecto-smart-temp10-1649910.html
+link: https://www.bol.com/nl/nl/p/alecto-smart-temp10-smart-zigbee-temperatuur-en-vochtigheidssensor-huisautomatisering/9200000123919252/
 link2: https://www.dustin.be/nl/niet-gecategoriseerd/alecto/alecto-smart-zigbee-temperature-humidity-sensor-white-art-smart-temp10-num-12168366/
 link3: https://www.mediamarkt.de/de/product/_alecto-smart-temp10-smarter-zigbee-temperatur--94032641.html
 zigbeemodel: ['RH3052']

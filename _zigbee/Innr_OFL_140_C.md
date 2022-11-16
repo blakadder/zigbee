@@ -12,4 +12,5 @@ mlink: https://www.innr.com/en/product/outdoor-flex-light-colour/
 link: https://www.amazon.co.uk/dp/B085GLBCXN
 link2: https://www.domadoo.fr/en/eclairage/5482-innr-ruban-flexible-outdoor-couleur-4m-zigbee-lightlink-8718781552527.html
 link3: https://www.tink.de/innr-smart-outdoor-flex-light-colour-led-streifen
+link4: https://www.bol.com/nl/nl/p/innr-slimme-buitenverlichting-werkt-met-philips-hue-smart-led-strip-color-outdoor-zigbee-4-meter/9300000001640337/
 ---

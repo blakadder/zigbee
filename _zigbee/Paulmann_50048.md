@@ -10,7 +10,7 @@ zigbeemodel: ['500.48']
 compatible: [z2m, z4d, iob, deconz, tasmota]
 mlink: https://en.paulmann.com/indoor-lighting/smart-home/zigbee/controlling/smarthome-zigbee-yourled-dimming-and-switching-controller-max.-60w/50048
 link: https://www.amazon.de/Paulmann-500-48-Smarthome-Niedervolt-Schaltger%C3%A4t/dp/B072MVG1L9
-link2: 
+link2: https://www.bol.com/nl/nl/p/paulmann-yourled-zigbee-dim-schakelcontroller-voor-eenkleurige-yourled-strips/9200000096859774/
 link3: 
 ---
 

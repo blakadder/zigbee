@@ -3,7 +3,7 @@ date_added: 2020-07-31
 model: AM25
 vendor: Orvibo
 title: Smart Blinds Controller
-category: switch
+category: cover
 supports: 'open, close, stop, position'
 zigbeemodel: ['2a103244da0b406fa51410c692f79ead']
 compatible: [z2m]

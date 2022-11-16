@@ -12,6 +12,7 @@ z2m: 50049/500.63
 mlink: https://en.paulmann.com/indoor-lighting/smart-home/zigbee/controlling/smarthome-zigbee-yourled-rgb-controller-max.-60w/50049
 link: https://www.amazon.de/dp/B072QSNFQN
 link2: https://www.idealo.de/preisvergleich/OffersOfProduct/200734137_-smart-home-zigbee-yourled-rgb-controller-60w-500-49-paulmann.html
-link3: 
+link3: https://www.bol.com/nl/nl/p/paulmann-yourled-zigbee-dim-schakelcontroller-voor-rgb-yourled-strips/9200000096859742/
+EAN: 4000870500491
 ---
 

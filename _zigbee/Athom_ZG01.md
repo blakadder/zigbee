@@ -2,7 +2,7 @@
 date_added: 2022-11-16
 model: ZG01
 vendor: Athom
-title: Athom Zigbee Gateway
+title: Zigbee Gateway
 category: coordinator
 supports: coordinator
 zigbeemodel:

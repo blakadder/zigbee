@@ -9,6 +9,7 @@ link: https://www.amazon.es/gp/product/B08T61ZDQB/
 link2: https://www.amazon.co.uk/gp/product/B08T5ZZL4N/
 zigbeemodel: ['TS0001']
 compatible: [deconz, tasmota, zha]
+tasmota: TS0001_switch
 ---
 
 

@@ -6,7 +6,8 @@ title: Mini Smart Switch 10A/16A
 category: switch
 supports: on/off
 zigbeemodel: ['TS0001', '_TZ3000_hktqahrq','TS000F', '_TZ3000_m9af2l6g', '_TZ3000_xkap8wtb']
-compatible: [zha, z2m]
+compatible: [zha, z2m, tasmota]
+tasmota: TS0001_switch
 z2m: TS0121_plug
 mlink: 
 link: https://www.aliexpress.com/item/1005002716718315.html

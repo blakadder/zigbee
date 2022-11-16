@@ -7,7 +7,8 @@ category: switch
 mlink: 
 link: https://www.amazon.it/gp/product/B091536D9Q/
 zigbeemodel: ['_TZ3000_yl3zuyaw', 'TS0001']
-compatible: zha
+compatible: [zha, tasmota]
+tasmota: TS0001_switch
 ---
 
 

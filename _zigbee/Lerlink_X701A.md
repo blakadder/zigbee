@@ -8,6 +8,7 @@ image: /assets/images/devices/Lerlink_X701A.jpg
 zigbeemodel: ['TS0001']
 compatible: [z2m,iob,z4d,tasmota,zha]
 z2m: TS0001
+tasmota: TS0001_switch
 mlink: https://www.lerlink.com/productinfo/1016824.html
 link: https://www.aliexpress.com/item/4000424075729.html
 link2: 

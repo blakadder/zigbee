@@ -6,7 +6,8 @@ title: Smart Light Switch Module
 category: switch
 supports: on/off
 zigbeemodel: ['TS0001', '_TZ3000_majwnphg', '_TZ3000_6axxqqi2']
-compatible: [z2m,zha]
+compatible: [z2m, zha, tasmota]
+tasmota: TS0001_switch
 mlink: 
 link: https://www.aliexpress.com/item/1005002164359835.html
 ---

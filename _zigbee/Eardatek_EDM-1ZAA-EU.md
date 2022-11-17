@@ -5,7 +5,7 @@ vendor: Eardatek
 title: Touch Dimmer Switch EU
 category: dimmer
 supports: on/off, brightness
-zigbeemodel: ['TS0601','_TZE200_0nauxa0p']
+zigbeemodel: ['TS0601','_TZE200_0nauxa0p','_TZE200_dfxkcots']
 compatible: [z2m,zha,z4d,deconz]
 z2m: TS0601_dimmer
 deconz: 4577

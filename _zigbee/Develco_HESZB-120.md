@@ -6,7 +6,7 @@ title: frient Intelligent Heat Alarm
 category: sensor
 supports: alarm, battery, batterylow, fire, test, temperature 
 zigbeemodel: ['HESZB-120']
-compatible: [deconz,zha,z2m]
+compatible: [deconz,zha,z2m,z4d]
 deconz: 2100
 mlink: https://frient.com/products/intelligent-heat-alarm/
 link: https://www.domadoo.fr/en/peripheriques/5411-frient-detecteur-de-chaleur-intelligent-zigbee-30-din-en-14604-et-din-14676-5713594002446.html

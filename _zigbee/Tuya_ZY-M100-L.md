@@ -1,5 +1,5 @@
 ---
-date_added: 2022-10-05
+date_added: 2022-11-17
 model: ZY-M100-L
 vendor: Tuya
 title: Human Presence Detector 5.8GHz Ceiling Mount

@@ -5,8 +5,8 @@ vendor: eWeLink
 title: Light Switch 2 Gang
 category: switch
 supports: on/off
-zigbeemodel: ['ZB-SW02', 'E220-KR2N0Z0-HA']
-compatible: [z2m,tasmota,zha]
+zigbeemodel: ['ZB-SW02', 'E220-KR2N0Z0-HA','TYZB01_6sadkhcy']
+compatible: [z2m,tasmota,zha,z4d]
 mlink: 
 link: https://www.aliexpress.com/item/1005001291467678.html
 link2: https://www.chytrevypinace.cz/Tlacitkovy-ZigBee-vypinac-2CH-d210.htm

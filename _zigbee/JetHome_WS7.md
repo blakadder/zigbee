@@ -8,5 +8,5 @@ supports: action, battery
 zigbeeid: ['WS7']
 compatible: [z2m]
 mlink: https://wiki.jethome.ru/ws7_v1
-link: https://www.aliexpress.com/item/4000848221784.html
+link: 
 ---

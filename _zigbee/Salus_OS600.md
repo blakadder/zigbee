@@ -6,7 +6,7 @@ title: Window/Door Sensor
 category: sensor
 supports: contact, battery, tamper
 zigbeemodel: ['OS600']
-compatible: [z2m]
+compatible: [z2m,z4d]
 mlink: https://salus-controls.com/uk/product/OS600/
 link: 
 link2: 

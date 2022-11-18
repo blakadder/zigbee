@@ -8,6 +8,6 @@ supports: occupancy
 link: 
 mlink: https://www.moeshouse.com/collections/zigbee-sensor/products/smart-zigbee-pir-motion-sensor-human-sensor-detector
 zigbeemodel: RH3001
-compatible: [z2m,deconz,iob,zha,tasmota]
+compatible: [z2m,deconz,iob,zha,tasmota, z4d]
 ---
 No battery information

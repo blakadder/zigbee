@@ -6,7 +6,7 @@ title: Wireless Scene Switch
 category: remote
 supports: action, battery
 zigbeemodel: ['TS0041','_TZ3000_q68478x7']
-compatible: [zha]
+compatible: [zha,z4d]
 mlink: 
 link: https://www.aliexpress.com/item/1005002469399775.html
 link2: 

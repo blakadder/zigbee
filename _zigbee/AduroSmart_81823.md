@@ -6,7 +6,7 @@ title: ERIA Motion Sensor
 category: sensor
 supports: occupancy
 zigbeemodel: ['VMS_ADUROLIGHT']
-compatible: [z2m,iob,zha,deconz]
+compatible: [z2m,iob,zha,deconz,z4d]
 mlink: https://adurosmart.com/product/eria-smart-motion-sensor/
 link: https://www.amazon.com/dp/B07HJSKDWV
 link2: https://www.idealo.de/preisvergleich/Typ/644558228716.html

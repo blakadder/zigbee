@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colorxy
 image: /assets/images/devices/Philips_LLC014.jpg
 zigbeemodel: ['LLC014']
-compatible: [z2m]
+compatible: [z2m,z4d]
 mlink: 
 link: https://www.amazon.de/Philips-Energiesparende-LED-Technologie-Fernbedienung-7099860PH/dp/B009567QPC
 link2: https://www.amazon.co.uk/Philips-LivingColors-Colour-Changing-Light/dp/B008B4DCAC

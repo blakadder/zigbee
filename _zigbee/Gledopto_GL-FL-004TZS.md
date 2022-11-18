@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-FL-004TZS.jpg
 zigbeemodel: ['GL-FL-004TZS']
-compatible: [z2m]
+compatible: [z2m,z4d]
 mlink: http://www.gledopto.com/h-col-352.html
 link: https://www.aliexpress.com/item/4000764181314.html
 ---

@@ -62,3 +62,6 @@ port: tcp://[zbbridgePro_ip]:8888
 
 > Connecting to a separate Zigbee2MQTT installation may require further setup. 
 [Zigbee2MQTT Remote Adapter Guide](https://www.zigbee2mqtt.io/advanced/remote-adapter/connect_to_a_remote_adapter.html#_1-install-ser2net)
+
+## Router Firmware
+[GitHub Discussion](https://github.com/arendst/Tasmota/discussions/16957)

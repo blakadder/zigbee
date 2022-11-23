@@ -11,6 +11,6 @@ link: https://www.aliexpress.com/item/1005001528862408.html
 link2: https://www.banggood.com/MoesHouse-BHT-6000-GCLW-Water-or-Gas-Boiler-Thermostat-Backlight-WIFI-3A-Weekly-Programmable-LCD-Touch-Screen-Works-With-Alexa-Google-Home-p-1520043.html
 compatible: [z4d,z2m,iob,deconz,zha,tasmota]
 z2m: BHT-002-GCLZBWT
-tasmota: _TZE200_aoclfnxz  
+tasmota: TZE200_aoclfnxz  
 deconz: 3304
 ---

@@ -6,7 +6,7 @@ title: Hue Motion Sensor
 category: sensor
 supports: occupancy, temperature, illuminance, batterypct, motion sensitivity
 zigbeemodel: ['SML003']
-compatible: [z2m, zha, deconz]
+compatible: [z2m, zha, deconz, z4d]
 deconz: 5758
 z2m: 9290030675
 mlink: https://www.philips-hue.com/en-gb/p/hue-motion-sensor/8719514342125

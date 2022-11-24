@@ -6,7 +6,7 @@ title: Hue White and Color 800 E27
 category: light
 supports: on/off, brightness, colortemp, color
 zigbeemodel: ['LCA004']
-compatible: [z2m,zha]
+compatible: [z2m,zha,z4d]
 mlink: https://www.philips-hue.com/en-gb/p/-/8719514328204
 link: https://www.amazon.de/-/dp/B099NS14C7
 link2: 

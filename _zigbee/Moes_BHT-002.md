@@ -12,6 +12,6 @@ link2: https://www.domadoo.fr/en/thermostats/5781-moes-thermostat-intelligent-zi
 link3: https://www.domadoo.fr/en/thermostats/5778-moes-thermostat-intelligent-zigbee-noir-pour-plancher-chauffant-electrique-16a.html
 compatible: [z4d,z2m,iob,deconz,zha,tasmota]
 z2m: BHT-002-GCLZBWT  
-tasmota: _TZE200_aoclfnxz
+tasmota: TZE200_aoclfnxz
 deconz: 3304
 ---

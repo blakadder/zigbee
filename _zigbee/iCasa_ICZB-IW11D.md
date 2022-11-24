@@ -6,7 +6,7 @@ title: AC Dimmer
 category: light
 supports: on/off, brightness
 zigbeemodel: ['ICZB-IW11D']
-compatible: [zha,z2m,deconz,iob,tasmota]
+compatible: [zha,z2m,deconz,iob,tasmota,z4d]
 deconz: 1124
 mlink: https://www.icasa.io/product-page/ac-dimmer?lang=en
 link: https://www.amazon.de/dp/B07L5H4KJM

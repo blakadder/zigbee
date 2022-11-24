@@ -1,7 +1,7 @@
 {%- if page.tasmota != nil -%}
 <p>
 <h4>Tasmota Configuration</h4>
-Download <a class="button" href="{{ page.tasmota append: '.zb' }}">configuration file</a>.
+Download <a class="button" href="{{ page.tasmota | prepend: '/assets/configs/' | append: '.zb' }}">configuration file</a>.
 <BR>
 Download the configuration file and put it in the file-system of Tasmota. It should be loaded automatically and provide the mapping for the device.
 </p>

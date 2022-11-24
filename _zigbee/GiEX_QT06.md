@@ -5,8 +5,8 @@ vendor: GiEX
 title: Irrigation Valve
 category: misc
 supports: battery, state, mode, water_consumed
-zigbeemodel: ['TS0601', '_TZE200_sh1btabb']
-compatible: [tasmota, z2m]
+zigbeemodel: ['TS0601', '_TZE200_sh1btabb', '_TZE200_a7sghmms']
+compatible: [tasmota, z2m, zha]
 mlink: 
 link: https://www.aliexpress.com/item/1005004221200643.html
 link2: https://www.amazon.com/dp/B0B1JN6KZX

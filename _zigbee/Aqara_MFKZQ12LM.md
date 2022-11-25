@@ -6,7 +6,7 @@ title: Cube T1 Pro
 category: remote
 type: Controller
 supports: action, batterypct
-zigbeemodel: ['']
+zigbeemodel: ['lumi.remote.cagl02']
 compatible: 
 mlink: https://www.aqara.com/cn/productDetail/d28
 link: https://www.amazon.com/dp/B0BHWS3VTZ

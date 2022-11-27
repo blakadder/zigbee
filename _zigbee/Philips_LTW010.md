@@ -2,7 +2,7 @@
 model: 9290011998
 vendor: Philips
 title: Hue White Ambiance 110 A19 E27
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: ['LTW010']
 compatible: [z2m, tasmota, z4d]

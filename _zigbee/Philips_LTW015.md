@@ -2,7 +2,7 @@
 model: 9290011998
 vendor: Philips
 title: Hue White Ambiance A19 E26/E27
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Philips_LTW015.jpg
 zigbeemodel: ['LTW015', 'LTW001', 'LTW004']

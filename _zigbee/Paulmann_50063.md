@@ -4,7 +4,7 @@ model: 500.63
 vendor: Paulmann
 title: LED Reflector 3.5W GU10 RGBW dimmable
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['RGBW light']
 compatible: [z2m,iob]
 z2m: 50049/500.63

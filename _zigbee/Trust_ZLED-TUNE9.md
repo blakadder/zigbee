@@ -4,7 +4,7 @@ model: ZLED-TUNE9
 vendor: Trust
 title: A60 806lm E27 CCT Bulb
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Trust_ZLED-TUNE9.jpg
 zigbeemodel: ['ZLL-ColorTempera', 'ZLL-ColorTemperature', 'ZLL-ExtendedColo']
 compatible: [z2m,iob]

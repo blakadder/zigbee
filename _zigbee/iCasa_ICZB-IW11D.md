@@ -4,7 +4,7 @@ EAN: 7061257407014
 vendor: iCasa
 title: AC Dimmer
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['ICZB-IW11D']
 compatible: [zha,z2m,deconz,iob,tasmota,z4d]
 deconz: 1124

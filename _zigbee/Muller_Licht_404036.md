@@ -4,7 +4,7 @@ model: 404036
 vendor: Müller Licht 
 title: Tint LED-Globeform White+Color Bulb
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['tint-ExtendedColor']
 compatible: [z2m, z4d]
 mlink: https://www.mueller-licht.de/en/product-informations/artikel/404036/

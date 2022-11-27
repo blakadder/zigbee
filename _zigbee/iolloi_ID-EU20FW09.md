@@ -4,7 +4,7 @@ model: ID-EU20FW09
 vendor: iolloi
 title: LED Dimmer 5-200 W 230V
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['Dimmer-Switch-ZB3.0']
 compatible: [z2m,deconz]
 mlink: https://iolloi.de/products/zigbee-led-dimmer-switch-id-eu20fw09

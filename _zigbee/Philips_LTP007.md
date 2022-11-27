@@ -4,7 +4,7 @@ model: LTP007
 vendor: Philips
 title: Hue Within Pendant Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTP007']
 compatible: [z2m]
 z2m: 4505748C5

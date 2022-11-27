@@ -3,7 +3,7 @@ model: L1531
 vendor: IKEA
 title: Surte Door Light Panel 38x60 cm
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Ikea_L1531.jpg
 zigbeemodel: ['SURTE door WS 38x64']
 compatible: [z2m,iob,zha]

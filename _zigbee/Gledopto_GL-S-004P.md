@@ -4,7 +4,7 @@ model: GL-S-004P
 vendor: Gledopto
 title: 4W MR16 Dual White and Color 30° Pro
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['GL-S-004P', 'GL-S-005P']
 compatible: [z2m]
 mlink: http://www.gledopto.com/h-col-370.html

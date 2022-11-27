@@ -3,7 +3,7 @@ model: 53170161
 vendor: Commercial Electric 
 title: LED T41 4" Recessed Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/53170161.jpg
 zigbeemodel: ['Zigbee CCT Downlight'] 
 compatible: [z2m]

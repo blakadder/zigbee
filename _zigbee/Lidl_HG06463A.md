@@ -4,7 +4,7 @@ model: HG06463A
 vendor: Lidl
 title: Livarno Lux E27 ST64 Filament Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS0501A','_TZ3000_j2w1dw29']
 compatible: [z2m]
 mlink: https://www.lidl.com/

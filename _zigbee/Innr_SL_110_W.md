@@ -3,7 +3,7 @@ model: SL 110 W
 vendor: Innr
 title: Spot Flex Wide
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Innr_SL_110_W.jpg
 zigbeemodel: ['SL 110 W']
 compatible: [z2m]

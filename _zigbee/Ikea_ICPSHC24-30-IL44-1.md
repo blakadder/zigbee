@@ -4,7 +4,7 @@ EAN: 104.747.72
 vendor: IKEA
 title: Silverglans LED Driver, Dimmable White, 30 W
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['SILVERGLANS IP44 LED driver']
 compatible: [z2m,zha]
 mlink: https://www.ikea.com/nl/en/p/silverglans-driver-for-wireless-control-dimmable-white-10474772/

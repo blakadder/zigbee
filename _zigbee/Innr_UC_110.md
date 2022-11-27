@@ -3,7 +3,7 @@ model: UC 110
 vendor: Innr
 title: Under Cabinet Light
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Innr_UC_110.jpg
 zigbeemodel: ['UC 110']
 compatible: [z2m]

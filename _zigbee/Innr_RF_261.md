@@ -4,7 +4,7 @@ model: RF 261
 vendor: Innr
 title: Filament Bulb Vintage Globe E27
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['RF 261']
 compatible: [z4d,deconz]
 mlink: https://www.innr.com/en/product/smart-filament-bulb-e27-vintage-globe/

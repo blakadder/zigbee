@@ -5,7 +5,7 @@ vendor: Adeo
 title: Lexman GU10 RGBW Bulb
 category: bulb
 type: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['LXEK-4']
 compatible: [z2m]
 mlink: 

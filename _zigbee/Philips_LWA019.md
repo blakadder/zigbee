@@ -3,7 +3,7 @@ model: LWA019
 vendor: Philips
 title: Hue White 1100 A19 - E26 Smart Bulb - 75 W
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LWA019']
 compatible: [z2m]
 z2m: 929002469202

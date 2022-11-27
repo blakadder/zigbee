@@ -3,7 +3,7 @@ model: 404023
 vendor: Müller Licht 
 title: Tint Retro 470lm E27 WW Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Muller_Licht_404023.jpg
 zigbeemodel: 
 compatible: [deconz]

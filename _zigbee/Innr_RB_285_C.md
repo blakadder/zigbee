@@ -3,7 +3,7 @@ model: RB 285 C
 vendor: Innr
 title: RGBW Bulb Colour E27
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['RB 285 C']
 compatible: [z2m, iob, z4d, deconz, zha, tasmota]
 mlink: https://www.innr.com/en/product/smart-bulb-colour-e27/

@@ -4,7 +4,7 @@ model: LTW017
 vendor: Philips
 title: Hue Adore Bathroom Mirror Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Philips_LTW017.jpg
 zigbeemodel: ['LTW017']
 compatible: [deconz,z2m]

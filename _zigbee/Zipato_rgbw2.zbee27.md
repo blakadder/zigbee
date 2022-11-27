@@ -4,7 +4,7 @@ model: rgbw2.zbee27
 vendor: Zipato
 title: Bulb 2 RGBW
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['ZHA-ColorLight']
 compatible: [z2m]
 mlink: https://www.zipato.com/wp-content/uploads/2017/04/rgbw2-Zipato-Bulb-2-ZigBee-Data-Sheet.pdf

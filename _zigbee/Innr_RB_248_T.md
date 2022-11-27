@@ -3,7 +3,7 @@ model: RB 248 T
 vendor: Innr
 title: Candle Comfort Bulb E14
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Innr_RB_248T.jpg
 zigbeemodel: ['RB 248 T']
 compatible: [z2m,iob,z4d,deconz]

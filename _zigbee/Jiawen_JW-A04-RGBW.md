@@ -3,7 +3,7 @@ model: JW-A04-RGBW
 vendor: Jiawen
 title: LED Controller RGBW
 category: light
-supports: on/off, brightness, colorxy
+supports: brightness, colorxy
 zigbeemodel: 
 compatible: [z4d]
 mlink: 

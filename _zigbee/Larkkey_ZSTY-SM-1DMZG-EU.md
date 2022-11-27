@@ -4,7 +4,7 @@ model: ZSTY-SM-1DMZG-EU
 vendor: Larkkey
 title: Dimmer Switch
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS0601','_TZE200_ebwgzdqq']
 compatible: [z2m,deconz,zha]
 z2m: TS0601_dimmer

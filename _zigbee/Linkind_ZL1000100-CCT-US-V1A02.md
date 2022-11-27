@@ -4,7 +4,7 @@ model: ZL1000100-CCT-US-V1A02
 vendor: Linkind
 title: 9W A19 Bulb, Dimmable & Tunable
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Linkind_ZL1000100-CCT-US-V1A02.jpg
 zigbeemodel: ['ZBT-CCTLight-D0106', 'ZBT-CCTLight-GLS0108', 'ZBT-CCTLight-GLS0109']
 compatible: [z2m, deconz]

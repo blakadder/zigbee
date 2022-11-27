@@ -3,7 +3,7 @@ model: K2RGBW01
 vendor: Jiawen
 title: 9W RGBW 750lm E27 Bulb
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Jiawen_K2RGBW01.jpg
 zigbeemodel: ['FB56-ZCW08KU1.1', 'FB56-ZCW08KU1.0']
 compatible: [z2m, z4d]

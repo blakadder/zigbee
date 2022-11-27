@@ -4,7 +4,7 @@ model: 9134
 vendor: LED Trading
 title: Power Strip 4AC + 2 USB
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['HK-LN-SOCKET-A']
 compatible: [z2m]
 mlink: https://www.led-trading.de/ZigBee-30-Steckdosenleiste-4fach-mit-2x-USB-Anschluss

@@ -3,7 +3,7 @@ model: LCD002
 vendor: Philips
 title: Hue White and Color Ambiance Downlight 5/6 Inch
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['LCD002']
 compatible: [z2m,iob]
 z2m: 5996611U5

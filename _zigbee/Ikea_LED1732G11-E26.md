@@ -4,7 +4,7 @@ EAN: 704.084.92
 vendor: IKEA
 title: Tradfri LED bulb E26 1000 lumen, dimmable white spectrum opal
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Ikea_LED1732G11-E26.jpg
 zigbeemodel:  ['TRADFRI bulb E26 WS opal 1000lm']
 compatible: [z2m, tasmota, zha]

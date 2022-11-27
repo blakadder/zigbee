@@ -4,7 +4,7 @@ model: EDM-1ZBA-EU
 vendor: Eardatek
 title: Rotary Dimmer Switch EU
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS0601','_TZE200_9i9dt8is','_TZE200_dfxkcots']
 compatible: [z2m,zha,z4d,deconz]
 z2m: TS0601_dimmer

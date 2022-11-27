@@ -4,7 +4,7 @@ model: ED-10042
 vendor: EcoDim
 title: Filament Globe G125 E27 2200K Dimmable bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS0501B', '_TZ3210_yluvwhjc']
 compatible: [z2m]
 mlink: https://www.ecodim.nl/ed-10042.html

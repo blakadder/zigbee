@@ -4,7 +4,7 @@ model: ZB-DL01
 vendor: Ysrsai
 title: Dimmable LED Controller 
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['019']
 compatible: [z2m]
 z2m: HLC610-Z

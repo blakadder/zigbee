@@ -4,7 +4,7 @@ model: HGZB-DLC4
 vendor: Zemismart
 title: ZigBee 3.0 RGBW Downlight
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Zemismart_HGZB-DLC4.jpg
 zigbeemodel: ['NUET56-DL27LX1.2','LXT56-LS27LX1.6']
 compatible: [z2m]

@@ -5,7 +5,7 @@ vendor: SmartThings
 title: Lexman E27 RGBW Bulb
 category: bulb
 type: bulb
-supports: on/off, brightness 
+supports: brightness 
 zigbeemodel: ['ZBT-DIMLight-GLS0044']
 compatible: [z2m]
 mlink: 

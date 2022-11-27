@@ -4,7 +4,7 @@ model: ZB-DL01
 vendor: Ysrsai
 title: Dimmable Mini LED Controller 
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['ZB-DL01']
 compatible: [z2m,z4d,iob]
 z2m: YSR-MINI-01_dimmer

@@ -3,7 +3,7 @@ model: LWW001
 vendor: Philips
 title: Hue Lucca Outdoor Wall Light
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Philips_LWW001.jpg
 zigbeemodel: ['LWW001']
 compatible: [z2m]

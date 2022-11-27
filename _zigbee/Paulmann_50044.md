@@ -3,7 +3,7 @@ model: 500.44
 vendor: Paulmann
 title: Cephei Dimming and Switching Controller 
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['Dimmablelight ']
 compatible: [z2m,iob]
 z2m: 50044/50045

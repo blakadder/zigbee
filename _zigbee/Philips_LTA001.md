@@ -3,7 +3,7 @@ model: LTA001
 vendor: Philips
 title: Hue White E27 with Bluetooth
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Philips_LTA001.jpg
 zigbeemodel: ['LTA001']
 compatible: [z2m,z4d,iob]

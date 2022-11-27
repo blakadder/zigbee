@@ -3,7 +3,7 @@ model: SR-ZG9040A-S
 vendor: Sunricher
 title: Micro Smart Dimmer (No Neutral)
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['SR-ZG9040A-S']
 zb3: true
 compatible: [z2m,zha]

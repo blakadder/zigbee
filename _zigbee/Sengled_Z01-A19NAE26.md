@@ -3,7 +3,7 @@ model: Z01-A19NAE26
 vendor: Sengled
 title: Element Plus A19 Bulb
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Sengled_Z01-A19NAE26.jpg
 zigbeemodel: ['Z01-A19NAE26']
 compatible: [z2m,deconz]

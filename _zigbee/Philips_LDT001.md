@@ -4,7 +4,7 @@ model: LDT001
 vendor: Philips
 title: Hue Aphelion Downlight
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Philips_5900131C5.jpg
 zigbeemodel: ['LDT001']
 compatible: [z2m]

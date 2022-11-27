@@ -3,7 +3,7 @@ model: 798.15
 vendor: Paulmann
 title: Aptare 18W Dimmable Pendant Light
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Paulmann_79815.jpg
 zigbeemodel: ['500.45']
 compatible: [z2m]

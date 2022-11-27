@@ -3,7 +3,7 @@ model: A806S-Q1G
 vendor: Leedarson
 title: A60 E27 Color Bulb
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['LED_E27_ORD']
 compatible: [z2m]
 mlink: https://www.leedarson.com/iot.php/Product/detail/id/160

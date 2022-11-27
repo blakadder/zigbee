@@ -3,7 +3,7 @@ model: PSB30-SW27
 vendor: GE 
 title: Link BR30 Soft White Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/GE_22670.jpg
 zigbeemodel: ['ZLL Light']
 compatible: [z2m]

@@ -3,7 +3,7 @@ model: LCX004
 vendor: Philips
 title: Hue Gradient Lightstrip 2m
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['LCX004']
 compatible: [z2m]
 z2m: 929002994901

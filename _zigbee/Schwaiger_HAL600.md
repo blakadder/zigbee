@@ -4,7 +4,7 @@ model: HAL600
 vendor: Schwaiger
 title: Dimmable E14 Candle Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['ZBT-DIMLight-Candle0800']
 compatible: [z2m]
 mlink: https://www.schwaiger.de/en/led-light-bulb-e14.html

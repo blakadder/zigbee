@@ -4,7 +4,7 @@ model: GL-C-007S
 vendor: Gledopto
 title: RGBW LED Controller Plus
 category: light
-supports: on/off, brightness, white, colorxy
+supports: brightness, white, colorxy
 image: /assets/images/devices/Gledopto_GL-C-007S.jpg
 zigbeemodel: ['GL-C-007S']
 compatible: [z2m]

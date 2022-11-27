@@ -4,7 +4,7 @@ model: LWO003
 vendor: Philips
 title: Hue White Filament Globe G125 E27 Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LWO003']
 compatible: [z2m,zha]
 z2m: 8719514279131

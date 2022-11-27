@@ -4,7 +4,7 @@ EAN: 8718781552039
 vendor: Innr
 title: Smart Spot Colour GU10 Bulb 
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Innr_RS_230_C.jpg
 zigbeemodel: ['RS 230 C']
 compatible: [z2m,iob,z4d,deconz]

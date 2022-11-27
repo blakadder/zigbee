@@ -5,7 +5,7 @@ vendor: Lidl
 title: Livarno Lux GU10 9W RGB Bulb
 category: bulb
 type: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['TS0505B','_TZ3000_quqaeew6']
 compatible: [z4d,z2m,deconz,zha,iob]
 deconz: 3975

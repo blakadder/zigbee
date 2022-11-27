@@ -4,7 +4,7 @@ model: TS0505A
 vendor: Tuya
 title: RGBCCT LED Controller 
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['TS0505A']
 compatible: [z2m,iob]
 z2m: TS0505A_led

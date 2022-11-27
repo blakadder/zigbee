@@ -4,7 +4,7 @@ model: ZFU-1D-CH
 vendor: Siglis
 title: zigfred uno Wall Switch
 category: switch
-supports: on/off, brightness, action
+supports: brightness, action
 zigbeemodel: ['zigfred uno']
 compatible: [deconz, z2m, zha]
 deconz: 6282

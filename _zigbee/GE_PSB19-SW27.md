@@ -3,7 +3,7 @@ model: PSB19-SW27
 vendor: GE
 title: Link A19 Soft White Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/GE_PSB19-SW27.jpg
 zigbeemodel: ['SoftWhite']
 compatible: [z2m]

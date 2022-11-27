@@ -5,7 +5,7 @@ title: RGBCCT 10W E27 Bulb
 vendor: Owyean 
 category: bulb
 type: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 mlink: 
 link: https://www.aliexpress.com/item/1005003836251889.html
 zigbeemodel: ['ZB-RGBCW']

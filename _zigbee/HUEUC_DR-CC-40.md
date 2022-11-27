@@ -3,7 +3,7 @@ model: DR-XX-40
 vendor: HUEUC
 title: 40W Triac LED Driver
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/HUEUC_DR-XX-40.jpg
 zigbeemodel: ['HOMA2023']
 compatible: [z2m,iob]

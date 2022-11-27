@@ -4,7 +4,7 @@ model: 43080
 vendor: Enbrighten
 title: In-Wall Dimmer
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['43080']
 compatible: [z2m, zha, deconz]
 mlink: 

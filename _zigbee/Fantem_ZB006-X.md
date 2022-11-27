@@ -5,7 +5,7 @@ vendor: Fantem
 title: In Wall Dimmer With or No Neutral
 category: dimmer
 type: In-Wall Dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS110F', '_TZ3210_lfbz816s', '_TZ3210_ebbfkvoy']
 compatible: [z2m]
 z2m: ZB006-X

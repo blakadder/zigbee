@@ -4,7 +4,7 @@ model: LTG001
 vendor: Philips
 title: Hue White Ambiance GU10 w/ BT
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTG001']
 compatible: [z2m]
 z2m: 9290019534

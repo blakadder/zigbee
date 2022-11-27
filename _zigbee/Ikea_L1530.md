@@ -5,7 +5,7 @@ model: L1530
 vendor: IKEA
 title:  Jormlien Door Light Panel, Dimmable, White Spectrum (40 x 80cm)
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['JORMLIEN door WS 40x80']
 compatible: [z2m,zha]
 mlink: 

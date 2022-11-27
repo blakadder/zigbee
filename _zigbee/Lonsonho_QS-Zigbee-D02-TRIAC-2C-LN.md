@@ -5,7 +5,7 @@ vendor: Lonsonho
 title: Dimmer Switch Module With Neutral 2 Gang 
 category: dimmer
 type: In-Wall Dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS110F','_TYZB01_v8gtiaed']
 compatible: [z2m,z4d,zha]
 mlink: 

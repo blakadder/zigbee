@@ -3,7 +3,7 @@ model: 54668161
 vendor: Hampton Bay 
 title: 12 in. Round CCT Ceiling Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/54668161.jpg
 zigbeemodel: ['ETI 12-in Puff light']
 compatible: [z2m]

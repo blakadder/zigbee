@@ -5,7 +5,7 @@ title: RGBCW 7W E27/B22 Bulb
 vendor: eWeLight 
 category: bulb
 type: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 mlink: 
 link: https://www.aliexpress.com/item/1005002483909414.html
 zigbeemodel: ['ZB-CL01']

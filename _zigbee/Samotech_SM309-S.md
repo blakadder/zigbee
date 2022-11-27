@@ -4,7 +4,7 @@ model: SM309-S
 vendor: Samotech
 title: Dimmer Module
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: [SM309-S]
 compatible: [z2m]
 mlink: https://www.samotech.co.uk/products/zigbee-dimmer-sm309-s/

@@ -4,7 +4,7 @@ model: GL-C-009
 vendor: Gledopto
 title: LED Dimmer
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Gledopto_GL-C-009.jpg
 zigbeemodel: ['GL-C-009']
 compatible: [z2m, iob, z4d, deconz, zha]

@@ -3,7 +3,7 @@ model: LST004
 vendor: Philips
 title: Hue LightStrip Outdoor
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['LST004']
 compatible: [z2m,zha]
 mlink: https://www2.meethue.com/en-us/p/hue-white-and-color-ambiance-lightstrip-outdoor-80-inch/046677530945

@@ -4,7 +4,7 @@ model: LTD010
 vendor: Philips
 title: Hue Downlight 5/6 inch White Ambiance
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Philips_LTD010.jpg
 zigbeemodel: ['LTD010']
 compatible: [z2m]

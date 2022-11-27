@@ -4,7 +4,7 @@ model: ICZB-B1FC60
 vendor: iCasa
 title: Filament Bulb 60mm 7W E27 CCT
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/iCasa_ICZB-B1FC60.jpg
 zigbeemodel: ['ICZB-FC']
 compatible: [z2m,iob,z4d]

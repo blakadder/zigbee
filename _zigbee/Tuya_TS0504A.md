@@ -4,7 +4,7 @@ model: TS0504A
 vendor: Tuya
 title: RGBW LED Controller 
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['TS0504A','_TZ3000_nzbm4ad4']
 compatible: [z2m]
 z2m: TS0504A

@@ -4,7 +4,7 @@ model: LTA009
 vendor: Philips
 title: Hue White Ambiance 1100 E27 Bluetooth 
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTA009']
 compatible: [z2m]
 z2m: 9290024684

@@ -4,7 +4,7 @@ model: E11-N13
 vendor: Sengled
 title: Element Extra Bright Soft White A19 Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['E11-N13','E11-N13A']
 compatible: [z2m]
 z2m: E11-N13/E11-N13A/E11-N14/E11-N14A

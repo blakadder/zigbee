@@ -3,7 +3,7 @@ model: HGZB-06A
 vendor: 3A Nue
 title: Smart 7W E27 Bulb
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/3A_HGZB-06A.jpg
 zigbeemodel: ['FNB56-ZCW25FB1.6', 'FNB56-ZCW25FB2.1']
 compatible: [z2m]

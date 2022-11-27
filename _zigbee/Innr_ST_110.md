@@ -3,7 +3,7 @@ model: ST 110
 vendor: Innr
 title: Strip Light
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Innr_ST_110.jpg
 zigbeemodel: ['ST 110']
 compatible: [z2m]

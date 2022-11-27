@@ -5,7 +5,7 @@ vendor: Gledopto
 title: USB Mini LED controller RGB+CCT Pro
 category: light
 type: led_controller
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['GL-MC-001']
 compatible: [z2m]
 mlink: http://www.gledopto.com/h-col-365.html

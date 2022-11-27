@@ -3,7 +3,7 @@ model: LTC013
 vendor: Philips
 title: Hue Aurelle Square Panel Light 30x30cm
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Philips_LTC013.jpg
 zigbeemodel: ['LTC013']
 compatible: [z2m]

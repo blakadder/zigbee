@@ -3,7 +3,7 @@ model: LLC014
 vendor: Philips
 title: LivingColors Aura Decoration Lamp
 category: light
-supports: on/off, brightness, colorxy
+supports: brightness, colorxy
 image: /assets/images/devices/Philips_LLC014.jpg
 zigbeemodel: ['LLC014']
 compatible: [z2m,z4d]

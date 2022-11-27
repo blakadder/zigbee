@@ -4,7 +4,7 @@ model: F122SB62H22A4.5W
 vendor: Aldi
 title: Lightway Filament E27 (4,5 W, 300 lm)
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['TS0502B','_TZ3000_g1glzzfk']
 compatible: [z2m,zha,tasmota]
 mlink: https://www.aldi-sued.de/

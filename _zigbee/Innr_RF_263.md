@@ -3,7 +3,7 @@ model: RF 263
 vendor: Innr
 title: Filament Bulb Vintage E27
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['RF 263']
 compatible: [z2m,iob,z4d,deconz]
 z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/RF263

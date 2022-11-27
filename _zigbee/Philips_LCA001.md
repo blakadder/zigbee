@@ -4,7 +4,7 @@ EAN: 8718699719210
 vendor: Philips
 title: Hue White and Color Ambiance A60 E27
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCA001.jpg
 zigbeemodel: ['LCA001']
 compatible: [z2m,zha,z4d]

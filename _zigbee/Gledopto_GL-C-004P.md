@@ -4,7 +4,7 @@ model: GL-C-004P
 vendor: Gledopto
 title: Light Strip Set 2m RGBCCT Color Change - PRO Series
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['GL-C-004P']
 compatible: [z2m,iob,z4d,zha]
 mlink: https://www.gledopto.eu/zigbee-light-strip-set-2m-rgbcct-color-change-pro-series

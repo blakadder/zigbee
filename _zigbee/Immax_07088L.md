@@ -5,7 +5,7 @@ vendor: Immax
 title: Neo Filament E27 6,3W Warm White Dimmable Bulb
 category: bulb
 type: [bulb, e27]
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['E27-filament-Dim-ZB3.0']
 compatible: [z2m]
 mlink: https://www.immaxneo.cz/produkty/immax-neo-smart-led-filament-e27-85w-tepla-bila-stmivatelna-zigbee-3-0/

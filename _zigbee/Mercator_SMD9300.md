@@ -4,7 +4,7 @@ model: SMD9300
 vendor: Mercator Ikuü
 title: Donovan 36W CCT Panel Light
 category: light
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['TS0505B','_TZ3000_bujv0r9b']
 compatible: [z2m]
 mlink: https://www.ikuu.com.au/product/donovan-36w-panel-light/

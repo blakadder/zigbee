@@ -3,7 +3,7 @@ model: HLC833-Z-SC
 vendor: Shenzhen Homa
 title: Wireless Dimmable Controller
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['HOMA1064','012']
 compatible: [z2m]
 mlink: http://www.amelech.com/search/product?SearchText=hlc833

@@ -3,7 +3,7 @@ model: RB 185 C
 vendor: Innr
 title: RGBW Bulb Colour E27
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Innr_RB_185_C.jpg
 zigbeemodel: ['RB 185 C']
 compatible: [z2m, z4d, tasmota]

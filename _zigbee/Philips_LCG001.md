@@ -4,7 +4,7 @@ model: LCG001
 vendor: Philips
 title: Hue White and Color Ambiance GU10 w/ BT
 category: bulb
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['LCG001']
 compatible: [z2m]
 mlink: 

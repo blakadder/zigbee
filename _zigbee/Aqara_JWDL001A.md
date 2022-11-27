@@ -4,7 +4,7 @@ model: JWSP001A
 vendor: Aqara
 title: Jiawen Dimmable and Color Temperature 9W Downlight
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['lumi.light.cwjwcn02']
 compatible: [z2m]
 mlink: 

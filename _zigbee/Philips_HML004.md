@@ -3,7 +3,7 @@ model: HML004
 vendor: Philips
 title: Hue Phoenix Wall Light
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_HML004.jpg
 zigbeemodel: ['HML004']
 compatible: [z2m]

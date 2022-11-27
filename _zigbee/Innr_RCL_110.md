@@ -4,7 +4,7 @@ model: RCL 110
 vendor: Innr
 title: Round Ceiling Lamp White
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['RCL 110']
 compatible: [z4d,deconz,z2m]
 mlink: https://www.innr.com/en/product/smart-round-ceiling-lamp-white/

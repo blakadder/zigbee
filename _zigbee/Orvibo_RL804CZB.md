@@ -3,7 +3,7 @@ model: RL804CZB
 vendor: Orvibo
 title: RGB Relay
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Orvibo_RL804CZB.jpg
 zigbeemodel: ['8643db61de35494d93e72c1289b526a3']
 compatible: [z2m]

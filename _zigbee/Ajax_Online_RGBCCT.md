@@ -4,7 +4,7 @@ model: AJ-RGBCCT 5 in 1
 vendor: Ajax Online
 title: 5 in 1 LED Strip Controller
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Ajax_Online_RGBCCT.jpg
 zigbeemodel: ['AJ-RGBCCT 5 in 1']
 compatible: [z2m]

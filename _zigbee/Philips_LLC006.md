@@ -4,7 +4,7 @@ model: LLC006
 vendor: Philips
 title: LivingColors Iris Table Lamp Gen3
 category: light
-supports: on/off, brightness, colorxy
+supports: brightness, colorxy
 image: /assets/images/devices/Philips_LLC006.jpg
 zigbeemodel: ['LLC006']
 compatible: [z2m,iob]

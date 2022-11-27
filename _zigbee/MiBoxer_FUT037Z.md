@@ -4,7 +4,7 @@ model: FUT037Z
 vendor: MiBoxer
 title: RGB LED Controller (Zigbee 3.0)
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS0503B','_TZ3210_778drfdt']
 compatible: [z2m]
 z2m: TS0503B

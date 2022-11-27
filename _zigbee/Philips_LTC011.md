@@ -3,7 +3,7 @@ model: LTC011
 vendor: Philips
 title: Hue Cher Ceiling Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Philips_LTC011.jpg
 zigbeemodel: ['LTC011']
 compatible: [z2m,iob]

@@ -4,7 +4,7 @@ model: HLQDQ01LM
 vendor: Aqara
 title: LED Controller T1
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['lumi.light.cbacn1']
 compatible: [z2m]
 mlink: https://www.aqara.com/cn/productDetail/d23

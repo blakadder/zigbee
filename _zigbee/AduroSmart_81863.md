@@ -5,7 +5,7 @@ vendor: AduroSmart
 title: ERIA Smart Extended Color LED strip 10 ft
 category: bulb
 type: Bulb
-supports: on/off, brightness, colorxy, colotemp
+supports: brightness, colorxy, colotemp
 zigbeemodel: 
 compatible: [zha]
 mlink: https://adurosmart.com/product/eria-smart-extended-color-led-strip-3m-eriaproduct/

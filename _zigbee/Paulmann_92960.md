@@ -4,7 +4,7 @@ model: 929.60
 vendor: Paulmann
 title: LED Module Coin 1x6W Dimmable
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['H036-0005']
 compatible: [z2m]
 mlink: https://en.paulmann.com/outdoor-lighting/garden-lighting-system/control/plug-und-shine-zigbeecontroller-ip68-24vdc-max.-75w-black/93999

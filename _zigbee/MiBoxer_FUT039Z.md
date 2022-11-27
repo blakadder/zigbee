@@ -4,7 +4,7 @@ model: FUT039Z
 vendor: MiBoxer
 title: RGB+CCT LED Controller (Zigbee 3.0)
 category: light
-supports: on/off, brightness, colortemp, color, DND mode
+supports: brightness, colortemp, color, DND mode
 zigbeemodel: ['TS0505B','_TZ3210_jicmoite']
 compatible: [z2m]
 mlink: https://miboxer.com/light/xqy/fut039z.html

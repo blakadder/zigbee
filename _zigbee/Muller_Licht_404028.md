@@ -3,7 +3,7 @@ model: 404028
 vendor: Müller Licht 
 title: Tint LED Panel, color, opal white
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Muller_Licht_404028.jpg
 zigbeemodel: ['RGB-CCT']
 compatible: [z2m, deconz, iob, tasmota]

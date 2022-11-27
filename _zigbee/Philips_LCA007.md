@@ -3,7 +3,7 @@ model: LCA007
 vendor: Philips
 title: Hue White and Color Ambiance A19 E26 1100lm
 category: bulb
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['LCA007']
 compatible: [z2m]
 z2m: 9290024687

@@ -4,7 +4,7 @@ model: GL-G-002P
 vendor: Gledopto
 title: 7W Dual White and Color Garden Light Pro
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['GL-G-002P']
 compatible: [z2m]
 mlink: https://www.gledopto.com/h-col-381.html

@@ -4,7 +4,7 @@ model: SMLD233-ZB
 vendor: Mercator Ikuü
 title:  RGB+CCT LED Strip Light Kit 2m 12V
 category: light
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['TS0505B','_TZ3000_tza2vjxx']
 compatible: [z2m]
 mlink: https://www.ikuu.com.au/?attachment_id=22679

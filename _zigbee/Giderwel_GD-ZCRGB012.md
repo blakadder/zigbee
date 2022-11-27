@@ -4,7 +4,7 @@ model: GD-ZCRGB012
 vendor: Giderwel
 title: RGB LED Strip
 category: light
-supports: on/off, brightness, color 
+supports: brightness, color 
 zigbeemodel: ['A10']
 compatible: [z2m]
 mlink: 

@@ -4,7 +4,7 @@ model: E1F-N5E
 vendor: Sengled
 title: Multicolor Candle Bulb E12
 category: bulb
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['E1F-N5E']
 compatible: [z2m,zha]
 mlink: https://us.sengled.com/products/sengled-smart-light-switch

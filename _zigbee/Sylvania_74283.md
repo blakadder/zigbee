@@ -3,7 +3,7 @@ model: 74283
 vendor: Sylvania
 title: Smart+ Soft White Dimmable A19 Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/74283.jpg
 zigbeemodel: ['LIGHTIFY A19 ON/OFF/DIM', 'LIGHTIFY A19 ON/OFF/DIM 10 Year']
 compatible: [z2m]

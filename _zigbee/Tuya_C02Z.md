@@ -4,7 +4,7 @@ model: C02Z
 vendor: Tuya
 title: Dual White LED Controller
 category: light
-supports: on/off, brightness, colortemp 
+supports: brightness, colortemp 
 zigbeemodel: ['TS0502B','_TZ3210_xwqng7ol']
 compatible: [z2m]
 mlink: https://expo.tuya.com/product/1061095

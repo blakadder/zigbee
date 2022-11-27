@@ -3,7 +3,7 @@ model: LED1650R5
 vendor: IKEA
 title: Tradfri LED bulb GU10 400 lumen, dimmable warm white
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Ikea_LED1650R5.jpg
 zigbeemodel: ['TRADFRI bulb GU10 W 400lm']
 compatible: [z2m,iob,zha,deconz]

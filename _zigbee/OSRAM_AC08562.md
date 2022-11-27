@@ -3,7 +3,7 @@ model: AC08562
 vendor: OSRAM
 title: Smart+ Candle E14 Tunable White
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/OSRAM_AC08562.jpg
 zigbeemodel: ['B40 DIM Z3']
 compatible: [z2m]

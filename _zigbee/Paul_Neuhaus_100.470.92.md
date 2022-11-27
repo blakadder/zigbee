@@ -4,7 +4,7 @@ model: 100.470.92
 vendor: Paul Neuhaus 
 title: Q-Frameless LED Panel
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['NLG-RGB-TW light']
 compatible: [z2m,iob]
 z2m: NLG-RGB-TW light

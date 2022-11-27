@@ -3,7 +3,7 @@ model: HLD503-Z-CT
 vendor: Shenzhen_Homa 
 title: Smart LED Driver CCT
 category: dimmer
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['HOMA1009']
 compatible: [z2m,zha]
 mlink: http://www.szhoma.com/products_zigbee_HLD503.html

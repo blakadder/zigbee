@@ -3,7 +3,7 @@ model: E11-G33
 vendor: Sengled
 title: Element Classic A60 B22
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Sengled_E11-G33.jpg
 zigbeemodel: ['E11-G33']
 compatible: [z2m,zha]

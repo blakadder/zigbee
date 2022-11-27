@@ -4,7 +4,7 @@ EAN: 103.561.89
 vendor: IKEA
 title: Tradfri LED Driver for Wireless Control 10 W
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Ikea_ICPSHC24-10EU-IL-1.jpg
 zigbeemodel: ['TRADFRI transformer 10W', 'TRADFRI Driver 10W']
 compatible: [z2m,iob,deconz,zha]

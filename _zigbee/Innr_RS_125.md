@@ -3,7 +3,7 @@ model: RS 125
 vendor: Innr
 title: Dimmable White Spot GU10 Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Innr_RS_125.jpg
 zigbeemodel: ['RS 125']
 compatible: [z2m]

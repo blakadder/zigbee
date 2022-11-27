@@ -4,7 +4,7 @@ vendor: Envilar
 title: AC Phase-Cut Dimmer
 category: dimmer
 type: In-Wall Dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['ZG102-BOX-UNIDIM']
 compatible: [z2m]
 mlink: 

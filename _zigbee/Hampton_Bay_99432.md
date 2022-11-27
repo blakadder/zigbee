@@ -3,7 +3,7 @@ model: 99432
 vendor: Hampton Bay 
 title: White Ceiling Fan Premier Remote Control
 category: remote
-supports: on/off, brightness, fan_mode and fan_state
+supports: brightness, fan_mode and fan_state
 image: /assets/images/devices/99432.jpg
 zigbeemodel: ['HDC52EastwindFan', 'HBUniversalCFRemote']
 compatible: [z2m,zha,deconz]

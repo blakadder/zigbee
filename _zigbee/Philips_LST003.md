@@ -3,7 +3,7 @@ model: LST003
 vendor: Philips
 title: Hue LightStrip Outdoor
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LST003.jpg
 zigbeemodel: ['LST003']
 compatible: [z2m]

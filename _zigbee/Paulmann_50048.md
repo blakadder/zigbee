@@ -4,7 +4,7 @@ model: 500.48
 vendor: Paulmann
 title: YourLED Dimming and Switching Controller 60W
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Paulmann_50048.jpg
 zigbeemodel: ['500.48']
 compatible: [z2m, z4d, iob, deconz, tasmota]

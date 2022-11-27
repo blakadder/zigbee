@@ -4,7 +4,7 @@ model: XDD11LM
 vendor: Aqara
 title: Opple MX960 Ceiling Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['lumi.light.cwopcn01']
 compatible: [z2m]
 mlink: https://www.aqara.com/cn/productDetail/d3_2

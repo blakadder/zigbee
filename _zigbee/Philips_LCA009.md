@@ -3,7 +3,7 @@ model: LCA009
 vendor: Philips
 title: Hue White and Color Ambiance E26 1600lm
 category: bulb
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['LCA009']
 compatible: [z2m]
 z2m: 9290024717

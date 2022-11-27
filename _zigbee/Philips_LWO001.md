@@ -3,7 +3,7 @@ model: LWO001
 vendor: Philips
 title: Hue White Filament Bulb G93 E27 w/ BT
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Philips_LWO001.jpg
 zigbeemodel: ['LWO001']
 compatible: [z2m,iob,zha,deconz,z4d]

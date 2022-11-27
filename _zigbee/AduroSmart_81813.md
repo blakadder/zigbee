@@ -5,7 +5,7 @@ title: ERIA Colors and White BR30 65W Bulb
 category: bulb
 type: Bulb
 standard: us
-supports: on/off, brightness, colorxy, colotemp
+supports: brightness, colorxy, colotemp
 zigbeemodel: ['ZLL-ExtendedColo', 'ZLL-ExtendedColor']
 compatible: [z2m,zha]
 z2m: 81809/81813

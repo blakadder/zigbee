@@ -4,7 +4,7 @@ model: FL 120 C
 vendor: Innr
 title: Flex 2m RGBCCT LED Strip
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['FL 120 C']
 compatible: [z2m,zha]
 mlink: https://www.innr.com/en/product/flex-strip-colour-2m-or-4m/

@@ -4,7 +4,7 @@ model: TS0505B
 vendor: Tuya
 title: Downlight 10W/12W RGBCCT 3.5/4 Inch
 category: light
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['TS0505B','_TZ3210_5snkkrxw','_TZ3210_bicjqpg4','_TZ3210_0rn9qhnu']
 compatible: [z2m,zha,tasmota,z4d]
 mlink: 

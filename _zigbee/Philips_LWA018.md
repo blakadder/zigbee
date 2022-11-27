@@ -3,7 +3,7 @@ model: LWA18
 vendor: Philips
 title: Hue White 1100 B22 Smart Bulb - 75 W
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LWA018']
 compatible: [z2m]
 z2m: 9290024693

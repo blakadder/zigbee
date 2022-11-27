@@ -7,7 +7,7 @@ EAN:
 vendor: Innr
 title: Outdoor Smart Spot Colour
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['OSL 130 C']
 compatible: [z2m,iob,z4d]
 mlink: https://www.innr.com/en/product/outdoor-smart-spot-colour-3pack/

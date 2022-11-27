@@ -4,7 +4,7 @@ model: 12AB
 vendor: Lubeez
 title: Dimmer AC
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LUBEEZ-12AB']
 compatible: [z2m,zha]
 mlink: https://www.lubeez.com/

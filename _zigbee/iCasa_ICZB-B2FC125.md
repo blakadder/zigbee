@@ -4,7 +4,7 @@ model: ICZB-B2FC125
 vendor: iCasa
 title: Filament Bulb 125mm 7W E27 CCT
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/iCasa_ICZB-B2FC125.jpg
 zigbeemodel: ['ICZB-FC']
 compatible: [z2m,iob,z4d]

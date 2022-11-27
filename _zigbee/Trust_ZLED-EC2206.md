@@ -4,7 +4,7 @@ EAN: 8713439711608
 vendor: Trust
 title: Dimmable E14 Candle Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Trust_ZLED-EC2206.jpg
 zigbeemodel: ['ZLL-DimmableLigh']
 compatible: [z2m,iob,tasmota,z4d,zha]

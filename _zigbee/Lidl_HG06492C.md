@@ -5,7 +5,7 @@ vendor: Lidl
 title: Livarno Lux E27 9W CCT Bulb
 category: bulb
 type: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['TS0502A']
 compatible: [z2m,iob,zha,deconz]
 deconz: 3975

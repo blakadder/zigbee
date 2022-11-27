@@ -4,7 +4,7 @@ model: FUT038Z
 vendor: MiBoxer
 title: RGBW LED Controller (Zigbee 3.0)
 category: light
-supports: on/off, brightness, colortemp, color, DND mode
+supports: brightness, colortemp, color, DND mode
 zigbeemodel: ['TS0504B','_TZ3210_ttkgurpb']
 compatible: [z2m]
 mlink: https://miboxer.com/light/xqy/fut038z.html

@@ -5,7 +5,7 @@ vendor: BANKAMP
 title: L-​lightLINE Pendant Light with Dimmer
 type: ceiling light
 category: light
-supports: on/off, brightness
+supports: brightness
 mlink: https://www.bankamp.de/L-lightLINE-Pendelleuchte-up-down/2154-1-33
 link: https://www.lampenwelt.de/bankamp-l-lightline-led-zigbee-up-down-anthrazit.html
 zigbeemodel: ['ZLL-DimmableLigh']

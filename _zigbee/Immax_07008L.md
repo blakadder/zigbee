@@ -4,7 +4,7 @@ model: 07008L
 vendor: Immax
 title: Neo RGB+CCT LED Strip 2m, color, dimmable
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['IM-Z3.0-RGBCCT']
 compatible: [z2m,zha]
 mlink: https://www.immaxneo.cz/en/products/immax-neo-smart-led-stripe-2m-color-dimmable-zigbee-3-0/

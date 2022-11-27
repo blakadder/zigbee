@@ -4,7 +4,7 @@ model: 500.49
 vendor: Paulmann
 title: YourLED RGB LED Controller
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Paulmann_50049.jpg
 zigbeemodel: ['RGBW light', '500.49']
 compatible: [z2m,iob]

@@ -4,7 +4,7 @@ model: LCS001
 vendor: Philips
 title: Hue Lily Outdoor Spot Light RGBCCT
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCS001.jpg
 zigbeemodel: ['LCS001']
 compatible: [z2m,zha]

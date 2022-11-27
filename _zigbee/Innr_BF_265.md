@@ -4,7 +4,7 @@ model: BF 265
 vendor: Innr
 title: Filament Bulb White B22
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['BF 265']
 compatible: [z2m]
 mlink: https://www.innr.com/en/product/smart-bulb-white-b22-2pack/

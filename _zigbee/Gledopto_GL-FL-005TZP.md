@@ -4,7 +4,7 @@ model: GL-FL-005TZP
 vendor: Gledopto
 title: 30W RGB+CCT Flood Light Pro
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['GL-FL-005TZP']
 compatible: [z2m]
 mlink: http://www.gledopto.com/h-col-373.html

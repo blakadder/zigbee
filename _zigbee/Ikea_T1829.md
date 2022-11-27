@@ -5,7 +5,7 @@ model: T1829
 vendor: IKEA
 title: Gunnarp LED ceiling/wall lamp, white dimmable, white spectrum, 40x40 cm
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/T1829.jpg
 zigbeemodel: ['GUNNARP panel 40*40']
 compatible: [z2m,iob,deconz,zha]

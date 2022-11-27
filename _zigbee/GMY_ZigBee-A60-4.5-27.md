@@ -3,7 +3,7 @@ model: ZigBee-A60-4.5-27
 vendor: GMY Smart Bulb 
 title: Vintage Dimmable A60 E27 470lm Bulb
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/GMY_ZigBee-A60-4.5-27.jpg
 zigbeemodel: ['CCT box']
 compatible: [z2m]

@@ -4,7 +4,7 @@ model: E21-N1EA
 vendor: Sengled
 title: Smart LED Multicolor A19 Bulb
 category: bulb
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['E21-N1EA']
 compatible: [deconz]
 mlink: https://us.sengled.com/products/sengled-smart-led-with-motion-sensor-par38-bulb

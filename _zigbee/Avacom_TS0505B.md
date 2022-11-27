@@ -4,7 +4,7 @@ model: TS0505B
 vendor: Avacom
 title: Tuya 12W E27 RGB+CCT Bulb
 category: bulb
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['TS0505B', '_TZ3210_remypqqm']
 compatible: [z2m,zha,tasmota]
 mlink: 

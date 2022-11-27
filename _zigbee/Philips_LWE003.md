@@ -3,7 +3,7 @@ model: LWE003
 vendor: Philips
 title: Hue White E17
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LWE003']
 compatible: [z2m,iob]
 z2m: 9290020400

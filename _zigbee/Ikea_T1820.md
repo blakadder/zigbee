@@ -4,7 +4,7 @@ EAN: 503.535.13
 vendor: IKEA
 title: Leptiter LED recessed spotlight, dimmable, white spectrum
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Ikea_T1820.jpg
 zigbeemodel: ['LEPTITER Recessed spot light']
 compatible: [z2m,iob,deconz,zha]

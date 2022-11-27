@@ -4,7 +4,7 @@ model: LTA004
 vendor: Philips
 title: Hue White Ambiance 800 E27  
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTA004']
 compatible: [z2m]
 z2m: 8719514328242

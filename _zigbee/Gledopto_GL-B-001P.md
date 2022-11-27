@@ -4,7 +4,7 @@ model: GL-B-001P
 vendor: Gledopto
 title: 4W Dual White And Color Candle Bulb Pro
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['GL-B-001P']
 compatible: [z2m]
 mlink: http://www.gledopto.com/h-col-367.html

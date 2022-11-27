@@ -4,7 +4,7 @@ model: LTP008
 vendor: Philips
 title: Hue Being Pendant Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTP008']
 compatible: [z2m]
 z2m: 4098430P7

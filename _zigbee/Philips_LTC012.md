@@ -3,7 +3,7 @@ model: LTC012
 vendor: Philips
 title: Hue Struana Ceiling Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Philips_LTC012.jpg
 zigbeemodel: ['LTC012']
 compatible: [z2m]

@@ -4,7 +4,7 @@ model: TS0504B
 vendor: Tuya
 title: LED Strip Controller DC5-24v RGBW  
 category: light
-supports: on/off, brightness, color
+supports: brightness, color
 zigbeemodel: ['TS0504B', '_TZ3000_ukuvyhaa', '_TZ3210_bfvybixd', '_TZ3210_sroezl0s', '_TZ3210_1elppmba']
 compatible: [z2m, tasmota, zha]
 mlink: 

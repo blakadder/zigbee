@@ -3,7 +3,7 @@ model: ZSTY-SM-1DMZG-US-W
 vendor: Somgoms
 title: Dimmer Switch US
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['hpb9yts']
 compatible: [z2m]
 mlink: 

@@ -4,7 +4,7 @@ vendor: Namron
 title: LED Strip ZigBee RGB+W 5m IP20
 category: light
 type: LED Strip
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['89665']
 compatible: [z2m]
 mlink: https://www.namron.com/products/led-strip-zigbee-rgb-w-5m-ip20/

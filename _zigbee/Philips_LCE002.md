@@ -4,7 +4,7 @@ model: LCE002
 vendor: Philips
 title: Hue White and Color Ambiance E14 Candle w/ BT
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['LCE002']
 compatible: [z2m,zha]
 mlink: 

@@ -4,7 +4,7 @@ model: GL-B-008P
 vendor: Gledopto
 title: 12W Dual White And Color Bulb Pro
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['GL-B-008P']
 compatible: [z2m,zha]
 mlink: http://www.gledopto.com/h-col-368.html

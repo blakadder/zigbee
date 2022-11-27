@@ -4,7 +4,7 @@ EAN: 8713439711592
 vendor: Trust
 title: Dimmable LED Spot WW GU10
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Trust_ZLED-2705.jpg
 zigbeemodel: ['ZLL-DimmableLigh']
 compatible: [z2m,iob,tasmota,z4d,zha]

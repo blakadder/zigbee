@@ -3,7 +3,7 @@ model: LTD007
 vendor: Philips
 title: Hue White Ambiance Garnea Downlight
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTD007']
 compatible: [z2m]
 z2m: 5110731H5

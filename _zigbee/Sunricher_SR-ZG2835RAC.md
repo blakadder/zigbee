@@ -4,7 +4,7 @@ model: SR-ZG2835RAC
 vendor: Sunricher
 title: Trailing Edge Smart LED Dimmer
 category: dimmer
-supports: on/off, brightness, power measurements
+supports: brightness, power measurements
 zigbeemodel: ['Micro Smart Dimmer', 'HK-SL-DIM-EU-A']
 compatible: [z2m, zha]
 mlink: http://www.sunricher.com.cn/product/62382475433-811954196/Zigbee_3_0_certified_trailing_edge_smart_led_dimmer_SR_ZG2835RAC_for_halogen_incandescent_led_bulb.html

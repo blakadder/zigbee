@@ -4,7 +4,7 @@ model: LWV004
 vendor: Philips
 title: Hue Single Filament Bulb ST72 B22
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LWV004']
 compatible: [z2m]
 mlink: https://www2.meethue.com/en-gb/p/-/8719514279193

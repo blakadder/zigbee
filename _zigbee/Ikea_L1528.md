@@ -3,7 +3,7 @@ model: L1528
 vendor: IKEA
 title: Floalt LED Light Panel 30x90 cm
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Ikea_L1528.jpg
 zigbeemodel: ['FLOALT panel WS 30x90']
 compatible: [z2m,iob,z4d,zha]

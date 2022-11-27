@@ -4,7 +4,7 @@ model: AU-A1GSZ9CX
 vendor: Aurora
 title: AOne GLS Lamp 9W Tunable Dimmable 2200-5000K
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['TWBulb51AU']
 compatible: [z2m]
 mlink: 

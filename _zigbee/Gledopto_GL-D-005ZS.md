@@ -3,7 +3,7 @@ model: GL-D-005ZS
 vendor: Gledopto
 title: 12W Dual White and Color LED Downlight Plus
 category: light
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 image: /assets/images/devices/Gledopto_GL-D-005ZS.jpg
 zigbeemodel: ['GL-D-005ZS']
 compatible: [z2m]

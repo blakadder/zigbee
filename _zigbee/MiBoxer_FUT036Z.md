@@ -4,7 +4,7 @@ model: FUT036Z
 vendor: MiBoxer
 title: Single Color LED Controller (Zigbee 3.0)
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS0501B', '_TZ3210_dxroobu3', '_TZ3210_dbilpfqk']
 compatible: [z2m]
 mlink: https://miboxer.com/light/xqy/fut036z.html

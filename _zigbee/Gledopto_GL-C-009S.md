@@ -4,7 +4,7 @@ model: GL-C-009S
 vendor: Gledopto
 title: LED Dimmer Plus
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['GL-C-009S']
 compatible: [z2m]
 mlink: http://www.gledopto.com/h-col-363.html

@@ -5,7 +5,7 @@ vendor: Lidl
 title: Livarno Lux E27 6,5W RGB Bulb
 category: bulb
 type: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['TS0505A','_TZ3000_dbou1ap4']
 compatible: [z2m,deconz,zha,iob,z4d]
 deconz: 3975

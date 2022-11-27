@@ -4,7 +4,7 @@ model: RCL 240 T
 vendor: Innr
 title: Smart Round Ceiling Lamp Comfort
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['RCL 240 T']
 compatible: [z2m]
 mlink: https://www.innr.com/en/product/smart-round-ceiling-lamp-white/

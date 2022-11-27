@@ -4,7 +4,7 @@ model: MCLH-02
 vendor: LifeControl
 title: RGBW E27 Bulb
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/LifeControl_MCLH-02.jpg
 zigbeemodel: ['vivi ZLight']
 compatible: [z2m,iob]

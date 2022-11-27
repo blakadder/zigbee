@@ -4,7 +4,7 @@ EAN: 9290002579A
 vendor: Philips
 title: Hue White and Color BR30 (1st Gen)
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCT002.jpg
 zigbeemodel: ['LCT002']
 compatible: [z2m,deconz,z4d]

@@ -4,7 +4,7 @@ model: WZ5
 vendor: Skydance
 title: 5 CH LED Controller 
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS0505B', '_TZB210_3zfp8mki']
 compatible: [z2m]
 mlink: http://www.iskydance.com/index.php?c=product_show&a=index&id=1584

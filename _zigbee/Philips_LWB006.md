@@ -3,7 +3,7 @@ model: LWB006
 vendor: Philips
 title: Hue White A60 E27 
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Philips_LWB006.jpg
 zigbeemodel: ['LWB006']
 compatible: [z2m,deconz,z4d]

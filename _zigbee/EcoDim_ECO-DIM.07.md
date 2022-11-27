@@ -3,7 +3,7 @@ model: ECO-DIM.07
 vendor: EcoDim
 title: Rotary Dimmer
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/EcoDim_ECO-DIM.07.jpg
 zigbeemodel: ['Dimmer-Switch-ZB3.0', 'EcoDim-Zigbee 3.0']
 compatible: [z2m, deconz, z4d]

@@ -4,7 +4,7 @@ EAN: 004.086.12
 vendor: IKEA
 title: Tradfri LED bulb E27 600lm, dimmable colour and white spectrum opal white
 category: bulb
-supports: on/off, brightness, colorxy
+supports: brightness, colorxy
 image: /assets/images/devices/Ikea_LED1624G9-E27.jpg
 zigbeemodel: ['TRADFRI bulb E27 CWS opal 600lm']
 compatible: [z2m, z4d, zha]

@@ -6,7 +6,7 @@ title: Hue Lightstrip Outdoor 2m
 category: light
 type: LED Strip
 standard: [eu,uk]
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['LCL002']
 compatible: [z2m,iob]
 z2m: 9290018187B

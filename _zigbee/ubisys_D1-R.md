@@ -3,7 +3,7 @@ model: D1-R
 vendor: Ubisys
 title: Universal Dimmer 
 category: switch
-supports: on/off, brightness, power measurement
+supports: brightness, power measurement
 image: /assets/images/devices/ubisys_D1-R.jpg
 zigbeemodel: ['D1-R (5603)']
 compatible: [z2m, deconz]

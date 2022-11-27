@@ -3,7 +3,7 @@ model: LLC020
 vendor: Philips
 title: Hue Go Portable Light
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 compatible: [z2m, z4d, deconz, zha]
 zigbeemodel: ['LLC020']
 z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/ampoulesconnecteswhiteambiancee27--

@@ -4,7 +4,7 @@ model: LCF002
 vendor: Philips
 title: Hue Calla Outdoor Pedestal Light RGBCCT
 category: light
-supports: on/off, brightness, colorxy
+supports: brightness, colorxy
 image: /assets/images/devices/Philips_1742030P7.jpg
 zigbeemodel: ['LCF002']
 compatible: [z2m,iob,zha]

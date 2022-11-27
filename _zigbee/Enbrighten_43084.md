@@ -5,7 +5,7 @@ vendor: Enbrighten
 title: In-Wall Toggle Switch
 category: switch
 type: In-Wall Switch
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['43084']
 compatible: [z2m,zha]
 mlink: 

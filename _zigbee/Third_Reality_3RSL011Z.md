@@ -4,7 +4,7 @@ model: 3RSL011Z
 vendor: Third Reality 
 title: A19 Smart Light Bulb
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Third_Reality_3RSL011Z.jpg
 zigbeemodel: ['3RSL011Z']
 compatible: [z2m]

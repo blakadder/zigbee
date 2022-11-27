@@ -4,7 +4,7 @@ model: ICZB-R12D
 vendor: iCasa
 title: Dimmer + Rotary Dimmer
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['ICZB-R12D']
 compatible: [z2m]
 mlink: https://en.icasa.io/copy-of-dimmers-en-switches

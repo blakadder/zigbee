@@ -4,7 +4,7 @@ model: 43090
 vendor: Enbrighten
 title: In-Wall Dimmer
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['43090']
 compatible: [z2m]
 mlink: 

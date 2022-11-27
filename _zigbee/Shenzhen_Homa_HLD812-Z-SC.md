@@ -3,7 +3,7 @@ model: HLD812-Z-SC
 vendor: Shenzhen Homa 
 title: 1 Channel Smart LED Driver
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Amelech_HLD812-Z-SC.jpg
 manufacturer: Shenzhen_Homa
 zigbeemodel: ['HOMA1008','00A']

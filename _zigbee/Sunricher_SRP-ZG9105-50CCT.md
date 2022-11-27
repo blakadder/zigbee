@@ -3,7 +3,7 @@ model: SRP-ZG9105-CC
 vendor: Sunricher
 title: Constant Current LED Color Temperature Dimmable Driver 50W
 category: dimmer
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['HK-ZD-CCT-A']
 compatible: [z2m]
 z2m: HK-ZD-CCT-A

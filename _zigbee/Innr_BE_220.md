@@ -5,7 +5,7 @@ vendor: Innr
 title: Dimmable Warm White BR30 E26 Bulb
 category: bulb
 type: Bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['BE 220']
 compatible: [z2m]
 mlink: 

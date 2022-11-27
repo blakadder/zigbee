@@ -5,7 +5,7 @@ vendor: Adeo
 title: Lexman E14 RGBW Bulb
 category: bulb
 type: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['LXEK-3']
 compatible: [z2m]
 mlink: 

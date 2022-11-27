@@ -3,7 +3,7 @@ model: 71831
 vendor: Sylvania
 title: Smart+ Adjustable White A19 Bulb
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/71831.jpg
 zigbeemodel: ['A19 TW 10 year']
 compatible: [z2m]

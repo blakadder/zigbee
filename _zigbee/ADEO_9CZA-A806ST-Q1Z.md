@@ -5,7 +5,7 @@ vendor: Adeo
 title: Lexman E27 CCT Bulb
 category: bulb
 type: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LXEK-7']
 compatible: [z2m]
 mlink: https://media.adeo.com/marketplace/82473190/08849d44-3169-4f7b-8df4-60d087a503fb.pdf

@@ -4,7 +4,7 @@ EAN: 204.115.62
 vendor: IKEA
 title: Tradfri LED bulb E12 600 lumen, dimmable color and white spectrum opal
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Ikea_LED1738G7.jpg
 zigbeemodel: ['TRADFRI bulb E12 WS opal 600lm']
 compatible: [z2m,zha]

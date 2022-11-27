@@ -3,7 +3,7 @@ model: LCL003
 vendor: Philips
 title: Hue Lily Outdoor Lightstrip
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['LCL003'] 
 compatible: [z2m]
 z2m: 9290022891

@@ -4,7 +4,7 @@ model: LWE001
 vendor: Philips
 title: Hue White E12 with Bluetooth
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LWE001']
 compatible: [z2m]
 mlink: https://www2.meethue.com/en-us/p/hue-white-ambiance-single-bulb-e12/046677468927

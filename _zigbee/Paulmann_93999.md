@@ -4,7 +4,7 @@ model: 939.99
 vendor: Paulmann
 title: Plug & Shine Controller IP68 24V DC
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Paulmann_93999.jpg
 zigbeemodel: ['H036-0001']
 compatible: [z2m]

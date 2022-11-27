@@ -4,7 +4,7 @@ model: GL-H-001
 vendor: Gledopto
 title: Zigbee-RF Bridge
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['GL-H-001']
 compatible: [z2m]
 mlink: http://www.gledopto.com/h-col-354.html

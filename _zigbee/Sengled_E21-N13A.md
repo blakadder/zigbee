@@ -4,7 +4,7 @@ model: E21-N13A
 vendor: Sengled
 title: Smart LED Soft White A19 Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['E21-N13A']
 compatible: [z2m]
 mlink: 

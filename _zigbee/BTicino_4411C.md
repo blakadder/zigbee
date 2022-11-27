@@ -5,7 +5,7 @@ vendor: BTicino
 title: Switch/Dimmer with Neutral
 category: dimmer
 type: Wall Dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: [' Dimmer switch with neutral']
 compatible: [z2m, zha]
 z2m: L441C/N4411C/NT4411C

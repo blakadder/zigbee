@@ -3,7 +3,7 @@ model: L1529
 vendor: IKEA
 title: Floalt LED Light Panel 60x60 cm
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Ikea_L1529.jpg
 zigbeemodel: ['FLOALT panel WS 60x60']
 compatible: [z2m,iob,zha]

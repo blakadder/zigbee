@@ -3,7 +3,7 @@ model: PL 110
 vendor: Innr
 title: Puck Light White Extension Pack
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Innr_PL_110.jpg
 zigbeemodel: ['PL 110']
 compatible: [z2m,z4d,deconz]

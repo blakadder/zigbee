@@ -4,7 +4,7 @@ model: GL-C-009P
 vendor: Gledopto
 title: LED Dimmer Pro
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['GL-C-009P']
 compatible: [z2m]
 z4d: 

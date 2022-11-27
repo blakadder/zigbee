@@ -4,7 +4,7 @@ model: SMD4106W-RGB-ZB
 vendor: Mercator Ikuü
 title: Walter 7W RGB-CCT LED Downlight IP44
 category: light
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['TS0505B','_TZ3000_1mtktxdk']
 compatible: [z2m]
 mlink: https://www.ikuu.com.au/?attachment_id=22617

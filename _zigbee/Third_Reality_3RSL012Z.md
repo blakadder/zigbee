@@ -4,7 +4,7 @@ model: 3RSL012Z
 vendor: Third Reality 
 title: BR30 Smart Light Bulb
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Third_Reality_3RSL012Z.jpg
 zigbeemodel: ['3RSL012Z']
 compatible: [z2m]

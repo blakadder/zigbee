@@ -3,7 +3,7 @@ model: 73741
 vendor: Sylvania
 title: Smart+ Full Color RT 5/6 Recessed Lighting Kit
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/73741.jpg
 zigbeemodel: ['RT RGBW']
 compatible: [z2m,deconz]

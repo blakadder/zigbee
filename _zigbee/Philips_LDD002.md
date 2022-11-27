@@ -4,7 +4,7 @@ model: LDD002
 vendor: Philips
 title: Hue Muscari White Ambiance Floor Lamp
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LDD002']
 compatible: [z2m]
 z2m: 8718696153062

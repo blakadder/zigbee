@@ -4,7 +4,7 @@ EAN: 304.084.70
 vendor: IKEA
 title: Tradfri LED bulb E27 806 lumen, dimmable, white spectrum, clear
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Ikea_LED1736G9.jpg
 zigbeemodel: ['TRADFRI bulb E27 WS clear 806lm']
 compatible: [z2m,iob,zha]

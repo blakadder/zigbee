@@ -3,7 +3,7 @@ model: CTR.U
 vendor: Airam
 title: Remote Controller
 category: remote
-supports: on/off, brightness up/down, click/hold/release
+supports: brightness up/down, click/hold/release
 image: /assets/images/devices/AIRAM-CTR.U.jpg
 zigbeemodel: ['ZBT-Remote-EU-DIMV1A2']
 compatible: [z2m]

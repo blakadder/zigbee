@@ -5,7 +5,7 @@ vendor: Lonsonho
 title: Dimmer Switch Module No Neutral 1 Gang 
 category: dimmer
 type: In-Wall Dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS110F','_TZ3000_ktuoyvt5']
 compatible: [z2m,z4d,zha]
 mlink: 

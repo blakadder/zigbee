@@ -4,7 +4,7 @@ model: GL-C-007P
 vendor: Gledopto
 title: RGBW LED Controller Pro
 category: light
-supports: on/off, brightness, white, colorxy
+supports: brightness, white, colorxy
 zigbeemodel: ['GL-C-007P']
 compatible: [z2m,zha]
 mlink: 

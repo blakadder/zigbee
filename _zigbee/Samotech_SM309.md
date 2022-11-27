@@ -4,7 +4,7 @@ vendor: Samotech
 title: Dimmer Switch
 category: dimmer
 type: In-Wall Dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['SM309']
 compatible: [z2m,deconz,iob, z4d,zha]
 z2m: SM309

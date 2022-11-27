@@ -4,7 +4,7 @@ model: 501.24
 vendor: Paulmann
 title: E27 230V 806lm 9,3W RGBW Bulb
 category: bulb
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['RGBCW_LIGHT']
 compatible: [z2m]
 z2m: 4137

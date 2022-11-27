@@ -3,7 +3,7 @@ model: PL 115
 vendor: Innr
 title: Puck Light White
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['PL 115']
 compatible: [z2m, z4d, deconz]
 mlink: 

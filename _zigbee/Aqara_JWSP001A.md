@@ -4,7 +4,7 @@ model: JWSP001A
 vendor: Aqara
 title: Jiawen Hanging Spotlight 
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['lumi.light.cwjwcn01']
 compatible: [z2m]
 mlink: 

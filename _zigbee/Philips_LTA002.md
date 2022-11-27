@@ -3,7 +3,7 @@ model: LTA002
 vendor: Philips
 title: Hue White Ambiance A19 E26 Bluetooth 
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Philips_LTA002.jpg
 zigbeemodel: ['LTA002']
 compatible: [z2m]

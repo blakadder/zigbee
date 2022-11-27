@@ -4,7 +4,7 @@ model: LTF001
 vendor: Philips
 title: Hue Apogee Ceiling Light (Square)
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTF001']
 compatible: [z2m]
 z2m: 6109231C5

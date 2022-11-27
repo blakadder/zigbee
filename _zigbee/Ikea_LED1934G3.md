@@ -4,7 +4,7 @@ model: LED1934G3
 vendor: IKEA
 title: Tradfri LED bulb E27 250lm, dimmable warm white/globe clear
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TRADFRIbulbE27WWclear250lm']
 compatible: [z2m,deconz]
 z2m: LED1934G3_E27

@@ -3,7 +3,7 @@ model: HLC610-Z
 vendor: Shenzhen Homa 
 title: Wireless Dimmable Controller
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Amelech_HLC610-Z.jpg
 manufacturer: Shenzhen_Homa
 zigbeemodel: ['HOMA1002', 'HOMA0019','HOMA0006','053']

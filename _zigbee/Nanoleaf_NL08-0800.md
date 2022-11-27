@@ -3,7 +3,7 @@ model: NL08-0800
 vendor: Nanoleaf
 title: Smart Ivy E27 Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Nanoleaf_NL08-0800.jpg
 zigbeemodel: ['NL08-0800']
 compatible: [z2m]

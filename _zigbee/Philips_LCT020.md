@@ -3,7 +3,7 @@ model: LCT020
 vendor: Philips
 title: Hue Signe Table Lamp
 category: light
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['LCT020']
 compatible: [z2m]
 z2m: 4080148P7

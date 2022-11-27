@@ -4,7 +4,7 @@ model: U201DST600ZB
 vendor: Schneider Electric
 title: ULTI EZinstall3 1 Gang Dimmer Module
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Schneider_Electric_U201DST600ZB.JPG
 zigbeemodel:  ['U201DST600ZB']
 compatible: [z2m]

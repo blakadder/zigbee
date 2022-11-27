@@ -4,7 +4,7 @@ model: T2037
 vendor: IKEA
 title: Stoftmoln LED ceiling/wall lamp, wireless dimmable/warm white white, 37 cm
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['STOFTMOLN ceiling/wall lamp WW37']
 compatible: [z2m]
 mlink: https://www.ikea.com/nl/en/p/stoftmoln-led-ceiling-wall-lamp-wireless-dimmable-warm-white-white-20510779/

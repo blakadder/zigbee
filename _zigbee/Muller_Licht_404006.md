@@ -3,7 +3,7 @@ model: 404006
 vendor: Müller Licht 
 title: Tint Reflektor 350lm GU10 CCT Bulb
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/404006.jpg
 zigbeemodel: ['ZBT-ColorTemperature']
 compatible: [z2m, deconz, iob, tasmota]

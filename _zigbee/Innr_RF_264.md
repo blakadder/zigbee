@@ -4,7 +4,7 @@ model: RF 264
 vendor: Innr
 title: Filament Bulb Vintage Edison E27
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['RF 264']
 compatible: [z4d,deconz]
 mlink: https://www.innr.com/en/product/smart-filament-bulb-e27-vintage-edison/

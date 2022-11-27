@@ -4,7 +4,7 @@ model: HGZB-02A
 vendor: 3A Nue
 title: Smart Light Dimmer
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/3A_HGZB-02A.jpg
 zigbeemodel: ['FNB56-ZSW01LX2.0', 'FNB56-ZSC01LX1.2', 'FB56+ZSW05HG1.2', 'FB56+ZSC04HG1.0', 'LXN56-DS27LX1.3']
 compatible: [z2m,zha,iob,deconz]

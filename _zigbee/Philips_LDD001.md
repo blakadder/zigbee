@@ -4,7 +4,7 @@ model: LDD001
 vendor: Philips
 title: Hue Muscari Table Light
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LDD001']
 compatible: [z2m]
 z2m: 8718696153055

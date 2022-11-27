@@ -4,7 +4,7 @@ model: GL-C-006S
 vendor: Gledopto
 title: WW/CW LED Controller Plus
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['GL-C-006S']
 compatible: [z2m]
 mlink: http://www.gledopto.com/h-col-359.html

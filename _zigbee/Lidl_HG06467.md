@@ -4,7 +4,7 @@ model: HG06467
 vendor: Lidl
 title: Melinera LED String Lights
 category: light
-supports: on/off, brightness, colorxy
+supports: brightness, colorxy
 zigbeemodel: ['TS0601','_TZE200_s8gkrkxk']
 compatible: [z2m,zha,deconz,iob]
 deconz: 3716

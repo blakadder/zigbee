@@ -3,7 +3,7 @@ model: 500.45
 vendor: Paulmann
 title: MaxLED Dimming and Switching LED Controller
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/50045.jpg
 zigbeemodel: ['Dimmablelight ']
 compatible: [z2m,iob]

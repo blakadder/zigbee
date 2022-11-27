@@ -4,7 +4,7 @@ model: FL 140 C
 vendor: Innr
 title: Flex 2m or 4m RGBCCT LED Strip
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Innr_FL_140_C.jpg
 zigbeemodel: ['FL 140 C']
 compatible: [zha,z2m,iob]

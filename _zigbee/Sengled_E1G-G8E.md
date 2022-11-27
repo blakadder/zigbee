@@ -3,7 +3,7 @@ model: E1G-G8E
 vendor: Sengled
 title: Multicolor Light Strip 2M
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['E1G-G8E']
 compatible: [deconz,z2m,zha]
 mlink: https://us.sengled.com/products/sengled-smart-led-multicolor-light-strip

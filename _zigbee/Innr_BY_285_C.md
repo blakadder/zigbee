@@ -3,7 +3,7 @@ model: BY 285 C
 vendor: Innr
 title: RGBW Colour B22 Bulb
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Innr_BY_285_C.jpg
 zigbeemodel: ['BY 285 C']
 compatible: [z2m,iob]

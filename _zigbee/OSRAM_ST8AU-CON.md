@@ -3,7 +3,7 @@ model: ST8AU-CON
 vendor: OSRAM
 title: SubstiTUBE T8 LED Tube
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/OSRAM_ST8AU-CON.jpg
 zigbeemodel: ['SubstiTube', 'Connected Tube Z3']
 compatible: [z2m]

@@ -4,7 +4,7 @@ model: LCF005
 vendor: Philips
 title: Hue Calla Large Outdoor Pedestal Light RGBCCT
 category: light
-supports: on/off, brightness, colorxy
+supports: brightness, colorxy
 zigbeemodel: ['LCF005']
 compatible: [z2m]
 mlink: https://www2.meethue.com/en-nz/p/hue-white-and-color-ambiance-calla-large-outdoor-pedestal/1743730P7

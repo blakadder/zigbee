@@ -3,7 +3,7 @@ model: A806S-Q1R
 vendor: Leedarson
 title: A60 E27 CCT Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Leedarson_A806S-Q1R.jpg
 zigbeemodel: ['ZHA-DimmableLight']
 compatible: [z2m]

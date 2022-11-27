@@ -4,7 +4,7 @@ model: AU-A1ZB2WDM
 vendor: Aurora
 title: AOne 250W Smart Rotary Dimmer Module
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['WallDimmerMaster']
 compatible: [z2m]
 mlink: https://aone.auroralighting.com/ProductDetails/AU-A1ZB2WDM 

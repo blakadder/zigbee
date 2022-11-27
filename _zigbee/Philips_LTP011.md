@@ -4,7 +4,7 @@ model: LTP011
 vendor: Philips
 title: Hue Semeru Pendant Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTP011']
 compatible: [z2m]
 z2m: 4507748C5

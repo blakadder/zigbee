@@ -4,7 +4,7 @@ model: LTA010
 vendor: Philips
 title: Hue White Ambiance 1100 E26 Bluetooth 
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTA010']
 compatible: [z2m,zha]
 z2m: 9290024683

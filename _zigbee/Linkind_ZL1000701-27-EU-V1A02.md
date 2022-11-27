@@ -4,7 +4,7 @@ model: ZL1000701-27-EU-V1A02
 vendor: Linkind
 title: Dimmable Warm White Filament E27 6.2W 806lm Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['ZBT-DIMLight-D0120']
 compatible: [z2m, tasmota]
 mlink: 

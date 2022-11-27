@@ -4,7 +4,7 @@ model: LED2009C3
 vendor: IKEA
 title: Tradfri LED bulb E12 250 lumen WW clear, dimmable
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TRADFRIbulbE12WWcandleclear250lm']
 compatible: [z2m]
 mlink: https://www.ikea.com/us/en/p/tradfri-led-bulb-e12-250-lumen-wireless-dimmable-warm-white-chandelier-clear-10441376/

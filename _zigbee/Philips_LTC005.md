@@ -3,7 +3,7 @@ model: LTC005
 vendor: Philips
 title: Hue Within Ceiling Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTC005']
 compatible: [z2m]
 mlink: https://www.philips-hue.com/en-in/p/hue-white-ambiance-within-ceiling-light/4505648C5

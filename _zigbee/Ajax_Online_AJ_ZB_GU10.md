@@ -4,7 +4,7 @@ model: AJ_ZB_GU10
 vendor: Ajax Online
 title: Dual White and Color 5V GU10 5W 300lm Bulb
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['AJ_ZB30_GU10', 'AJ_ZB120_GU10']
 compatible: [z2m]
 z2m: AJ_ZB_GU10

@@ -3,7 +3,7 @@ model: LCD003
 vendor: Philips
 title: Hue Akari Downlight
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['LCD003']
 compatible: [z2m]
 z2m: 8719514344723

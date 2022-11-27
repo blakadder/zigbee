@@ -3,7 +3,7 @@ model: 404008
 vendor: Müller Licht 
 title: Tint C35 470lm E14 CCT Bulb
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/404008.jpg
 zigbeemodel: ['ZBT-ColorTemperature']
 compatible: [z2m, deconz, iob, tasmota]

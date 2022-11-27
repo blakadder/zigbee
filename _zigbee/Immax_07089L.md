@@ -5,7 +5,7 @@ vendor: Immax
 title: Neo Filament E27 5W CCT Filament Bulb
 category: bulb
 type: [bulb, e27]
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['ZBT-CCTfilament-D0000']
 compatible: [z2m]
 mlink: https://www.immaxneo.cz/en/products/immax-neo-smart-led-filament-e27-5w-warm-natural-cold-white-dimmable-zigbee-3-0/

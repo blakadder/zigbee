@@ -4,7 +4,7 @@ model: 72567
 vendor: Sylvania
 title: Smart+ 15" Flush Mount Adjustable White Edge-Lit Fixture
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Sylvania_72567.jpg
 zigbeemodel: ['Flushmount TW']
 compatible: [z2m]

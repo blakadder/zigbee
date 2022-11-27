@@ -4,7 +4,7 @@ EAN: 046677476816
 vendor: Philips 
 title: Hue White PAR38 Outdoor
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Philips_LWB015.jpg
 zigbeemodel: ['LWB015']
 compatible: [z2m]

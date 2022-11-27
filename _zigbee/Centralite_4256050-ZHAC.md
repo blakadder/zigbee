@@ -4,7 +4,7 @@ model: 4256050-ZHAC
 vendor: Centralite
 title: On/Off Lighting Control Module
 category: plug
-supports: on/off, brightness, power monitoring
+supports: brightness, power monitoring
 zigbeemodel: ['4256050-ZHAC']
 compatible: [z2m]
 mlink: 

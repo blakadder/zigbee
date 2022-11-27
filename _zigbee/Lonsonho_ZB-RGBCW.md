@@ -5,7 +5,7 @@ title: Tuya Zigbee 3.0 E27/B22/GU10 Bulb
 vendor: Lonsonho 
 category: bulb
 type: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 mlink: 
 link: https://www.aliexpress.com/item/4001242163772.html
 zigbeemodel: ['ZB-RGBCW','ZB-CL01','ZB-CL02']

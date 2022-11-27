@@ -3,7 +3,7 @@ model: 404004
 vendor: Müller Licht 
 title: Tint A60 806lm E27 CCT Bulb
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/404004.jpg
 zigbeemodel: ['ZBT-ColorTemperature']
 compatible: [z2m, deconz, iob, tasmota]

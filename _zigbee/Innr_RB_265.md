@@ -3,7 +3,7 @@ model: RB 265
 vendor: Innr
 title: Dimmable White Bulb E27
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Innr_RB_265.jpg
 zigbeemodel: ['RB 265']
 compatible: [z2m,zha,z4d,deconz]

@@ -3,7 +3,7 @@ model: BY 265
 vendor: Innr
 title: WW Dimmable B22 Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Innr_BY_265.jpg
 zigbeemodel: ['BY 265']
 compatible: [z4d]

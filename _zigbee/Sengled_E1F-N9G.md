@@ -4,7 +4,7 @@ model: E1F-N9G
 vendor: Sengled
 title: Filament Candle Bulb E12
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['E1F-N9G']
 compatible: [z2m]
 mlink: 

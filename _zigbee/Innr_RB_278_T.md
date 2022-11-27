@@ -4,7 +4,7 @@ model: RB 278 T
 vendor: Innr
 title: Tunable White E27 Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Innr_RB_278_T.jpg
 zigbeemodel: ['RB 278 T']
 compatible: [z2m,iob,z4d,deconz]

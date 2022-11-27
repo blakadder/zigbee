@@ -3,7 +3,7 @@ model: 404000
 vendor: Müller Licht 
 title: Tint A60 806lm E27 RGBCCT Bulb
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/404000.jpg
 zigbeemodel: ['ZBT-ExtendedColor']
 compatible: [z2m, tasmota, iob, deconz, zha]

@@ -3,7 +3,7 @@ model: BY 185 C
 vendor: Innr
 title: RGBW Colour B22 Bulb
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Innr_BY_185_C.jpg
 zigbeemodel: ['BY 185 C']
 compatible: [z2m,iob]

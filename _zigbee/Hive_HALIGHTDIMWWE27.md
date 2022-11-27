@@ -3,7 +3,7 @@ model: HALIGHTDIMWWE27
 vendor: Hive
 title: Light Dimmable Bulb E27 
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Hive_HALIGHTDIMWWE27.jpg
 zigbeemodel: ['FWBulb01']
 compatible: [z2m]

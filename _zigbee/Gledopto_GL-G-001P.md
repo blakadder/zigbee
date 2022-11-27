@@ -4,7 +4,7 @@ model: GL-G-001P
 vendor: Gledopto
 title: 12W Dual White and Color Garden Lamp Pro
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-G-001P.jpg
 zigbeemodel: ['GL-G-001P']
 compatible: [z2m]

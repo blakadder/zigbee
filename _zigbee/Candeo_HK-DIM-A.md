@@ -4,7 +4,7 @@ model: HK-DIM-A
 vendor: Candeo
 title: Rotary Dimmer
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['HK-DIM-A']
 compatible: [z2m, zha]
 mlink: 

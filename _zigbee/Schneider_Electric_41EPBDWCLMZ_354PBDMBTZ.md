@@ -5,7 +5,7 @@ vendor: Schneider Electric
 title: Wiser 40/300-Series Module Dimmer
 category: dimmer
 type: ['module','dimmer']
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['CH/DIMMER/1']
 compatible: [z2m]
 z2m: 41EPBDWCLMZ/354PBDMBTZ

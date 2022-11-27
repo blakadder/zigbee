@@ -3,7 +3,7 @@ model: 74580
 vendor: Sylvania
 title: Smart+ PAR38 Soft White Lamop
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/74580.jpg
 zigbeemodel: ['PAR38 W 10 year']
 compatible: [z2m]

@@ -3,7 +3,7 @@ model: RB 148 T
 vendor: Innr
 title: Candle Tunable White E14 Bulb
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Innr_RB_148T.jpg
 zigbeemodel: ['RB 148 T']
 compatible: [z2m,iob]

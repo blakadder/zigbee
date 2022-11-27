@@ -4,7 +4,7 @@ model: LTA011
 vendor: Philips
 title: Hue White Ambiance 1600 E27 Bluetooth 
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTA011']
 compatible: [z2m]
 z2m: 929002471901

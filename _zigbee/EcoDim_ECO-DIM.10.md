@@ -4,7 +4,7 @@ model: ECO-DIM.10
 vendor: EcoDim
 title: LED Dimmer Module 250W
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['EcoDim-Zigbee']
 compatible: [z4d]
 mlink: https://www.ecodim.nl/eco-dim10-zigbee.html

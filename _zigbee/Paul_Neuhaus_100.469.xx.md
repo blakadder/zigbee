@@ -3,7 +3,7 @@ model: 100.469.xx
 vendor: Paul Neuhaus 
 title: Q-Inigo Ceiling Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['Neuhaus NLG-TW light', 'NLG-TW light']
 compatible: [z2m,iob,zha]
 z2m: NLG-TW light

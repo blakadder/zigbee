@@ -6,7 +6,7 @@ title: 9W Downlight Dual White and Color
 category: light
 type: Downlight
 standard: all
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['GL-D-004Z']
 compatible: [z2m,iob]
 mlink: http://www.gledopto.com/h-col-328.html

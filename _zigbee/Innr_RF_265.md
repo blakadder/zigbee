@@ -4,7 +4,7 @@ model: RF 265
 vendor: Innr
 title: Filament Bulb White E27
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Innr_RF_265.jpg
 zigbeemodel: ['RF 265']
 compatible: [z2m]

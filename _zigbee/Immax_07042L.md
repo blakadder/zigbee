@@ -5,7 +5,7 @@ vendor: Immax
 title: Recuadro White 800x100 67W 4690lm Ceiling Light
 category: light
 type: [ceiling light]
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['ColorTemperature']
 compatible: [z2m]
 mlink: https://www.immaxneo.cz/en/products/design-luminaires/canto/

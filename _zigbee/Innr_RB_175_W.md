@@ -3,7 +3,7 @@ model: RB 175 W
 vendor: Innr
 title: WW Dimmable E27 Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Innr_RB_175_W.jpg
 zigbeemodel: ['RB 175 W']
 compatible: [z2m]

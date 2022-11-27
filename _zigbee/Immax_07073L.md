@@ -5,7 +5,7 @@ vendor: Immax
 title: Canto Black 800 x 800mm 60W 4200lm Ceiling Light
 category: light
 type: [ceiling light]
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['ColorTemperature']
 compatible: [z2m]
 mlink: https://www.immaxneo.cz/en/products/design-luminaires/canto/

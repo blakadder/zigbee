@@ -4,7 +4,7 @@ model: WZ1
 vendor: Tuya
 title: 2 CH LED Controller 
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS0501B', '_TZB210_nfzrlz29']
 compatible: [z2m]
 mlink: http://www.iskydance.com/index.php?c=product_show&a=index&id=1583

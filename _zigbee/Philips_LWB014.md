@@ -3,7 +3,7 @@ model: LWB014
 vendor: Philips
 title: Hue White A19 E26 
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Philips_LWB014.jpg
 zigbeemodel: ['LWB014']
 compatible: [z2m,deconz,z4d,zha]

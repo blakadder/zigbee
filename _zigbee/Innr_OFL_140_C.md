@@ -5,7 +5,7 @@ EAN: 8718781552527
 vendor: Innr
 title: Outdoor Flex Light 4m Colour 
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['OFL 140 C']
 compatible: [z2m]
 mlink: https://www.innr.com/en/product/outdoor-flex-light-colour/

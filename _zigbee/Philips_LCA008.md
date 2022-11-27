@@ -3,7 +3,7 @@ model: LCA008
 vendor: Philips
 title: Hue White and Color Ambiance E27 1600lm
 category: bulb
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['LCA008']
 compatible: [z2m]
 z2m: 929002471601

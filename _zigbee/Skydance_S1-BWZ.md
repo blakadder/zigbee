@@ -4,7 +4,7 @@ model: S1-B(WZ)
 vendor: Skydance
 title: AC Triac Dimmer Module
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS0502B', '_TZB210_rkgngb5o']
 compatible: [z2m]
 mlink: http://www.iskydance.com/index.php?c=product_show&a=index&id=1616

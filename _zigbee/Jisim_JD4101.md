@@ -4,7 +4,7 @@ model: JD4101
 vendor: Jisim
 title: LED Dimming Driver
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS0501B','_TZ3210_grnwgegn']
 compatible: [z2m]
 mlink: http://www.jisim-tech.com/info62/product123.html

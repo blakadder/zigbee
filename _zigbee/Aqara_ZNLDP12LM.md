@@ -5,7 +5,7 @@ vendor: Aqara
 title: Led Bulb (Tunable White)
 category: bulb
 type: E27 Bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['lumi.light.aqcn02']
 compatible: [z2m,z4d,iob,deconz,zha]
 z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/ampouleaqaraznldp12lm

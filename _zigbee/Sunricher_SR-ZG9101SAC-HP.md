@@ -3,7 +3,7 @@ model: SR-ZG9101SAC-HP
 vendor: Sunricher
 title: AC Phase-Cut Dimmer
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Sunricher_SR-ZG9101SAC-HP.jpg
 zigbeemodel: ['ZG9101SAC-HP']
 compatible: [z2m, deconz, z4d, zha]

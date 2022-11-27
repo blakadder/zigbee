@@ -4,7 +4,7 @@ model: LWV002
 vendor: Philips
 title: Hue Single Filament Bulb ST19 E26 
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Philips_046677551780.jpg
 zigbeemodel: ['LWV002']
 compatible: [z2m]

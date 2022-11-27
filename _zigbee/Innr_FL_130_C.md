@@ -4,7 +4,7 @@ model: FL 130 C
 vendor: Innr
 title: Flex 4m RGBCCT LED Strip
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Innr_FL_130_C.jpg
 zigbeemodel: ['FL 130 C']
 compatible: [z2m]

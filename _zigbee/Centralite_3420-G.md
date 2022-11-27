@@ -4,7 +4,7 @@ model: 3420-G
 vendor: Centralite
 title: 3-Series Night Light Repeater
 category: light
-supports: on/off, brightness, router
+supports: brightness, router
 image: /assets/images/devices/Centralite_3420-G.jpg
 zigbeemodel: ['3420']
 compatible: [z2m]

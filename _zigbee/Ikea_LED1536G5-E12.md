@@ -4,7 +4,7 @@ EAN: 903.182.83
 vendor: IKEA
 title: Tradfri LED bulb E12 400 lumen, dimmable, white spectrum, opal white
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Ikea_LED1536G5-E12.jpg
 zigbeemodel: ['TRADFRI bulb E12 WS opal 400lm']
 compatible: [z2m,iob,z4d,zha]

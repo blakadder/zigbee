@@ -4,7 +4,7 @@ model: A9A19A60WESDZ02
 vendor: EcoSmart
 title: A19 Dimmable Tunable White Bulb
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Ecosmart_A9A19A60WESDZ02.jpg
 zigbeemodel: ['Ecosmart-ZBT-A19-CCT-Bulb']
 compatible: [z2m,zha]

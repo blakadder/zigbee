@@ -4,7 +4,7 @@ model: AU-A1ZBSCRGBCX
 vendor: Aurora
 title: AOne RGB + Tuneable White 12/24V Strip Controller
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['RGBCXStrip50AU']
 compatible: [z2m]
 mlink: https://auroralighting.com/gb/trade/productdetail/au-a1zbscrgbcx

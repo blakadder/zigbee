@@ -5,7 +5,7 @@ z2m: 7121131PU
 vendor: Philips
 title: Hue Beyond Suspension Light
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['LLM001']
 compatible: [z2m]
 mlink: https://www2.meethue.com/en-gb/p/hue-white-and-colour-ambience-beyond-suspension-light/7120031PH

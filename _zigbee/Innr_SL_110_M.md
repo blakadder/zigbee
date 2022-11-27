@@ -3,7 +3,7 @@ model: SL 110 M
 vendor: Innr
 title: Spot Flex Medium
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Innr_SL_110_M.jpg
 zigbeemodel: ['SL 110 M']
 compatible: [z2m]

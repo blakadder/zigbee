@@ -4,7 +4,7 @@ model: HLC610-Z
 vendor: Shenzhen Homa 
 title: Triac Controller (Trailing Edge) 300W
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['HOMA000F']
 compatible: [z2m,zha]
 z2m: HLC610-Z

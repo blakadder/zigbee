@@ -4,7 +4,7 @@ model: LED1935C3
 vendor: IKEA
 title: Tradfri LED bulb E14 250 lumen WW clear , dimmable
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TRADFRIbulbE14WWclear250lm']
 compatible: [z2m,zha,deconz]
 mlink: https://www.ikea.com/pl/pl/p/tradfri-zarowka-led-e14-250-lumenow-bezprzewodowy-przyciemniany-cieply-bialy-zyrandol-przezroczysta-30441380/

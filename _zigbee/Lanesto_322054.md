@@ -4,7 +4,7 @@ model: 322054
 vendor: Lanesto
 title: Dimmable LED driver
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['FB56-ZBW14LF1.4']
 compatible: [z2m]
 mlink: 

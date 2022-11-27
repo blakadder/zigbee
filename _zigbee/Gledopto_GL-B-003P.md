@@ -4,7 +4,7 @@ model: GL-B-003P
 vendor: Gledopto
 title: 7W LED Filament Bulb Pro A60 
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['GL-B-003P']
 compatible: [z2m]
 mlink: https://www.gledopto.com/h-col-387.html

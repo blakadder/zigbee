@@ -4,7 +4,7 @@ model: RSL 115
 vendor: Innr
 title: Recessed Spot Light
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['RSL 115']
 compatible: [z2m,z4d,deconz]
 mlink: https://www.innr.com/en/product/recessed-spot-light-rsl_115/

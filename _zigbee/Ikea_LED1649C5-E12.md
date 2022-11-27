@@ -4,7 +4,7 @@ EAN: 403.652.67
 vendor: IKEA
 title: Tradfri LED bulb E12 400 lumen, wireless dimmable warm white, chandelier opal
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Ikea_LED1649C5-E12.jpg
 zigbeemodel: ['TRADFRI bulb E12 W op/ch 400lm']
 z2m: LED1649C5

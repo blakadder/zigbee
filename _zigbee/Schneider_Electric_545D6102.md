@@ -4,7 +4,7 @@ model: 545D6102
 vendor: Schneider Electric 
 title: LK FUGA Wiser Wireless Dimmer
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LK Dimmer']
 compatible: [z2m, deconz]
 deconz: 5878

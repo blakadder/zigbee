@@ -4,7 +4,7 @@ model: RS 229 T
 vendor: Innr
 title: Tunable White Spot Single Lens GU10 Bulb 
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Innr_RS_229_T.jpg
 zigbeemodel:  ['RS 229 T']
 compatible: [z2m,iob,z4d,deconz]

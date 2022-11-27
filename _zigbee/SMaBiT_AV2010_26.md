@@ -5,7 +5,7 @@ vendor: SMaBiT
 title: Smart Plug with Dimmer 2.5A
 category: plug
 type: [plug,eu]
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['AV2010/26', '902010/26']
 compatible: [deconz,z2m]
 mlink: https://manuals.smabit.eu/len/av2010_26.html

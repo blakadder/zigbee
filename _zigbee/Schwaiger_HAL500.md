@@ -4,7 +4,7 @@ model: HAL500
 vendor: Schwaiger
 title: Dimmable GU10 Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['ZBT-CCTLight-GU100904']
 compatible: [z2m]
 mlink: https://www.schwaiger.de/en/led-light-bulb-e14.html

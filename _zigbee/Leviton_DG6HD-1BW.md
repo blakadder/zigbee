@@ -4,7 +4,7 @@ model: DG6HD-1BW
 vendor: Leviton 
 title: Decora Dimmer 600W
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['DG6HD']
 compatible: [z2m]
 mlink: https://www.leviton.com/en/products/dg6hd-1bw

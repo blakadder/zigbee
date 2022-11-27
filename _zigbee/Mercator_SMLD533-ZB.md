@@ -4,7 +4,7 @@ model: SMLD533-ZB
 vendor: Mercator Ikuü
 title:  RGB+CCT LED Strip Light Kit 5m 12V
 category: light
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['TS0505B','_TZ3000_cmaky9gq']
 compatible: [z2m]
 mlink: https://www.ikuu.com.au/?attachment_id=22683

@@ -4,7 +4,7 @@ model: SM323
 vendor: Samotech
 title: LED Dimmer Retrofit Module
 category: dimmer
-supports: on/off, brightness, power measurements
+supports: brightness, power measurements
 zigbeemodel: ['Dimmer-Switch-ZB3.0']
 zb3: true
 compatible: [z2m,deconz]

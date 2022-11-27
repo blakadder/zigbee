@@ -4,7 +4,7 @@ model: DM2550ZB
 vendor: Sinope
 title: Smart Adaptive Phase Dimmer
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['DM2550ZB']
 mlink: https://www.sinopetech.com/en/product/smart-adaptive-phase-dimmer/
 link: 

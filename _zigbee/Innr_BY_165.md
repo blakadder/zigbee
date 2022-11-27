@@ -3,7 +3,7 @@ model: BY 165
 vendor: Innr
 title: WW Dimmable B22 Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Innr_BY_165.jpg
 zigbeemodel: ['BY 165']
 compatible: [z2m]

@@ -3,7 +3,7 @@ model: RB 245
 vendor: Innr
 title: Candle White E14 Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['RB 245']
 compatible: [z2m,iob,z4d,deconz]
 mlink: https://www.innr.com/en/product/smart-candle-white/

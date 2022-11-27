@@ -4,7 +4,7 @@ model: LCT011
 vendor: Philips
 title: Hue White and Color Ambiance BR30 Richer Colors
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCT011.jpg
 zigbeemodel: ['LCT011'] 
 compatible: [z2m,zha]

@@ -4,7 +4,7 @@ model: ZW-ED-01
 vendor: Zemismart
 title: Dimmer Module
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LXN56-DS27LX1.3']
 compatible: [z2m,deconz]
 z2m: HGZB-02A

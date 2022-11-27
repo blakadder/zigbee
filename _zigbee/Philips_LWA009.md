@@ -3,7 +3,7 @@ model: LWA009
 vendor: Philips
 title: Hue White Bulb A67 E27 1600lm with Bluetooth
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LWA009']
 compatible: [z2m,z4d, iob]
 mlink: https://www.philips-hue.com/en-gb/p/hue-white-1-pack-a67-e27/8718699747992

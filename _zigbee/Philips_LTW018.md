@@ -4,7 +4,7 @@ model: LTW018
 vendor: Philips
 title: Hue Adore Bathroom Mirror Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTW018']
 compatible: [z2m]
 z2m: 3435731P7

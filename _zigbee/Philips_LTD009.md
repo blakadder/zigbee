@@ -4,7 +4,7 @@ model: LTD009
 vendor: Philips
 title: Hue Downlight 4 inch
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTD009']
 compatible: [z2m]
 z2m: 5996311U5

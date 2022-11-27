@@ -3,7 +3,7 @@ model: LWA012
 vendor: Philips
 title: Hue White 800 A60 B22 Bulb with Bluetooth
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LWA012']
 compatible: [z2m]
 z2m: 9290018217

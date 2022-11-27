@@ -3,7 +3,7 @@ model: LWG004
 vendor: Philips
 title: Hue White GU10 Bluetooth
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Philips_LWG004.jpg
 zigbeemodel: ['LWG004']
 compatible: [z2m,iob,z4d]

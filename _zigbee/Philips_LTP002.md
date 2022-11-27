@@ -3,7 +3,7 @@ model: LTP002
 vendor: Philips
 title: Hue Amaze Suspension Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Philips_LTP002.jpg
 zigbeemodel: ['LTP002']
 compatible: [z2m,iob]

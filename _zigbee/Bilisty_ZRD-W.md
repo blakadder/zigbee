@@ -4,7 +4,7 @@ model: ZRD-W
 vendor: Bilisty
 title: Smart Rotary Dimmer
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Bilisty_ZRD-W.jpg
 zigbeemodel: ['gq8b1uv']
 compatible: [z2m]

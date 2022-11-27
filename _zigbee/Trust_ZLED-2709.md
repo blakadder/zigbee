@@ -4,7 +4,7 @@ EAN: 8713439226492
 vendor: Trust
 title: Dimmable Bulb WW
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Trust_ZLED-2709.jpg
 zigbeemodel: ['ZLL-DimmableLigh']
 compatible: [z2m,iob,tasmota,z4d,zha]

@@ -4,7 +4,7 @@ model: ZL00030014
 vendor: Linkind
 title: 4.8W GU10 Bulb Dimmable & Tunable
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 mlink: https://www.linkind.com/product/smart-zigbee-cct-gu10-led-bulbs-eu/
 zigbeemodel: ZBT-CCTLight-M3500107
 compatible: [zha, deconz]

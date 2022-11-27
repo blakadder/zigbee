@@ -3,7 +3,7 @@ model: LTD005
 vendor: Philips
 title: Hue White Ambiance Dimmable LED Smart Retrofit Recessed 5/6” Downlight
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTD005']
 compatible: [z2m]
 z2m: 5995111U5

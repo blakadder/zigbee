@@ -4,7 +4,7 @@ model: ZL1000700-22-EU-V1A02
 vendor: Linkind
 title: Dimmable Warm White Filament E27 4.2W 420lm Amber Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['ZBT-DIMLight-A4700003']
 compatible: [z2m]
 mlink: 

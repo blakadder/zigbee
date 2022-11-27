@@ -5,7 +5,7 @@ vendor: Schneider Electric
 title: Wiser Universal Rotary Dimmer
 category: dimmer
 type: ['wall','dimmer']
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['NHROTARY/DIMMER/1']
 compatible: [z2m, deconz, zha]
 z2m: WDE002334

@@ -4,7 +4,7 @@ model: 98425031
 vendor: Nordtronic
 title: Box Dimmer 2.0
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Nordtronic_98425031.jpg
 zigbeemodel: ['BoxDIM2 98425031', '98425031', 'BoxDIMZ 98425031']
 compatible: [z2m,zha,deconz]

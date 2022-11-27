@@ -4,7 +4,7 @@ model: LED1949C5
 vendor: IKEA
 title: Tradfri LED bulb E14 470 lumen, wireless dimmable white spectrum/chandelier opal white
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['TRADFRIbulbE14WScandleopal470lm']
 compatible: [z2m]
 z2m: LED1949C5

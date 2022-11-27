@@ -4,7 +4,7 @@ model: C05Z
 vendor: Giderwel
 title: RGBCCT LED Controller
 category: light
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['TS0505B','_TZ3210_ijczzg9h']
 compatible: [z2m, zha, tasmota, z4d]
 mlink: 

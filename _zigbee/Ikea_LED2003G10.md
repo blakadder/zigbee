@@ -4,7 +4,7 @@ model: LED2003G10
 vendor: IKEA
 title: Tradfri LED bulb E27 1055 lumen, dimmable, white spectrum, opal white
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TRADFRIbulbE27WSglobeopal1055lm']
 compatible: [z2m, zha, deconz]
 deconz: 6311

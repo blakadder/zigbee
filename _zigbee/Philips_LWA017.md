@@ -3,7 +3,7 @@ model: LWA017
 vendor: Philips
 title: Hue White 1100 A60 B22 Bulb with Bluetooth
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LWA017']
 compatible: [z2m]
 z2m: 929002469202

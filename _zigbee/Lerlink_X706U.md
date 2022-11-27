@@ -4,7 +4,7 @@ model: X706U
 vendor: Lerlink
 title: Rotary Dimmer Switch
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS0601', '_TZE200_579lguh2']
 compatible: [z2m]
 z2m: TS0601_dimmer_1

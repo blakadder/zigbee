@@ -4,7 +4,7 @@ model: LTF002
 vendor: Philips
 title: Hue Apogee Ceiling Light (Round)
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTF002']
 compatible: [z2m]
 z2m: 6109331C5

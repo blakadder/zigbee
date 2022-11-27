@@ -3,7 +3,7 @@ model: GL-C-008S
 vendor: Gledopto
 title: RGB+CCT LED Controller Pro
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['GL-C-008P']
 compatible: [z2m, zha, z4d, deconz]
 mlink: http://www.gledopto.com/h-col-365.html

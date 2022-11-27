@@ -4,7 +4,7 @@ model: 404031
 vendor: Müller Licht 
 title: Tint Armaro Under-cabinet Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['CCT Lighting']
 compatible: [z2m]
 mlink: https://www.mueller-licht.de/produktinformationen/artikel/404031/

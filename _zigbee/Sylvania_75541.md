@@ -4,7 +4,7 @@ model: 75541
 vendor: Sylvania
 title: Smart+ Outdoor Accent RGB Lighting Kit
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Sylvania_75541.jpg
 zigbeemodel: ['Outdoor Accent RGB', 'Outdoor Accent Light RGB']
 compatible: [z2m]

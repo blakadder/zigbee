@@ -3,7 +3,7 @@ model: GL-S-004Z
 vendor: Gledopto
 title: 4W MR16 Dual White and Color 30°
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Gledopto_GL-S-004Z.jpg
 zigbeemodel: ['GL-S-004Z']
 compatible: [zha,z2m,z4d]

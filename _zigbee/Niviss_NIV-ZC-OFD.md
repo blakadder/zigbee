@@ -3,7 +3,7 @@ model: NIV-ZC-OFD
 vendor: Niviss
 title: Smart Controller 1CH Dimmable
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['NIV-ZC-OFD']
 compatible: [z2m]
 z2m: PS-ZIGBEE-SMART-CONTROLER-1CH-DIMMABLE

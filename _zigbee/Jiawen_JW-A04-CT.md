@@ -4,7 +4,7 @@ model: JW-A04-CT
 vendor: Jiawen
 title: LED Controller CCT
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['FB56-ZBW02KU1.5']
 compatible: [z2m]
 mlink: 

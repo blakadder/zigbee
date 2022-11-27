@@ -5,7 +5,7 @@ vendor: AduroSmart
 title: ERIA Dimmable Warm White Bulb 806lm
 category: bulb
 type: Bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['AD-DimmableLight3001']
 compatible: [zha]
 mlink: 

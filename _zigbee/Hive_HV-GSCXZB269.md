@@ -3,7 +3,7 @@ model: HV-GSCXZB269
 vendor: Hive
 title: Active Light Cool to Warm White E26 Bulb
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Hive_HV-GSCXZB269.jpg
 zigbeemodel: ['TWBulb01US'] 
 compatible: [z2m]

@@ -3,7 +3,7 @@ model: RS 122
 vendor: Innr
 title: Dimmable White Spot GU10 Bulb
 category: bulb
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Innr_RS_122.jpg
 zigbeemodel: ['RS 122']
 compatible: [z2m]

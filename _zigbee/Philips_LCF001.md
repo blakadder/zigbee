@@ -4,7 +4,7 @@ model: LCF001
 vendor: Philips
 title: Hue Calla Outdoor Pedestal Light RGBCCT
 category: light
-supports: on/off, brightness, colorxy
+supports: brightness, colorxy
 zigbeemodel: ['LCF001']
 compatible: [z2m]
 mlink: https://www2.meethue.com/de-de/p/hue-white-and-color-ambiance-calla-ausen-sockelleuchte/1742030P7

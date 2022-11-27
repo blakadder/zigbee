@@ -3,7 +3,7 @@ model: E1A-AC2
 vendor: Sengled
 title: Element Downlight
 category: light
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/Sengled_E1ACA4ABE38A.jpg
 zigbeemodel: ['E1A-AC2']
 compatible: [z2m]

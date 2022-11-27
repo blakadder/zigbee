@@ -3,7 +3,7 @@ model: RS 128 T
 vendor: Innr
 title: Tunable White Spot Bulb GU10
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Innr_RS_128T.jpg
 zigbeemodel: ['RS 128 T']
 compatible: [z2m,iob]

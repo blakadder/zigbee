@@ -4,7 +4,7 @@ model: YSR-ZP-TY
 vendor: Zsrsai
 title: Single Color LED Controller 
 category: light
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS0501B', '_TZ3210_wuheofsg']
 compatible: [z2m]
 mlink: 

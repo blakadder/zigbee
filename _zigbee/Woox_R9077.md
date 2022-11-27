@@ -5,7 +5,7 @@ vendor: Woox
 title: E27 LED Bulb RGB+CCT
 category: bulb
 type: valve
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['TS0505A','_TZ3000_keabpigv']
 compatible: [z2m]
 mlink: https://wooxhome.com/products-c10/lighting-c1/woox-r9077-p54

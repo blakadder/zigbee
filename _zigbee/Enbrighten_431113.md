@@ -4,7 +4,7 @@ model: 43113
 vendor: Enbrighten
 title: Jasco In-Wall Dimmer
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['43113']
 compatible: [z2m]
 mlink: 

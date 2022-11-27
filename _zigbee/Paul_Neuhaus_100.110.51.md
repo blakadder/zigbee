@@ -3,7 +3,7 @@ model: 100.110.51
 vendor: Paul Neuhaus 
 title: Q-Flag LED Panel 120x30cm
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['JZ-CT-Z01']
 compatible: [z2m]
 mlink: https://www.paul-neuhaus.de/shop/de/led-panel-smart-home-alexa-tauglich-100-110-51.html

@@ -3,7 +3,7 @@ model: LTD003
 vendor: Philips
 title: Hue Muscari Pendant Light
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Philips_LTD003.jpg
 zigbeemodel: ['LTD003']
 compatible: [z2m]

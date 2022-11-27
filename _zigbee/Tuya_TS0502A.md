@@ -4,7 +4,7 @@ model: TS0502A
 vendor: Tuya
 title: CCT LED Controller 
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['TS0502A']
 compatible: [z2m,iob,zha,deconz,z4d]
 mlink: 

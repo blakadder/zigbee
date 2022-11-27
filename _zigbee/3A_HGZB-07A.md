@@ -3,7 +3,7 @@ model: HGZB-07A
 vendor: 3A Nue
 title: 12W RGBW Downlight
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 image: /assets/images/devices/3A_HGZB-07A.jpg
 zigbeemodel: ['FB56-ZCW11HG1.2', 'FB56-ZCW11HG1.4']
 compatible: [z2m,iob,deconz]

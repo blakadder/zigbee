@@ -4,7 +4,7 @@ model: 100.001.96
 vendor: Paul Neuhaus 
 title: Q-LED E27 806lm RGBW Bulb
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['JZD60-J4R150']
 compatible: z2m
 mlink: 

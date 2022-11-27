@@ -3,7 +3,7 @@ model: LWA003
 vendor: Philips
 title: Hue White A19 E26 Bluetooth
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LWA003']
 compatible: [z2m]
 z2m: 9290022268

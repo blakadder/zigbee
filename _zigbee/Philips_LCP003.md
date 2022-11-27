@@ -4,7 +4,7 @@ model: LCP003
 vendor: Philips
 title: Hue Flourish Pendant Light RGBCCT
 category: light
-supports: on/off, brightness, colorxy, colortemp
+supports: brightness, colorxy, colortemp
 image: /assets/images/devices/Philips_4090631P7.jpg
 zigbeemodel:  ['LCP003']
 compatible: [z2m]

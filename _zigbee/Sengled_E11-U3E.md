@@ -4,7 +4,7 @@ model: E11-U3E
 vendor: Sengled
 title: Element Color Plus B22 Bulb
 category: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['E11-U3E']
 compatible: [z2m]
 mlink: https://eu.sengled.com/en/products/connectivity/element-plus/index.html

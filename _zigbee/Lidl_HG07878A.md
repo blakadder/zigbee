@@ -5,7 +5,7 @@ vendor: Lidl
 title: Livarno Home GU10 5W CCT Bulb
 category: bulb
 type: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['TS0502A', '_TZ3000_el5kt5im']
 compatible: [z2m]
 mlink: https://www.lidl.com/

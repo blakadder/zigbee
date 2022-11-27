@@ -5,7 +5,7 @@ vendor: Lidl
 title: Livarno Lux LED Strip 22W 2m
 category: light
 type: strip
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['TS0505A','_TZ3000_riwp3k79']
 compatible: [z4d,z2m,deconz,zha,iob]
 deconz: 3975

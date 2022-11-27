@@ -4,7 +4,7 @@ model: ZB-1026
 vendor: RGB Genie
 title: Single Channel LED Controller
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['RGBgenie ZB-1026']
 compatible: [z2m]
 mlink: https://rgbgenie.com/?product=rgbgenie-single-channel-led-controller-zigbee

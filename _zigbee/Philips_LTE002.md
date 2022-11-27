@@ -4,7 +4,7 @@ model: LTE002
 vendor: Philips
 title: Hue White Ambiance E14 w/ BT
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['LTE002']
 compatible: [z2m]
 z2m: 9290022944

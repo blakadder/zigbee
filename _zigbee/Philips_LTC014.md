@@ -4,7 +4,7 @@ model: LTC014
 vendor: Philips
 title: Hue Aurelle Square Panel Light 60x60cm
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Philips_LTC014.jpg
 zigbeemodel: ['LTC014']
 compatible: [z2m,iob]

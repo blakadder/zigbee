@@ -3,7 +3,7 @@ model: 73742
 vendor: Sylvania
 title: Smart+ Adjustable White RT 5/6 Recessed Lighting Kit
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/73742.jpg
 zigbeemodel: ['LIGHTIFY RT Tunable White', 'RT TW']
 compatible: [z2m,iob]

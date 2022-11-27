@@ -4,7 +4,7 @@ model: ZNDDMK11LM
 vendor: Aqara
 title: Smart Lightstrip Driver
 category: light
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 zigbeemodel: ['lumi.dimmer.rcbac1']
 compatible: [z2m]
 mlink: 

@@ -4,7 +4,7 @@ model: RS 228 T
 vendor: Innr
 title: Tunable White Spot GU10 Bulb 
 category: bulb
-supports: on/off, brightness, colortemp
+supports: brightness, colortemp
 image: /assets/images/devices/Innr_RS_228_T.jpg
 zigbeemodel:  ['RS 228 T']
 compatible: [z2m,iob]

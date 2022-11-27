@@ -5,7 +5,7 @@ vendor: Adeo
 title: Lexman Globe 95 E27 RGBW Bulb
 category: bulb
 type: bulb
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['LXEK-1']
 compatible: [z4d, z2m]
 z2m: 9CZA-A806ST

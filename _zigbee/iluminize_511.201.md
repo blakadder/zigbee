@@ -3,7 +3,7 @@ model: 511.201
 vendor: Iluminize
 title: High Voltage 230V Dimmer Module
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 image: /assets/images/devices/511.201.jpg
 zigbeemodel: ['511.201']
 compatible: [deconz,z2m,z4d,iob,zha]

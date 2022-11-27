@@ -4,7 +4,7 @@ model: SISWD01
 vendor: Mercator Ikuü 
 title: Inline Switch with Dimmer
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS0601','_TZE200_ojzhk75b']
 compatible: [z2m]
 z2m: TS0601_dimmer

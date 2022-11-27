@@ -4,7 +4,7 @@ model: L122FF63H11A5.0W
 vendor: Aldi
 title: Lightway Reflector GU10 (5 W, 345 lm)
 category: bulb
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['TS0505B','_TZ3000_j0gtlepx']
 compatible: [z2m,zha,tasmota]
 mlink: https://www.aldi-sued.de/

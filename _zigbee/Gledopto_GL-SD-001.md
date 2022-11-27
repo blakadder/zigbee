@@ -4,7 +4,7 @@ model: GL-SD-001
 vendor: Gledopto
 title: Triac AC Dimmer
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['GL-SD-001']
 compatible: [z2m, tasmota]
 mlink: http://www.gledopto.com/h-col-380.html

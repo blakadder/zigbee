@@ -3,7 +3,7 @@ model: LWA010
 vendor: Philips
 title: Hue White Bulb A67 B22 1600lm with Bluetooth
 category: bulb
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['LWA010']
 compatible: [z2m]
 mlink: https://www.philips-hue.com/en-gb/p/hue-white-1-pack-a67-b22/8718699748012

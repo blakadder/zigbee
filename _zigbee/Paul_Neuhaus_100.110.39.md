@@ -3,7 +3,7 @@ model: 100.110.39
 vendor: Paul Neuhaus 
 title: Q-Flag LED Panel 45x45cm
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['NLG-RGBW light ']
 compatible: [z2m,iob]
 z2m: NLG-RGBW light

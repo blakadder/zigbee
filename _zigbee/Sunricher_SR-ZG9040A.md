@@ -3,7 +3,7 @@ model: SR-ZG9040A
 vendor: Sunricher
 title: Micro Smart Dimmer
 category: dimmer
-supports: on/off, brightness, power measurement
+supports: brightness, power measurement
 zigbeemodel: ['Micro Smart Dimmer', 'HK-SL-DIM-A']
 zb3: true
 compatible: [z2m,deconz,zha]

@@ -4,7 +4,7 @@ model: MS-105Z
 vendor: Moes
 title: 1 Gang Zigbee Dimmer Module 
 category: dimmer
-supports: on/off, brightness
+supports: brightness
 zigbeemodel: ['TS0601','_TZE200_la2c2uo9']
 compatible: [z2m,deconz,zha]
 z2m: TS0601_dimmer_1

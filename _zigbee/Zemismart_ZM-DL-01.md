@@ -4,7 +4,7 @@ model: ZM-DL-01
 vendor: Zemismart
 title: 12W RGBW Downlight
 category: light
-supports: on/off, brightness, colortemp, colorxy
+supports: brightness, colortemp, colorxy
 zigbeemodel: ['FB56-ZCW11HG1.2', 'FB56-ZCW11HG1.4', 'LXT56-LS27LX1.7', 'NUET56-DL27LX1.1']
 compatible: [z2m, iob, deconz]
 mlink: https://www.zemismart.com/zigbee-smart-rgbw-downlight-compatible-with-hue-led-bulb-light-work-with-amazon-alexa-echo-google-home-smarthings-via-zemismart-hub-p0013-p0013.html

@@ -4,7 +4,7 @@ model: BRHM8E27W70-I1
 vendor: GS
 title: Умная лампа цветная (Color Smart Bulb)
 category: bulb
-supports: on/off, brightness, colortemp, color
+supports: brightness, colortemp, color
 zigbeemodel: ['BRHM8E27W70-I1']
 compatible: [z2m]
 mlink: https://www.gs.ru/catalog/umnyy-dom/umnaya-lampa-tsvetnaya-gs-brhm8e27w70-i1/

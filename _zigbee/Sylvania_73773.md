@@ -2,7 +2,7 @@
 model: 73773
 vendor: Sylvania
 title: Smart+ Flex XL RGBW strip
-category: bulb
+category: light
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['Flex XL RGBW', 'Flex RGBW Pro']
 compatible: [z2m]

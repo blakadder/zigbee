@@ -2,7 +2,7 @@
 model: LCT024
 vendor: Philips
 title: Hue White and Color Ambiance Play Light Bar
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['LCT024','440400982841', '440400982842']
 compatible: [z2m,zha,z4d,deconz]

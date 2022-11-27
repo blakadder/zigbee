@@ -3,7 +3,7 @@ date_added: 2022-11-02
 model: LTE005
 vendor: Philips
 title: Hue White Ambiance E14 w/ BT
-category: light
+category: bulb
 zigbeemodel: ['LTE005']
 compatible: [z2m]
 z2m: 9290031452

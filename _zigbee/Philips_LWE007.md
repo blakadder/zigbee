@@ -3,7 +3,7 @@ date_added: 2021-12-27
 model: LWE007
 vendor: Philips
 title: Hue White E14
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['LWE007']
 compatible: [z2m]

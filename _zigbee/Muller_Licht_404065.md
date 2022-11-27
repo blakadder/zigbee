@@ -2,7 +2,7 @@
 model: 404065
 vendor: Müller Licht 
 title: tint LED Globe Retro Gold XXL E27
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Muller_Licht_404028.jpg
 zigbeemodel: ['RGB-CCT']

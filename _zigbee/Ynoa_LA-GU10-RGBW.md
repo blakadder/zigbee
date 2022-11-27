@@ -3,7 +3,7 @@ date_added: 2022-11-14
 model: LA-GU10-RGBW
 vendor: Ynoa
 title: Smart Spot White & Color Tones GU10 RGBW
-category: light
+category: bulb
 zigbeemodel: ['ZBT-RGBWLight-M0000']
 compatible: [z2m]
 z2m: LA-GU10-RGBW

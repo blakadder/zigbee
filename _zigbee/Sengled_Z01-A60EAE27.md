@@ -2,7 +2,7 @@
 model: Z01-A60EAE27
 vendor: Sengled
 title: Element Plus A60 E27
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Sengled_Z01-A60EAE27.jpg
 zigbeemodel: ['Z01-A60EAE27']

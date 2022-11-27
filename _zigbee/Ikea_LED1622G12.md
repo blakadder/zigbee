@@ -2,7 +2,7 @@
 model: LED1622G12
 vendor: IKEA
 title: Tradfri LED bulb E26 1000 lumen, dimmable warm white globe opal white
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['TRADFRI bulb E26 opal 1000lm', 'TRADFRI bulb E26 W opal 1000lm']
 compatible: [z2m,iob,deconz,z4d,zha]

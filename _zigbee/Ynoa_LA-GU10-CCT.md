@@ -3,7 +3,7 @@ date_added: 2022-10-14
 model: 8718801528273
 vendor: Ynoa
 title: Smart Spot White Tones GU10 CCT
-category: light
+category: bulb
 zigbeemodel: ['ZBT-CCTLight-GU100001']
 compatible: [z2m]
 z2m: 8718801528273

@@ -3,7 +3,7 @@ date_added: 2020-02-20
 model: LTB002
 vendor: Philips
 title: Hue White Ambiance BR30 with Bluetooth
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Philips_LTB002.jpg
 zigbeemodel: ['LTB002']

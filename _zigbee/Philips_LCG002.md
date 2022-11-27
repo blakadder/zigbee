@@ -3,7 +3,7 @@ date_added: 2020-02-27
 model: LCG002
 vendor: Philips
 title: Hue White and Color Ambiance GU10 w/ BT
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCG002.jpg
 zigbeemodel: ['LCG002']

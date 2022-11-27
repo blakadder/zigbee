@@ -3,7 +3,7 @@ date_added: 2021-04-21
 model: 404037
 vendor: Müller Licht 
 title: Tint tint Outdoor LED-Spotlights Flores white+color
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: ['tint-ColorTemperature']
 compatible: [zha]

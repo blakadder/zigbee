@@ -2,7 +2,7 @@
 model: AC08560
 vendor: OSRAM
 title: SMART+ Spot GU10 Tunable White
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/OSRAM_AC08560.jpg
 zigbeemodel: ['PAR16 DIM Z3']

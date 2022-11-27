@@ -3,7 +3,7 @@ date_added: 2021-12-23
 model: LCA006
 vendor: Philips
 title: Hue White and Color 1100 B22
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, color
 zigbeemodel: ['LCA006']
 compatible: [z2m]

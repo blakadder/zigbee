@@ -3,7 +3,7 @@ model: LCA002
 EAN: 046677548483
 vendor: Philips
 title: Hue White and Color Ambiance A19 E26
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCA002.jpg
 zigbeemodel: ['LCA002']

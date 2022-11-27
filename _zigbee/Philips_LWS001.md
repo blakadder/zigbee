@@ -2,7 +2,7 @@
 model: LWS001
 vendor: Philips
 title: Hue White PAR38 Outdoor
-category: light
+category: bulb
 zigbeemodel: ['LWS001']
 compatible: [z2m, zha]
 z2m: 9290018189

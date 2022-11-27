@@ -3,7 +3,7 @@ date_added: 2021-11-15
 model: LCA004
 vendor: Philips
 title: Hue White and Color 800 E27
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, color
 zigbeemodel: ['LCA004']
 compatible: [z2m,zha,z4d]

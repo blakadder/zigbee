@@ -2,7 +2,7 @@
 model: MS-SP-LE27WRGB
 vendor: Mycket
 title: RGBW E27 Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['TS0505A']
 compatible: [z2m]

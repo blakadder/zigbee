@@ -2,7 +2,7 @@
 model: GL-S-008Z
 vendor: Gledopto
 title: 5W PAR16 Dual White and Color LED 
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, color
 image: /assets/images/devices/Gledopto_GL-S-008Z.jpg
 zigbeemodel: ['GL-S-008Z']

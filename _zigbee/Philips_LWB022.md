@@ -2,7 +2,7 @@
 model: LWB022
 vendor: Philips 
 title: Hue White BR30
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['LWB022']
 compatible: [z2m]

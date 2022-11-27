@@ -3,7 +3,7 @@ date_added: 2020-04-12
 model: AU-A1GSZ9RGBW
 vendor: Aurora
 title: AOne 9.5W Smart RGBW GLS Lamp
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['RGBBulb01UK', 'RGBBulb02UK', 'RGBBulb51AU']
 compatible: [z2m]

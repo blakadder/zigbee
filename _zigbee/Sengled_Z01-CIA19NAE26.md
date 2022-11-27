@@ -2,7 +2,7 @@
 model: Z01-CIA19NAE26
 vendor: Sengled
 title: Element Touch A19 E26
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Sengled_Z01-CIA19NAE26.jpg
 zigbeemodel: 

@@ -3,7 +3,7 @@ date_added: 2020-09-19
 model: AC05347
 vendor: OSRAM
 title: SMART+ Spot GU10 Tunable White PAR16 Spot
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: ['Smart+ AC05347']
 compatible: [zha]

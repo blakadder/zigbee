@@ -2,7 +2,7 @@
 model: LCT007
 vendor: Philips
 title: Hue White and Color Ambiance A19 E26 (Gen 2)
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCT007.jpg
 zigbeemodel: ['LCT007'] 

@@ -2,7 +2,7 @@
 model: E11-G23
 vendor: Sengled
 title: Element Classic A60 E27
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Sengled_E11-G23.jpg
 zigbeemodel: ['E11-G23']

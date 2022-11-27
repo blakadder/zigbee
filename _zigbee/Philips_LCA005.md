@@ -2,7 +2,7 @@
 model: LCA005
 vendor: Philips
 title: Hue White and Color 800 A19 E26
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, color
 zigbeemodel: ['LCA005']
 compatible: [z2m]

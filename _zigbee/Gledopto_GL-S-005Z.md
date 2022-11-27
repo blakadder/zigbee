@@ -2,7 +2,7 @@
 model: GL-S-005Z
 vendor: Gledopto
 title: 4W MR16 Dual White and Color 120°
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Gledopto_GL-S-005Z.jpg
 zigbeemodel: ['GL-S-005Z']

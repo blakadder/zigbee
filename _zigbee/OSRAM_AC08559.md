@@ -4,7 +4,7 @@ model: AC08559
 EAN: 4058075032705
 vendor: OSRAM
 title: Smart+ Spot GU10 Multicolor
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/OSRAM_AC08559.jpg
 zigbeemodel: ['PAR16 RGBW Z3']

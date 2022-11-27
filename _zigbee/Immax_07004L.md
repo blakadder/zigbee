@@ -3,7 +3,7 @@ date_added: 2020-01-01
 model: 07004L
 vendor: Immax
 title: Neo Smart LED E27 8,5W color, dimmable
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Immax_07004L.jpg
 zigbeemodel: ['IM-Z3.0-RGBW']

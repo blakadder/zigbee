@@ -2,7 +2,7 @@
 model: LCD001
 vendor: Philips
 title: Hue White and Color Ambiance Downlight 4 Inch
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['LCD001']
 compatible: [z2m,iob]

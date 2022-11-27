@@ -3,7 +3,7 @@ date_added: 2020-02-20
 model: LTB003
 vendor: Philips
 title: Hue White Ambiance BR30 E26
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: ['LTB003']
 compatible: [z2m]

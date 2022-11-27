@@ -3,7 +3,7 @@ date_added: 2020-01-01
 model: 07002L
 vendor: Immax
 title: Neo Smart LED E14 5W warm white, dimmable
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['IM-Z3.0-DIM']
 compatible: [z2m,iob]

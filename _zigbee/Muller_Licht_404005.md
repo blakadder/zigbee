@@ -2,7 +2,7 @@
 model: 404005
 vendor: Müller Licht 
 title: Tint Reflektor 350lm GU10 RGBCCT Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/404005.jpg
 zigbeemodel: ['ZBT-ExtendedColor']

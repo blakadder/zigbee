@@ -3,7 +3,7 @@ date_added: 2020-02-13
 model: LED1925G6 
 vendor: IKEA
 title: Tradfri LED bulb E14 470 lumen, dimmable colour and white, globe opal white
-category: light
+category: bulb
 supports: on/off, brightness, color
 zigbeemodel: ['TRADFRI bulb E14 CWS 470lm', 'TRADFRI bulb E12 CWS 450lm']
 compatible: [z2m]

@@ -3,7 +3,7 @@ date_added: 2020-12-23
 model: 9CZA-M350ST-Q1A
 vendor: Adeo
 title: Lexman GU10 RGBW Bulb
-category: light
+category: bulb
 type: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['LXEK-4']

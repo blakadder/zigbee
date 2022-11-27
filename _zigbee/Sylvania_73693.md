@@ -2,7 +2,7 @@
 model: 73693
 vendor: Sylvania
 title: Smart+ Full Color A19 Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/73693.jpg
 zigbeemodel: ['LIGHTIFY A19 RGBW', 'A19 RGBW']

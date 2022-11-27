@@ -2,7 +2,7 @@
 model: M350ST-W1R
 vendor: Leedarson
 title: PAR16 GU10 Dimmable Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Leedarson_M350STW1.jpg
 zigbeemodel: ['M350ST-W1R-01', 'A470S-A7R-04']

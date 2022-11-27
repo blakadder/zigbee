@@ -10,4 +10,5 @@ compatible: [z2m]
 z2m: TS0601_temperature_humidity_sensor
 mlink: https://www.alibaba.com/product-detail/Custom-Zigbee-Tuya-OEM-Iot-Multifuncion_1600238710992.html
 link: https://www.aliexpress.com/item/1005002588837247.html
+link2: https://www.aliexpress.com/item/1005002281480470.html
 ---

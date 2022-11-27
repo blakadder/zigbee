@@ -2,7 +2,7 @@
 model: HV-GUCXZB5
 vendor: Hive
 title: Active Light Cool to Warm Light GU10 bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Hive_HV-GUCXZB5.jpg
 zigbeemodel: ['TWGU10Bulb01UK'] 

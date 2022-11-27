@@ -3,7 +3,7 @@ date_added: 2021-11-29
 model: 81863
 vendor: AduroSmart
 title: ERIA Smart Extended Color LED strip 10 ft
-category: light
+category: bulb
 type: Bulb
 supports: on/off, brightness, colorxy, colotemp
 zigbeemodel: 

@@ -2,7 +2,7 @@
 model: 73739
 vendor: Sylvania
 title: Smart+ Adjustable White BR30 Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/73739.jpg
 zigbeemodel: ['LIGHTIFY BR RGBW', 'BR30 RGBW']

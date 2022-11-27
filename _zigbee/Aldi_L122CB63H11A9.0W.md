@@ -3,7 +3,7 @@ date_added: 2021-02-27
 model: L122CB63H11A9.0W 
 vendor: Aldi
 title: Lightway Bulb E27 (9 W, 806 lm)
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, color
 zigbeemodel: ['TS0505B','_TZ3000_j0gtlepx']
 compatible: [z2m,zha,tasmota]

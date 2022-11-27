@@ -6,7 +6,7 @@ title: Tint LED-Globeform White+Color Bulb
 category: light
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['tint-ExtendedColor']
-compatible: [z2m]
+compatible: [z2m, z4d]
 mlink: https://www.mueller-licht.de/en/product-informations/artikel/404036/
 link: https://www.amazon.de/dp/B085QXX9B2
 link2: https://www.amazon.se/dp/B085QXX9B2/

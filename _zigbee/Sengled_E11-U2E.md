@@ -3,7 +3,7 @@ date_added: 2020-01-31
 model: E11-U2E
 vendor: Sengled
 title: Element Color Plus E27 Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Sengled_E11-U2E.jpg
 zigbeemodel: ['E11-U2E']

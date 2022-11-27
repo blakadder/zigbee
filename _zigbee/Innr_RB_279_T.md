@@ -3,7 +3,7 @@ date_added: 2022-11-06
 model: RB 279 T
 vendor: Innr
 title: Tunable White E27 Bulb
-category: light
+category: bulb
 zigbeemodel: ['RB 279 T']
 compatible: [z2m]
 mlink: 

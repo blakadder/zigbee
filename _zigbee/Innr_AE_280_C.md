@@ -3,7 +3,7 @@ date_added: 2020-07-12
 model: AE 280
 vendor: Innr
 title: RGBW Colour E26 Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['AE 280 C']
 compatible: [z2m,zha]

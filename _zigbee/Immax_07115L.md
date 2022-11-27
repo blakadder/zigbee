@@ -3,7 +3,7 @@ date_added: 2020-02-23
 model: 07115L
 vendor: Immax
 title: Neo Smart LED E27 9W RGB+CCT, dimmable, Zigbee 3.0
-category: plug
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['Bulb-RGB+CCT-ZB3.0']
 compatible: [z2m]

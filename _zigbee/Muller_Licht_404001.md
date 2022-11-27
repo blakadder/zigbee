@@ -3,7 +3,7 @@ date_added: 2020-12-08
 model: 404001 
 vendor: Müller Licht 
 title: Tint A60 806lm E27 WW Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['ZBT-DimmableLight']
 compatible: [deconz,zha]

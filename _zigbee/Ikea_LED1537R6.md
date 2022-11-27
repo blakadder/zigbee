@@ -3,7 +3,7 @@ model: LED1537R6
 EAN: 403.182.90
 vendor: IKEA
 title: Tradfri LED bulb GU10 400lm, dimmable white spectrum
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Ikea_LED1537R6.jpg
 zigbeemodel: ['TRADFRI bulb GU10 WS 400lm']

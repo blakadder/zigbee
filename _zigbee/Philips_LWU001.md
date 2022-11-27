@@ -2,7 +2,7 @@
 model: LWU001
 vendor: Philips
 title: Hue P45 E14 Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['LWU001']
 compatible: [z2m,zha]

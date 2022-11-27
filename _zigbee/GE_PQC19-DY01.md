@@ -2,7 +2,7 @@
 model: PQC19-DY01
 vendor: GE
 title: Link A19 Daylight Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['Daylight']
 compatible: [z2m]

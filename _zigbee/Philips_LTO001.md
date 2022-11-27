@@ -2,7 +2,7 @@
 model: LTO001
 vendor: Philips
 title: Hue G93 E27 Filament Globe Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: ['LTO001']
 z2m: 8719514301481

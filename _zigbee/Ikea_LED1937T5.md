@@ -3,7 +3,7 @@ date_added: 2021-07-03
 model: LED1937T5
 vendor: IKEA
 title: Tradfri LED bulb E27 470 lumen, dimmable, opal white
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['TRADFRI bulb E27 opal 470lm', 'TRADFRI bulb E27 W opal 470lm', 'TRADFRIbulbT120E27WSopal470lm']
 compatible: [z2m]

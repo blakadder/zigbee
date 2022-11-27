@@ -3,7 +3,7 @@ date_added: 2021-07-03
 model: LED1936G5
 vendor: IKEA
 title: Tradfri LED bulb E27 470 lumen, dimmable, globe white frosted glass
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['TRADFRIbulbG125E27WSopal470lm','TRADFRIbulbG125E26WSopal450lm']
 compatible: [z2m]

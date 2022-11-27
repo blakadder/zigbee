@@ -5,7 +5,7 @@ vendor: MiBoxer
 title: Single Color LED Controller (Zigbee 3.0)
 category: light
 supports: on/off, brightness
-zigbeemodel: ['TS0501B','_TZ3210_dxroobu3']
+zigbeemodel: ['TS0501B', '_TZ3210_dxroobu3', '_TZ3210_dbilpfqk']
 compatible: [z2m]
 mlink: https://miboxer.com/light/xqy/fut036z.html
 link: https://www.aliexpress.com/item/1005002776866370.html

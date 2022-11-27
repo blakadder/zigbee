@@ -3,7 +3,7 @@ date_added: 2021-05-04
 model: R9077
 vendor: Woox
 title: E27 LED Bulb RGB+CCT
-category: light
+category: bulb
 type: valve
 supports: on/off, brightness, colortemp, color
 zigbeemodel: ['TS0505A','_TZ3000_keabpigv']

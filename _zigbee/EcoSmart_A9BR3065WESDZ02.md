@@ -3,7 +3,7 @@ date_added: 2020-02-27
 model: A9BR3065WESDZ02
 vendor: EcoSmart
 title: BR30 Dimmable Tunable White Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: ['Ecosmart-ZBT-BR30-CCT-Bulb']
 compatible: [zha,z2m]

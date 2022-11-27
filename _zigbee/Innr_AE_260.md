@@ -3,7 +3,7 @@ date_added: 2020-05-05
 model: AE 260
 vendor: Innr
 title: Dimmable White Bulb E26
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['AE 260']
 compatible: [z2m]

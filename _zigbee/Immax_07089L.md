@@ -3,7 +3,7 @@ date_added: 2021-04-25
 model: 07089L
 vendor: Immax
 title: Neo Filament E27 5W CCT Filament Bulb
-category: light
+category: bulb
 type: [bulb, e27]
 supports: on/off, brightness, colortemp
 zigbeemodel: ['ZBT-CCTfilament-D0000']

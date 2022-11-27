@@ -2,7 +2,7 @@
 model: LWA004
 vendor: Philips
 title: Hue White Filament Bulb A60 E27 Bluetooth
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Philips_LWA004.jpg
 zigbeemodel: ['LWA004']

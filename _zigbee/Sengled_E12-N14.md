@@ -2,7 +2,7 @@
 model: E12-N14
 vendor: Sengled
 title: Soft White BR30 Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Sengled_E12-N14.jpg
 zigbeemodel: ['E12-N14']

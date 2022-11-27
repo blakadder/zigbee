@@ -5,7 +5,7 @@ vendor: Onesti
 title: Relax Smart Plug
 category: plug
 supports: on/off
-zigbeemodel: ['5309030P9']
+zigbeemodel: ['S4RX-110']
 compatible: [z2m]
 mlink: https://onestiproducts.io/relax-smart-plug/
 link: 

@@ -2,7 +2,7 @@
 model: RB 145
 vendor: Innr
 title: Candle WW Dimmable E14 Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Innr_RB_145.jpg
 zigbeemodel: ['RB 145']

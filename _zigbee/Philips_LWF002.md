@@ -2,7 +2,7 @@
 model: LWF002
 vendor: Philips
 title: Hue White Bulb A60 E27
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Philips_LWF002.jpg
 zigbeemodel: ['LWF002']

@@ -3,8 +3,7 @@ model: 3210-L
 vendor: Iris
 title: Smart Plug
 category: plug
-supports: on/off, power meter, current meter. voltage meter
-image: /assets/images/devices/Iris_3210-L.jpg
+supports: on/off, power meter, current meter, voltage meter
 zigbeemodel: ['3210-L']
 compatible: [z2m, zha]
 mlink: 

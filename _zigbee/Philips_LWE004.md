@@ -3,7 +3,7 @@ date_added: 2021-12-26
 model: LWE004
 vendor: Philips
 title: Hue White Filament Candle E14
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['LWE004']
 compatible: [z2m]

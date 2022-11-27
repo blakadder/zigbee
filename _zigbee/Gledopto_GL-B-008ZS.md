@@ -2,7 +2,7 @@
 model: GL-B-008ZS
 vendor: Gledopto
 title: 12W Dual White and Color LED Bulb Plus
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, color
 image: /assets/images/devices/Gledopto_GL-B-008ZS.jpg
 zigbeemodel: ['GL-B-008ZS']

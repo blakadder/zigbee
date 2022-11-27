@@ -2,7 +2,7 @@
 model: LWB004
 vendor: Philips
 title: Hue Lux Extension 9W Dimmable A19 White Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Philips_LWB004.jpg
 zigbeemodel: ['LWB004']

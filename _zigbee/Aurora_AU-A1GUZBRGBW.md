@@ -3,7 +3,7 @@ date_added: 2020-04-12
 model: AU-A1GUZBRGBW
 vendor: Aurora
 title: AOne 5.6W smart RGBW Tuneable GU10 Lamp
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['RGBGU10Bulb50AU']
 compatible: [z2m]

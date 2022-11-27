@@ -2,7 +2,7 @@
 model: 73889
 vendor: Sylvania
 title: Smart+ Soft White PAR38 Reflector Light Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['LIGHTIFY PAR38 ON/OFF/DIM']
 compatible: [z2m]

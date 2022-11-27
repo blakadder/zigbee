@@ -2,7 +2,7 @@
 model: ZA806SQ1TCF
 vendor: Leedarson
 title: LED E27 Tunable White Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Leedarson_ZA806SQ1TCF.jpg
 zigbeemodel: ['LED_E27_OWDT']

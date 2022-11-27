@@ -3,7 +3,7 @@ date_added: 2020-02-25
 model: ICZB-B2FC95
 vendor: iCasa
 title: Filament Bulb 95mm 7W E27 CCT
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/iCasa_ICZB-B2FC95.jpg
 zigbeemodel: ['ICZB-FC']

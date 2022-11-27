@@ -2,7 +2,7 @@
 model: BY 178 T
 vendor: Innr
 title: Tunable White B22 Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Innr_BY_178_T.jpg
 zigbeemodel: ['BY 178 T']

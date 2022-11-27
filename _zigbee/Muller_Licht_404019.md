@@ -2,7 +2,7 @@
 model: 404019
 vendor: Müller Licht 
 title: Tint C35 470lm E14 RGBCCT Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Muller_Licht_404019.jpg
 zigbeemodel: ['ZBT-ExtendedColor']

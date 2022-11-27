@@ -3,7 +3,7 @@ date_added: 2020-08-24
 model: BE 220
 vendor: Innr
 title: Dimmable Warm White BR30 E26 Bulb
-category: light
+category: bulb
 type: Bulb
 supports: on/off, brightness
 zigbeemodel: ['BE 220']

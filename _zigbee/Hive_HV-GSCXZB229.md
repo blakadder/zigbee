@@ -2,7 +2,7 @@
 model: HV-GSCXZB229
 vendor: Hive
 title: Active Light Cool to Warm White B22 Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Hive_HV-GSCXZB229.jpg
 zigbeemodel:  ['TWBulb02UK']

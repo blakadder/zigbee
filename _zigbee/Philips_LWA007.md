@@ -2,7 +2,7 @@
 model: LWA007
 vendor: Philips
 title: Hue White Bulb A19 E26 with Bluetooth
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Philips_LWA007.jpg
 zigbeemodel: ['LWA007']

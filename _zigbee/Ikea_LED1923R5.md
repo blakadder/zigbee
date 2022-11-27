@@ -3,7 +3,7 @@ date_added: 2020-12-24
 model: LED1923R5
 vendor: IKEA
 title: Tradfri LED bulb GU10 345 lumen, dimmable, white spectrum, colour spectrum
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['TRADFRI bulb GU10 CWS 345lm', 'TRADFRI bulb GU10 CWS 380lm']
 compatible: [z2m,zha,z4d]

@@ -3,7 +3,7 @@ date_added: 2022-01-23
 model: RS 227 T
 vendor: Innr
 title: Tunable White Spot Comfort GU10 Bulb 
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel:  ['RS 227 T']
 compatible: [z2m,iob]

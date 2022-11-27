@@ -2,7 +2,7 @@
 model: LED1837R5
 vendor: IKEA
 title: Trådfri LED bulb GU10 400 lumen, dimmable
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['TRADFRI bulb GU10 WW 400lm']
 compatible: [z2m, zha, deconz]

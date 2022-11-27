@@ -3,7 +3,7 @@ date_added: 2021-01-21
 model: HAL300
 vendor: Schwaiger
 title: Multicolor RGBW E27 Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, color
 zigbeemodel: ['ZBT-RGBWLight-GLS0844']
 compatible: [z2m]

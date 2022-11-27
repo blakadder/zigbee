@@ -2,7 +2,7 @@
 model: RB 172 W
 vendor: Innr
 title: WW Dimmable E27 Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['RB 172 W']
 compatible: [z2m]

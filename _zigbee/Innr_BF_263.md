@@ -3,7 +3,7 @@ date_added: 2020-03-08
 model: BF 263
 vendor: Innr
 title: Filament Bulb Vintage B22
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Innr_BF_263.jpg
 zigbeemodel: ['BF 263']

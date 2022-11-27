@@ -3,7 +3,7 @@ date_added: 2021-04-11
 model: 07088L
 vendor: Immax
 title: Neo Filament E27 6,3W Warm White Dimmable Bulb
-category: light
+category: bulb
 type: [bulb, e27]
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['E27-filament-Dim-ZB3.0']

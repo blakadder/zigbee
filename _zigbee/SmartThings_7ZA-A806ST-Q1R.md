@@ -3,7 +3,7 @@ date_added: 2021-02-03
 model: 7ZA-A806ST-Q1R
 vendor: SmartThings
 title: Lexman E27 RGBW Bulb
-category: light
+category: bulb
 type: bulb
 supports: on/off, brightness 
 zigbeemodel: ['ZBT-DIMLight-GLS0044']

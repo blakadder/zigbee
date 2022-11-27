@@ -2,7 +2,7 @@
 model: 73807
 vendor: Sylvania
 title: Lightify Soft White Dimmable BR30 Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['LIGHTIFY BR ON/OFF/DIM']
 compatible: [z2m]

@@ -2,7 +2,7 @@
 model: F7C033
 vendor: Belkin
 title: Wemo® Smart LED Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Belkin_F7C033.jpg
 zigbeemodel: ['MZ100']

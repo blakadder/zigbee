@@ -3,7 +3,7 @@ date_added: 2020-04-01
 model: 484719 
 vendor: Sylvania 
 title: BR30 Dimmable Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['iQBR30']
 compatible: [z2m]

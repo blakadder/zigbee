@@ -2,7 +2,7 @@
 model: LTO002
 vendor: Philips
 title: Hue G125 E27 Filament Globe Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: ['LTO002']
 z2m: 8719514301542

@@ -3,7 +3,7 @@ date_added: 2020-03-15
 model: HAL100
 vendor: Schwaiger
 title: Dimmable E27 Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Schwaiger_HAL100.jpg
 zigbeemodel: ['ZBT-DIMLight-GLS0800']

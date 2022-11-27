@@ -6,7 +6,7 @@ title: 3-Series 4-Button Key Fob
 category: remote
 supports: action
 zigbeemodel: ['3450-L','3450-L2']
-compatible: [zha]
+compatible: [zha, z2m]
 mlink: https://centralite.com/products/4-Button-Key-Fob
 link: 
 link2: 

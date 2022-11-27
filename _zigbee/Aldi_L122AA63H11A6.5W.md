@@ -3,7 +3,7 @@ date_added: 2021-02-27
 model: L122AA63H11A6.5W
 vendor: Aldi
 title: Lightway Candle E14 (6,5 W, 470 lm)
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, color
 zigbeemodel: ['TS0505B','_TZ3000_iivsrikg']
 compatible: [z2m,zha,tasmota]

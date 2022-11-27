@@ -3,7 +3,7 @@ date_added: 2020-11-07
 model: ZB_A60_RGBCW
 vendor: Ajax Online
 title: Dual White and Color Pro Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, color
 zigbeemodel: ['ZB_A60_RGBCW']
 compatible: [z2m]

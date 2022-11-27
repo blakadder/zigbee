@@ -3,7 +3,7 @@ date_added: 2020-04-09
 model: E21-N1EA
 vendor: Sengled
 title: Smart LED Multicolor A19 Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, color
 zigbeemodel: ['E21-N1EA']
 compatible: [deconz]

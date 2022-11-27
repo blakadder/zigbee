@@ -2,7 +2,7 @@
 model: LCT012
 vendor: Philips
 title: Hue White and Color Ambiance Candle E12
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCT012.jpg
 zigbeemodel: ['LCT012'] 

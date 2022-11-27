@@ -3,7 +3,7 @@ date_added: 2020-04-15
 model: HALIGHTDIMWWE14
 vendor: Hive
 title: Light Dimmable Bulb E14
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['FWCLBulb01UK']
 compatible: [z2m]

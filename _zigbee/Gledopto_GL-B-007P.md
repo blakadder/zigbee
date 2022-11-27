@@ -3,7 +3,7 @@ date_added: 2020-11-21
 model: GL-B-007P
 vendor: Gledopto
 title: 6W Dual White And Color Bulb Pro
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['GL-B-007P']
 compatible: [z2m]

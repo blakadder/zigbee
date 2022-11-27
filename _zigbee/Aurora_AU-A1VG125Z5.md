@@ -3,7 +3,7 @@ date_added: 2020-04-12
 model: AU-A1VG125Z5
 vendor: Aurora
 title: AOne 4W Smart Dimmable Filament Vintage G125 Lamp
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['FWG125Bulb50AU']
 compatible: [z2m]

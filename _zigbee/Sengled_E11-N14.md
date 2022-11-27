@@ -3,7 +3,7 @@ date_added: 2020-04-26
 model: E11-N14
 vendor: Sengled
 title: Element Extra Bright Daylight A19 Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['E11-N14','E11-N14A']
 compatible: [z2m]

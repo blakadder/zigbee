@@ -2,7 +2,7 @@
 model: HV-CE14CXZB6
 vendor: Hive
 title: Active Light Cool to Warm White E14 Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel:  ['TWCLBulb01UK']
 z2m: HV-CE14CXZB6

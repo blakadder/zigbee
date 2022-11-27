@@ -3,7 +3,7 @@ date_added: 2020-12-04
 model: HG06106A
 vendor: Lidl
 title: Livarno Lux GU10 9W RGB Bulb
-category: light
+category: bulb
 type: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['TS0505A','_TZ3000_kdpxju99']

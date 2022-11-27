@@ -2,7 +2,7 @@
 model: LTV002
 vendor: Philips
 title: Hue White Ambiance E27 ST64 Filament Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: ['LTV002']
 compatible: [z2m]

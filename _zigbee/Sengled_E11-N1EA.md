@@ -2,7 +2,7 @@
 model: E11-N1EA
 vendor: Sengled
 title: Multicolor A19 Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy, power usage(W), lifetime powerusage (kWh)
 image: /assets/images/devices/Sengled_E11-N1EA.jpg
 zigbeemodel: ['E11-N1EA']

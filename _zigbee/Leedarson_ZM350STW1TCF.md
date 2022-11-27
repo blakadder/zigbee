@@ -2,7 +2,7 @@
 model: ZM350STW1TCF
 vendor: Leedarson
 title: PAR16 GU10 Tunable White Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Leedarson_ZM350STW1TCF.jpg
 zigbeemodel: ['LED_GU10_OWDT']

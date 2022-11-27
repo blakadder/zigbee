@@ -2,7 +2,7 @@
 model: 81813
 vendor: AduroSmart
 title: ERIA Colors and White BR30 65W Bulb
-category: light
+category: bulb
 type: Bulb
 standard: us
 supports: on/off, brightness, colorxy, colotemp

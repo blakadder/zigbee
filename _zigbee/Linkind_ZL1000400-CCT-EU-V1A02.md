@@ -3,7 +3,7 @@ date_added: 2020-03-15
 model: ZL1000400-CCT-EU-2-V1A02
 vendor: Linkind
 title: 5.4W C35 E14 Bulb, Dimmable & Tunable
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Linkind_ZL1000400-CCT-EU-V1A02.jpg
 zigbeemodel: ['ZBT-CCTLight-C4700107','ZBT-CCTLight-M3500107']

@@ -2,7 +2,7 @@
 model: LWG001
 vendor: Philips
 title: Hue White GU10
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Philips_LWG001.jpg
 zigbeemodel: ['LWG001'] 

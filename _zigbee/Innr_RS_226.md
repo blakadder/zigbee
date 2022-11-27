@@ -3,7 +3,7 @@ date_added: 2021-01-26
 model: RS 226
 vendor: Innr
 title: Dimmable White Spot Single Lens GU10 Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['RS 226']
 compatible: [z4d,deconz,z2m]

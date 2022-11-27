@@ -3,7 +3,7 @@ date_added: 2020-12-23
 model: IM-CDZDGAAG005KA-MZN
 vendor: Adeo
 title: Lexman GU10 White Bulb
-category: light
+category: bulb
 type: bulb
 zigbeemodel: ['ZBEK-11']
 compatible: [z2m]

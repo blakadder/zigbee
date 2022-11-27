@@ -2,7 +2,7 @@
 model: E11-G13
 vendor: Sengled
 title: Soft White A19 Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Sengled_E11-G13.jpg
 zigbeemodel: ['E11-G13']

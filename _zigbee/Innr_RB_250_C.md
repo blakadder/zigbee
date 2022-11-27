@@ -2,7 +2,7 @@
 model: RB 250 C
 vendor: Innr
 title: Candle Colour Bulb E14
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 image: /assets/images/devices/Innr_RB_250_C.jpg
 zigbeemodel: ['RB 250 C']

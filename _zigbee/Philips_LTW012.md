@@ -2,7 +2,7 @@
 model: LTW012
 vendor: Philips
 title: Hue White Ambiance Candle E14
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Philips_LTW012.jpg
 zigbeemodel: ['LTW012']

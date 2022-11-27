@@ -3,7 +3,7 @@ model: LED1624G9
 EAN: 304.115.66
 vendor: IKEA
 title: Tradfri LED bulb E12 600lm, dimmable color and white spectrum opal
-category: light
+category: bulb
 supports: on/off, brightness, colorxy
 image: /assets/images/devices/Ikea_LED1624G9-E12.jpg
 zigbeemodel: ['TRADFRI bulb E12 CWS opal 600lm']

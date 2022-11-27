@@ -3,7 +3,7 @@ date_added: 2021-09-20
 model: AJ_ZIGPROA60
 vendor: Ajax Online
 title: Smart Zigbee Pro A60 RGBCCT Bulb E27/B22
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['AJ_ZIGPROA60']
 compatible: [z2m,zha]

@@ -2,7 +2,7 @@
 model: LTO004
 vendor: Philips
 title: Hue G25 E26 Filament Globe Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: ['LTO004']
 z2m: 9290024785

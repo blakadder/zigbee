@@ -2,7 +2,7 @@
 model: 100.001.94
 vendor: Paul Neuhaus 
 title: Q-LED E27 806lm CCT Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: 
 compatible: z4d

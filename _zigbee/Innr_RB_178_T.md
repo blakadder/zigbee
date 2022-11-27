@@ -2,7 +2,7 @@
 model: RB 178 T
 vendor: Innr
 title: Tunable White E27 Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Innr_RB_178_T.jpg
 zigbeemodel: ['RB 178 T']

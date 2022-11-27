@@ -2,7 +2,7 @@
 model: LWA005
 vendor: Philips
 title: Hue White Filament Bulb A19 E26 Bluetooth
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Philips_LWA005.jpg
 zigbeemodel: ['LWA005']

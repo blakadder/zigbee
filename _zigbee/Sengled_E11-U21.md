@@ -3,7 +3,7 @@ date_added: 2021-01-16
 model: E11-U21
 vendor: Sengled
 title: Element Touch E27 Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['E11-U21U31']
 compatible: [z2m]

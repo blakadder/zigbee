@@ -3,7 +3,7 @@ date_added: 2020-02-02
 model: BDHM8E27W70-I1
 vendor: GS
 title: Умная лампа (Smart Bulb)
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/GS_BDHM8E27W70-I1.jpg
 zigbeemodel: ['BDHM8E27W70-I1']

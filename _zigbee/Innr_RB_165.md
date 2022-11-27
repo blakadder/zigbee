@@ -2,7 +2,7 @@
 model: RB 165
 vendor: Innr
 title: Dimmable White Bulb E27
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Innr_RB_165.jpg
 zigbeemodel: ['RB 165']

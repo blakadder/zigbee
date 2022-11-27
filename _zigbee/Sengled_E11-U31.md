@@ -3,7 +3,7 @@ date_added: 2021-01-16
 model: E11-U31
 vendor: Sengled
 title: Element Touch B22 Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['E11-U21U31']
 compatible: [z2m]

@@ -2,7 +2,7 @@
 model: 74282
 vendor: Sylvania
 title: Smart+ Adjustable White MR16 Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/74282.jpg
 zigbeemodel: ['MR16 TW']

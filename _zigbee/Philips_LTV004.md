@@ -2,7 +2,7 @@
 model: LTV004
 vendor: Philips
 title: Hue White Ambiance E26 ST19 Filament Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: ['LTV004']
 compatible: [z2m]

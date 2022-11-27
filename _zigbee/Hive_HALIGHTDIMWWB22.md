@@ -2,7 +2,7 @@
 model: HALIGHTDIMWWB22
 vendor: Hive
 title: Light Dimmable Bulb B22
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Hive_HALIGHTDIMWWB22.jpg
 zigbeemodel: ['FWBulb02UK']

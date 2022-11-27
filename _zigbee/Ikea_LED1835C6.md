@@ -3,7 +3,7 @@ date_added: 2020-02-13
 model: LED1835C6
 vendor: IKEA
 title: Tradfri LED bulb E14 470 lumen, warm dimming, chandelier opal white
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/Ikea_LED1903C5.jpg
 zigbeemodel: ['TRADFRI bulb E14 WS 470lm',]

@@ -3,7 +3,7 @@ date_added: 2022-09-16
 model: HS2WDSC-E
 vendor: Heiman
 title: CCT 7W E27 Bulb
-category: light
+category: bulb
 zigbeemodel: ['TemperLight']
 compatible: [z2m]
 mlink: 

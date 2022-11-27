@@ -3,7 +3,7 @@ date_added: 2021-06-13
 model: 9CZA-A806ST-Q1Z
 vendor: Adeo
 title: Lexman E27 CCT Bulb
-category: light
+category: bulb
 type: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: ['LXEK-7']

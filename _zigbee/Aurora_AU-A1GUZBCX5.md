@@ -3,7 +3,7 @@ date_added: 2020-04-12
 model: AU-A1GUZBCX5
 vendor: Aurora
 title: AOne 5.4W Smart Tuneable GU10 Lamp
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: ['TWGU10Bulb50AU']
 compatible: [z2m]

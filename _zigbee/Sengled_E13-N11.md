@@ -3,7 +3,7 @@ date_added: 2021-07-20
 model: E13-N11
 vendor: Sengled
 title: Motion Sensor PAR38 Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['E13-N11', 'E13-A21']
 compatible: [deconz,z2m]

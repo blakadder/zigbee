@@ -3,7 +3,7 @@ date_added: 2021-08-23
 model: 9CZA-P470T-A1A
 vendor: Adeo
 title: Lexman E14 RGBW Bulb
-category: light
+category: bulb
 type: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['LXEK-3']

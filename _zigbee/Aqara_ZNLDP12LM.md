@@ -3,7 +3,7 @@ date_added: 2020-06-21
 model: ZNLDP12LM
 vendor: Aqara
 title: Led Bulb (Tunable White)
-category: light
+category: bulb
 type: E27 Bulb
 supports: on/off, brightness, colortemp
 zigbeemodel: ['lumi.light.aqcn02']

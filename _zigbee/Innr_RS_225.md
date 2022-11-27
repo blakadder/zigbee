@@ -2,7 +2,7 @@
 model: RS 225
 vendor: Innr
 title: Dimmable White Spot GU10 Bulb
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['RS 225']
 compatible: [z2m,iob]

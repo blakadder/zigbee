@@ -3,7 +3,7 @@ date_added: 2021-01-16
 model: 9CZA-G1521-Q1A
 vendor: Adeo
 title: Lexman Globe 95 E27 RGBW Bulb
-category: light
+category: bulb
 type: bulb
 supports: on/off, brightness, colortemp, colorxy
 zigbeemodel: ['LXEK-1']

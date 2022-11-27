@@ -3,7 +3,7 @@ date_added: 2020-04-01
 model: GL-S-004ZS
 vendor: Gledopto
 title: 4W MR16 Dual White and Color Plus 30°
-category: light
+category: bulb
 supports: on/off, brightness, colortemp, color
 image: /assets/images/devices/Gledopto_GL-S-004ZS.jpg
 zigbeemodel: ['GL-S-004ZS']

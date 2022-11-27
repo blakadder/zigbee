@@ -3,7 +3,7 @@ date_added: 2021-07-03
 model: LED2002G5
 vendor: IKEA
 title: Tradfri LED bulb E14 470 lumen, dimmable, white
-category: light
+category: bulb
 supports: on/off, brightness
 zigbeemodel: ['TRADFRIbulbE14WSglobeopal470lm']
 compatible: [z2m,deconz,zha]

@@ -3,7 +3,7 @@ date_added: 2020-02-09
 model: GP-LBU019BBAWU
 vendor: SmartThings
 title: Smart Bulb (2019)
-category: light
+category: bulb
 supports: on/off, brightness
 image: /assets/images/devices/SmartThings_GP-LBU019BBAWU.jpg
 zigbeemodel: ['zbt-dimlight-gls0006']

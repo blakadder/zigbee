@@ -3,7 +3,7 @@ date_added: 2020-05-15
 model: RS 229 T
 vendor: Innr
 title: Tunable White Spot Single Lens GU10 Bulb 
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/Innr_RS_229_T.jpg
 zigbeemodel:  ['RS 229 T']

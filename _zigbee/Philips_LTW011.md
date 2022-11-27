@@ -2,7 +2,7 @@
 model: LTW011
 vendor: Philips
 title: Hue White Ambiance BR30 680lm WW Bulb
-category: light
+category: bulb
 supports: on/off, brightness, colortemp
 image: /assets/images/devices/464800.jpg
 compatible: [zha,z2m,deconz]

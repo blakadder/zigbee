@@ -6,7 +6,7 @@ title: Presence Detector FP1
 category: sensor
 supports: presence, presence event, monitoring mode, approach distance, power outage count, motion sensitivity, reset nopresence status
 zigbeemodel: ['lumi.motion.ac01']
-compatible: [z2m, deconz, zha]
+compatible: [z2m, deconz, zha, z4d]
 deconz: 6070
 mlink: https://www.aqara.com/cn/productDetail/Aqara-Presence-Detector-FP1
 link: https://www.aliexpress.com/item/1005004450930450.html
@@ -15,4 +15,4 @@ pairing: "Press and hold the reset button on the device for +- 5 seconds (until 
 ---
 
 #### Note
-Regions not supported for now in Zigbee2MQTT.
+Regions not supported for now in Zigbee2MQT and Zigbeefordomoticz

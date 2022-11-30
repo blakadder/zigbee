@@ -5,7 +5,7 @@ model: TV02
 title: Thermostatic Radiator Valve Controller
 category: hvac
 type: trv
-supports: temperature, thermostat, battery, window detection, child lock
+supports: temperature, setpoint, thermostat, battery, window detection, child lock, anti-frost
 zigbeemodel: ['TS0601','_TZE200_hue3yfsn']
 compatible: [z2m, zha,z4d]
 z2m: TV02-Zigbee

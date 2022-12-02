@@ -10,5 +10,6 @@ link2: https://www.idealo.de/preisvergleich/OffersOfProduct/200333008_-gp-u999sj
 link3: https://www.future-x.de/samsung-smartthings-zwischenstecker-outlet-p-8575681/
 zigbeemodel: ['outletv4']
 compatible: [zha, z2m]
+z2m: STS-OUT-US-2
 ---
 

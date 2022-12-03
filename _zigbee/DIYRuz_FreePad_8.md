@@ -6,7 +6,7 @@ title: Remote Control with FreePad Firmware
 category: remote
 supports: action
 zigbeemodel: ['FreePad_LeTV_8']
-compatible: [z2m]
+compatible: [zha,z2m]
 mlink: https://github.com/diyruz/freepad/blob/master/README_LETV.md
 link: https://www.aliexpress.com/item/1005001962088229.html
 link2: 

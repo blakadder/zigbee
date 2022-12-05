@@ -1,0 +1,13 @@
+---
+date_added: 2022-12-06
+model: SNZB-02D
+vendor: Sonoff
+title: LCD Temperature Humidity Sensor
+category: sensor
+supports: temperature, humidity, battery
+zigbeemodel: ['SNZB-02D']
+compatible: [z2m]
+mlink: https://itead.cc/
+link: 
+link2: 
+---

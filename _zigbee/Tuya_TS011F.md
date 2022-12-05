@@ -5,7 +5,7 @@ vendor: Tuya
 title: Smart Plug 16A EU
 category: plug
 supports: on/off, power metering, voltage, current
-zigbeemodel: ['TS011F', '_TZ3000_cphmq0q7', '_TZ3000_ew3ldmgx', '_TZ3000_dpo1ysak', '_TZ3000_gjnozsaz', '_TZ3000_ksw8qtmt', '_TZ3000_hdopuwv6', '_TZ3000_typdpbpg', '_TZ3000_bfn1w0mm']
+zigbeemodel: ['TS011F', '_TZ3000_cphmq0q7', '_TZ3000_ew3ldmgx', '_TZ3000_dpo1ysak', '_TZ3000_gjnozsaz', '_TZ3000_ksw8qtmt', '_TZ3000_hdopuwv6', '_TZ3000_typdpbpg', '_TZ3000_bfn1w0mm', '_TZ3000_0zfrhq4i']
 compatible: [z2m, deconz, zha, z4d]
 z2m: TS011F_plug_3
 deconz: 4838

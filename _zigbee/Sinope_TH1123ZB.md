@@ -5,8 +5,7 @@ vendor: Sinope
 title: Smart thermostat for electric heating 3000 W / 4000 W
 category: hvac
 supports: occupied heating
-image: /assets/images/devices/Sinope_TH1123ZB.jpg
-zigbeemodel: ['TH1123ZB']
+zigbeemodel: ['TH1123ZB', 'TH1123ZB-G2']
 compatible: [z2m, deconz, zha]
 deconz: 2104
 mlink: https://www.sinopetech.com/en/product/smart-thermostat-for-electric-heating-3000-w-zigbee/

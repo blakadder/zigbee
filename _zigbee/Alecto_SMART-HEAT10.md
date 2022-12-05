@@ -3,7 +3,7 @@ date_added: 2021-11-24
 vendor: Alecto
 model: SMART-HEAT10
 title: Thermostatic Radiator Valve
-zigbeemodel: ['daqwrsj','_TYST11_8daqwrsj']
+zigbeemodel: ['daqwrsj','_TYST11_8daqwrsj', '_TZE200_8daqwrsj']
 category: hvac
 supports: climate, battery, window detection, child lock
 mlink: https://alectohome.com/collections/alecto_smart_thermostaten/products/alecto-smart-heat10-smart-zigbee-thermostaatkraan-wit

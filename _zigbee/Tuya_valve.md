@@ -3,7 +3,7 @@ date_added: 2021-03-11
 model: valve
 vendor: Tuya
 title: Gas/Water Valve (Upgraded Version)
-category: hvac
+category: misc
 supports: on/off
 zigbeemodel: ['TS011F', 'TS0001', '_TZ3000_rk2yzt0u', '_TZ3000_o4cjetlm','_TZ3000_h3noz0a5', '_TYZB01_4tlksk8a']
 compatible: [z2m, tasmota]

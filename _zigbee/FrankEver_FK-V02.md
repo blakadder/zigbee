@@ -3,7 +3,7 @@ date_added: 2021-04-30
 model: FK-V02
 vendor: Tuya
 title: Water Valve
-category: hvac
+category: misc
 supports: on/off
 zigbeemodel: ['TS0601','_TZE200_wt9agwf3'] 
 compatible: [z2m]

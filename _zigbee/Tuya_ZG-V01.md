@@ -3,7 +3,7 @@ date_added: 2021-10-29
 model: ZG-V01
 vendor: Tuya
 title: Gas/Water Valve
-category: hvac
+category: misc
 supports: on/off
 zigbeemodel: ['TS011F', '_TYZB01_ymcdbl3u']
 compatible: [zha,deconz]

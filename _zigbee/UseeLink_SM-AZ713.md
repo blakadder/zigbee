@@ -3,7 +3,7 @@ date_added: 2020-12-13
 model: SM-AZ713
 vendor: UseeLink
 title: Water/Gas Valve
-category: hvac
+category: misc
 supports: on/off
 zigbeemodel: ['TS011F']
 compatible: [z2m]

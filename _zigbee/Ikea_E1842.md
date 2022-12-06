@@ -3,7 +3,7 @@ date_added: 2021-01-24
 model: E1842
 vendor: IKEA
 title: Knycklan Dishwasher Valve Receiver
-category: hvac
+category: misc
 supports: on/off
 zigbeemodel: ['KNYCKLAN receiver']
 compatible: [z2m,zha,deconz]

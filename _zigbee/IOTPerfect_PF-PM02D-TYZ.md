@@ -3,7 +3,7 @@ date_added: 2021-08-24
 model: PF-PM02D-TYZ
 vendor: IOTPerfect
 title: Gas/Water Valve
-category: switch
+category: misc
 supports: on/off
 zigbeemodel: ['TS0601', '_TZE200_vrjkcam9']
 compatible: [z2m,tasmota]

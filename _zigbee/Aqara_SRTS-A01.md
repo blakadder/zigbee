@@ -4,7 +4,7 @@ model: SRTS-A01
 vendor: Aqara
 title: Smart Radiator Thermostat E1
 category: hvac
-supports:
+supports: thermostat, battery
 zigbeemodel: ['lumi.airrtc.agl001']
 compatible: [z2m]
 mlink: https://www.aqara.com/eu/product/radiator-thermostat-e1

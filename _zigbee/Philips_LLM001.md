@@ -1,7 +1,7 @@
 ---
 date_added: 2020-04-02
 model: LLM001
-z2m: 7121131PU
+z2m: 7121131PU/7120031PH/7120131PH/7120231PU
 vendor: Philips
 title: Hue Beyond Suspension Light
 category: light

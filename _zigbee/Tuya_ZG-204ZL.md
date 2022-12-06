@@ -9,6 +9,6 @@ link: https://www.aliexpress.com/item/1005004018051598.html
 link2: https://www.aliexpress.com/item/1005004095233195.html
 link3: https://www.aliexpress.com/item/1005004295765145.html
 link4: 
-zigbeemodel: ['_TZE200_3towulqd', 'TS0601', '_TZE200_1ibpyhdc']
-compatible: z2m
+zigbeemodel: ['TS0601', '_TZE200_3towulqd', '_TZE200_1ibpyhdc', '_TZE200_bh3n6gk8']
+compatible: [z2m]
 ---

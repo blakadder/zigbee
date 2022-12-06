@@ -7,7 +7,7 @@ category: bulb
 supports: brightness
 zigbeemodel: ['IM-Z3.0-DIM']
 compatible: [z2m,iob]
-z2m: 07005B
+z2m: 07001L/07005B
 mlink: https://www.immaxneo.cz/en/products/immax-neo-smart-led-e14-5w-warm-white-dimmable-zigbee-3-0/
 link: https://www.amazon.de/dp/B07SZ7WQ5K
 link2: https://www.amazon.se/dp/B07MT95HFN/

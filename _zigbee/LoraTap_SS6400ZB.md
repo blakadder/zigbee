@@ -11,8 +11,5 @@ mlink:
 link: https://www.aliexpress.com/item/1005002872683331.html
 link2: https://www.domadoo.fr/en/peripheriques/6015-loratap-zigbee-30-4-buttons-remote-control.html
 link3: 
+pairing: "Press and hold any button on the device for +- 5 seconds (until the yellow light starts blinking). After this the device will automatically join. You may have to press a button once more if a confirmation is necessary."
 ---
-### Pairing
-Press and hold any button on the device for +- 5 seconds (until the yellow light starts blinking).
-After this the device will automatically join. 
-You may have to press a button once more if a confirmation is necessary.

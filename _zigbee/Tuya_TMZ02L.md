@@ -5,7 +5,7 @@ vendor: Tuya
 title: Mini Switch Module 16A No Neutral
 category: switch
 supports: on/off
-zigbeemodel: ['TS0011', '_TZ3000_v7sopte0', '_TZ3000_3a9beq8a']
+zigbeemodel: ['TS0001', '_TZ3000_v7sopte0', '_TZ3000_3a9beq8a']
 compatible: [tasmota, deconz, z4d, zha]
 mlink: https://expo.tuya.com/product/866033
 link: https://www.aliexpress.com/item/1005003379842469.html

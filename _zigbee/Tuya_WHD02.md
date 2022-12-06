@@ -1,7 +1,7 @@
 ---
 date_added: 2021-04-11
 model: WHD02
-vendor: Generic
+vendor: Tuya
 title: Mini Smart Switch 10A/16A
 category: switch
 supports: on/off

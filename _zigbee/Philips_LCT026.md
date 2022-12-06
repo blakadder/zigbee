@@ -6,7 +6,7 @@ title: Hue Go Bluetooth Portable Light
 category: light
 supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCT026.jpg
-zigbeemodel: ['LCT026','7602031P7']
+zigbeemodel: ['LCT026', '7602031P7', '7602031U7', '7602031PU', '7602031J6']
 compatible: [z2m,deconz,z4d,iob,zha]
 z2m: 7602031P7
 mlink: https://www.philips-hue.com/de-at/p/hue-white-and-color-ambiance-go-tragbare-leuchte-(neuestes-modell)/7602031P7

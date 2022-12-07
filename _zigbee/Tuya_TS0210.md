@@ -5,7 +5,7 @@ vendor: Tuya
 title: Vibration Sensor
 category: sensor
 supports: vibration, battery, sensitivity
-zigbeemodel: ['TS0210', '_TYZB01_3zv6oleo', '_TYZB01_j9xxahcl']
+zigbeemodel: ['TS0210', '_TYZB01_3zv6oleo', '_TYZB01_j9xxahcl', '_TZ3000_bmfw9ykl']
 compatible: [z2m, zha, deconz]
 deconz: 4904
 mlink: https://expo.tuya.com/product/753051

@@ -4,8 +4,9 @@ model: 07505L
 vendor: Immax
 title: Neo Smart Keyboard
 category: remote
+supports: action, tamper
 zigbeemodel: ['TS0601', '_TZE200_n9clpsht']
-compatible: []
+compatible: [z2m]
 mlink: https://www.immaxneo.cz/en/products/security/immax-neo-smart-keyfob/
 link: https://www.domadoo.fr/en/peripheriques/6338-immax-tuya-indoor-zigbee-30-smart-code-keypad-ip20.html
 link2: 

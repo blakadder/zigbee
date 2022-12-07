@@ -6,7 +6,7 @@ title: Hue Lily Outdoor Spot Light RGBCCT
 category: light
 supports: brightness, colortemp, colorxy
 image: /assets/images/devices/Philips_LCS001.jpg
-zigbeemodel: ['LCS001']
+zigbeemodel: ['LCS001', '1741830P7']
 compatible: [z2m,zha]
 mlink: https://www2.meethue.com/en-us/p/hue-white-and-color-ambiance-lily-outdoor-spot-light/1741730V7
 link: https://www.amazon.com/Philips-Ambiance-Outdoor-mounting-Assistant/dp/B07DBGW73T

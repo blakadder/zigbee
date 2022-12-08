@@ -9,7 +9,5 @@ zigbeemodel: ['S1 (5501)']
 compatible: [z2m, deconz]
 deconz: 5707
 mlink: https://www.ubisys.de/en/products/light-and-consumers/power-switch-s1/
-link: https://www.smarthome-store.de/en/ubisys-home-automation/leistungsschalter-s1.html/
-link2: https://www.lightech.de/leistungsschalter-s1/a-1047348
-link3: 
+link: https://www.amazon.de/dp/B08643Q7BG/
 ---

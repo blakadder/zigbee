@@ -10,7 +10,7 @@ compatible: [tasmota, z2m, zha]
 mlink: 
 link: https://www.aliexpress.com/item/1005004221200643.html
 link2: https://www.amazon.com/dp/B0B1JN6KZX
-link3: 
+link3: https://www.aliexpress.com/item/1005004208466976.html
 ---
 
 ## Tasmota

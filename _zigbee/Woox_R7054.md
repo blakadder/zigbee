@@ -6,7 +6,7 @@ title: Smart Remote Control
 category: remote
 supports: action, batterypct
 actions: disarm, arm day zones, arm_night_zones, arm_all_zones, invalid_code, emergency
-zigbeemodel: ['TS0215A','_TZ3000_p6ju8myv']
+zigbeemodel: ['TS0215A', '_TZ3000_p6ju8myv', '_TZ3000_0zrccfgx']
 compatible: [z2m, deconz]
 z2m: TS0215A_remote
 deconz: 6506

@@ -22,3 +22,6 @@ EAN:
 
 ## Pairing
 Hold left rocker for 10s until LEDs start flashing
+
+### Note
+ZHA only sees the switch in Alt mode, treating both buttons as one, and only detecting a single click.

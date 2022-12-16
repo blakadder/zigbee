@@ -5,12 +5,12 @@ vendor: Tuya
 title: Switch Module 3 Channel No Neutral
 category: switch
 supports: on/off, power on behaviour
-zigbeemodel: ['TS0013', '_TZ3000_jl7qyupf']
+zigbeemodel: ['TS0013', '_TZ3000_jl7qyupf', '_TZ3000_ypgri8yz']
 compatible: [z2m, zha, z4d, deconz, tasmota]
 z2m: TS0013_switch_module
 mlink: https://expo.tuya.com/product/906025
 link: https://www.aliexpress.com/item/1005003108226482.html
-link2: 
+link2: https://www.aliexpress.com/item/1005003438720832.html
 link3: 
 ---
 

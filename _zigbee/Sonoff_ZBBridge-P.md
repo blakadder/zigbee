@@ -21,9 +21,13 @@ Once flashed, follow the coordinator firmware flashing Instructions from NotEnou
 [Tasmota GitHub Discussion](https://github.com/arendst/Tasmota/discussions/14419)
 
 ## For Home Assistant (ZHA or Zigbee2MQTT)
-This mode creates a TCP bridge from the zigbee module to Home Assistant or Zigbee2MQTT. In this case Tasmota is only relaying all the messages from the zigbee module and **you cannot use any Zigbee commands in Tasmota console in this mode. All setup needs to be done from the Home Assistant ZHA integration or.**
+This mode creates a TCP bridge from the zigbee module to Home Assistant or Zigbee2MQTT. In this case Tasmota is only relaying all the messages from the zigbee module and **you cannot use any Zigbee commands in Tasmota console in this mode. All setup needs to be done from the Home Assistant ZHA integration or Zigbee2MQTT addon.**
+### Auto Configuration
+After Zigbee firmware is flashed and confirmed working in Zigbee2Tasmota mode, open the web UI of the device and navigate to **Configuration -> Auto-configuration**. Select **Sonoff ZBPro TCP** from the drop-down and click **Apply Configuration**.  
+The device will restart and will be automagically configured.
 
-After Zigbee firmware is flashed and confirmed working in ZIgbee2Tasmota mode, apply the template:
+### Manual Configuration
+After Zigbee firmware is flashed and confirmed working in Zigbee2Tasmota mode, apply the template:
 ```json
 {"NAME":"TCP ZBBridge Pro","GPIO":[0,0,576,0,480,0,0,0,0,1,1,5792,0,0,0,5472,0,320,5793,5504,0,640,608,32,0,0,0,0,0,1,0,0,0,0,0,0],"FLAG":0,"BASE":1}
 ```

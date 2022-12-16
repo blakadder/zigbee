@@ -12,7 +12,7 @@ link: https://www.amazon.com/dp/B08BFT44QL/
 link2: https://www.aliexpress.com/af/sonoff-zbbridge.html
 link3: https://www.banggood.com/SONOFF-ZBBridge-Smart-Bridge-p-1674754.html
 link4: https://www.amazon.de/dp/B08DRBPCPQ
-link5: https://www.aliexpress.com/wholesale?SearchText=zbbridge
+link5: https://www.geekbuying.com/item/ONOFF-ZB-Bridge-497819.html
 ---
 
 ITead Sonoff ZBBridge Zigbee Bridge is based on an Espressif ESP8266/ESP8285 and an "SM-011 V1.0" radio SiP module by CoolKit-Technologies (based on Silicon Labs EFR32MG21 MCU).

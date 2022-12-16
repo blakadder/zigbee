@@ -13,6 +13,7 @@ mlink: https://www.moeshouse.com/collections/zigbee/products/zigbee-smart-bright
 link: https://www.aliexpress.com/item/1005002525279564.html
 link2: https://www.banggood.com/MoesHouse-Smart-ZigBee-or-bluetooth-Mesh-Brightness-Thermometer-Light-Temperature-Humidity-Detector-Tuya-Smart-App-Alexa-Control-p-1842856.html
 link3: https://www.domadoo.fr/en/domotique/5789-moes-capteur-de-temperature-humidite-et-luminosite-zigbee.html
+link4: 
 pairing: "Hold the orange button until three dots appear at the top left of the screen."
 ---
 This device will not work correctly unless previously paired with a Tuya compatible gateway. It may also work with Sonoff dongles (such as the [ZB Dongle-P](/Sonoff_ZBDongle-P.html)), but not with Sonoff minis.

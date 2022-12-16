@@ -8,8 +8,8 @@ supports: temperature, humidity
 zigbeemodel: ['TH01','66666']
 compatible: [z2m, iob, zha, z4d, deconz, tasmota]
 deconz: 6432
-mlink: https://sonoff.tech/product/smart-home-security/snzb-02/
-link: https://itead.cc/product/sonoff-snzb-02-zigbee-temperature-and-humidity-sensor/
+mlink: https://itead.cc/product/sonoff-snzb-02-zigbee-temperature-and-humidity-sensor/
+link: https://www.geekbuying.com/item/SONOFF-SNZB-02-ZigBee-Temperature-And-Humidity-Sensor-497991.html
 link2: https://www.aliexpress.com/item/1005001275204366.html
 link3: https://www.banggood.com/SONOFF-SNZB-02-ZB-Temperature-And-Humidity-Sensor-Work-with-SONOFF-ZBBridge-Real-time-Data-Check-Via-eWeLink-APP-p-1715999.html
 link4: https://www.domadoo.fr/en/peripheriques/5319-sonoff-capteur-de-temperature-et-d-humidite-zigbee-30.html

@@ -12,5 +12,5 @@ deconz: 3066
 mlink: https://www.xiaomiyoupin.com/detail?gid=118900
 link: https://www.aliexpress.com/item/4000804886280.html
 link2: https://www.banggood.com/Aqara-D1-1-Gang-or-2-Gang-ZigBee-Smart-Wireless-Switch-APP-Remote-Control-Timer-Work-with-MIJIA-APP-HomeKit-p-1644321.html
-link3: 
+link3: https://www.geekbuying.com/item/Aqara-Wireless-Smart-Wall-Switch-Double-Button-480330.html
 ---

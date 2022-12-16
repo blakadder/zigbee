@@ -11,6 +11,6 @@ tasmota: TZ3000_ywagc4rj
 mlink: https://www.moeshouse.com/products/smart-zigbee-temperature-and-humidity-sensor-indoor-hygrometer-thermometer-detector
 link: https://www.aliexpress.com/item/1005004493299407.html
 link2: https://www.aliexpress.com/item/1005004443497564.html
-link3: 
+link3: https://www.geekbuying.com/item/MoesHouse-ZigBee-Smart-Temperature-Humidity-Sensor-Square-517787.html
 ---
 

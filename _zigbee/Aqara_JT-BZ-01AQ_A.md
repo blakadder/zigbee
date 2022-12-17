@@ -9,6 +9,7 @@ zigbeemodel: ['lumi.sensor_gas.acn02']
 compatible: [z2m]
 mlink: https://www.aqara.com/cn/productDetail/Aqara%20Smart%20Natural%20Gas%20Detector
 link: https://aliexpress.com/item/1005003815621928.html
+link2: https://www.walmart.com/ip/Aqara-Smart-Natural-Gas-Detector-Zigbee-Gas-Leak-Alarm-Intelligent-Linkage-Smart-Home/1239907190
 ---
 
 ###### Pairing

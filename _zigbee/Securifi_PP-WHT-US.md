@@ -8,8 +8,8 @@ image: /assets/images/devices/Securifi_PP-WHT-US.jpg
 zigbeemodel: ['PP-WHT-US']
 compatible: [z2m]
 mlink: https://www.securifi.com/rg/securifi-peanut-plug
-link: https://www.amazon.com/Securifi-compatible-Remotely-Monitor-Appliances/dp/B00TC9NC82
-link2: 
+link: https://www.amazon.com/dp/B00TC9NC82
+link2: https://www.walmart.com/ip/Securifi-Peanut-Smart-Plug-Hub-Required/46203400
 link3: 
 ---
 ### Pairing

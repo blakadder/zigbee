@@ -9,7 +9,7 @@ zigbeemodel: ['DG6HD']
 compatible: [z2m]
 mlink: https://www.leviton.com/en/products/dg6hd-1bw
 link: https://www.amazon.com/dp/B000U39QRK/
-link2: 
+link2: https://www.walmart.com/ip/Leviton-DG6HD-1BW-Decora-Smart-Zigbee-3-0-Dimmer-Wall-Switch-600W/587288145
 link3: 
 EAN: '078477269848'
 ---

@@ -8,8 +8,8 @@ supports: on/off
 image: /assets/images/devices/Sonoff_S31ZB.jpg
 zigbeemodel: ['S31 Lite zb']
 compatible: [z2m,deconz,zha]
-mlink: https://sonoff.tech/product/zigbee-smart-plugs/sonoff-s31-lite-zb
-link: https://itead.cc/product/sonoff-s31-lite-zb/
+mlink: https://itead.cc/product/sonoff-s31-lite-zb/
+link: https://www.walmart.com/ip/SONOFF-S31-Lite-Mini-Zigbee-Smart-Plug-Works-with-SmartThings-Alexa-ETL-FCC-Listed-Smart-Outlets-Smart-Home/1989488353?athbdg=L1700
 link4: https://www.amazon.com/SONOFF-Zigbee-SmartThings-Amazon-Needed/dp/B082PSKRSP/
 link2: https://www.banggood.com/SONOFF-S31-Lite-Zb-Smart-Plug-Switch-US-Type-Zig-bee-Version-p-1613320.html
 link3: https://www.aliexpress.com/item/4000448331525.html

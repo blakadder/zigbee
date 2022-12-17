@@ -48,6 +48,8 @@
 {{ link | remove_first: 'https://' | uri_escape | prepend: "https://affiliate.geekbuying.com/deeplink.php?affid=3873&url=" }}
 {% elsif link contains "itead.cc" %}
 {{ link | append: "/ref/34/" }}
+{% elsif link contains "walmart.com" %}
+{{ link | remove_first: 'https://' | uri_escape | prepend: "https://ad.admitad.com/g/4jg2ecwjgpa026925063bef27d4341/?ulp=" }}
 {% elsif link contains "ledbe.com" %}
 {{ link | remove_first: 'https://' | uri_escape | prepend: "https://shareasale.com/r.cfm?b=1726402&u=2442238&m=107603&urllink="  }}
 {% elsif link contains "linkind" %}

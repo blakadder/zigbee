@@ -10,4 +10,5 @@ compatible: [z2m, zha]
 mlink: https://szneo.com/en/products/show.php?id=239
 link: https://www.aliexpress.com/item/1005002339649035.html
 link2: https://www.domadoo.fr/en/peripheriques/6365-neo-motion-detector-temperature-and-humidity-zigbee-30-tuya-power-supply-5v1a-or-2x-cr123a.html
+link3: https://www.walmart.com/ip/Machinehome-Neo-Coolcam-ZigBee-Smart-Sensor-Home-Office-Warehouse-PIR-Motion-Sensor-with-Temperature-Humidity-Detection/632016715
 ---

@@ -12,5 +12,5 @@ compatible: [z2m,iob,zha,deconz]
 mlink: https://szneo.com/en/products/show.php?id=241
 link: https://www.aliexpress.com/item/4000687509921.html
 link2: https://www.aliexpress.com/item/4000813903996.html
-link3: 
+link3: https://www.walmart.com/ip/Neo-Coolcam-ZigBee-Smart-Sensor-Alarm-Indoor-Temperature-Humidity-Sensor-Siren-Home-Smart-Alarm/161237851
 ---

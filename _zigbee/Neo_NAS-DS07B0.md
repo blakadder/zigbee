@@ -12,7 +12,7 @@ z2m: SNTZ007
 mlink: https://www.szneo.com/en/products/show.php?id=238
 link: https://www.aliexpress.com/item/4001064353643.html
 link2: https://www.amazon.co.uk/dp/B089M79LWZ/
-link3: 
+link3: https://www.walmart.com/ip/NEO-ZigBee-Door-Sensor-Tuya-APP-Control-Door-Window-Opening-Alarm-Sensor-Magnetic-Switch-Wireless-Detector-Smart-Home/724440204
 ---
 
 

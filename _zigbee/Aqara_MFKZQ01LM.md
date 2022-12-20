@@ -1,7 +1,7 @@
 ---
 model: MFKZQ01LM
 vendor: Aqara
-title: Cube Controller
+title: Cube
 category: remote
 supports: action, batterypct
 action: shake, wakeup, fall, tap, slide, flip180, flip90, rotate_left, rotate_right

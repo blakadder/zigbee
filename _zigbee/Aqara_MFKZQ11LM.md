@@ -2,7 +2,7 @@
 date_added: 2021-05-11
 model: MFKZQ11LM
 vendor: Aqara
-title: Cube Controller T1
+title: Cube T1
 category: remote
 type: Controller
 supports: action, batterypct

@@ -7,14 +7,15 @@ category: coordinator
 supports: coordinator
 zigbeemodel:
 compatible: [z2m, zha, z4d]
-mlink: https://sonoff.tech/product/diy-smart-switch/sonoff-dongle-plus/
-link: https://itead.cc/product/sonoff-zigbee-3-0-usb-dongle-plus/
+mlink: https://itead.cc/product/sonoff-zigbee-3-0-usb-dongle-plus/
+link: https://www.amazon.de/gp/product/B09KXTCMSC
 link2: https://cloudfree.shop/product/sonoff-zigbee-3-0-dongle/
 link3: https://www.domadoo.fr/en/interface-domotique/5976-sonoff-cle-usb-zigbee-30-antenne-externe-20dbm-compatible-zha-zigbee2mqtt.html
 link4: https://www.aliexpress.com/item/1005003758328408.html
 ---
 
 ## Firmware Upgrade
+
 Install Python ([Windows install link](https://www.python.org/downloads/windows/)) and required dependencies using `pip3 install pyserial intelhex`.
 
 Download flashing tool from: https://github.com/JelmerT/cc2538-bsl

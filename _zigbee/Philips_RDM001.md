@@ -21,3 +21,10 @@ EAN:
 
 ### Pairing
 Pairing is done by resetting the device (press the reset Button for 10 Seconds) and shorting the two pins afterwards. 
+
+### Configuration
+Depending on your gateway, additional configuration might be required to enable the second switch input. The attribute `mode (0x0034)` might be changed to the correct value:
+- `0` - single rocker type switch
+- `1` - single push button type switch
+- `2` - double rocker type switch
+- `3` - double push button type switch

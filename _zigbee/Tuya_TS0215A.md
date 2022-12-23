@@ -6,7 +6,7 @@ title: SOS Button
 category: remote
 supports: action, batterypct
 zigbeemodel: ['TS0215A', '_TZ3000_4fsgukof', '_TZ3000_wr2ucaj9', '_TZ3000_zsh6uat3', '_TZ3000_pkfazisv', '_TZ3000_2izubafb', '_TZ3000_ug1vtuzn']
-compatible: [z2m]
+compatible: [z2m,deconz]
 z2m: TS0215A_sos
 mlink: 
 link: https://www.aliexpress.com/item/4001053429015.html

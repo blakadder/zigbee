@@ -7,7 +7,7 @@ category: bulb
 supports: brightness
 image: /assets/images/devices/Ikea_LED1903C5.jpg
 zigbeemodel: ['TRADFRI bulb E14 WS 470lm',]
-compatible: [z2m,iob, z4d,zha]
+compatible: [z2m,iob,deconz,z4d,zha]
 z2m: LED1903C5/LED1835C6
 mlink: https://www.ikea.com/gb/en/p/tradfri-led-bulb-e14-470-lumen-wireless-dimmable-white-spectrum-white-spectrum-wireless-dimmable-chandelier-opal-white-chandelier-opal-white-70424312/
 link: 

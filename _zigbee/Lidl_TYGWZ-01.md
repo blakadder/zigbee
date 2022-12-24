@@ -14,7 +14,7 @@ link2: https://www.idealo.de/preisvergleich/OffersOfProduct/200961757_-gateway-z
 
 ## Retrieve Root Password
 
-Method courtesy Of Paul Banks [here](https://paulbanks.org/projects/lidl-zigbee/root.html) and [here](https://paulbanks.org/projects/lidl-zigbee/ha.html)
+Method courtesy Of Paul Banks [here](https://paulbanks.org/projects/lidl-zigbee/root/) and [here](https://paulbanks.org/projects/lidl-zigbee/ha/)
 
 Pry the device open, there are 8 clips around the edges.
 

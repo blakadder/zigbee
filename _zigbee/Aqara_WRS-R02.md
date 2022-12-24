@@ -24,4 +24,4 @@ EAN:
 Hold left rocker for 10s until LEDs start flashing
 
 ### Note
-ZHA only sees the switch in Alt mode, treating both buttons as one, and only detecting a single click.
+ZHA only sees the switch in Alt mode by default, treating both buttons as one, and only detecting a single click. To change the operation mode see [this comment](https://github.com/zigpy/zha-device-handlers/issues/940#issuecomment-1001107154)

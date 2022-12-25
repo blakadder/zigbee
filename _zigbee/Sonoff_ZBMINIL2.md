@@ -2,7 +2,7 @@
 date_added: 2022-12-24
 model: ZBMINIL2
 vendor: Sonoff
-title: Mini Relay No Neutral
+title: ZBMINI Extreme No Neutral Relay Module
 category: switch
 supports: on/off
 zigbeemodel: ['ZBMINIL2']

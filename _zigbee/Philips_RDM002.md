@@ -6,7 +6,7 @@ title: Hue Tap Dial EU (White/Black)
 category: remote
 supports: action, battery
 zigbeemodel: ['RDM002']
-compatible: [z2m, deconz]
+compatible: [z2m, deconz, zha]
 deconz: 6160
 z2m: 8719514440937/8719514440999
 mlink: https://www.philips-hue.com/en-gb/p/hue-tap-switch/8719514440999

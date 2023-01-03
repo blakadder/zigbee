@@ -81,7 +81,8 @@ Create a rule in Tasmota to start TCPBridge on boot:
 ```console
 Rule1 ON System#Boot do TCPStart 8888 endon
 ```
-Activate the rule with `Rule1 1`
+
+Activate the rule with `Rule1 1` and restart ZBBridge.
 
 > You can change `8888` to a port you prefer.
 

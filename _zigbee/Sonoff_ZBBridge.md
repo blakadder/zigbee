@@ -79,14 +79,16 @@ After Zigbee firmware is flashed and confirmed working in ZIgbee2Tasmota mode, a
 
 Create a rule in Tasmota to start TCPBridge on boot:
 ```console
-Backlog Rule1 ON System#Boot do TCPStart 8888 endon; Rule1 1
+Rule1 ON System#Boot do TCPStart 8888 endon
 ```
+Activate the rule with `Rule1 1`
 
 > You can change `8888` to a port you prefer.
 
-You can run the following command in the Tasmota console to apply the the above two settings in a single command:
+You can run this command in Tasmota console to apply the template and the required rule in a single command:
+
 ```console
-Backlog Rule1 on system#boot do TCPStart 8888 endon ; Rule1 1 ; template {"NAME":"Sonoff ZHABridge","GPIO":[56,208,0,209,59,58,0,0,0,0,0,0,17],"FLAG":0,"BASE":18} ; module 0
+Backlog Template {"NAME":"Sonoff ZHABridge","GPIO":[56,208,0,209,59,58,0,0,0,0,0,0,17],"FLAG":0,"BASE":18,"CMND":"Rule1 on system#boot do TCPStart 8888 endon"} ; Rule1 1; Module 0
 ```
 Restart the ZBBridge.
 

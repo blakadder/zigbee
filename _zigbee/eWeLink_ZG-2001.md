@@ -7,7 +7,7 @@ category: switch
 type: relay
 supports: on/off
 zigbeemodel: ['ZB-SW02']
-compatible: [tasmota, z2m]
+compatible: [tasmota, z2m, z4d]
 mlink: 
 link: https://www.aliexpress.com/item/1005002347566295.html
 link2: 

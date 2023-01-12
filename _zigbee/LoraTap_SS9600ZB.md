@@ -11,3 +11,5 @@ z2m: TS0046
 mlink: 
 link: https://www.aliexpress.com/item/1005003731082631.html
 ---
+## Pairing
+To pair the device, press and hold any of the buttons for 10 seconds until the yellow indicator light flashes.

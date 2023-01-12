@@ -15,3 +15,8 @@ link2: https://www.domadoo.fr/en/peripheriques/5712-loratap-telecommande-zigbee-
 
 ## Pairing
 To pair the device, open it with a screwdriver and press the pairing button for 5 seconds until the yellow indicator light flashes.
+
+## Pairing (Alternative Method)
+To pair the device, press and hold any of the buttons for 10 seconds until the yellow indicator light flashes.
+
+The model which I received required a double-inclusion - when first added, ZHA said the device was configured but the buttons did not trigger events and the yellow indicator light continued to flash. In this case, open the switch, remove and replace the battery and pair the device a second time.

@@ -16,3 +16,9 @@ link3:
 ---
 
 Comes under diffent brands such as Zemismart, MoesHouse and Livolo
+
+To pair them, press the set and the down buttons for 3 seconds, the led will be blinking blue. 
+With Deconz, this is a bit tricky and is a 2 step process to expose the node to the upper layer (Home Assistant in this example). 
+1. In Phoscon, start the pairing process for a new light. Nothing will show up there. 
+2. Go to deConz, the new node will appear there as a battery. 
+3. Right click on the node and click on "Read node descriptor" and "Read simple descriptor", then they will show up as Smart Plug with a number.

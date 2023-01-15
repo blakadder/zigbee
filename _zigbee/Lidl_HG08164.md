@@ -13,4 +13,7 @@ pairing: "Press connection button for 6 sec. to get to pairing mode.  A LED at t
 ---
 
 ## ZHA
-In ZHA it only shows a switch, which is turned off when double clicked and turned on when single clicked. 
+In ZHA it only shows a switch, which is turned off when double clicked and turned on when single clicked.
+
+Workaround is available, works fine after manual configuration:
+https://community.home-assistant.io/t/silver-crest-lidl-smart-button/436342/8

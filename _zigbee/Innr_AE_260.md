@@ -6,7 +6,7 @@ title: Dimmable White Bulb E26
 category: bulb
 supports: brightness
 zigbeemodel: ['AE 260']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: 
 link: https://www.amazon.com/Philips-SmartThings-Required-Dimmable-Equivalent/dp/B07RYVW9SD
 link2: 

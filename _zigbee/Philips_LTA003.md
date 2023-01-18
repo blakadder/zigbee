@@ -5,7 +5,7 @@ title: Hue White Ambiance A19 E26 Bluetooth
 category: bulb
 supports: brightness, colortemp
 zigbeemodel: ['LTA003']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: 
 link: 
 link2: 

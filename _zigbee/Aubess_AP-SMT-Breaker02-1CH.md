@@ -6,7 +6,7 @@ title: Power Monitoring Switch
 category: switch
 supports: on/off
 zigbeemodel: ['TS0001', '_TZ3000_xkap8wtb']
-compatible: [z2m, tasmota]
+compatible: [z2m, tasmota, z4d]
 z2m: TS0001_power
 tasmota: TS0001_switch
 mlink: 

@@ -11,11 +11,5 @@ mlink:
 link: https://www.aliexpress.com/item/1005004221200643.html
 link2: https://www.amazon.com/dp/B0B1JN6KZX
 link3: https://www.aliexpress.com/item/1005004208466976.html
+tasmota: TZE200_sh1btabb
 ---
-
-## Tasmota
-_Requires Tasmota v12.1.0.1+_ 
-
-<a class="button" href="{{ page.url | remove: '.html' | prepend: '/assets/configs/' | append: '.zb' }}">Configuration</a>
-
-Download the configuration file and put it in the file-system of Tasmota. It should be loaded automatically and provide the mapping for the device.

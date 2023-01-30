@@ -82,9 +82,16 @@ Create a rule in Tasmota to start TCPBridge on boot:
 Rule1 ON System#Boot do TCPStart 8888 endon
 ```
 
+Activate the rule with `Rule1 1` and restart ZBBridge.
+
 > You can change `8888` to a port you prefer.
 
-Enable rule with `Rule1 1` and restart ZbBridge.
+You can run this command in Tasmota console to apply the template and the required rule in a single command:
+
+```console
+Backlog Template {"NAME":"Sonoff ZHABridge","GPIO":[56,208,0,209,59,58,0,0,0,0,0,0,17],"FLAG":0,"BASE":18,"CMND":"Rule1 on system#boot do TCPStart 8888 endon"} ; Rule1 1; Module 0
+```
+Restart the ZBBridge.
 
 In Home Assistant (requires version 0.113+) go to **Configuration - Integrations**, click the **+** icon, search for ZHA integration and select it. 
 

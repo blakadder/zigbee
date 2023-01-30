@@ -9,7 +9,7 @@ supports: brightness, colortemp, colorxy
 mlink: 
 link: https://www.aliexpress.com/item/1005002483909414.html
 zigbeemodel: ['ZB-CL01']
-compatible: [z2m,zha,tasmota]
+compatible: [z2m,zha,tasmota,z4d]
 ---
 
 ## Pairing

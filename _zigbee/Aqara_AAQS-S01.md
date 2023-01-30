@@ -14,7 +14,7 @@ link4: https://www.banggood.com/Aqara-Indoor-Air-Quality-Monitor-Pollution-Meter
 link5: https://www.idealo.de/preisvergleich/OffersOfProduct/201654658_-tvoc-air-quality-monitor-homekit-aaqs-s01-aqara.html
 link6: https://aliexpress.com/item/1005003815597902.html
 zigbeemodel: ['lumi.airmonitor.acn01']
-compatible: [zha, tasmota, z2m, deconz]
+compatible: [zha, tasmota, z2m, deconz, z4d]
 deconz: 4704
 EAN: VOCKQJK11LM
 ---

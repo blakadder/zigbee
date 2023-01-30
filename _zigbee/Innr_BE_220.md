@@ -7,7 +7,7 @@ category: bulb
 type: Bulb
 supports: brightness
 zigbeemodel: ['BE 220']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: 
 link: https://www.amazon.com/dp/B07SD8SGZT
 link2: 

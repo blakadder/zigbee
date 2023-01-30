@@ -6,7 +6,7 @@ title: RaspBee Raspberry Pi Zigbee Gateway
 category: coordinator
 supports: coordinator
 zigbeeid: none
-compatible: [deconz,zha]
+compatible: [deconz,zha,z4d]
 mlink: https://phoscon.de/en/raspbee
 link: https://www.amazon.com/dp/B00E6300DO
 link2: https://www.reichelt.com/de/de/zigbee-usb-gateway-smart-home-deconz-ii-p260151.html
@@ -29,6 +29,7 @@ Compatible with following Home Automation solutions:
 - [Mozilla IoT](https://iot.mozilla.org/gateway/)
 - [ioBroker](https://github.com/iobroker-community-adapters/ioBroker.deconz)
 - [Domoticz](https://github.com/Smanar/Domoticz-deCONZ)
+- [Domoticz](https://github.com/zigbeefordomoticz/Domoticz-Zigbee)
 - [Jeedom](https://jeedom.github.io/plugin-deconz/fr_FR)
 - [Node-RED](https://github.com/andreypopov/node-red-contrib-deconz)
 - [Symcon](https://www.symcon.de/forum/threads/41088-Modul-ZigBee-DeCONZ)

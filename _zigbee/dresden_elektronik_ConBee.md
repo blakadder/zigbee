@@ -5,7 +5,7 @@ title: ConBee Zigbee USB Gateway
 category: coordinator
 supports: coordinator
 zigbeeid: none
-compatible: [deconz,zha]
+compatible: [deconz,zha,z4d]
 mlink: https://phoscon.de/en/conbee
 link: https://www.amazon.de/dp/B01FDWOIHK/
 link2: 
@@ -19,7 +19,7 @@ Zigbee Home Automation 1.2 (ZHA 1.2) compatible coordinator.
 
 Compatible with following Home Automation solutions:
 - Jeedom via plugin "Deconz"
-- Domoticz via plugin "deCONZ"
+- Domoticz via plugin "deCONZ" or "ZigbeeforDomoticz"
 - Home Assistant via "deCONZ Component"
 - openHAB via "deCONZ Binding"
 - FHEM via "Hue Plugin"

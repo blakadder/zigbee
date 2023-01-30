@@ -5,7 +5,7 @@ title: Hue White A19 E26 Bluetooth
 category: bulb
 supports: brightness
 zigbeemodel: ['LWA003']
-compatible: [z2m]
+compatible: [z2m,zha]
 z2m: 9290022268
 mlink: https://www2.meethue.com/en-us/p/hue-white-1-pack-e26/046677476861
 link: https://www.amazon.com/Philips-Hue-Bluetooth-compatible-Assistant/dp/B07QV9XLTK

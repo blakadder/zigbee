@@ -6,7 +6,7 @@ title: ConBee II Zigbee USB Gateway
 category: coordinator
 supports: coordinator
 zigbeeid: none
-compatible: [deconz,zha,z2m]
+compatible: [deconz,zha,z2m,z4d]
 mlink: https://phoscon.de/en/conbee2
 link: https://www.amazon.com/dp/B07PZ7ZHG5
 link2: https://www.domadoo.fr/en/interface-domotique/4974-phoscon-passerelle-universelle-zigbee-usb-conbee-ii-4260350821328.html

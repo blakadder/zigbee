@@ -6,7 +6,7 @@ title: Scene Switch
 category: remote
 supports: action
 zigbeemodel: ['SceneSwitch-EM-3.0']
-compatible: [z2m]
+compatible: [z2m, z4d]
 mlink: http://www.heimantech.com/product/?type=detail&id=21
 link: https://www.domadoo.fr/en/peripheriques/5715-heiman-telecommande-de-scenes-zigbee.html
 link2: https://www.alibaba.com/product-detail/Heiman-new-Zigbee-3-0-Scenario_1600051989654.html

@@ -7,6 +7,6 @@ category: light
 mlink: https://www.lidl.com.mt/p/smart-home/smart-led-wall-light/p42850
 link: 
 zigbeemodel: ['TS0505A', '_TZ3000_5bsf8vaj']
-compatible: 
+compatible: [zha]
 EAN: IAN 355085_2004
 ---

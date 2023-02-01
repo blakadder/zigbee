@@ -7,5 +7,5 @@ category: bulb
 mlink: https://www.lidl.de/p/livarno-home-leuchtmittel-rgb-fur-zigbee-smart-home-gu10-e14-e27/p100335197003
 link: 
 zigbeemodel: ['TS0505B', '_TZ3000_th6zqqy6']
-compatible: [z2m]
+compatible: [z2m,deconz]
 ---

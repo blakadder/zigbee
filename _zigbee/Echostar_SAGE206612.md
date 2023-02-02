@@ -16,7 +16,7 @@ link3:
 
 #### Zigbee2Tasmota rules
 To get proper decoding the following rule works for MQTT translation:
-```
+```console
 Rule1
   on <devid>#0006!01 do publish tele/<bridge>/<devid>/SENSOR {"<devid>":{"doorbell":"front_door"}} endon
   on <devid>#0006!02 do publish tele/<bridge>/<devid>/SENSOR {"<devid>":{"doorbell":"back_door"}} endon

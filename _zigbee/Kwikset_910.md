@@ -15,7 +15,7 @@ EAN:
 
 ###### Zigbee2Tasmota Notes:
 To enable proper lock decode, the following Rule should be added post device connection.<br>
-```
+```console
 ZbBind {"Device":"<devid>","Endpoint":2,"Cluster":"0x0101"}
 Rule1
   on <deviid>#0101?20=0000FFFF00FFFFFFFF00 do publish tele/<bridge>/<devid>/SENSOR {"<devid>":{"state":"faulted"}} endon
@@ -26,4 +26,6 @@ Rule1
 Rule1 on
 ```
 Additionally, on the non `_L` version, a temperature sensor (mid-lock) is available. Bind as:<br>
-`ZbBind {"Device":"<devid>","Endpoint":2,"Cluster":"0x0402"}`
+```console
+ZbBind {"Device":"<devid>","Endpoint":2,"Cluster":"0x0402"}
+```

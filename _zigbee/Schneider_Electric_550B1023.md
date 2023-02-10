@@ -6,7 +6,7 @@ title: LK Wiser Door/Windows Sensor
 category: sensor
 supports: contact, battery
 zigbeemodel: ['CCT591011_AS']
-compatible: [deconz]
+compatible: [z2m,deconz]
 deconz: 4816
 mlink: https://www.lk.dk/produkter/?iid=550B1023
 link: https://www.proshop.de/Lauritz-Knudsen/LK-Wiser-wireless-door-and-window-sensor/2929901

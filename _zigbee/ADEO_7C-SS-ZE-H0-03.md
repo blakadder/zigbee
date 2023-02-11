@@ -6,7 +6,7 @@ title: Lexman Door Window Sensor with Vibration
 category: sensor
 supports: contact, tamper, vibration
 zigbeemodel: ['LDSENK08']
-compatible: [z2m, DeCONZ]
+compatible: [z2m, deconz]
 z2m: LDSENK08
 deconz: 6717
 mlink: https://media.adeo.com/marketplace/82438038/5ae0f5b7-1b36-4f2a-8d4a-0cb8fa5de777.pdf

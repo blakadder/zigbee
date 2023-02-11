@@ -16,12 +16,12 @@ link2: https://www.aliexpress.com/item/1005002213455073.html
 
 ###### ZBBridge Filter
 To get proper readings from this via ZBBridge (Tasmota), the following ZB file must be uploaded.
-```
+```console
 #Z2Tv1
 # Tuya fix bad reads on LCD temp/humidity item
 :TS0601,_TZE200_*
 EF00/0409=0204/0000         # Display mode (1=F 0=C)
 EF00/0201=0402/0000,mul:10  # Temperature
 EF00/0202=0405/0000,mul:100 # Humidity
-EF00/026C=0001/0021,mul:2   # Battery level
+EF00/0204=0001/0021,mul:2   # Battery level
 ```

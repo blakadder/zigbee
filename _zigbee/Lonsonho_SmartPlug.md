@@ -9,4 +9,5 @@ mlink:
 link: https://www.aliexpress.com/item/4001118546894.html
 zigbeemodel: 
 compatible: [deconz]
+deconz: 6745
 ---

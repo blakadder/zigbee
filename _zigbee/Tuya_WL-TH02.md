@@ -8,6 +8,7 @@ mlink: https://www.alibaba.com/product-detail/Support-Voice-Control-Hygrometer-Z
 link: https://www.aliexpress.com/item/1005003779418960.html
 link2: https://www.aliexpress.com/item/1005003718187629.html
 zigbeemodel: ['TS0201', '_TZ3000_fllyghyj', '_TZ3000_yd2e749y']
-compatible: [z2m, deconz]
+compatible: [z2m, deconz, zha]
+supports: humidity, temperature, batterypct
 z2m: WSD500A
 ---

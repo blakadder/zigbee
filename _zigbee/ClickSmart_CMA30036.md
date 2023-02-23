@@ -5,7 +5,7 @@ vendor: ClickSmart
 title: 13A 2 Gang Switched Socket Outlet UK
 category: plug
 type: [wall outlet, uk]
-supports: on/off
+supports: on/off, lock/unlock
 zigbeemodel: ['TS011F','_TYZB01_hlla45kx']
 compatible: [z2m, zha]
 z2m: TS011F_2_gang_wall

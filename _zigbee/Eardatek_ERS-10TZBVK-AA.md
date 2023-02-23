@@ -13,3 +13,8 @@ link2: https://www.moeshouse.com/collections/new-arrivals/products/tuya-zigbee-s
 link3: https://www.amazon.com/dp/B09MK2D17W
 link4: https://www.aliexpress.com/item/1005003775694484.html
 ---
+## ZHA
+
+[Blueprint](https://community.home-assistant.io/t/moes-smart-knob-lights-control/382180/65)
+
+

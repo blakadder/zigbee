@@ -6,7 +6,7 @@ title: E-Ink Brightness Thermometer
 category: sensor
 type: [temperature sensor, humidity sensor, illumination sensor]
 supports: temperature, humidity, illumination, battery
-zigbeemodel: ['TS0222','_TYZB01_kvwjujy9']
+zigbeemodel: ['TS0222','_TYZB01_kvwjujy9','_TYZB01_ftdkanlj']
 zb3: true
 compatible: [zha, tasmota, z2m, deconz, z4d]
 mlink: https://www.moeshouse.com/collections/zigbee/products/zigbee-smart-brightness-thermometer-real-time-light-sensitive-temperature-and-humidity-detector
@@ -16,12 +16,14 @@ link3: https://www.domadoo.fr/en/domotique/5789-moes-capteur-de-temperature-humi
 link4: 
 pairing: "Hold the orange button until three dots appear at the top left of the screen."
 ---
-This device will not work correctly unless previously paired with a Tuya compatible gateway. It may also work with Sonoff dongles (such as the [ZB Dongle-P](/Sonoff_ZBDongle-P.html)), but not with Sonoff minis.
+This device will not work correctly unless previously paired with a Tuya compatible gateway (unconfirmed). It may also work with Sonoff dongles (such as the [ZB Dongle-P](/Sonoff_ZBDongle-P.html)), but not sure with Sonoff minis.
 
-Temperature and humidity are reported at a fixed 60 minute interval.
+A workaround for the inconsistencies presented below is using a Tuya gateway via the Tuya integration, instead of including the sensor and gateway to the HomeAssistant Zigbee mesh. Details were discussed in [this GitHub issue](https://github.com/zigpy/zha-device-handlers/issues/961).
+
+Temperature and humidity are reported when values change, or repeated at a fixed 60 minute interval.
 
 ## ZHA
-The device seems to reset every 150 seconds and this causes all sensors to be reported momentarily, via ZigBee, as 0 degrees. Temperature and humidity do show show as zero on the display, and quickly get back to the correct values via ZigBee. However, luminance stays at zero in the screen, reports as 1 lux via ZigBee, and needs a "physical reset" (shadowing or covering its sensor for a few seconds) to report values correctly again. Continuous resets, at least once, caused a small "!" to appear on the screen while virtually nothing was updated, suggesting some internal processing error. 
+In some scenarios, the device mysteriously stops to update HA with its values after a few minutes from pairing. In most scenarios though, the device seems to reset every 150 seconds and this causes all sensors to be reported momentarily, via ZigBee, as 0 degrees. Temperature and humidity do show show as zero on the display, and quickly get back to the correct values via ZigBee. However, luminance stays at zero in the screen, reports as 1 lux via ZigBee, and needs a "physical reset" (shadowing or covering its sensor for a few seconds) to report values correctly again. Continuous resets, at least once, caused a small "!" to appear on the screen while virtually nothing was updated, suggesting some internal processing error. 
 
 The impact of the temperature/humidity issues can be reduced by creating one template sensor for each of those measurements, in the Home Assistant's `configuration.yaml`. (supposing the real measured value is not 0 degrees)
 

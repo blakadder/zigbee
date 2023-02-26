@@ -6,7 +6,7 @@ title: Rotary LED Trailing-Edge 250W No Neutral Dimmer
 category: dimmer
 supports: brightness
 zigbeemodel: ['Dimmer-Switch-ZB3.0']
-compatible: [z2m,deconz]
+compatible: [z2m, deconz, z4d]
 mlink: https://www.iolloi.co.uk/products/iolloi-uk-rotary-zigbee-dimmer-led-dimmer-switch-1-gang
 link: https://www.amazon.co.uk/dp/B08VJ4CVWZ/
 ---

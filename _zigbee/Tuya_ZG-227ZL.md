@@ -12,4 +12,5 @@ tuya:
 link: https://www.aliexpress.com/item/1005004059457595.html
 link2: https://www.aliexpress.com/item/1005004301559504.html
 link3: https://www.aliexpress.com/item/1005004064535901.html
+link4: https://www.aliexpress.com/item/1005004990805197.html
 ---

@@ -4,6 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.compatible != nil %}{{ page.vendor | escape }} {{ page.title | escape }} {{ page.model | escape }} Zigbee compatibility{% else %}{{ site.description | escape }}{% endif %}</title>
+  <meta name="53f6566e15ee709" content="d860f78eabae4aa6c527363396a9cd0e" />
 
     <!-- {% if page.layout == zigbee %}{{ page.vendor | escape }} {{ page.model | escape }} {{ page.title | escape }} {{ page.type | escape }}{% else %}{{ site.title | escape }}{% endif %} Zigbee Compatibility</title> -->
   <meta name="description" content="{% if page.compatible != nil %}Zigbee ID: {% for zmodel in page.zigbeemodel %}{{ zmodel }}{% unless forloop.last %} | {% endunless %}{% endfor %} - {{ page.model | escape }} compatibility with third party gateways {% else %}{{ site.description | escape }}{% endif %}">

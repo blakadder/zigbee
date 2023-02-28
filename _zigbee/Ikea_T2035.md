@@ -6,7 +6,7 @@ title: Stoftmoln LED ceiling/wall lamp, wireless dimmable/warm white white, 24 c
 category: light
 supports: brightness
 zigbeemodel: ['STOFTMOLN ceiling/wall lamp WW24']
-compatible: [z2m]
+compatible: [z2m,z4d]
 mlink: https://www.ikea.com/nl/en/p/stoftmoln-led-ceiling-wall-lamp-wireless-dimmable-warm-white-white-30497490/
 link: 
 link2: 

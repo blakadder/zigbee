@@ -12,4 +12,5 @@ mlink: https://www.qotosmart.com/TUYA-Garden-wireless-irrigation-soil-moisture-i
 link3: https://www.alibaba.com/product-detail/Tuya-zigbee-New-Wireless-Soil-Temperature_1600610074129.html
 link: https://www.aliexpress.com/item/1005004705106578.html
 link2: https://www.aliexpress.com/item/1005004979025740.html
+link3: https://www.domadoo.fr/en/peripheriques/6518-rehent-soil-sensor-temperature-and-humidity-for-garden-and-plants-zigbee-tuya-ip67.html
 ---

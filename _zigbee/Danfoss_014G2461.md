@@ -10,8 +10,8 @@ link: https://www.domadoo.fr/en/peripheriques/5156-danfoss-tete-electronique-all
 link2: https://www.amazon.de/dp/B08DRCVDG4
 link3: https://www.alza.de/danfoss-ally-etrv-zigbee-thermostatkopf-014g2460-d6277322.htm
 link4: https://www.idealo.de/preisvergleich/OffersOfProduct/200712379_-ally-funk-heizkoerperthermostat-014g2460-danfoss.html
-zigbeemodel: ['eTRV0100']
-compatible: [z4d,deconz,zha,iob,z2m]
+zigbeemodel: ['eTRV0100', 'eTRV0101', 'eTRV0103', 'eT093WRO']
+compatible: [z4d, deconz, zha, iob, z2m]
 deconz: 2983
 ---
 

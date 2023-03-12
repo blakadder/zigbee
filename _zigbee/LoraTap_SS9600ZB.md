@@ -1,12 +1,12 @@
 ---
-date_added: 2022-12-06
+date_added: 2023-03-12
 model: SS9600ZB
 vendor: Loratap
 title: Wireless 6 Button Remote EU
 category: remote
 supports: action, battery
 zigbeemodel: ['TS0046']
-compatible: [z2m]
+compatible: [z2m, zha]
 z2m: TS0046
 mlink: 
 link: https://www.aliexpress.com/item/1005003731082631.html

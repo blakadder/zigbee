@@ -6,7 +6,7 @@ title: SilverCrest Power Strip 3 AC (16A) with 4 USB
 category: plug
 supports: on/off
 zigbeemodel: ['TS011F','_TZ3000_1obwwnmq','_TZ3000_vzopcetz']
-compatible: [z2m,zha,deconz, z4d]
+compatible: [z2m, zha, deconz, z4d]
 deconz: 3838
 z2m: TS011F_switch
 mlink: https://www.lidl.com/

@@ -1,6 +1,6 @@
 ---
 date_added: 2022-12-08
-model: 7C-SS-ZE-H0-03
+model: LDSENK08
 vendor: Adeo
 title: Lexman Door Window Sensor with Vibration
 category: sensor
@@ -15,4 +15,5 @@ link2:
 link3: 
 EAN: 
   - 3276007065725
+  - 7C-SS-ZE-H0-03
 ---

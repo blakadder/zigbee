@@ -6,7 +6,7 @@ title: Wireless Switch 1 Gang
 category: remote
 supports: action, battery
 zigbeemodel: ['TS0041','_TZ3000_peszejy7']
-compatible: [z2m,iob,deconz,zha]
+compatible: [z2m, iob, deconz, zha]
 deconz: 4157
 mlink: https://www.alibaba.com/product-detail/Lerlink-ZBWS01-1gang-Zigbee-Remote-Control_1600135043039.html
 link: https://www.aliexpress.com/item/4001095272467.html

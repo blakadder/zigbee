@@ -6,6 +6,7 @@ title: Photoelectric Smoke Detector
 category: sensor
 zigbeemodel: ['TS0601', '_TZE200_m9skfctm']
 compatible: [zha, deconz]
+deconz: 6736
 mlink: 
 link: https://www.aliexpress.com/item/1005003970944017.html
 link2: 

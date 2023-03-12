@@ -5,7 +5,7 @@ title: Tradfri Remote Control
 category: remote
 supports: action, battery
 zigbeemodel: ['TRADFRI Remote Control']
-compatible: [z2m,z4d,zha,deconz,tasmota]
+compatible: [z2m, z4d, zha, deconz, tasmota]
 z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/ikeatradfritlcommande
 mlink: https://www.ikea.com/nl/en/p/tradfri-remote-control-30443124/
 link: https://www.amazon.com/IKEA-ASIA-TRADFRI-Remote-Control/dp/B07KRVVFT1

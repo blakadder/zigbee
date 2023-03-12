@@ -6,7 +6,7 @@ title: Praktlysing Cellular Blind
 category: cover
 battery: true
 zigbeemodel:  ['PRAKTLYSING cellular blind']
-compatible: [z2m]
+compatible: [z2m, zha]
 mlink: https://www.ikea.com/cz/en/p/praktlysing-cellular-blind-smart-wireless-battery-operated-white-00514226/
 link: 
 link2: 

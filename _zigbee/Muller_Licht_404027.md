@@ -9,7 +9,7 @@ link3: https://www.leddirect.fr/tint-smart-led-omgevingslicht-talpa-tint-rgbw?gc
 link2: https://www.idealo.de/preisvergleich/OffersOfProduct/201163894_-tint-led-ambienteleuchte-white-color-talpa-1800-6500k-rgb-2700k-404027-mueller-licht.html
 link: https://www.amazon.de/dp/B07ZPL1SKT
 zigbeemodel: ['tint-ExtendedColor']
-compatible: [z2m, z4d]
+compatible: [z2m, z4d, zha]
 z2m: 404036
 ---
 

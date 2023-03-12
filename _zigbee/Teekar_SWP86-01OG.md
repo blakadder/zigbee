@@ -7,7 +7,7 @@ category: plug
 type: [wall outlet, eu]
 supports: on/off
 zigbeemodel: ['TS011F','_TZ3000_wxtp7c5y']
-compatible: [z2m]
+compatible: [z2m, zha]
 z2m: TS011F_wall_outlet
 mlink: 
 link: https://www.amazon.de/gp/product/B08VRGLKYF

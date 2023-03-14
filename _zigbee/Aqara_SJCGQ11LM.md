@@ -14,6 +14,7 @@ link2: https://www.banggood.com/Original-Aqara-Smart-Water-Detector-Alarm-Sensor
 link3: https://www.amazon.com/dp/B07D39MSZS
 link4: https://www.domadoo.fr/en/peripheriques/4519-aqara-capteur-d-eau-zigbee-6970504210257.html
 link5: https://www.idealo.de/preisvergleich/OffersOfProduct/6954053_-sjcgq11lm-aqara.html
+link6: https://cloudfree.shop/product/aqara-water-sensor/
 ---
 ### Pairing
 Press and hold water logo on the device for +- 10 seconds until the blue light blinks

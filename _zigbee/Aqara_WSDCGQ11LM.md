@@ -11,6 +11,7 @@ link: https://www.aliexpress.com/item/4000067640553.html
 link2: https://www.banggood.com/Original-Aqara-Atmos-Version-Temperature-Humidity-Sensor-Smart-Home-Thermometer-Hygrometer-p-1148666.html
 link3: https://www.amazon.de/dp/B07PPNBVM5
 link4: https://www.domadoo.fr/en/peripheriques/4515-aqara-capteur-de-temperature-et-d-humidite-zigbee-6970504212510.html
+link5: https://cloudfree.shop/product/aqara-temperature-and-humidity-sensor/
 ---
 ### Pairing
 Press and hold the reset button on the device for +- 5 seconds (until the blue light starts blinking).

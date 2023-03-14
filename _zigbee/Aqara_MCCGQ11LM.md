@@ -14,6 +14,7 @@ link2: https://www.banggood.com/Original-Aqara-ZigBee-Version-Window-Door-Sensor
 link3: https://www.amazon.com/dp/B07D37VDM3
 link4: https://www.domadoo.fr/en/peripheriques/4514-aqara-detecteur-d-ouverture-portefenetre-zigbee-6970504212497.html
 link5: https://www.idealo.de/preisvergleich/OffersOfProduct/6948573_-mccgq11lm-aqara.html
+link6: https://cloudfree.shop/product/aqara-door-and-window-sensors/
 ---
 
 

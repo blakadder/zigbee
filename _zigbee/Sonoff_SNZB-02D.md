@@ -8,7 +8,6 @@ supports: temperature, humidity, battery
 zigbeemodel: ['SNZB-02D']
 compatible: [z2m, z4d, zha, deconz]
 deconz: 6697
-mlink: https://itead.cc/product/sonoff-snzb-02d-zigbee-lcd-smart-temperature-humidity-sensor/
-link: 
-link2: 
+mlink: https://sonoff.tech/product/gateway-and-sensors/snzb-2d/
+link: https://itead.cc/product/sonoff-snzb-02d-zigbee-lcd-smart-temperature-humidity-sensor/
 ---

@@ -5,7 +5,7 @@ vendor: Third Reality
 title: Power Meter Plug (Gen 2)
 category: plug
 zigbeemodel: ['3RSP02028BZ']
-compatible: [deconz]
+compatible: [deconz, zha] 
 deconz: 6768
 mlink: 
 link: https://www.amazon.com/dp/B0BPY5D1KC

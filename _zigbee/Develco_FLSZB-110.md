@@ -14,3 +14,7 @@ link3:
 EAN:
   - 5713594002453
 ---
+
+### Pairing
+
+The device goes to sleep in the Interview phase. Push the LED button once every second until the Interview is done and the pairing is completed.

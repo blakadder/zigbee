@@ -2,7 +2,7 @@
 date_added: 2023-02-04
 model: ZSS-X-TH-C
 vendor: Moes
-title: PIR Motion Sensor Human Detector
+title: Temperature And Humidity Sensor
 category: sensor
 supports: temperature, humidity
 link: https://s.click.aliexpress.com/e/_DD3fVT7

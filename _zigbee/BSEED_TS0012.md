@@ -1,11 +1,11 @@
 ---
 date_added: 2022-01-22
 model: TS0012
-vendor: BSEED
+vendor: BSEED/MOES
 title: Touch Switch 2 Gang
 category: switch
 supports: on/off
-zigbeemodel: ['TS0012', '_TZ3000_e98krvvk']
+zigbeemodel: ['TS0012', '_TZ3000_e98krvvk','_TZ3000_18ejxno0']
 compatible: [z2m, zha, z4d, deconz, tasmota]
 deconz: 5837
 mlink:

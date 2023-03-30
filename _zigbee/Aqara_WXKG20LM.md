@@ -5,7 +5,8 @@ vendor: Aqara
 title: E1 Wireless Mini Switch
 category: remote
 zigbeemodel: ['lumi.remote.acn007']
-compatible: [z2m]
+compatible: [z2m, deconz]
+deconz: 6828
 mlink: https://www.aqara.com/cn/Wireless%20Mini%20Switch%20E1_overview
 link: 
 link2: 

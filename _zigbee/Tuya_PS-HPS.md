@@ -8,7 +8,8 @@ supports: presence, presence duration, departure duration, led state
 mlink: https://www.alibaba.com/product-detail/WiFi-BLE-ZigBee-Wireless-Radar-Human_1600574397650.html
 link: https://www.aliexpress.com/item/1005004532147201.html
 link2: https://www.aliexpress.com/item/1005004542293208.html
-zigbeemodel: ['TS0601', '_TZE200_0u3bj3rc', '_TZE200_v6ossqfy']
+link3: https://www.aliexpress.com/item/1005004697597000.html
+zigbeemodel: ['TS0601', '_TZE200_0u3bj3rc', '_TZE200_v6ossqfy', '_TZE200_v6ossqfy', '_TZE200_mx6u6l4y']
 z2m: TS0601_human_presence_sensor
 compatible: [z2m, tasmota, deconz]
 deconz: 6752
@@ -30,3 +31,4 @@ EF00/0265,HPSZPresenceTime              # Shows the presence duration in minutes
 EF00/0266,HPSZLeavingTime               # Shows the duration of the absence in minutes
 EF00/0167,HPSZLEDState                  # Turns the onboard LED on or off
 ```
+

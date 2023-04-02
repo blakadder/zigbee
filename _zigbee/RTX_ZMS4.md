@@ -7,5 +7,5 @@ category: sensor
 zigbeemodel: ['TS0202', '_TZ3000_mwd3c2at']
 compatible: [z2m]
 mlink: 
-link: https://allegro.pl/oferta/czujnik-sensor-ruchu-pir-ladowanie-usb-zigbee-tuya-12317665256
+link: https://lite.al/VEJITP
 ---

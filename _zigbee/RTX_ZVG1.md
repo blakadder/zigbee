@@ -8,7 +8,7 @@ supports: on/off, timer, battery, state, water consumed
 zigbeemodel: ['TS0601', '_TZE200_akjefhj5', '_TZE200_81isopgh']
 compatible: [z2m, z4d, zha]
 mlink: 
-link: https://allegro.pl/oferta/zawor-nawadnianie-ogrodu-tuya-zigbee-pomiar-wody-10858313595
+link: https://lite.al/HTOhv
 link2: https://www.domadoo.fr/en/peripheriques/5886-saswell-zigbee-connected-solenoid-valve-and-watering-programmer-consumption-measurement.html
 link3: 
 ---

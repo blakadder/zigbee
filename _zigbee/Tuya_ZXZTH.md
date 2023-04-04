@@ -6,7 +6,7 @@ title: Temperature and Humidity Sensor
 category: sensor
 supports: humidity, temperature, batterypct
 zigbeemodel: ['RH3052', '_TZ3000_lfa05ajd', 'TS0201']
-compatible: [tasmota, iob, z2m, deconz, zha]
+compatible: [z2m, iob, tasmota, deconz, z4d, ihost]
 deconz: 3263
 mlink: https://www.zemismart.com/products/zm-zxzth-02
 tuya: https://expo.tuya.com/product/338072

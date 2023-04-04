@@ -7,5 +7,5 @@ category: light
 mlink: https://evvr.io/products/in-wall-relay-switch
 link: https://evvr.io/
 zigbeemodel: ['SRB01', 'SRB01A']
-compatible: [zha, z2m]
+compatible: [zha, z2m, ihost]
 ---

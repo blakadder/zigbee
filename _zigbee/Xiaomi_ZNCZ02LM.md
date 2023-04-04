@@ -6,7 +6,7 @@ category: plug
 supports: on/off, power measurement
 image: /assets/images/devices/ZNCZ02LM.jpg
 zigbeemodel: ['lumi.plug']
-compatible: [z2m,deconz,zha,iob,tasmota]
+compatible: [z2m, deconz, zha, iob, tasmota]
 tasmota: lumi.plug
 z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/prisepilote
 mlink: 

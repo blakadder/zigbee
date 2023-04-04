@@ -6,7 +6,7 @@ title: Door/Window Sensor
 category: sensor
 supports: contact, battery
 zigbeemodel: ['RH3001', 'TUYATEC-avtsqqbd']
-compatible: [z2m, deconz, iob, zha, tasmota]
+compatible: [z2m, deconz, iob, zha, tasmota, ihost]
 deconz: 2559
 z2m: SNTZ007
 mlink: https://en.hihome.eu/products/hihome-zigbee-door-window-sensor

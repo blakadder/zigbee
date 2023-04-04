@@ -6,7 +6,7 @@ title: Mini Relay
 category: switch
 supports: on/off
 zigbeemodel: ['01MINIZB']
-compatible: [tasmota, zha, z2m, deconz, z4d]
+compatible: [tasmota, zha, z2m, deconz, z4d, ihost]
 mlink: https://itead.cc/product/sonoff-zbmini-zigbee-smart-switch/
 link: https://www.geekbuying.com/item/SONOFF-ZBMINI-Zigbee-Two-Way-Smart-Switch-497818.html
 link2: https://www.aliexpress.com/item/1005001688505175.html

@@ -6,7 +6,7 @@ title: Motion Sensor
 category: sensor
 supports: occupancy
 zigbeemodel: ['MS01','MSO1']
-compatible: [z2m, iob, zha, z4d, deconz, tasmota]
+compatible: [z2m, iob, zha, z4d, deconz, tasmota, ihost]
 deconz: 2991
 mlink: https://itead.cc/product/sonoff-snzb-03-zigbee-motion-sensor/
 link2: https://www.aliexpress.com/item/1005001275204366.html

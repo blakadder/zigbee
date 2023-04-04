@@ -5,7 +5,7 @@ title: Hue White Ambiance 800 E26
 category: bulb
 supports: brightness, colortemp
 zigbeemodel: ['LTA008']
-compatible: [z2m]
+compatible: [z2m, ihost]
 z2m: 9290022267A
 mlink: https://www.philips-hue.com/en-us/p/hue-white-ambiance-2-pack-e26/046677548568
 link: https://www.amazon.com/dp/B07QZHMT9J/

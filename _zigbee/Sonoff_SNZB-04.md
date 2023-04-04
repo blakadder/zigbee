@@ -6,7 +6,7 @@ title: Wireless Door/Window Sensor
 category: sensor
 supports: contact, battery, battery low
 zigbeemodel: ['DS01']
-compatible: [z2m,iob,zha,z4d,deconz,tasmota]
+compatible: [z2m, iob, zha, z4d, deconz, tasmota, ihost]
 deconz: 3036
 mlink: https://itead.cc/product/sonoff-snzb-04-zigbee-wireless-door-window-sensor/
 link: https://www.geekbuying.com/item/SONOFF-SNZB-04-ZigBee-Wireless-Door-Window-Alarm-Sensor-497993.html

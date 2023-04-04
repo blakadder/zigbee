@@ -8,7 +8,7 @@ supports: occupancy, batterypct
 mlink: https://en.hihome.eu/products/hihome-zigbee-pir-motion-detector
 link: https://www.amazon.nl/dp/B096TX9QVK/
 zigbeemodel: ['RH3040', 'TUYATEC-w89thyfc']
-compatible: [z2m, iob, deconz, zha]
+compatible: [z2m, iob, deconz, zha, ihost]
 z2m: RH3040
 EAN: 
 ---

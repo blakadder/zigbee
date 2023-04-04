@@ -6,7 +6,7 @@ title: Door Sensor
 category: sensor
 supports: contact, tamper, battery
 zigbeemodel: ['RH3001']
-compatible: [z2m,deconz,iob,zha,tasmota]
+compatible: [z2m,deconz,iob,zha,tasmota, ihost]
 deconz: 2559
 z2m: SNTZ007
 mlink: https://www.szneo.com/en/products/show.php?id=238

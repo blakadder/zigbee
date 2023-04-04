@@ -5,7 +5,7 @@ title: Candle Colour Bulb E14
 category: bulb
 supports: brightness, colortemp, colorxy
 zigbeemodel: ['RB 251 C']
-compatible: [z2m]
+compatible: [z2m, zha]
 mlink: https://www.innr.com/
 link: https://www.amazon.de/dp/B098B8RC1G/
 link2: https://www.amazon.co.uk/dp/B09DGF896T

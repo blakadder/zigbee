@@ -10,4 +10,5 @@ compatible: [z2m, z4d, zha, deconz, ihost]
 deconz: 6697
 mlink: https://sonoff.tech/product/gateway-and-sensors/snzb-2d/
 link: https://itead.cc/product/sonoff-snzb-02d-zigbee-lcd-smart-temperature-humidity-sensor/
+link2: https://www.domadoo.fr/en/peripheriques/6614-sonoff-zigbee-30-temperature-humidity-sensor-with-display.html
 ---

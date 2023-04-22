@@ -1,10 +1,10 @@
 ---
-date_added: 2022-11-07
-model: TO-Q-SY1-JZT
+date_added: 2023-04-22
+model: TO-Q-SY1-ZT
 vendor: Tongou
-title: DIN Rail Circuit Breaker 63A with Power Monitoring
+title: DIN Rail Circuit Breaker 63A
 category: switch
-supports: on/off, power metering, power outage memory
+supports: on/off
 zigbeemodel: ['TS011F', '_TZ3000_qeuvnohg']
 compatible: [z2m, z4d, zha]
 z2m: TS011F_din_smart_relay

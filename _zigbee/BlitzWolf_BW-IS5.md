@@ -6,7 +6,7 @@ title: Water Leak Sensor
 category: sensor
 supports: water leak, batterypct
 zigbeemodel: ['TS0207', 'FNB54-WTS08ML1.0']
-compatible: [z2m,zha,tasmota,deconz,iob]
+compatible: [z2m, zha, tasmota, deconz, iob]
 z2m: TS0207_water_leak_detector
 deconz: 3067
 mlink: https://www.blitzwolf.com/ZigBee-Water-Leak-Sensor-p-444.html

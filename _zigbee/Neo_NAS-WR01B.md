@@ -5,7 +5,7 @@ vendor: Neo
 title: Smart Plug 16A with Power Monitoring EU
 category: plug
 supports: on/off, power monitoring
-zigbeemodel: ['TS011F', '_TZ3000_w0qqde0g', '_TZ3000_gjnozsaz', '_TZ3000_zloso4jk']
+zigbeemodel: ['TS011F', '_TZ3000_w0qqde0g', '_TZ3000_gjnozsaz', '_TZ3000_zloso4jk', '_TZ3000_fgwhjm9j']
 compatible: [z2m, zha, deconz, z4d]
 deconz: 5577
 z2m: TS011F_plug_1

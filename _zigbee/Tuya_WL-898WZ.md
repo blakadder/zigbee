@@ -6,7 +6,7 @@ title: Water Leak Sensor
 category: sensor
 supports: water leak, batterypct
 zigbeemodel: ['TS0207', '_TZ3000_upgcbody']
-compatible: [z2m,zha,tasmota]
+compatible: [z2m, zha, tasmota]
 z2m: TS0207_water_leak_detector
 deconz: 3067
 mlink: https://expo.tuya.com/product/392477

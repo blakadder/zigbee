@@ -2,7 +2,7 @@
 date_added: 2023-04-22
 model: TO-Q-SY2-JZT
 vendor: Tongou
-title: Circuit Breaker DIN 63A with Over Current Protection and Power Monitoring
+title: DIN Rail Circuit Breaker 63A with Over Current Protection and Power Monitoring
 category: switch
 supports: on/off, power metering, power outage memory
 zigbeemodel: ['TS011F', '_TZ3000_cayepv1a']

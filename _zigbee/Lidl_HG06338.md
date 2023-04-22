@@ -7,7 +7,7 @@ category: plug
 supports: on/off
 zigbeemodel: ['TS011F','_TZ3000_1obwwnmq','_TZ3000_vzopcetz']
 compatible: [z2m, zha, deconz, z4d]
-deconz: 3838
+deconz: 6893
 z2m: TS011F_switch
 mlink: https://www.lidl.com/
 link: https://www.lidl.de/de/silvercrest-steckerleiste-zigbee-smart-home/p355170

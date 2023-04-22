@@ -5,7 +5,7 @@ vendor: IKEA
 title: Vindstyrka Air Quality Sensor
 category: sensor
 zigbeemodel:  ['VINDSTYRKA']
-compatible: [deconz, z2m, z4d]
+compatible: [deconz, z2m, z4d, zha]
 deconz: 6756
 mlink: https://www.ikea.com/us/en/p/vindstyrka-air-quality-sensor-smart-30498239/
 link: 

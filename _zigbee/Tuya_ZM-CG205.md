@@ -9,7 +9,7 @@ mlink:
 link: https://www.aliexpress.com/item/1005002440470114.html 
 link2: https://www.aliexpress.com/item/1005002512326796.html
 zigbeemodel: ['TS0203', '_TYZB01_xph99wvr','_TYZB01_ncdapbwy']
-compatible: [deconz,z2m,z4d]
+compatible: [deconz, z2m, z4d, zha]
 ---
 
 ## Pairing

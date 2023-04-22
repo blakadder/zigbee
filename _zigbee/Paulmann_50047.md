@@ -7,7 +7,7 @@ category: light
 type: LED Controller
 supports: brightness, colortemp, colorxy
 zigbeemodel: ['500.47']
-compatible: [z2m,iob]
+compatible: [z2m, zha]
 mlink: https://en.paulmann.com/indoor-lighting/smart-home/zigbee/controlling/smarthome-zigbee-maxled-rgbw-controller-max.-72w/50047
 link: https://www.amazon.de/dp/B072QSCVS4
 link2: https://www.bol.com/nl/nl/p/paulmann-maxled-zigbee-dim-schakelcontroller-voor-rgbw-maxled-strips/9200000096859764/

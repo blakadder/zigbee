@@ -7,7 +7,7 @@ category: sensor
 supports: contact, temperature
 image: /assets/images/devices/Develco_WISZB-120.jpg
 zigbeemodel: ['WISZB-120']
-compatible: [deconz, zha, z2m]
+compatible: [deconz, zha, z2m, z4d]
 deconz: 5720
 mlink: https://frient.com/products/entry-sensor-pro/
 link: https://www.domadoo.fr/en/peripheriques/5402-frient-detecteur-d-ouverture-de-porte-ou-fenetre-zigbee-30-capteur-de-temperature-5713594002354.html

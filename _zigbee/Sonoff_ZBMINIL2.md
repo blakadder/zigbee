@@ -6,7 +6,7 @@ title: ZBMINI Extreme No Neutral Relay Module
 category: switch
 supports: on/off
 zigbeemodel: ['ZBMINIL2']
-compatible: [z2m, zha, ihost, deconz]
+compatible: [z2m, zha, ihost, deconz, z4d]
 deconz: 6726
 mlink: https://sonoff.tech/zbmini-l2-coming-soon/
 link: https://itead.cc/product/sonoff-zbminil2-extreme-zigbee-smart-switch-no-neutral-required/

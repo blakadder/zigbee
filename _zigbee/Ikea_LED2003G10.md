@@ -12,5 +12,7 @@ mlink: https://www.ikea.com/cz/en/p/tradfri-remote-control-kit-white-spectrum-80
 link: 
 link2: 
 link3: 
-EAN: 805.134.16
+EAN: 
+  - 805.134.16 
+  - 404.867.83
 ---

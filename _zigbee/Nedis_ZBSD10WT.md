@@ -6,7 +6,7 @@ title: Door Window Sensor
 category: sensor
 supports: contact, battery
 zigbeemodel: ['RH3001']
-compatible: [z2m, deconz, zha, tasmota]
+compatible: [z2m, deconz, zha, tasmota, ihost]
 deconz: 2559
 z2m: SNTZ007
 mlink: https://nedis.com/en-us/product/security-safety/smart-home/alarm/550726146/door-window-sensor-zigbee-battery-powered-android-ios-white

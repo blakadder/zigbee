@@ -7,9 +7,9 @@ category: bulb
 type: E27 Bulb
 supports: brightness, colortemp
 zigbeemodel: ['lumi.light.aqcn02']
-compatible: [z2m,z4d,iob,deconz,zha]
+compatible: [z2m, z4d, iob, deconz, zha]
 z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/ampouleaqaraznldp12lm
-deconz: 1057
+deconz: 6301
 mlink: https://www.aqara.com/en/smart_light_bulb.html
 link: https://www.aliexpress.com/af/ZNLDP12LM-bulb.html
 link2: https://www.banggood.com/Aqara-ZNLDP12LM-E27-9W-WiFi-APP-Smart-LED-Bulb-Work-with-Apple-HomeKit-Mi-Home-Xiaomi-Ecosystem-Product-p-1382307.html

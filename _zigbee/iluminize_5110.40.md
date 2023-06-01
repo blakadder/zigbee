@@ -6,7 +6,7 @@ title: LED-controller, 4 channel 5A, RGBW LED
 category: light
 supports: brightness, colortemp, colorxy
 zigbeemodel: ['HK-ZD-RGB-A', '5110.40']
-compatible: [z2m]
+compatible: [z2m, zha]
 mlink: https://www.iluminize.com/de/shop/led-steuerung/led-controller/product/484-511-040-zigbee-controller-5a.html
 link: https://www.amazon.de/dp/B07XF1B8YN/
 link2: 

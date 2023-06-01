@@ -6,7 +6,7 @@ title: 4-Series Smart Outlet
 category: plug
 supports: on/off
 zigbeemodel: ['4200-C']
-compatible: [z2m]
+compatible: [z2m, zha]
 mlink: https://centralite.com/products/4-series-smart-outlet
 link: https://www.amazon.com/dp/B07DFPYV4K
 link2: 

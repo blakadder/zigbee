@@ -7,7 +7,7 @@ category: sensor
 supports: occupancy, batterypct
 zigbeemodel: ['RH3040']
 z2m: RH3040
-compatible: [z2m,iob,deconz,zha]
+compatible: [z2m,iob,deconz,zha, ihost]
 mlink: https://www.wesmartify.de/en/security/burglary-protection/299/essentials-smart-home-motion-sensor/
 link: https://www.amazon.de/dp/B0816X1RF5
 link2: https://www.manomano.de/catalogue/p/essentials-smart-home-bewegungssensor-21917251

@@ -6,7 +6,8 @@ title: Smoke Detector
 category: sensor
 supports: smoke
 zigbeemodel: ['TS0601','_TZE200_vzekyi4c']
-compatible: [z2m, zha]
+compatible: [z2m, zha, deconz]
+deconz: 6879
 z2m: TS0601_smoke
 mlink: 
 link: https://www.aliexpress.com/item/1005002283181842.html

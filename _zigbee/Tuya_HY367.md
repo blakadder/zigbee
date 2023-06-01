@@ -6,7 +6,7 @@ title: Thermostatic Radiator Valve Controller
 category: hvac
 type: trv
 supports: temperature, thermostat, battery
-zigbeemodel: ['TS0601','_TZE200_cwnjrr72','_TZE200_2atgpdho']
+zigbeemodel: ['TS0601', '_TZE200_2atgpdho']
 compatible: [z2m,deconz,zha]
 z2m: TS0601_thermostat
 deconz: 4675

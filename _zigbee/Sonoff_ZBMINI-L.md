@@ -6,7 +6,7 @@ title: Mini Relay No Neutral
 category: switch
 supports: on/off
 zigbeemodel: ['ZBMINI-L']
-compatible: [tasmota, zha, z4d, deconz, z2m]
+compatible: [tasmota, zha, z4d, deconz, z2m, ihost]
 deconz: 6095
 mlink: https://sonoff.tech/product/diy-smart-switch/zbmini-l/
 link: https://www.domadoo.fr/en/peripheriques/6146-sonoff-smart-switch-without-neutral-zigbee-30-zbmini-l.html

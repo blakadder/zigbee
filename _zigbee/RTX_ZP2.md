@@ -6,7 +6,7 @@ title: 16A Smart Plug
 category: plug
 supports: on/off, power monitoring
 zigbeemodel: ['TS011F','_TZ3000_waho4jtj']
-compatible: [z2m]
+compatible: [z2m, zha]
 z2m: TS011F_plug_1
 mlink: https://www.rtx24.pl/gniazdko-wtyczka-16a-inteligentna-rtx-zigbee-tuya-p-588.html
 link: 

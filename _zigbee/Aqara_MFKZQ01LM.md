@@ -15,4 +15,5 @@ link3: https://www.banggood.com/Original-Aqara-Magic-Cube-Remote-Controller-Sens
 link: https://www.amazon.de/dp/B07S9G5MR6
 link4: https://www.domadoo.fr/en/peripheriques/4668-aqara-controleur-intelligent-magic-cube-zigbee-0192784000045.html
 link5: https://www.bol.com/nl/nl/p/aqara-cube-afstandsbediening-zigbee-compatible-met-homey-domoticz-home-assistant-home-kit-mi-home-en-meer/9200000132855934/
+link6: https://cloudfree.shop/product/aqara-cube/
 ---

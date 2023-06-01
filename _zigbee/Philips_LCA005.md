@@ -5,7 +5,7 @@ title: Hue White and Color 800 A19 E26
 category: bulb
 supports: brightness, colortemp, color
 zigbeemodel: ['LCA005']
-compatible: [z2m]
+compatible: [z2m, ihost]
 z2m: 9290022266A
 mlink: https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-1-pack-e26/046677548483
 link: 

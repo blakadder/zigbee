@@ -4,7 +4,7 @@ model: GL86ZTD11
 vendor: BSEED
 title: Zigbee Dimmer Switch
 category: dimmer
-zigbeemodel: ['TS0601','_TZE200_3p5ydos3']
+zigbeemodel: ['TS0601', '_TZE200_3p5ydos3']
 compatible: [zha, z2m]
 z2m: TS0601_dimmer
 mlink: https://www.bseed.com/collections/zigbee-series/products/bseed-eu-russia-new-zigbee-touch-wifi-light-dimmer-smart-switch

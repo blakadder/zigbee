@@ -17,6 +17,10 @@ EAN: 704.299.13
 ---
 
 ### Pairing
-Pair the sensor by pressing the pair button 4 times in a row.
-The red light on the front side should flash a few times and the turn off.
-After a few seconds it turns back on and pulsate. When connected, the light turns off. 
+Pair the sensor by pressing the pair button 5 times in a row.
+The red light on the front side should flash a few times, and then the LED will start pulsating and the sensor is in pairing mode.
+When connected, the light turns off.
+
+Some older versions of this device might use a 10-sec-press-and-hold to get into pairing mode.
+### Reset
+Reset the sensor by pressing the pair button 4 times in a row. Wait till the LED confirms it.

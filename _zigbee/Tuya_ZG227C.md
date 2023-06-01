@@ -5,7 +5,7 @@ vendor: Tuya
 title: LCD Temperature and Humidity Sensor
 category: sensor
 supports: temperature, humidity, battery
-zigbeemodel: ['TS0601','_TZE200_bjawzodf', '_TZE200_qoy0ekbd', '_TZE200_bq5c8xfe', '_TZE200_znbl8dj5']
+zigbeemodel: ['TS0601','_TZE200_bjawzodf', '_TZE200_qoy0ekbd', '_TZE200_bq5c8xfe', '_TZE200_znbl8dj5', '_TZE200_zl1kmjqx']
 compatible: [z2m, zha, deconz, z4d, tasmota]
 deconz: 6094
 z2m: TS0601_temperature_humidity_sensor

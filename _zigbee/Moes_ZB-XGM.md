@@ -9,7 +9,7 @@ mlink: https://www.moeshouse.com/collections/zigbee-sensor/products/tuya-zigbee-
 link: https://www.aliexpress.com/item/1005001659707690.html
 link2: https://www.amazon.com/dp/B09FZ11ZBP
 zigbeemodel: ['RH3001']
-compatible: [z2m,deconz,iob,zha,tasmota]
+compatible: [z2m,deconz,iob,zha,tasmota, ihost]
 deconz: 2559
 z2m: SNTZ007
 ---

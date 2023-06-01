@@ -7,6 +7,7 @@ category: plug
 supports: on/off, power measurement
 zigbeemodel: ['SmartPlug', 'SmartPlug-N', 'SmartPlug-EF-3.0']
 compatible: [z2m,deconz,iob,zha]
+deconz: 6853
 mlink: http://www.heimantech.com/product/?type=detail&id=15
 link: https://www.aliexpress.com/item/32859364431.html
 link2: https://www.amazon.de/HEIMAN-Funk-Steckdose-Stromschalter-App-Steuerung-kompatibel/dp/B0793RC1DW

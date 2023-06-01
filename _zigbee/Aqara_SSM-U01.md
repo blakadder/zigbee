@@ -12,6 +12,6 @@ mlink: https://www.aqara.com/en/single_switch_T1_with-neutral.html
 link: https://www.domadoo.fr/en/peripheriques/5386-aqara-micromodule-onoff-zigbee-30-2500w-avec-neutre-6970504213296.html
 link2: https://www.amazon.de/dp/B08XWHC156/
 link3: https://www.alzashop.com/aqara-single-switch-module-t1-with-neutral-d6238557.htm
-link4: https://www.idealo.de/preisvergleich/Typ/6970504213296.html
+link4: https://www.idealo.de/preisvergleich/OffersOfProduct/201765185_-single-switch-module-t1-ssm-u01-aqara.html
 pairing: "Long press the button until the blue light starts to rapidly blink"
 ---

@@ -6,7 +6,7 @@ title: Power Outlet with Monitoring EU 16A
 category: plug
 supports: on/off, power monitoring, power outage memory
 zigbeemodel: ['TS011F', '_TZ3000_0yxeawjt']
-compatible: [z2m]
+compatible: [z2m, zha]
 z2m: WK34-EU
 mlink: 
 link: https://www.aliexpress.com/item/1005003642268555.html

@@ -7,7 +7,7 @@ category: sensor
 supports: contact
 image: /assets/images/devices/Sengled_E1D-G73WNA.jpg
 zigbeemodel: ['E1D-G73']
-compatible: [z2m,deconz,zha]
+compatible: [z2m, deconz, zha, ihost]
 deconz: 2870
 z2m: E1D-G73WNA
 mlink: https://us.sengled.com/products/sengled-smart-window-and-door-sensor

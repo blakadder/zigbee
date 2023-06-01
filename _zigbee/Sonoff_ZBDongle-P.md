@@ -25,8 +25,10 @@ Download [Z-Stack firmware](https://github.com/Koenkk/Z-Stack-firmware/tree/mast
 Run (change port accordingly):
  
 ```
-python.exe cc2538-bsl.py -p COM4 -evw CC1352P2_CC2652P_launchpad_coordinator_20210708.hex --bootloader-sonoff-usb
+python.exe cc2538-bsl.py --bootloader-sonoff-usb -p COM4 -evw CC1352P2_CC2652P_launchpad_coordinator_20210708.hex
 ```
+
+NOTE: the firmware file to flash must be the last option given.
 
 Sonoff Dongle Plus is using CP210x, if you don't have one, download the device driver from https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 

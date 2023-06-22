@@ -6,7 +6,7 @@ title: Temperature And Humidity Sensor
 category: sensor
 supports: temperature, humidity
 zigbeemodel: ['SNZB-02P']
-compatible: [z2m, iob, zha, z4d, deconz, tasmota, ihost]
+compatible: [z2m, zha, ihost]
 mlink: https://sonoff.tech/product/gateway-and-sensors/snzb-02p/
 link: https://itead.cc/product/sonoff-zigbee-temperature-and-humidity-sensor-snzb-02p
 ---

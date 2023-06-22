@@ -6,7 +6,7 @@ title: Wireless Switch
 category: remote
 supports: action, battery
 zigbeemodel: ['SNZB-01P']
-compatible: [z2m]
+compatible: [z2m, zha, ihost]
 mlink: https://itead.cc/product/sonoff-zigbee-wireless-switch-snzb-01p
 link: 
 ---

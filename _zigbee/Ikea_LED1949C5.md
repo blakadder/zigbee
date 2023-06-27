@@ -6,7 +6,7 @@ title: Tradfri LED bulb E14 470 lumen, wireless dimmable white spectrum/chandeli
 category: bulb
 supports: brightness, colortemp
 zigbeemodel: ['TRADFRIbulbE14WScandleopal470lm']
-compatible: [z2m,z4d,zha]
+compatible: [z2m, z4d, zha, deconz]
 z2m: LED1949C5
 mlink: https://www.ikea.com/gb/en/p/tradfri-led-bulb-e14-470-lumen-wireless-dimmable-white-spectrum-chandelier-opal-white-30517643/
 link: 

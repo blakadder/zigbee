@@ -6,8 +6,9 @@ title: Keyboard Security System
 category: remote
 supports: battery, occupancy, tamper, presence, contact, temperature, action
 actions: disarm, arm day zones, identify, arm night zones, arm all zones, exit_delay, emergency
-zigbeemodel: ['TKA105']
-compatible: [z2m]
+zigbeemodel: ['TKA105', 'URC4450BC0-X-R','H34450BA00-00007']
+compatible: [z2m, deconz]
+deconz: 6994
 mlink: 
 link: https://www.ebay.co.uk/itm/333191744656
 link2: 

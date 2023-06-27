@@ -6,7 +6,7 @@ title: Wireless Dimmer Knob
 category: remote
 supports: action, battery
 zigbeemodel: ['ZBT-DIMSwitch-D0000']
-compatible: [z2m,deconz]
+compatible: [z2m, deconz]
 z2m: 8718801528334
 deconz: 7027
 mlink: 

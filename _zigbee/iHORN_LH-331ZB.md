@@ -5,7 +5,7 @@ vendor: iHORN
 title: Temperature & Humidity Sensor with Screen
 category: sensor
 supports: temperature, humidity, battery
-zigbeemodel: ['SM0201', '_TYZB01_cbiezpds']
+zigbeemodel: ['SM0201', '_TYZB01_cbiezpds', '_TYZB01_zqvwka4k']
 compatible: [zha, z2m, deconz]
 deconz: 7022
 mlink: http://www.ihorn-tech.com/anti-theft/detector/detail_259.html

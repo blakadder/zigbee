@@ -6,7 +6,7 @@ title: Contact Sensor
 category: sensor
 type: Contact
 supports: contact, batterypct
-zigbeemodel: ['TS0203', '_TZ3000_n2egfsli','_TZ3000_oxslv1c9', '_TZ3000_7tbsruql', '_TZ3000_7d8yme6f', '_TZ3000_rgchmad8', '_TZ3000_bzxlofth','_TZ3000_au1rjicn','_TZ3000_4ugnzsli']
+zigbeemodel: ['TS0203', '_TZ3000_n2egfsli','_TZ3000_oxslv1c9', '_TZ3000_7tbsruql', '_TZ3000_7d8yme6f', '_TZ3000_rgchmad8', '_TZ3000_bzxlofth','_TZ3000_au1rjicn','_TZ3000_4ugnzsli','_TZ3000_decxrtwa']
 compatible: [z2m, z4d, zha, deconz, ihost]
 mlink: 
 deconz: 6811

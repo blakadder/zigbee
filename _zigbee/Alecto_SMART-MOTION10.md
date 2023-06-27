@@ -7,6 +7,7 @@ category: sensor
 supports: occupancy, batterypct
 mlink: https://alectohome.com/products/alecto-smart-motion10-smart-zigbee-bewegingssensor-wit
 link: https://www.bol.com/nl/nl/p/alecto-smart-motion10-smart-zigbee-bewegingssensor-detectiebereik-tot-7-meter-geeft-signaal-bij-beweging/9200000124105080/
+link2: https://www.amazon.de/dp/B0B6423441
 zigbeemodel: ['RH3040', 'TUYATEC-dgtxmihe']
 compatible: [z2m,iob,deconz,zha, ihost]
 z2m: RH3040

@@ -5,8 +5,9 @@ vendor: Mercator Ikuü
 title: Switch Mechanism
 category: dimmer
 supports: brightness
-zigbeemodel: ['TS0601','_TZE200_9cxuhakf']
-compatible: [zha]
+zigbeemodel: ['TS0601', '_TZE200_9cxuhakf']
+compatible: [zha, deconz]
+deconz: 6244
 mlink: https://www.ikuu.com.au/?attachment_id=22736
 link: 
 ---

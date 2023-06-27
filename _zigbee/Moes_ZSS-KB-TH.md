@@ -8,7 +8,7 @@ supports: humidity, temperature, batterypct
 zigbeemodel: ['_TZ3000_ywagc4rj', '_TZ3000_itnrsufe', 'TS0201']
 compatible: [zha, z2m, tasmota, deconz]
 tasmota: TZ3000_ywagc4rj
-deconz: #6735
+deconz: 6735
 mlink: https://www.moeshouse.com/products/smart-zigbee-temperature-and-humidity-sensor-indoor-hygrometer-thermometer-detector
 link: https://www.aliexpress.com/item/1005004493299407.html
 link2: https://www.aliexpress.com/item/1005004443497564.html

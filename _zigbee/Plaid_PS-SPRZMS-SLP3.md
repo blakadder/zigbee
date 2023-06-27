@@ -6,7 +6,8 @@ title: Spruce Soil Moisture Sensor Gen 3
 category: sensor
 supports: temperature, humidity
 zigbeemodel: ['PS-SPRZMS-SLP3']
-compatible: [zha, z2m]
+compatible: [zha, z2m, deconz]
+deconz: 6244
 mlink: https://spruceirrigation.com/sensors/
 link: https://www.amazon.com/Plaid-Systems-Spruce-Irrigation-Moisture/dp/B07TYJCG1J
 link2: 

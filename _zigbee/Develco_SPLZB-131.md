@@ -7,7 +7,7 @@ category: plug
 supports: on/off, smart energy meter, power usage
 image: /assets/images/devices/Develco_SPLZB-131.jpg
 zigbeemodel: ['SPLZB-131']
-compatible: [deconz ,z2m, zha, z4d]
+compatible: [deconz, z2m, zha, z4d]
 deconz: 5717
 mlink: https://frient.com/products/smart-plug-mini/
 link: https://www.domadoo.fr/en/peripheriques/5420-frient-prise-intelligente-mini-avec-mesure-de-consommation-zigbee-ha-version-schuko-5713594002347.html

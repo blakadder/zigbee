@@ -3,7 +3,7 @@ date_added: 2023-06-24
 model: CMM-1
 vendor: Candeo
 title: Modmote Scene Switch
-category: dimmer
+category: remote
 zigbeemodel: ['TS004F', '_TZ3000_czuyt8lz']
 compatible: [deconz, z2m, zha]
 deconz: 6861

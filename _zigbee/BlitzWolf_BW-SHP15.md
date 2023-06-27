@@ -6,13 +6,12 @@ title: Power Monitoring 16A 3680W EU Plug
 category: plug
 supports: on/off, power metering
 zigbeemodel: ['TS011F', '_TZ3000_mraovvmm', '_TZ3000_u5u4cakc']
-compatible: [z2m, tasmota, zha, z4d]
+compatible: [z2m, tasmota, zha, z4d, deconz]
+deconz: 6587
 z2m: TS011F_plug_1
 mlink: https://www.blitzwolf.com/
 link: https://www.banggood.com/BlitzWolf-BW-SHP15-Zigbee-3_0-16A-3680W-Smart-Plug-Wireless-Power-Socket-Outlet-EU-Plug-APP-Remote-Control-or-Voice-Control-or-Multiple-Timer-Modes-Compatible-With-Amazon-Alexa-or-Google-Assistant-p-1856492.html
 link2: https://www.aliexpress.com/item/1005002766783366.html
 link3: 
+pairing: Press and hold the on/off button for 5s until it starts blinking.
 ---
-
-### Pairing
-Press and hold the on/off button for 5s until it starts blinking.

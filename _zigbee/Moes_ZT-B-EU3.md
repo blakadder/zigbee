@@ -5,7 +5,7 @@ vendor: Moes
 title: Wireless 9 Scene Switch
 category: remote
 supports: action, battery
-zigbeemodel: ['TS0043','_TZ3000_gbm10jnj']
+zigbeemodel: ['TS0043', '_TZ3000_gbm10jnj', '_TZ3000_sj7jbgks']
 compatible: [deconz]
 deconz: 5004
 mlink: https://expo.tuya.com/product/1052011

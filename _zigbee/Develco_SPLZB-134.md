@@ -6,7 +6,8 @@ title: frient Smart Plug Mini Type G (British)
 category: plug
 supports: on/off, power metering
 zigbeemodel: ['SPLZB-134']
-compatible: [z2m]
+compatible: [z2m, deconz]
+deconz: 6651
 mlink: https://frient.com/products/smart-plug-mini/
 link: https://www.amazon.co.uk/dp/B08WXSZPG2
 link2: 

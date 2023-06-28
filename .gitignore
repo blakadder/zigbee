@@ -1,5 +1,6 @@
 *.gem
 .bundle
+.idea/
 .vscode/
 .sass-cache/
 .jekyll-cache/

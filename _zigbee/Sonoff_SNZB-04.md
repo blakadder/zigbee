@@ -17,10 +17,15 @@ link5: https://www.amazon.com/dp/B08BFGJ6RB/
 ---
 
 #### Pairing
+
 Long press reset button for 5s until the LED indicator flashes three times, which means the device has entered pairing mode
 
 Sometimes the battery is not mounted firmly which prevents the device from pairing properly.
 [Adding a washer between the battery holder](https://i.postimg.cc/SKkJmrpc/20210102-235846-1.jpg) and the battery or increasing the pressure on the holder fixes this.
+
+#### Known Issues
+
+There are connectivity issues with this device. They disconnect form the network after several hours and don't connect again. When that happens you need to pair them again. 
 
 #### Battery replacement
 

@@ -16,3 +16,6 @@ link5: https://www.amazon.com/dp/B08BFFJ69V/
 pairing: "Long press reset button for 5s until the LED indicator flashes three times, which means the device has entered pairing mode"
 ---
 
+#### Known Issues
+
+There are connectivity issues with this device. They disconnect form the network after several hours and don't connect again. When that happens you need to pair them again. 

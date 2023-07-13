@@ -1,7 +1,7 @@
 ---
 date_added: 2020-05-05
 model: ZL1000700-22-EU-V1A02
-vendor: Linkind
+vendor: AiDot Linkind
 title: Dimmable Warm White Filament E27 4.2W 420lm Amber Bulb
 category: bulb
 supports: brightness

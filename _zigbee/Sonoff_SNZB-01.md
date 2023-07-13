@@ -18,9 +18,5 @@ link5: https://www.geekbuying.com/item/SONOFF-SNZB-01-Zigbee-Wireless-Switch-497
 pairing: "Long press reset button for 5s until the LED indicator flashes three times, which means the device has entered pairing mode"
 ---
 
-## Known issues with deconz
-Several users has problems with this device (as well as SNZB-04 and SNZB-02) and **deconz**. They disconnected form network after several hours and doesn't connect again. That doesn't happens with Xiaomi door sensor for example. 
-
-So, won't be usable with deconz (at least with raspbeeII). You need to pair them again after several hours or some days. 
-
-Github unresolved issues: [1](https://github.com/dresden-elektronik/deconz-rest-plugin/issues/6576), [2](https://github.com/dresden-elektronik/deconz-rest-plugin/issues/6417), [3](https://github.com/dresden-elektronik/deconz-rest-plugin/issues/2414#issuecomment-668776932).
+## Known issues
+There are connectivity issues with this device. They disconnect form the network after several hours and don't connect again. When that happens you need to pair them again. 

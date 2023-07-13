@@ -8,7 +8,7 @@ supports: coordinator
 zigbeemodel: 
 compatible: [z2m, zha]
 mlink: https://www.home-assistant.io/skyconnect
-link: https://www.seeedstudio.com/Home-Assistant-SkyConnect-p-5479.html
+link: https://www.home-assistant.io/skyconnect
 link2: 
 ---
 

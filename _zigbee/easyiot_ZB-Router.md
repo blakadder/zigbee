@@ -5,7 +5,8 @@ vendor: easyiot
 title: ZigBee Repeater 
 category: router
 mlink: www.easyiot.tech
-link: https://www.aliexpress.com/item/1005003683621008.html
+link2: https://www.aliexpress.com/item/1005003683621008.html
+link: https://www.aliexpress.com/item/1005005400944000.html
 zigbeemodel: ['ZB-SW01']
 compatible: [zha, z2m, tasmota]
 ---

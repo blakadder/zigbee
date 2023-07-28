@@ -1,5 +1,5 @@
 ---
-date_added: 2024-06-23
+date_added: 2023-06-23
 model: MS
 vendor: Treatlife 
 title: Motion Sensor

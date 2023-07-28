@@ -5,8 +5,8 @@ vendor: Uhome
 title: Smart Valve
 category: misc
 supports: valve, battery
-zigbeemodel: ['SG-V100-ZB']
-compatible: [z2m]
+zigbeemodel: ['TWV']
+compatible: [z2m, zha]
 mlink: https://uhome.systems/Smart-valve.html
 link: 
 link2: 

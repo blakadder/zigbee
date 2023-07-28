@@ -7,7 +7,7 @@ category: switch
 type: Module
 supports: on/off
 zigbeemodel: ['TS0003','_TZE3000_pfc7i3kt']
-compatible: [deconz]
+compatible: [deconz, zha]
 deconz: 6682
 mlink: https://moeshouse.com/products/zigbee-104c-interruptor?variant=40036443160657
 link: https://www.aliexpress.com/item/1005001593033528.html

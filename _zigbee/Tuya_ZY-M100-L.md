@@ -8,6 +8,7 @@ supports: illuminance, presence, set delay, sensitivity, set range
 mlink: 
 link: https://www.aliexpress.com/item/1005004705672138.html
 link2: https://www.aliexpress.com/item/1005004106185075.html
+link3: https://www.aliexpress.com/item/1005005086817928.html
 zigbeemodel: ['TS0601', '_TZE200_ztc6ggyl']
 z2m: TS0601_smart_human_presence_sensor
 deconz: 6708

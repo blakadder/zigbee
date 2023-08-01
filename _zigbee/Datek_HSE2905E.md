@@ -6,7 +6,8 @@ title: Eva Home Meter Reader
 category: sensor
 supports: metering, temperature, electrical measurement
 zigbeemodel: ['HAN']
-compatible: [zha,z2m]
+compatible: [zha, z2m, deconz]
+deconz: 7034
 mlink: https://shop.evasmart.no/produkt/smarthus/maleravleser
 link: https://www.elektroimportoren.no/eva-maaleravleser/94321/Product.html
 ---

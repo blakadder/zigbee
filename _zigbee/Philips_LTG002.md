@@ -7,7 +7,8 @@ category: bulb
 supports: brightness, colortemp
 image: /assets/images/devices/Philips_LTG002.jpg
 zigbeemodel: ['LTG002']
-compatible: [zha, z2m, iob, z4d]
+compatible: [zha, z2m, iob, z4d, deconz]
+deconz: 7092
 mlink: https://www2.meethue.com/en-gb/p/hue-white-ambience-1-pack-gu10/8718699628673
 link: https://www.amazon.co.uk/Philips-Ambiance-Spotlight-Bluetooth-Assistant/dp/B07ST56JS6
 link2: https://www.amazon.de/dp/B07ST56JS6 

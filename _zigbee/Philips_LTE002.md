@@ -6,7 +6,8 @@ title: Hue White Ambiance E14 w/ BT
 category: bulb
 supports: brightness, colortemp
 zigbeemodel: ['LTE002']
-compatible: [zha, z2m]
+compatible: [zha, z2m, deconz]
+deconz: 7092
 z2m: 9290022944
 mlink: 
 link: 

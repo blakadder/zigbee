@@ -20,4 +20,4 @@ pairing: "Long press reset button for 5s until the LED indicator flashes three t
 
 #### Known Issues
 
-There are connectivity issues with this device. They disconnect form the network after several hours and don't connect again. When that happens you need to pair them again. 
+There are connectivity issues with this device. They disconnect form the network after several hours and don't connect again. When that happens you need to pair them again.

@@ -5,7 +5,7 @@ vendor: Qoto
 title: Soil Temperature and Humidity Sensor
 category: sensor
 supports: temperature, humidity, battery
-zigbeemodel: ['TS0601', '_TZE200_myd45weu']
+zigbeemodel: ['TS0601', '_TZE200_myd45weu', '_TZE200_ga1maeof']
 compatible: [z2m, zha, deconz]
 z2m: TS0601_soil
 deconz: 6731

@@ -8,7 +8,7 @@ supports: smoke
 mlink: https://klikaanklikuit.nl/product/slimme-draadloze-rookmelder/
 link: https://www.bol.com/nl/nl/p/klikaanklikuit-draadloze-rookmelder-zsdr-850/9200000090862688/
 zigbeemodel: ['SmokeSensor-EM']
-compatible: [zha, tasmota]
+compatible: [zha, z2m, tasmota]
 ---
 
 

@@ -15,6 +15,7 @@ link4: https://www.amazon.com/dp/B0BKLQBQ7H
 ---
 
 #### ZBBridge Filter ####
+
 Once ZB filter is loaded onto bridge, settings can be changed via ZbSend/MQTT like:<br>
 `ZbSend {"Device":"0x####","Write":{"neo_alarm":1}}`<br>
 ```console

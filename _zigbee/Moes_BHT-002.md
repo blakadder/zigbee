@@ -10,7 +10,8 @@ mlink: https://www.moeshouse.com/collections/smart-thermostat/products/zigbee-sm
 link: https://www.aliexpress.com/item/4001290661477.html
 link2: https://www.domadoo.fr/en/thermostats/5781-moes-thermostat-intelligent-zigbee-blanc-pour-chaudiere-eaugaz-3a.html
 link3: https://www.domadoo.fr/en/thermostats/5778-moes-thermostat-intelligent-zigbee-noir-pour-plancher-chauffant-electrique-16a.html
-compatible: [z4d,z2m,iob,deconz,zha,tasmota]
+link4: https://www.aliexpress.com/item/3256803286637740.html
+compatible: [z4d, z2m, iob, deconz, zha, tasmota]
 z2m: BHT-002-GCLZBWT  
 tasmota: TZE200_aoclfnxz
 deconz: 3304

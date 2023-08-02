@@ -5,7 +5,7 @@ vendor: Moes
 title: Scene Remote 4 Button
 category: remote
 supports: action, battery
-zigbeemodel: ['TS0044','_TZ3000_abci1hiu']
+zigbeemodel: ['TS0044','_TZ3000_abci1hiu', '_TZ3000_mh9px7cq']
 compatible: [zha, deconz]
 deconz: 
 mlink: https://www.moeshouse.com/collections/zigbee/products/tuya-smart-life-zigbee-smart-home-wireless-switch-4-gang-remote-point-to-point-control

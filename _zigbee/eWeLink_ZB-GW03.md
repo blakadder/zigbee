@@ -1,6 +1,6 @@
 ---
 date_added: 2021-09-24
-models: ZB-GW03-V1.0, ZB-GW03-V1.2, ZB-GW03-V1.3
+models: ZB-GW03
 vendor: eWeLink
 title:  Zigbee Ethernet Gateway
 category: coordinator

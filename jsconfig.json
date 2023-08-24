@@ -1,14 +1,16 @@
 {
   "compilerOptions": {
-      "target": "es5",
+      "target": "es6",
       "checkJs": true,
       "lib": [
-          "es2015",
+          "es2019",
           "dom"
       ]
   },
   "exclude": [
-      "node_modules"
+      "node_modules",
+      "_site",
+      ".sass-cache"
   ],
   "typeAcquisition": {
     "include": [

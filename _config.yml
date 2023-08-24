@@ -15,6 +15,10 @@ exclude:
   - Gemfile.lock
   - README.md
   - vendor/
+  - node_modules/
+  - .sass-cache/
+  - _site/
+  - globals.d.ts
 
 sass:
   sass_dir: _sass
@@ -35,7 +39,7 @@ defaults:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  
+
 google_analytics: UA-140681905-3
 
 image_processing:

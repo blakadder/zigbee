@@ -7,6 +7,9 @@
 	var searchQuery = $('#search-input')
 	database = database || {}
 
+	/**
+	 * @param {GlobalDatabase} data
+	 */
 	function createSearchStore(data) {
 		var searchStore = lunr(function () {
 			var self = this
@@ -42,6 +45,9 @@
 		return searchStore
 	}
 
+	/**
+	 * @param {DatabaseEntry} result
+	 */
 	function resultEntry(result) {
 		var searchEntry = $('<li />')
 		var searchLink = $('<a />')
@@ -55,13 +61,24 @@
 
 		searchLink.attr('href', result.href)
 
-		searchLink.text(result.vendor).append(" ").append(result.title).append(" ").append(result.model).append("&emsp;&emsp;ZigbeeID: ").append(result.zigbeemodel)
+		searchLink
+			.text(result.vendor)
+			.append(" ")
+			.append(result.title)
+			.append(" ")
+			.append(result.model)
+			.append("&emsp;&emsp;ZigbeeID: ")
+			.append(result.zigbeemodel);
 
 		return searchEntry
 	}
 
+	/**
+	 * @param {DatabaseEntry[]} results
+	 */
 	function displayResults(results) {
 		resultsContainer.empty()
+		var fragment = $(document.createDocumentFragment());
 
 		if (results.length > 0) {
 			results.map(function(entry) {
@@ -71,6 +88,7 @@
 			resultsContainer.append(nothingFound)
 		}
 
+		resultsContainer.append(fragment);
 		navigationContainer.hide()
 		resultsContainer.show()
 	}
@@ -80,6 +98,10 @@
 		navigationContainer.show()
 	}
 
+	/**
+	 * @param {lunr.Index} store
+	 * @param {GlobalDatabase} data
+	 */
 	function searchStore(store, data) {
 		return function (term) {
 			var results = store.search(term)
@@ -104,10 +126,11 @@
 		}
 	}
 
+	var EscKeyCode = 27;
 	function keyboardControls(hide) {
 		return function (event) {
 			switch (event.keyCode) {
-				case 27:
+				case EscKeyCode:
 					hide()
 				break
 			}
@@ -135,7 +158,16 @@
 		searchQuery.attr('value', searchTerm)
 	}
 
-	searchQuery.on('input', queryChange(displayResults, hideResults, search))
+	var throttleId = null;
+	var throttleDelay = 200; // MS
+
+	searchQuery.on('input', queryChange(function () {
+		clearTimeout(throttleId);
+
+		throttleId = setTimeout(function () {
+			displayResults(search(searchQuery.val()))
+		}, throttleDelay);
+	}, hideResults, search))
 	$(document).on('keyup', keyboardControls(hideResults))
 
-})(Zepto, lunr, window.database)
+})($, lunr, window.database)

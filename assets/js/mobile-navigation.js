@@ -15,4 +15,4 @@
 		menuIcon.show()
 		closeIcon.hide()
 	})
-})(Zepto)
+})($)

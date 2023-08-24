@@ -2,38 +2,45 @@
 
 (function ($, lunr, database) {
 	var resultsContainer = $('#search-results')
-	var navigationContainer = $('#instructions')
-	var nothingFound = $('<li>Nothing found.</li>')
+	var instructionsContainer = $('#instructions')
+	var nothingFound = $('#nothing-found')
 	var searchQuery = $('#search-input')
 	database = database || {}
 
+	/**
+	 * @param {GlobalDatabase} data
+	 */
 	function createSearchStore(data) {
 		var searchStore = lunr(function () {
-			var self = this
+			var lunrBuilder = this
 
-			self.pipeline.remove(lunr.stemmer);
-			self.searchPipeline.remove(lunr.stemmer);
+			lunrBuilder.pipeline.remove(lunr.stemmer);
+			lunrBuilder.searchPipeline.remove(lunr.stemmer);
 
 			let leftAnchoredSearch = function (token) {
 				token.update(function () { return token.toString() + '*' });
 				return token;
 			};
+
 			lunr.Pipeline.registerFunction(leftAnchoredSearch, 'las');
-			self.searchPipeline.add(leftAnchoredSearch);
+			lunrBuilder.searchPipeline.add(leftAnchoredSearch);
 
-			self.field('id');
-			self.field('vendor');
-			self.field('model', { boost: 20 });
-			self.field('title');
-			self.field('zigbeemodel');
+			lunrBuilder.field('id');
+			lunrBuilder.field('vendor');
+			lunrBuilder.field('model', { boost: 20 });
+			lunrBuilder.field('title');
+			lunrBuilder.field('zigbeemodel');
 
-			Object.keys(data).forEach(function (key) {
-				self.add({
+			Object.entries(data).forEach(function ([key, entry]) {
+				var zigbeeModel = entry.zigbeemodel || '';
+				zigbeeModel = Array.isArray(zigbeeModel) ? zigbeeModel.join(' ') : String(zigbeeModel);
+
+				lunrBuilder.add({
 					id: key,
-					title: data[key].title,
-					model: data[key].model,
-					vendor: data[key].vendor,
-					zigbeemodel: data[key].zigbeemodel,
+					title: entry.title,
+					model: entry.model,
+					vendor: entry.vendor,
+					zigbeemodel: zigbeeModel,
 				});
 			})
 
@@ -42,44 +49,84 @@
 		return searchStore
 	}
 
+
+	/**
+	 * @param {DatabaseEntry} result
+	 */
 	function resultEntry(result) {
-		var searchEntry = $('<li />')
-		var searchLink = $('<a />')
+		var imgSrc = `/assets/images/devices${result.href.replace('.html', '')}.webp`;
+		var compatible = Array.isArray(result.compatible) ? result.compatible : [];
 
-		var categoryPath = result.url.split('/')
-		categoryPath.shift()
-		categoryPath.pop()
+		var searchEntry = $(`<tr>
+			<td class="td-first">
+				<img src="${imgSrc}" height="75" alt="${result.vendor} ${result.model}" loading="lazy" />
+			</td>
+			<td class="td-second">
+				<b>
+					<a class="menu" href="${result.href}">
+						${result.vendor} ${result.title}
+					</a>
+				</b>
+			</td>
+			<td>
+				${result.model.length >= 18 ? result.model.substring(0, 15) + '...' : result.model}
+			</td>
 
-		searchEntry
-			.append(searchLink)
-
-		searchLink.attr('href', result.href)
-
-		searchLink.text(result.vendor).append(" ").append(result.title).append(" ").append(result.model).append("&emsp;&emsp;ZigbeeID: ").append(result.zigbeemodel)
+			<td class="td-compat">
+				${compatible.includes('zha') ? '<img alt="zha" title="Zigbee Home Automation for Home Assistant" src="/assets/images/zha-icon.png" />' : ''}
+			</td>
+			<td class="td-compat">
+				${compatible.includes('tasmota') || result.category == 'light' || result.category == 'dimmer' ? '<img alt="Tasmota" title="Tasmota" src="/assets/images/tasmota-icon.png" />' : ''}
+			</td>
+			<td class="td-compat">
+				${compatible.includes('z2m') ? '<img alt="Zigbee2MQTT" title="Zigbee2MQTT" src="/assets/images/z2m-icon.png" />' : ''}
+			</td>
+			<td class="td-compat">
+				${compatible.includes('deconz') ? '<img alt="deCONZ" title="deCONZ" src="/assets/images/deconz-icon.png" />' : ''}
+			</td>
+			<td class="td-compat">
+				${compatible.includes('z4d') ? '<img alt="Zigbee for Domoticz" title="Zigbee for Domoticz" src="/assets/images/z4d-icon.png" />' : ''}
+			</td>
+			<td class="td-compat">
+				${compatible.includes('iob') || compatible.includes('z2m') ? '<img alt="ioBroker.zigbee" title="ioBroker.zigbee" src="/assets/images/iobroker-icon.png" />' : ''}
+			</td>
+		</tr>`
+		);
 
 		return searchEntry
 	}
 
+	/**
+	 * @param {DatabaseEntry[]} results
+	 */
 	function displayResults(results) {
 		resultsContainer.empty()
+		instructionsContainer.hide()
 
-		if (results.length > 0) {
-			results.map(function(entry) {
-				resultsContainer.append(resultEntry(entry))
-			})
-		} else {
-			resultsContainer.append(nothingFound)
+		if (!results.length) {
+			nothingFound.show();
+			return;
 		}
 
-		navigationContainer.hide()
+		var fragment = $(document.createDocumentFragment());
+		results.map(function(entry) {
+			fragment.append(resultEntry(entry))
+		})
+
+		resultsContainer.append(fragment);
 		resultsContainer.show()
 	}
 
 	function hideResults() {
 		resultsContainer.hide()
-		navigationContainer.show()
+		nothingFound.hide();
+		instructionsContainer.show()
 	}
 
+	/**
+	 * @param {lunr.Index} store
+	 * @param {GlobalDatabase} data
+	 */
 	function searchStore(store, data) {
 		return function (term) {
 			var results = store.search(term)
@@ -104,10 +151,11 @@
 		}
 	}
 
+	var EscKeyCode = 27;
 	function keyboardControls(hide) {
 		return function (event) {
 			switch (event.keyCode) {
-				case 27:
+				case EscKeyCode:
 					hide()
 				break
 			}
@@ -135,7 +183,16 @@
 		searchQuery.attr('value', searchTerm)
 	}
 
-	searchQuery.on('input', queryChange(displayResults, hideResults, search))
+	var throttleId = null;
+	var throttleDelay = 200; // MS
+
+	searchQuery.on('input', queryChange(function () {
+		clearTimeout(throttleId);
+
+		throttleId = setTimeout(function () {
+			displayResults(search(searchQuery.val()))
+		}, throttleDelay);
+	}, hideResults, search))
 	$(document).on('keyup', keyboardControls(hideResults))
 
-})(Zepto, lunr, window.database)
+})($, lunr, window.database)

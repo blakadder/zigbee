@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+      "target": "es6",
+      "checkJs": true,
+      "lib": [
+          "es2019",
+          "dom"
+      ]
+  },
+  "exclude": [
+      "node_modules",
+      "_site",
+      ".sass-cache"
+  ],
+  "typeAcquisition": {
+    "include": [
+        "zepto",
+        "lunr"
+    ]
+  }
+}

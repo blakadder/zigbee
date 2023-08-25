@@ -4,9 +4,9 @@ model: HA-ZM12/24-mw2
 vendor: Halemeier GmbH
 title: Halemeier S-Mitter Smart MultiWhite, 12V DC
 category: dimmer
-mlink: 
-link: https://www.ostermann.eu/en_GB/product/radio-receiver-s-mitter-smart-12v-dc-max-36w-multiwhite
+mlink: https://www.halemeier.de/produkte/schalttechnik/s-mitter-smart/s-mitter-smart-set-12-volt-dc/
+link: https://www.galaxus.de/de/s4/product/halemeier-1-kanal-funk-schalterdimmer-s-mitter-basic-multiwhite-smart-lichtschalter-storenschalter-16306770
 zigbeemodel: ['HA-ZM12/24-1K']
-compatible: [zha, zigbee2mqtt]
+compatible: [zha, z2m]
 z2m: HA-ZM12_24-1K
 ---

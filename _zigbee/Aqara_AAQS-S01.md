@@ -18,3 +18,5 @@ compatible: [zha, tasmota, z2m, deconz, z4d]
 deconz: 4704
 EAN: VOCKQJK11LM
 ---
+
+Earlier firmware versions have issues with delivering incorrect or no battery state!

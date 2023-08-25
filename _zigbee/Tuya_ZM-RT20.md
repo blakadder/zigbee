@@ -8,6 +8,7 @@ supports: occupancy, battery
 zigbeemodel: ['TS0202', '_TZ3000_msl6wxk9']
 compatible: [deconz, z2m]
 deconz: 5299
+z2m: IH012-RT01
 mlink: 
 link: https://www.aliexpress.com/item/1005003606082802.html
 link2: https://www.aliexpress.com/item/1005003661259185.html

@@ -1,7 +1,7 @@
 ---
 date_added: 2021-02-08
 model: RDCBC/Z-1P/2P
-vendor: Sohan
+vendor: EARU
 title: Circuit Breaker 32A/50A (1 pole / 2 poles)
 category: switch
 supports: on/off

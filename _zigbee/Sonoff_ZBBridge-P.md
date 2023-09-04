@@ -13,7 +13,8 @@ link2: https://www.aliexpress.com/item/1005004291712811.html
 link3: https://www.domadoo.fr/en/peripheriques/6321-sonoff-zigbee-30-home-automation-gateway-wifi-pro.html
 ---
 
-When flashing, flash the Tasmota Release "Tasmota32 Sonoff-ZigbeeBridgePro" to have all the required files and filesystem changes pre-done. 
+## Flashing 
+  Flashing the device does not require soldering. When flashing, flash the Tasmota Release "Tasmota32 Sonoff-ZigbeeBridgePro" to have all the required files and filesystem changes pre-done. 
 
 Once flashed, follow the coordinator firmware flashing Instructions from NotEnoughTech to flash the CC2652 chip itself from within Tasmota:
 [Flashing coordinator firmware by NotEnoughTech](https://notenoughtech.com/home-automation/tasmota-on-sonoff-zb-bridge-pro/#flash)

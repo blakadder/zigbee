@@ -8,6 +8,7 @@ supports: action, batterypct
 action: single, double, triple, hold, release
 zigbeemodel: ['lumi.remote.b28ac1']
 compatible: [z2m, deconz, z4d, zha]
+quirk: https://github.com/zigpy/zha-device-handlers/issues/940#issuecomment-1001107154
 deconz: 4842
 z2m: WXKG15LM
 mlink: https://www.aqara.com/en/product/wireless-remote-switch-h1
@@ -18,10 +19,5 @@ link4: https://www.amazon.nl/dp/B094QL17GY/
 link5: https://www.idealo.de/preisvergleich/OffersOfProduct/201548120_-wrs-r02-aqara.html
 EAN: 
   - 6970504215023
+pairing: "Hold left rocker for 10s until LEDs start flashing"
 ---
-
-## Pairing
-Hold left rocker for 10s until LEDs start flashing
-
-### Note
-ZHA only sees the switch in Alt mode by default, treating both buttons as one, and only detecting a single click. To change the operation mode see [this comment](https://github.com/zigpy/zha-device-handlers/issues/940#issuecomment-1001107154)

@@ -5,7 +5,8 @@ model: TRV06
 title: Thermostatic Radiator Valve Controller
 category: hvac
 zigbeemodel: ['TS0601','_TZE200_bvu2wnxz']
-compatible: [z2m, z4d, deconz]
+compatible: [z2m, z4d, deconz, zha]
+quirk: https://github.com/zigpy/zha-device-handlers/issues/1818
 deconz: 6896
 z2m: TS0601_thermostat_3
 mlink: 

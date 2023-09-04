@@ -1,3 +1,10 @@
+{%- if page.quirk != nil -%}
+<p>
+<h4>ZHA</h4>
+This device is not in the official code and requires a <a class="button" href="{{ page.quirk }}">custom quirk</a>.
+</p>
+{% endif %}
+
 {%- if page.tasmota != nil -%}
 <p>
 <h4>Tasmota Configuration</h4>

@@ -11,5 +11,6 @@ link3: https://www.aliexpress.com/item/1005004295765145.html
 link4: 
 zigbeemodel: ['TS0601', '_TZE200_3towulqd', '_TZE200_1ibpyhdc', '_TZE200_bh3n6gk8']
 compatible: [zha, z2m, z4d, deconz]
+quirk: https://github.com/zigpy/zha-device-handlers/issues/2482
 deconz: 6458
 ---

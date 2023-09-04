@@ -11,7 +11,8 @@ link2: https://www.aliexpress.com/item/1005004542293208.html
 link3: https://www.aliexpress.com/item/1005004697597000.html
 zigbeemodel: ['TS0601', '_TZE200_0u3bj3rc', '_TZE200_v6ossqfy', '_TZE200_v6ossqfy', '_TZE200_mx6u6l4y']
 z2m: TS0601_human_presence_sensor
-compatible: [z2m, tasmota, deconz]
+compatible: [z2m, tasmota, deconz, zha]
+quirk: https://github.com/zigpy/zha-device-handlers/issues/2059
 deconz: 6752
 ---
 

@@ -7,8 +7,9 @@ category: cover
 type: curtain motor
 supports: state, position, batterypct, battery voltage, device temperature, action, motor state, running, hooks state, target position, power source, charging
 zigbeemodel: ['lumi.curtain.acn003','lumi.curtain.agl001']
-compatible: [z2m, deconz]
+compatible: [z2m, deconz, zha]
 deconz: 6894
+quirk: https://github.com/zigpy/zha-device-handlers/issues/2003
 mlink: https://www.aqara.com/en/product/curtain-driver-e1
 link: https://www.bol.com/nl/nl/p/aqara-curtain-driver-e1-zigbee-3-0-retrofit-gordijncontroller/9300000112313801/
 link2: https://smarterhome.sk/en/xiaomi-aqara/aqara-curtain-driver-e1-rod-version-cm-m01-1219.html

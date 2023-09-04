@@ -11,4 +11,5 @@ mlink: https://www.moeshouse.com/products/smart-zigbee-human-presence-detector-p
 zigbeemodel: ['TS0601', '_TZE200_ikvncluo', '_TZE200_wukb7rhc', '_TZE200_holel4dk']
 z2m: TS0601_smart_human_presence_sensor
 compatible: [z2m, zha]
+quirk: https://github.com/zigpy/zha-device-handlers/issues/1645
 ---

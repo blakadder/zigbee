@@ -9,7 +9,8 @@ zigbeemodel: ['lumi.airrtc.agl001']
 compatible: [z2m, zha, deconz]
 deconz: 6547
 mlink: https://www.aqara.com/eu/product/radiator-thermostat-e1
+link: https://www.domadoo.fr/en/peripheriques/6286-aqara-radiator-thermostat-e1-srts-a01-6970504217058.html
 link2: https://www.amazon.de/gp/product/B0B6DTSGSJ
 link3: https://www.bol.com/nl/nl/p/aqara-radiator-thermostat-e1-zigbee-3-0-slimme-thermostaatkraan/9300000123398174/
-link: https://www.domadoo.fr/en/peripheriques/6286-aqara-radiator-thermostat-e1-srts-a01-6970504217058.html
+link4: https://www.proshop.de/Smart-Home/Aqara-Smart-Radiator-Thermostat-E1/3096016
 ---

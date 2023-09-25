@@ -8,8 +8,8 @@ supports: on/off, power measurement, device temperature, power outage memory
 zigbeemodel: ['lumi.switch.n0acn2']
 compatible: [z2m,tasmota]
 mlink: https://www.aqara.com/cn/productDetail/d15
-link: https://www.aliexpress.com/item/1005003307390282.html
-link2: https://www.aliexpress.com/item/1005003159290708.html
+link: https://www.domadoo.fr/en/peripheriques/5386-aqara-single-switch-module-t1-with-neutral-ssm-u01-6970504213296.html
+link2: https://www.aliexpress.com/item/1005004620154997.html
+link3: https://www.proshop.de/Smart-Home/Aqara-Single-Switch-Module-T1-with-neutral/2879765
+pairing: "Long press the button until the blue light starts to rapidly blink"
 ---
-## Pairing
-Long press the button until the blue light starts to rapidly blink

@@ -12,6 +12,6 @@ mlink: https://www.aqara.com/en/product/motion-sensor-p1
 link: https://www.domadoo.fr/en/peripheriques/6138-xiaomi-aqara-zigbee-30-aqara-motion-sensor-p1-ms-s02-6970504215979.html
 link2: https://www.amazon.de/dp/B09QKVMMTB/
 link3: https://www.amazon.com/dp/B09YVDBTMS/
-link4: https://www.bol.com/nl/nl/p/aqara-motion-sensor-p1-zigbee-3-0-niet-compatible-met-homey/9300000098220838/
+link4: https://www.proshop.de/Smart-Home/Aqara-Motion-Sensor-P1/3071438
 pairing: "Press and hold the reset button on the device for +- 5 seconds (until the blue light starts blinking). After this the device will automatically join."
 ---

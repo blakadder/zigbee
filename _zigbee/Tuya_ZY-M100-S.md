@@ -12,5 +12,5 @@ link3: https://www.aliexpress.com/item/1005005086817928.html
 zigbeemodel: ['TS0601', '_TZE204_ztc6ggyl', '_TZE204_sxm7l9xa']
 z2m: TS0601_smart_human_presence_sensor_1
 deconz: 6517
-compatible: [z2m, zha, deconz]
+compatible: [z2m, zha, deconz, z4d]
 ---

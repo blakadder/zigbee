@@ -7,7 +7,7 @@ category: sensor
 mlink: https://doc.szalarm.com/zg-205Z/en/
 link: https://www.aliexpress.com/item/1005005951964477.html
 zigbeemodel: ['TS0225', '_TZE200_2aaelwxk']
-compatible: [z2m]
+compatible: [z2m, ZHA]
 ---
 
 ## Notice!

@@ -12,6 +12,7 @@ link: https://www.aliexpress.com/item/1005003379547049.html
 link2: https://www.moeshouse.com/collections/new-arrivals/products/tuya-zigbee-smart-knob-switch-wireless-scene-switch-button-scene-button-controller-battery-powered-automation-scenario
 link3: https://www.amazon.com/dp/B09MK2D17W
 link4: https://www.aliexpress.com/item/1005003775694484.html
+link5: https://www.amazon.co.uk/dp/B0BV2CS1PL
 ---
 ## ZHA
 

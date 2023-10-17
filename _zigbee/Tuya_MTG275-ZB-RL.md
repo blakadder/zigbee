@@ -10,4 +10,5 @@ quirk: https://github.com/zigpy/zha-device-handlers/issues/2457
 z2m: MTG075-ZB-RL
 mlink: 
 link: https://www.aliexpress.com/item/1005005631750389.html
+link2: https://www.aliexpress.com/item/1005005652743663.html
 ---

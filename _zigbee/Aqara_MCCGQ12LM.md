@@ -5,7 +5,7 @@ vendor: Aqara
 title: Door and Window Sensor T1
 category: sensor
 supports: contact, battery
-zigbeemodel: ['lumi.sensor_magnet.agl02']
+zigbeemodel: ['lumi.sensor_magnet.agl02', 'lumi.magnet.agl02']
 compatible: [deconz, zha, z2m, ihost]
 deconz: 4343
 mlink: https://www.aqara.com/cn/productDetail/d18

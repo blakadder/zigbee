@@ -5,8 +5,8 @@ vendor: Yushun
 title: Curtain Motor
 category: cover
 supports: open, close, stop, position
-zigbeemodel: ['TS0601','_TZE200_bqcqqjpb','_TZE200_fdtjuw7u']
-compatible: [z2m,iob,deconz]
+zigbeemodel: ['TS0601','_TZE200_bqcqqjpb','_TZE200_fdtjuw7u','_TZE200_gaj531w3']
+compatible: [z2m, zha, deconz]
 z2m: TS0601_cover
 mlink: https://gzyushun.en.alibaba.com/product/60717102371-805722042/switch_and_wireless_Smart_Home_automation_Yushun_MT750_wifi_electric_curtain_motor.html
 link: https://www.aliexpress.com/item/4000463256008.html

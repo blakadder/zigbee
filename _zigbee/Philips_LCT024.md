@@ -4,7 +4,7 @@ vendor: Philips
 title: Hue White and Color Ambiance Play Light Bar
 category: bulb
 supports: brightness, colortemp, colorxy
-zigbeemodel: ['LCT024','440400982841', '440400982842']
+zigbeemodel: ['LCT024','440400982841', '440400982842', 'PCM002']
 compatible: [z2m,zha,z4d,deconz]
 z2m: 915005733701
 mlink: https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-play-light-bar-single-pack/7820130U7

@@ -9,3 +9,7 @@ link: https://www.aliexpress.com/item/1005005761971083.html
 zigbeemodel: ['TS0025', '_TZE200_hl0ss9oa']
 compatible: [z2m]
 ---
+
+## Notice!
+
+Because the device is constantly sending out its state to the coordinator some users report that it negatively affects their Zigbee network.

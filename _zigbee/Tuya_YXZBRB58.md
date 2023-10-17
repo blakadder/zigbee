@@ -12,3 +12,7 @@ link4: https://www.alibaba.com/product-detail/Tuya-Zigbee-Light-Control-Smart-Br
 zigbeemodel: ['TS0601', '_TZE204_sooucan5']
 compatible: [z2m]
 ---
+
+## Notice!
+
+Because the device is constantly sending out its state to the coordinator some users report that it negatively affects their Zigbee network.

@@ -10,3 +10,7 @@ link2: https://shopee.ph/ZigBee-Wifi-24G-MmWave-Radar-Human-Presence-Motion-Sens
 zigbeemodel: ['TS0601', '_TZE204_ijxvkhd0']
 compatible: [z2m]
 ---
+
+## Notice!
+
+Because the device is constantly sending out its state to the coordinator some users report that it negatively affects their Zigbee network.

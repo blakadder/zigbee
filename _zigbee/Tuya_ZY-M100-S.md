@@ -14,3 +14,7 @@ z2m: TS0601_smart_human_presence_sensor_1
 deconz: 6517
 compatible: [z2m, zha, deconz, z4d]
 ---
+
+## Notice!
+
+Because the device is constantly sending out its state to the coordinator some users report that it negatively affects their Zigbee network.

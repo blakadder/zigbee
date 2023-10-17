@@ -4,9 +4,8 @@ model: SNZB-06P
 vendor: Sonoff
 title: Presence Sensor
 category: sensor
-supports: occupancy
 zigbeemodel: ['SNZB-06P']
-compatible: [z2m]
+compatible: [z2m, zha]
 mlink: https://itead.cc/product/sonoff-zigbee-human-presence-sensor/
 link: 
 ---

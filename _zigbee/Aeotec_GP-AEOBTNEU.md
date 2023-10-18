@@ -9,9 +9,9 @@ link: https://www.amazon.de/dp/B08RG8CFJ4
 link2: https://www.domadoo.fr/en/lighting/5946-aeotec-button-zigbee-smartthings-4251295701677.html
 link3: https://www.idealo.de/preisvergleich/Typ/4251295701677
 zigbeemodel: ['SamjinButton']
-compatible: zha
+compatible: [zha, z4d]
 EAN: 4251295701677
 ---
 
-
+Provides simple click, double click, hold; and Temperature
 

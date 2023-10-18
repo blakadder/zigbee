@@ -15,6 +15,7 @@ link3: https://www.amazon.de/dp/B07D19YXND
 link2: https://www.aliexpress.com/item/32919919934.html
 link4: https://www.domadoo.fr/en/peripheriques/4669-aqara-interrupteur-sans-fil-intelligent-zigbee-192784000052.html
 link5: https://www.geekbuying.com/item/Xiaomi-Aqara-Smart-Window-Door-Sensor-White-406861.html
+link6: https://www.amazon.co.uk/dp/B07D19YXND
 ---
 ###### Actions
 For model "lumi.remote.b1acn01" 

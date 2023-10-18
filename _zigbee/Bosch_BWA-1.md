@@ -14,4 +14,8 @@ link2:
 link3: 
 ---
 
-Device requires usage of zigbee install code to be able to join, which is currently limitedly usable for public.
+## ZHA
+
+Call the Home Assistant [service zha.permit](https://www.home-assistant.io/integrations/zha/#service-zhapermit) with its `IEEE` and `install code` - interview works fine after this.
+
+![zha_join_example](./assets/images/zha_join_by_install_code.png)

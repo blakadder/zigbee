@@ -4,7 +4,7 @@ vendor: Bosch
 model: BTH-RA
 title: Radiator Thermostat II
 category: hvac
-supports: thermostat, battery
+supports: thermostat, battery, local temperature, external temperature sensor, % opening, boost, open window detection, child lock, display settings, ota
 zigbeemodel: ['RBSH-TRV0-ZB-EU']
 compatible: [z2m, deconz, zha]
 deconz: 6565
@@ -16,4 +16,6 @@ EAN: 4062321597351
 
 ## ZHA
 
-Home Assistant Service zha.permit is called with its IEEE and installcode. Interview works fine after.
+Call the Home Assistant [service zha.permit](https://www.home-assistant.io/integrations/zha/#service-zhapermit) with its `IEEE` and `install code` - interview works fine after this.
+
+![zha_join_example](./assets/images/zha_join_by_install_code.png)

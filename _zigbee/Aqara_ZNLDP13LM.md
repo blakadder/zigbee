@@ -7,7 +7,7 @@ category: bulb
 type: E27 Bulb
 supports: brightness, colortemp
 zigbeemodel: ['lumi.light.cwac02']
-compatible: [z2m, ZHA]
+compatible: [z2m, zha]
 mlink: https://www.aqara.com/cn/productDetail/led_light_t1
 link: https://www.aliexpress.com/item/1005003815633849.html
 ---

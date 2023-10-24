@@ -5,7 +5,7 @@ vendor: Heiman
 title: Air Quality Monitor
 category: sensor
 zigbeemodel: ['HS3AQ-EFA-3.0']
-compatible: [deconz, z2m]
+compatible: [deconz, z4d, z2m]
 deconz: 6496
 mlink: https://www.heimantech.com/product/?type=detail&id=106
 link: https://www.domadoo.fr/en/peripheriques/5882-heiman-air-quality-sensor-co2-temperature-humidity-zigbee-30-visual-and-audible-alarm.html

@@ -12,6 +12,6 @@ tasmota: TS0001_switch
 mlink: 
 link: https://www.aliexpress.com/item/1005001979915069.html
 link2: 
-link3: 
+link3: Weten_1GNNTS.md
 ---
 

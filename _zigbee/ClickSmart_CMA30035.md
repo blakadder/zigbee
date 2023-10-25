@@ -7,7 +7,7 @@ category: plug
 type: [wall outlet, uk]
 supports: on/off
 zigbeemodel: ['TS011F','_TYZB01_mtunwanm']
-compatible: [z2m, zha]
+compatible: [z2m, zha, tasmota]
 z2m: TS011F_wall_outlet
 mlink: https://click-smart.com/products/1-gang-smart-socket
 link: 

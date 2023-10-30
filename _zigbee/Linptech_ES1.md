@@ -8,7 +8,7 @@ mlink: https://www.alibaba.com/product-detail/Zigbee-24G-Millimeter-Wave-Radar-D
 link: https://www.amazon.com/dp/B0C7C6L66J
 link2: https://www.aliexpress.com/item/1005006068314433.html
 zigbeemodel: ['TS0225', '_TZ3218_awarhusb']
-compatible: [zha]
+compatible: [zha, z2m]
 EAN: ES1ZZ(TY)
 ---
 

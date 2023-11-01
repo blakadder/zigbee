@@ -8,7 +8,7 @@ zigbeemodel: ['SNZB-06P']
 compatible: [z2m, zha, tasmota, ihost]
 mlink: https://itead.cc/product/sonoff-zigbee-human-presence-sensor
 link: https://www.domadoo.fr/en/security/6827-zigbee-30-human-presence-sensor-radar-technology-sonoff.html
-tasmota: snzb-06p.zb
+tasmota: snzb-06p
 ---
 
 ## Tasmota

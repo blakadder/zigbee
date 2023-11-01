@@ -11,6 +11,5 @@ link: https://www.domadoo.fr/en/security/6827-zigbee-30-human-presence-sensor-ra
 tasmota: snzb-06p
 ---
 
-## Tasmota
 
-Tasmota gets an illuminance report when occupancy is triggered. 0 is a dark environment and 255 is light environment.
+Configuration file is only required if you want an illuminance report when occupancy is triggered. 0 is a dark environment and 255 is light environment.

@@ -4,7 +4,7 @@ model: SIN-4-RS-20
 vendor: NodOn
 title: Roller Shutter Module
 category: cover
-supports: cover, position, tilt
+supports: cover, position 
 zigbeemodel: ['SIN-4-RS-20']
 compatible: [z2m, zha, z4d]
 mlink: https://nodon.fr/en/nodon/zigbee-roller-shutter-relay-switch/

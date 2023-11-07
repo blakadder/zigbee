@@ -11,7 +11,7 @@ tasmota: lumi.plug
 deconz: 2267
 mlink: https://www.aqara.com/eu/smart_outlet.html
 link: https://www.domadoo.fr/en/peripheriques/5385-aqara-prise-connectee-zigbee-30-smart-plug.html
-link2: https://www.alzashop.com/aqara-smart-socket-d5878403.htm
+link2: 
 link3: 
 ---
 

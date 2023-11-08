@@ -6,7 +6,7 @@ title: Door Window Sensor
 category: sensor
 supports: contact, battery, tamper
 zigbeemodel: ['TS0203','_TZ3000_7d8yme6f']
-compatible: [deconz, zha]
+compatible: [deconz, zha, z2m]
 deconz: 6307
 mlink: 
 link: https://www.aliexpress.com/item/1005003479039691.html
@@ -15,3 +15,4 @@ link3:
 ---
 
 ![packaging](/assets/images/devices/Tuya_ZD08_box.webp)
+![pairing](/assets/images/devices/Tuya-ZD08-Sensor-Pairing.jpg)

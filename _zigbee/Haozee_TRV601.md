@@ -7,7 +7,7 @@ category: hvac
 type: trv
 supports: temperature, thermostat, battery
 zigbeemodel: ['TS0601', '_TZE200_a4bpgplm', '_TZE200_z1tyspqw']
-compatible: [z2m,deconz,zha]
+compatible: [z2m,deconz,zha, z4d]
 z2m: TS0601_thermostat_1
 deconz: 4675
 mlink: 

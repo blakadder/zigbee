@@ -31,6 +31,8 @@ This Bluetooth sensor can be converted to a Zigbee one with just a webpage and a
 
 If the OTA fails or you want to revert back to Bluetooth firmware you need to flash it using a serial to USB adapter. Wire the device like this:
 
+![Pinout](/assets/images/devices/Xiaomi_LYWSD03MMC_pinout.webp)
+
 Visit [USBCOM Flasher](https://pvvx.github.io/ATC_MiThermometer/USBCOMFlashTx.html), "Connect" to the port of the serial adapter, "Choose File" ([`z03mmc.bin`](https://github.com/devbis/z03mmc/releases) for Zigbee or download one of the [Bluetooth](https://github.com/pvvx/ATC_MiThermometer/tree/master) firmwares)
 
 "Write to Flash" and wait for the process to complete. If you have issues run "Erase All Flash" first.

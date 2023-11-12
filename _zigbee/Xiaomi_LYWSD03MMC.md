@@ -27,6 +27,14 @@ This Bluetooth sensor can be converted to a Zigbee one with just a webpage and a
 - make sure the Xiaomi sensor is close to the Bluetooth radio
 - use a full battery, if its lower than 40% flashing could fail and brick the device
 
-## Firmware Source
+## Serial Flash
 
-This is originally a Bluetooth sensor but it can be flashed to Zigbee firmware using a webpage.  [Instructions for flashing](https://github.com/devbis/z03mmc).
+If the OTA fails or you want to revert back to Bluetooth firmware you need to flash it using a serial to USB adapter. Wire the device like this:
+
+Visit [USBCOM Flasher](https://pvvx.github.io/ATC_MiThermometer/USBCOMFlashTx.html), "Connect" to the port of the serial adapter, "Choose File" ([`z03mmc.bin`](https://github.com/devbis/z03mmc/releases) for Zigbee or download one of the [Bluetooth](https://github.com/pvvx/ATC_MiThermometer/tree/master) firmwares)
+
+"Write to Flash" and wait for the process to complete. If you have issues run "Erase All Flash" first.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KD_bchKkwMQ?si=nD4jwLK9JDw9ym-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Zigbee firmware by [devbis](https://github.com/devbis/z03mmc), flashing tools by [pvvx](https://pvvx.github.io/)

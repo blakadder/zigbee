@@ -1,0 +1,6 @@
+#Z2Tv1
+# Sonoff SNZB-06P
+# https://zigbee.blakadder.com/Sonoff_SNZB-06P 
+:SNZB-06P,SONOFF
+FC11/2001=0400/0000,mul:255          
+# map manufacturer cluster to Illuminance and multiply so 0 is dark and 255 is bright environment

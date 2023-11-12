@@ -8,7 +8,7 @@ supports: contact, battery
 zigbeemodel: ['PECWS01']
 compatible: [z2m]
 mlink: https://perenio.com/catalog/pecws01-doorwindow-sensor-pecws01
-link: https://www.alzashop.com/perenio-inteligentni-bezpecnostni-sada-d6807597.htm
+link: https://www.alza.de/perenio-inteligentni-bezpecnostni-sada-d6807597.htm
 link2: 
 link3: 
 ---

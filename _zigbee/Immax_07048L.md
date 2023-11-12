@@ -10,7 +10,7 @@ zigbeemodel: ['Plug-230V-ZB3.0']
 compatible: [z2m, deconz, iob, zha]
 deconz: 5475
 mlink: https://www.immaxneo.cz/en/products/security/immax-neo-smart-plug/
-link: https://www.alzashop.com/immax-neo-smart-socket-d5569071.htm
+link: https://www.alza.de/immax-neo-smart-socket-d5569071.htm
 link2: 
 link3: 
 ---

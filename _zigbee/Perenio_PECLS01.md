@@ -8,7 +8,7 @@ supports: water leak, battery
 zigbeemodel: ['PECLS01']
 compatible: [z2m,zha]
 mlink: https://perenio.com/catalog/pecls01-leak-sensor-pecls01
-link: https://www.alzashop.com/perenio-inteligentni-bezpecnostni-sada-d6807597.htm
+link: https://www.alza.de/perenio-inteligentni-bezpecnostni-sada-d6807597.htm
 link2: 
 link3: 
 ---

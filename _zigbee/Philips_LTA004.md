@@ -9,7 +9,7 @@ zigbeemodel: ['LTA004']
 compatible: [z2m]
 z2m: 8719514328242
 mlink: https://www.philips-hue.com/en-gb/p/-/8719514328167
-link: https://www.alzashop.com/philips-hue-white-ambiance-85w-a60-set-2-pack-d5095977.htm
+link: https://www.alza.de/philips-hue-white-ambiance-85w-a60-set-2-pack-d5095977.htm
 link2: https://www.amazon.co.uk/dp/B099NRJRG8
 link3: 
 EAN:

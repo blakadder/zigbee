@@ -11,6 +11,6 @@ compatible: [z2m,deconz,zha]
 deconz: 5034
 mlink: https://www.immaxneo.cz/en/products/security/immax-neo-smart-3x-door-window-sensor/
 link: https://www.amazon.de/dp/B07TYWJX2N
-link2: https://www.alzashop.com/immax-neo-smart-3x-magnetic-window-and-door-sensor-d5569073.htm
+link2: https://www.alza.de/immax-neo-smart-3x-magnetic-window-and-door-sensor-d5569073.htm
 link3: 
 ---

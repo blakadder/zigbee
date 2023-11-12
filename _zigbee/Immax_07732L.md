@@ -10,5 +10,5 @@ zigbeemodel: ['TS0601','_TZE200_4eeyebrt']
 compatible: [zha]
 z2m: TS0601_thermostat
 mlink: 
-link: https://www.alzashop.com/immax-neo-smart-termostaticka-hlavice-zigbee-d6778513.htm
+link: https://www.alza.de/immax-neo-smart-termostaticka-hlavice-zigbee-d6778513.htm
 ---

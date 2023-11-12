@@ -10,7 +10,7 @@ compatible: [tasmota,zha,z2m,deconz]
 deconz: 6140
 mlink: https://www.aqara.com/eu/product/smart-wall-switch-h1-no-neutral
 link: https://www.domadoo.fr/en/peripheriques/5727-xiaomi-aqara-interrupteur-mural-double-intelligent-h1-zigbee-30-sans-neutre-6970504214781.html
-link2: https://www.alzashop.com/aqara-smart-wall-switch-h1-no-neutral-double-rocker-d6480895.htm
+link2: https://www.alza.de/aqara-smart-wall-switch-h1-no-neutral-double-rocker-d6480895.htm
 link3: https://www.amazon.de/dp/B094R8217X/
 link4: https://www.proshop.de/Smart-Home/Aqara-Smart-Wall-Switch-H1-no-neutral-Double-Rocker/3014761
 EAN:

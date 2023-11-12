@@ -16,6 +16,15 @@ link5: https://www.geekbuying.com/item/XIAOMI-4pcs-Mijia-Bluetooth-Thermometer-H
 pairing: "Reinsert the battery and/or short the RESET and GND contacts above the battery for 3 seconds."
 ---
 
-## Custom Firmware
+This Bluetooth sensor can be converted to a Zigbee one with just a webpage and a device with Bluetooth. Open the web flasher and follow the procedure in video.
 
-This is originally a Bluetooth sensor but it can be flashed to Zigbee firmware using a webpage.  [Instructions for flashing](https://github.com/devbis/z03mmc#flashing-over-the-air-easy-way).
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KO_fWBtoHq8?si=beaEVLiJ-b9rNWbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Troubleshooting:
+
+- make sure the Xiaomi sensor is close to the Bluetooth radio
+- use a full battery, if its lower than 40% flashing could fail and brick the device
+
+## Firmware Source
+
+This is originally a Bluetooth sensor but it can be flashed to Zigbee firmware using a webpage.  [Instructions for flashing](https://github.com/devbis/z03mmc).

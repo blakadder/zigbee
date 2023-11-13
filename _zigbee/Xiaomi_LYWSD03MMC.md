@@ -26,6 +26,7 @@ This Bluetooth sensor can be converted to a Zigbee one with just a webpage and a
 
 - make sure the Xiaomi sensor is close to the Bluetooth radio
 - use a full battery, if its lower than 40% flashing could fail and brick the device
+- if the sensor disconnects mid flash (for me it was around 50%) try installing the BLE 4.5 firmware first then do the Zigbee conversion
 
 ## Serial Flash
 

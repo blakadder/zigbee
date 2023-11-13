@@ -13,7 +13,7 @@ deconz: 4287
 mlink: https://www.philips-hue.com/sv-se/p/hue-dimmer-switch/8719514274617
 link: https://www.amazon.co.uk/dp/B08PKMT2DV
 link2: https://www.amazon.de/dp/B08PKMT2DV
-link3: https://www.bol.com/nl/nl/p/philips-hue-dimmer-switch-draadloze-schakelaar-slimme-verlichting-accessoire-wit-incl-batterij/9300000020528391/
+link3: https://www.domadoo.fr/en/remote-controls-badges-keyboards/6848-philips-hue-zigbee-dimmer-switch-8719514274617.html
 link4: https://www.tink.de/philips-hue-dimmer-switch-dimmschalter
 EAN:
   - 8719514274617

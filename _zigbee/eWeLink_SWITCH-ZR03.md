@@ -8,5 +8,5 @@ mlink:
 link: https://www.amazon.com/dp/B08K45W4LR
 zigbeemodel: SWITCH-ZR03-1
 z2m: SWITCH-ZR03-1
-compatible: z2m
+compatible: [ z4d, z2m ]
 ---

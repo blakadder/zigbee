@@ -6,7 +6,7 @@ title: Stoftmoln LED ceiling/wall lamp, wireless dimmable/warm white white, 37 c
 category: light
 supports: brightness
 zigbeemodel: ['STOFTMOLN ceiling/wall lamp WW37']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: https://www.ikea.com/nl/en/p/stoftmoln-led-ceiling-wall-lamp-wireless-dimmable-warm-white-white-20510779/
 link: 
 link2: 

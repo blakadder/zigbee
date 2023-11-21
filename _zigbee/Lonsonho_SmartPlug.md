@@ -8,6 +8,6 @@ supports: energy metering
 mlink: 
 link: https://www.aliexpress.com/item/4001118546894.html
 zigbeemodel: ['_TZ3000_okaz9tjs', '_TZ3000_dksbtrzs']
-compatible: [deconz]
+compatible: [deconz, z4d]
 deconz: 6745
 ---

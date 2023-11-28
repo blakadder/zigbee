@@ -42,8 +42,8 @@ plugins:
 
 google_analytics: UA-140681905-3
 
-image_processing:
-  table:
-    source: assets/images/devices
-    destination: assets/images/devices-table
-    resize_to_limit: [~, 75]
+# image_processing:
+#   table:
+#     source: assets/images/devices
+#     destination: assets/images/devices-table
+#     resize_to_limit: [~, 75]

@@ -32,8 +32,8 @@ jobs:
         with:
           path: ./_site
           key: ${{ runner.os }}-jekyll
-      - name: Install jekyll_image_processing dependencies
-        run: sudo apt-get install libvips-tools
+#      - name: Install jekyll_image_processing dependencies
+#        run: sudo apt-get install libvips-tools
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:

@@ -1,5 +1,5 @@
 ---
-date_added: 2022-05-27
+date_added: 2023-10-16
 model: GL86ZTRS31
 vendor: BSEED
 title: Roller Shutter Touch Switch
@@ -8,6 +8,6 @@ zigbeemodel: ['TS130F','_TZ3000_wptayaqr']
 compatible: [zha]
 mlink: https://www.bseed.com/collections/zigbee-series/products/bseed-zigbee-shutter-switch-smart-wall-touch-switch?variant=42121517596827
 link: https://www.aliexpress.com/item/1005003944471359.html
-link2: 
+link2: https://www.amazon.es/dp/B0B2JYFJZT
 link3: 
 ---

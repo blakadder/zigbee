@@ -10,4 +10,5 @@ compatible: [z2m, zha, deconz]
 deconz: 7013
 mlink: https://www.lidl.com/
 link: https://www.lidl.cz/p/silvercrest-zigbee-3-0-smart-home-inteligentni-zasuvka/p100355084
+pairing: Long press button for 5s until the LED flashes, which means the device has entered pairing mode.
 ---

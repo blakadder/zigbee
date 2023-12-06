@@ -6,6 +6,7 @@ title: Door/Window Sensor
 category: sensor
 zigbeemodel: ['TS0203', '_TZ3000_v7chgqso']
 compatible: [deconz, z2m, zha]
+z2m: TS0203
 deconz: 7260
 mlink: https://nous.technology/product/smart-door-window-sensor-nous-e3-zigbee.html
 link: https://www.domadoo.fr/en/peripheriques/6193-nous-tuya-zigbee-30-door-or-window-sensor-5907772033876.html

@@ -7,7 +7,8 @@ category: sensor
 type: Contact
 supports: contact, battery, tamper
 zigbeemodel: ['TS0203','_TZ3000_fab7r7mc']
-compatible: [z2m]
+compatible: [zha, z2m]
+z2m: TS0203
 mlink: https://expo.tuya.com/product/762047
 link: https://www.aliexpress.com/item/1005002781958684.html
 link2: 

@@ -10,4 +10,5 @@ link: https://www.aliexpress.com/item/1005002018443929.html
 link2: https://www.aliexpress.com/item/1005004984273100.html
 zigbeemodel: ['TS0203', '_TZ3000_ebar6ljy']
 compatible: [z2m, zha]
+z2m: TS0203
 ---

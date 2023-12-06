@@ -6,7 +6,8 @@ title: Door Sensor (Homekit)
 category: sensor
 supports: contact, tamper, battery
 zigbeemodel: ['TS0203', '_TZ3000_hdtmulpn']
-compatible: [zha]
+compatible: [zha, z2m]
+z2m: TS0203
 mlink: https://www.alibaba.com/product-detail/Newly-arrival-smart-Window-sensor-detector_1600647683222.html
 tuya: https://expo.tuya.com/product/1024010
 link: https://www.domadoo.fr/en/peripheriques/6363-neo-tuya-zigbee-door-or-window-sensor-2x-aa-battery.html

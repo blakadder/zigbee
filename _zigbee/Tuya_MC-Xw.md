@@ -9,5 +9,6 @@ mlink:
 link: https://www.aliexpress.com/item/1005002198797695.html 
 link2: https://www.aliexpress.com/item/1005002512326796.html
 zigbeemodel: ['TS0203', '_TZ3000_psqjayrd']
-compatible: [z2m]
+compatible: [z2m, zha]
+z2m: TS0203
 ---

@@ -7,7 +7,9 @@ category: sensor
 mlink: https://www.ikuu.com.au/product/contact-sensor/
 link: https://www.ikuu.com.au/product/contact-sensor/
 zigbeemodel: ['TS0203', '_TZ3000_wbrlnkm9']
-compatible: zha
+compatible: [zha, z2m]
+z2m: TS0203
+
 ---
 
 

@@ -15,3 +15,7 @@ link2: https://www.aliexpress.com/item/1005003698857421.html
 link3: https://www.aliexpress.com/item/1005004910022903.html
 link4: https://www.aliexpress.com/item/1005003646930652.html
 ---
+
+## Device pairing
+1. Plug the smart socket into the power socket
+2. Long press the smart socket button, the indicator light flashes and enters the network distribution mode. After the network is successfully configured the network distribution indicator goes out.

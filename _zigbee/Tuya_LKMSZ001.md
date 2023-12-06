@@ -4,7 +4,7 @@ model: LKMSZ001
 vendor: Tuya
 title: Motion Sensor and Scene Switch
 category: sensor
-supports: ocuupancy, battery
+supports: occupancy, battery
 zigbeemodel: ['TS0202', '_TZ3210_cwamkvua']
 compatible: [z2m]
 z2m: TS0202_2

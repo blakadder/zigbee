@@ -7,5 +7,5 @@ category: light
 mlink: https://moeshouse.com/products/zigbee-smart-bulb-zb-td5-rcw-gu10-ms
 link: 
 zigbeemodel: ['TS0505B', '_TZ3210_rcggc0ys']
-compatible: z2m
+compatible: [z2m, zha]
 ---

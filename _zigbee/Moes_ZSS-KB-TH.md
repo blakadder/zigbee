@@ -10,7 +10,7 @@ compatible: [zha, z2m, tasmota, deconz]
 tasmota: TZ3000_ywagc4rj
 deconz: 6735
 mlink: https://www.moeshouse.com/products/smart-zigbee-temperature-and-humidity-sensor-indoor-hygrometer-thermometer-detector
-link: https://www.aliexpress.com/item/1005004493299407.html
+link: https://www.domadoo.fr/en/smart-home/6667-moes-temperature-and-humidity-sensor-with-zigbee-display-tuya.html
 link2: https://www.aliexpress.com/item/1005004443497564.html
 link3: https://www.geekbuying.com/item/MoesHouse-ZigBee-Smart-Temperature-Humidity-Sensor-Square-517787.html
 link4: https://www.amazon.com/dp/B0B316X8KG/

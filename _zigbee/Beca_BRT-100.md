@@ -17,6 +17,7 @@ link5: https://www.geekbuying.com/item/MoesHouse-Tuya-ZigBee3-0-Radiator-Actuato
 EAN:
   - ZTRV-BY-100-WH-FR
   - ZTRV-BY-100-WH-EN
+  - ZTRV-BY-100-BK-FR
 ---
 
 This device is also sold branded as Tuya, Moes, etc... 

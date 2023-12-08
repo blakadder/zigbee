@@ -9,7 +9,7 @@ zigbeemodel: ['TS0207', '_TZ3000_m0vaazab', '_TZ3000_ufttklsz', '_TZ3000_5k5vh43
 compatible: [z2m, iob, z4d, zha, tasmota, deconz]
 deconz: 6835
 mlink: 
-link: https://www.aliexpress.com/item/1005001459823340.html
+link: https://www.domadoo.fr/en/peripheriques/6669-moes-tuya-zigbee-signal-repeater.html
 link2: https://www.aliexpress.com/item/4001230151655.html
 link3: https://www.amazon.se/dp/B08R6D3QWY/
 link4: https://www.aliexpress.com/item/1005004447135734.html

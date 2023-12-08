@@ -9,7 +9,7 @@ zigbeemodel: ['SMOK_V15', 'SMOK_V16', 'b5db59bfd81e4f1f95dc57fdbba17931', 'SMOK_
 compatible: [z2m, deconz, iob, z4d, tasmota, zha]
 z4d: https://z4d.fr/le-materiel-compatible-z4d/compatible/minidtecteurdefume-certifice
 mlink: http://www.heimantech.com/product/?type=detail&id=3
-link: https://www.aliexpress.com/item/32838465875.html
+link: https://www.domadoo.fr/en/peripheriques/6291-heiman-zigbee-30-smart-smoke-detector-en14604-certified.html
 pairing: "Long press on the pinhole button till the test button starts to flash"
 ---
 ## Important

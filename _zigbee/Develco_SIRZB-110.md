@@ -10,7 +10,7 @@ compatible: [deconz]
 deconz: 3350
 mlink: https://frient.dk/products/smart-siren/
 link: https://www.elektroimportoren.no/develco-smart-siren/4514809/Product.html
-link2: 
+link2: https://www.domadoo.fr/en/peripheriques/5538-frient-zigbee-30-smart-siren-5713594002422.html
 link3: 
 ---
 

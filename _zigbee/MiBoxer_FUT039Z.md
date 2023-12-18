@@ -6,7 +6,7 @@ title: RGB+CCT LED Controller (Zigbee 3.0)
 category: light
 supports: brightness, colortemp, color, DND mode
 zigbeemodel: ['TS0505B','_TZ3210_jicmoite']
-compatible: [z2m]
+compatible: [z2m] [ZHA]
 mlink: https://miboxer.com/light/xqy/fut039z.html
 link: https://www.aliexpress.com/item/1005002776866370.html
 link2: https://www.ledbe.com/miboxer-fut039z-rgb-cct-zigbee-3.0-led-strip-controller

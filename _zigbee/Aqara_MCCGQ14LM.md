@@ -9,7 +9,7 @@ zigbeemodel: ['lumi.magnet.acn001']
 compatible: [z2m, deconz, zha]
 deconz: 5403
 mlink: https://www.xiaomiyoupin.com/detail?gid=147149
-link: https://www.aliexpress.com/item/1005003410251901.html
+link: https://www.aliexpress.com/item/1005003504633099.html
 link2: https://www.banggood.com/Aqara-E1-Window-And-Door-Sensor-Zibee-3_0-Wireless-Remote-Control-Smart-Home-Kit-Remote-Alarm-Eco-System-Works-With-Homekit-And-Mi-Home-APP-p-1898162.html
 link3: 
 ---

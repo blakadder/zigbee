@@ -7,7 +7,7 @@ category: sensor
 supports: temperature, humidity
 zigbeemodel: ['LYWSD03MMC']
 compatible: [z2m, zha, tasmota]
-mlink: https://github.com/devbis/z03mmc#flashing-over-the-air-easy-way
+mlink: https://github.com/pvvx/ZigbeeTLc
 link: https://www.aliexpress.com/item/1005006067590977.html
 link2: https://www.amazon.de/dp/B08C7KVDJW/
 link3: https://www.banggood.com/Xiaomi-Mijia-Smart-LCD-Screen-Digital-Thermometer-2-bluetooth-Temperature-Humidity-Sensor-Moisture-Meter-Mijia-App-p-1977441.html
@@ -18,7 +18,7 @@ pairing: "Reinsert the battery and/or short the RESET and GND contacts above the
 
 ## How To
 
-This Bluetooth sensor can be converted to a Zigbee one with just a webpage and a device with Bluetooth. Open the web flasher and follow the procedure in video.
+This Bluetooth sensor can be converted to a Zigbee one with just a webpage and a device with Bluetooth. Open the [web flasher](https://pvvx.github.io/ATC_MiThermometer/TelinkMiFlasher.html) and follow the procedure in video.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KO_fWBtoHq8?si=beaEVLiJ-b9rNWbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

@@ -14,9 +14,7 @@ pairing: "Remove the battery for 5 seconds an re-insert it"
 
 ## How To
 
-This Bluetooth sensor can be converted to a Zigbee one with just a webpage and a device with Bluetooth. Open the [web flasher](https://pvvx.github.io/ATC_MiThermometer/TelinkMiFlasher.html) and follow the procedure in video.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-bbe58DRvDU?si=3K_TaALbYcokCxrn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+This Bluetooth sensor can be converted to a Zigbee one with just a webpage and a device with Bluetooth. [Full guide](https://blakadder.com/xiaomi-mho-c401-zigbee/) for conversion, configuration and even reverting back to BLE.
 
 ## Troubleshooting
 

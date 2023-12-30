@@ -6,7 +6,7 @@ title: Smart Knob H1 (Wireless)
 category: remote
 supports: action, battery
 zigbeemodel: ['lumi.remote.rkba01']
-compatible: [z2m,deconz]
+compatible: [z2m,deconz,zha]
 mlink: https://www.aqara.com/cn/productDetail/wireless-smart-knob-h1
 link: https://www.aliexpress.com/item/1005004964251870.html
 ---

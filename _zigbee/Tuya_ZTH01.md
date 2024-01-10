@@ -5,12 +5,12 @@ vendor: Tuya
 title: Temperature and Humidity Sensor
 category: sensor
 supports: humidity, temperature, batterypct
-zigbeemodel: ['TS0601', '_TZE200_yjjdcqsq', '_TZE200_9yapgbuv', '_TZE200_utkemkbs']
+zigbeemodel: ['TS0601', '_TZE200_yjjdcqsq', '_TZE200_9yapgbuv', '_TZE200_utkemkbs', '_TZE204_yjjdcqsq']
 compatible: [zha, z2m, deconz]
 deconz: 6986
 mlink: 
 tuya: 
 link: https://www.aliexpress.com/item/1005004896603070.html
 link2: https://www.aliexpress.com/item/1005004838346776.html
-link3: 
+link3: https://www.amazon.de/-/en/dp/B0BWJHHK89
 ---

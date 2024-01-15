@@ -4,7 +4,7 @@ vendor: Bosch
 title: Plug Compact EU 
 category: plug
 zigbeemodel: ['RBSH-SP-ZB-EU']
-compatible: [deconz, z2m]
+compatible: [deconz, z2m, zha]
 deconz: 6689
 mlink: https://www.bosch-smarthome.com/at/de/produkte/geraete/zwischenstecker-kompakt/
 link: https://www.amazon.de/dp/B08QCNVCYV

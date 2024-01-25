@@ -8,5 +8,6 @@ supports: presence
 mlink: 
 link: https://www.aliexpress.com/item/1005004296422003.html
 zigbeemodel: ['TS0601', '_TZE200_9qayzqa8']
-compatible: []
+compatible: [zha]
+zha: https://github.com/zigpy/zha-device-handlers/issues/1618#issuecomment-1518251194
 ---

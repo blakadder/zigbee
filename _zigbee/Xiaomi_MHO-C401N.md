@@ -21,4 +21,4 @@ This Bluetooth sensor can be converted to a Zigbee one with just a webpage and a
 - make sure the sensor is close to the Bluetooth radio
 - use a full battery, if its lower than 40% flashing could fail and brick the device
 
-Zigbee firmware and web flashing tool by [pvvx](https://github.com/devbis/z03mmc), flashing tools by [pvvx](https://pvvx.github.io/
+Zigbee firmware and web flashing tool by [pvvx](https://github.com/devbis/z03mmc), flashing tools by [pvvx](https://pvvx.github.io/)

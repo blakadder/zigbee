@@ -6,7 +6,7 @@ title: Tradfri LED bulb E26 250lm, dimmable warm white/globe clear
 category: bulb
 supports: brightness
 zigbeemodel: ['TRADFRIbulbE26WWclear250lm']
-compatible: [z2m]
+compatible: [z2m] [zha]
 z2m: LED1934G3_E26
 mlink: 
 link: 

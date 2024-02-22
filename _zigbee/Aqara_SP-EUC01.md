@@ -3,7 +3,7 @@ model: SP-EUC01
 vendor: Aqara
 title: Smart Plug EU
 category: plug
-supports: on/off, power measurement, device temperature
+supports: on/off, power measurement, device temperature, voltage, current, summation
 image: /assets/images/devices/SP-EUC01.jpg
 zigbeemodel: ['lumi.plug.maeu01']
 compatible: [z2m, zha, deconz, tasmota, z4d]

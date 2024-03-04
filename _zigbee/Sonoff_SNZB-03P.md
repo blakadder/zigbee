@@ -6,7 +6,7 @@ title: Motion Sensor
 category: sensor
 supports: occupancy
 zigbeemodel: ['SNZB-03P']
-compatible: [z2m, zha]
+compatible: [z2m, zha, z4d]
 mlink: https://itead.cc/product/sonoff-zigbee-motion-sensor-snzb-03p/
 link:
 ---

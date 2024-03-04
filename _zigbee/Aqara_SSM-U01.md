@@ -6,7 +6,7 @@ title: Single Switch Module T1 (With Neutral)
 category: switch
 supports: on/off, power measurement, device temperature
 zigbeemodel: ['lumi.switch.n0agl1']
-compatible: [z2m, deconz, zha, tasmota]
+compatible: [z2m, deconz, zha, tasmota, z4d]
 deconz: 4328
 mlink: https://www.aqara.com/en/single_switch_T1_with-neutral.html
 link: https://www.domadoo.fr/en/peripheriques/5386-aqara-micromodule-onoff-zigbee-30-2500w-avec-neutre-6970504213296.html

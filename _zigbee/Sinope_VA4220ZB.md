@@ -1,7 +1,7 @@
 ---
 date_added: 2023-04-02
 model: VA4220ZB
-vendor: Sinopé
+vendor: Sinope
 title: Sedna Smart Water Valve
 category: misc
 mlink: https://www.sinopetech.com/en/product/sedna-smart-water-valve-%c2%be-po-1-po-2nd-gen-zigbee/

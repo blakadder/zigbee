@@ -5,7 +5,7 @@ model: TRVZB
 title: Thermostatic Radiator Valve
 zigbeemodel: 
 category: hvac
-compatible: [z2m, zha]
+compatible: [z2m, z4d, zha]
 z2m: TRVZB 
 mlink: 
 link: https://itead.cc/product/sonoff-zigbee-thermostatic-radiator-valve/

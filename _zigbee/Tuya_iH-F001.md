@@ -4,10 +4,12 @@ model: iH-F001
 vendor: Tuya
 title: Door/Window Sensor
 category: sensor
+supports: contact, battery
 mlink: 
 link: https://www.aliexpress.com/item/1005003186827400.html
-link2: https://www.amazon.com/dp/B09PVKN3NP
-zigbeemodel: ['TS0203', '_TZ3000_oxslv1c9']
+link2: https://www.aliexpress.com/item/1005003518715880.html
+link3: https://www.amazon.com/dp/B09PVKN3NP
+zigbeemodel: ['TS0203', '_TZ3000_oxslv1c9', '_TZ3000_26fmupbb']
 compatible: [deconz, z2m, zha, ihost]
 z2m: TS0203
 deconz: 6100

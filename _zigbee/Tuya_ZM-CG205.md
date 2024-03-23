@@ -11,7 +11,5 @@ link2: https://www.aliexpress.com/item/1005002512326796.html
 zigbeemodel: ['TS0203', '_TYZB01_xph99wvr','_TYZB01_ncdapbwy']
 compatible: [deconz, z2m, z4d, zha]
 z2m: TS0203
+pairing: "6 Second press to connect via pen-hole. Connects to Tuya and Lidl Zigbee3 Gateways. Is found by deCONZ but not recognized (yet)."
 ---
-
-## Pairing
-6 Second press to connect via pen-hole. Connects to Tuya and Lidl Zigbee3 Gateways. Is found by deCONZ but not recognized (yet).  

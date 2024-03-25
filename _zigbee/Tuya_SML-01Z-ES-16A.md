@@ -6,7 +6,7 @@ title: 1CH Zigbee Switch Module-ES
 category: switch
 supports: on/off, power metering
 zigbeemodel: ['TS0001', '_TZ3000_mkhkxx1p']
-compatible: [z2m]
+compatible: [z2m,z4d]
 z2m: TS0001_power
 mlink: https://www.atarm.com/product-page/sml-01z-es-16a
 link: https://www.aliexpress.com/item/1005004774422133.html

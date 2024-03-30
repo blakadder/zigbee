@@ -6,7 +6,7 @@ title: Soil Temperature and Humidity Sensor
 category: sensor
 supports: temperature, humidity, battery
 zigbeemodel: ['TS0601', '_TZE200_myd45weu', '_TZE200_ga1maeof']
-compatible: [z2m, zha, deconz]
+compatible: [z2m, zha, deconz, z4d]
 z2m: TS0601_soil
 deconz: 6731
 mlink: https://www.qotosmart.com/TUYA-Garden-wireless-irrigation-soil-moisture-indicator-pd49631219.html

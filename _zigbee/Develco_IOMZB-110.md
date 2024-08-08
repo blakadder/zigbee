@@ -9,6 +9,6 @@ compatible: [deconz, z2m]
 deconz: 6321
 mlink: https://www.develcoproducts.com/products/smart-relays/io-module/
 link: https://www.domadoo.fr/en/peripheriques/6148-domadoo-zigbee-30-io-module-4-dry-contact-inputs-2-nonc-outputs-onoff-or-pulse.html
-link2: 
+link2: https://www.amazon.de/frient-Ausgangsmodul-Konnektivit%C3%A4tsmodul-Schnittstelle-Funktioniert/dp/B0CB4G2T8P
 link3: 
 ---

@@ -6,7 +6,7 @@ title: Temperature and Humidity Sensor
 category: sensor
 supports: humidity, temperature, batterypct
 zigbeemodel: ['TS0601', '_TZE200_yjjdcqsq', '_TZE200_9yapgbuv', '_TZE200_utkemkbs', '_TZE204_yjjdcqsq']
-compatible: [zha, z2m, deconz]
+compatible: [zha, z2m, deconz, z4d]
 deconz: 6986
 mlink: 
 tuya: 

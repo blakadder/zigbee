@@ -1,5 +1,5 @@
 ---
-model: GL-C-008S
+model: GL-C-008P
 vendor: Gledopto
 title: RGB+CCT LED Controller Pro
 category: light

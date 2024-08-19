@@ -8,7 +8,7 @@ mlink: https://doc.szalarm.com/zg-205Z/en/
 link: https://www.aliexpress.com/item/1005005951964477.html
 link2: https://www.amazon.com/dp/B0CFHL81P8/
 zigbeemodel: ['TS0225', '_TZE200_2aaelwxk']
-compatible: [z2m]
+compatible: [z2m, zha]
 ---
 
 ## Notice!

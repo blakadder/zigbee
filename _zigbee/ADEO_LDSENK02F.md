@@ -1,7 +1,7 @@
 ---
 date_added: 2021-08-11
 model: LDSENK02F
-vendor: Adeo
+vendor: Adeo Lexman
 title: Smart Plug 16A FR
 category: plug
 supports: on/off, power metering

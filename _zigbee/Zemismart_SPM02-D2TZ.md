@@ -5,7 +5,7 @@ vendor: Zemismart
 title: Bi-directional 3 Phase Energy Monitor 
 category: sensor
 supports: electrical measurement
-zigbeemodel: ['TS0601', '_TZE204_ves1ycwx', '_TZE200_ves1ycwx']
+zigbeemodel: ['TS0601', '_TZE204_ves1ycwx', '_TZE200_ves1ycwx', '_TZE200_v9hkz2yn']
 compatible: [z2m]
 z2m: SPM02
 mlink: https://www.zemismart.com/products/spm02-d2tz

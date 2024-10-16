@@ -6,7 +6,7 @@ title: Tuya Garage Door Controller with Sensor
 category: cover
 mlink: 
 link: https://www.aliexpress.com/item/1005003635582496.html
-zigbeemodel: ['TS0601', '_TZE200_nklqjk62']
+zigbeemodel: ['TS0601', '_TZE200_nklqjk62','_TZE204_nklqjk62']
 compatible: [z2m, z4d]
 ---
 

@@ -6,7 +6,7 @@ title: Tradfri LED bulb GU10 345 lumen, dimmable, white spectrum
 category: bulb
 supports: brightness, colortemp
 zigbeemodel: ['TTRADFRIbulbGU10WS345lm', 'TRADFRI bulb GU10 WW 345lm']
-compatible: [z2m, zha, ihost]
+compatible: [z2m, zha, ihost, z4d]
 mlink: https://www.ikea.com/pt/en/p/tradfri-remote-control-kit-white-spectrum-20495910/
 link: 
 link2: 

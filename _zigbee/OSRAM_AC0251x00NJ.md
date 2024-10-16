@@ -8,7 +8,7 @@ supports: action, batterypct
 actions: circle, up, down, hold, release
 image: /assets/images/devices/OSRAM_AC0251x00NJ.jpg
 zigbeemodel: ['Lightify Switch Mini', 'Lightify Switch Mini blue']
-compatible: [z2m,z4d,zha,deconz,iob]
+compatible: [z2m,z4d,deconz,iob]
 deconz: 2917
 z2m: AC0251100NJ/AC0251600NJ/AC0251700NJ
 mlink: https://www.osram-lamps.com/appsinfo/pdc/pdf.do?cid=GPS01_3576333&vid=PP_EUROPE_Europe_retail_eCat&lid=EN

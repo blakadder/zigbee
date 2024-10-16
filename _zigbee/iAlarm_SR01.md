@@ -6,7 +6,7 @@ title: Sound and Flash Siren
 category: sensor
 supports: alarm, volume, battery
 zigbeemodel: ['TS0224']
-compatible: [z2m]
+compatible: [z2m,24d]
 mlink: 
 link: https://www.aliexpress.com/item/1005005082511807.html
 link2: https://www.aliexpress.com/item/1005004959357168.html

@@ -6,7 +6,7 @@ title: Temperature and Humidity Sensor with Display
 category: sensor
 supports: humidity, temperature, batterypct
 zigbeemodel: ['_TZ3000_itnrsufe', 'TS0201']
-compatible: [z2m, zha, deconz, tasmota]
+compatible: [z2m, z4d, zha, deconz, tasmota]
 tasmota: Tuya_KCTW1Z
 deconz: 6735
 mlink: https://fccid.io/2A5TM-KCTW1Z/External-Photos/External-photos-5867957

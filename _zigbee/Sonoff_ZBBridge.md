@@ -41,6 +41,8 @@ When the ZbBridge is flashed with Tasmota, **disconnect all breadboard wires** a
 
 Download Zigbee module firmware [`ncp-uart-sw_6.7.8_115200.ota`](https://github.com/arendst/Tasmota/blob/development/tools/fw_SonoffZigbeeBridge_ezsp/ncp-uart-sw_6.7.8_115200.ota?raw=true) from Tasmota GitHub located in [`Tasmota/tools/fw_SonoffZigbeeBridge_ezsp/`](https://github.com/arendst/Tasmota/blob/development/tools/fw_SonoffZigbeeBridge_ezsp).
 
+Go to **Configuration** -> **Configure Module** and set Module to `Sonoff ZbBridge (75)`and **Save**.
+
 Go to **Firmware Upgrade** and next to "Upgrade by file upload" use the _Choose File_ button and select Zigbee module firmware you downloaded (`ncp-uart-sw_6.7.8_115200.ota`). 
 
 ![ZBBridge Zigbee module flash](/assets/images/sonoff_ZBBridge_ota.jpg)
@@ -71,7 +73,7 @@ Read [Zigbee](http://tasmota.github.io/docs/Zigbee) documentation for complete g
 ## For Home Assistant (ZHA)
 This mode creates a TCP bridge from the zigbee module to Home Assistant. In this case Tasmota is only relaying all the messages from the zigbee module to ZHA and **you cannot use any Zigbee commands in Tasmota console in this mode. All setup needs to be done from Home Assistant ZHA integratioon.**
 
-After Zigbee firmware is flashed and confirmed working in ZIgbee2Tasmota mode, apply the template:
+After Zigbee firmware is flashed and confirmed working in ZIgbee2Tasmota mode, set module back to `Sonoff ZHABridge (0)` and apply the template:
 
 ```json
 {"NAME":"ZHA ZBBridge","GPIO":[56,208,0,209,59,58,0,0,0,0,0,0,17],"FLAG":0,"BASE":18}

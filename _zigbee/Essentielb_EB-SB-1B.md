@@ -6,7 +6,7 @@ title: Essentielb Smart Button
 category: remote
 supports: action, batterypct
 zigbeemodel: ['EB-SB-1B']
-compatible: [zha]
+compatible: [zha, z2m]
 mlink: 
 link: https://www.boulanger.com/ref/8009289
 EAN:

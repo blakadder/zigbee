@@ -6,7 +6,7 @@ title: 1 Gang Switch Module
 category: switch
 supports: on/off
 zigbeemodel: ['TS0001','_TZ3000_tqlv4ug4']
-compatible: [z2m,zha,tasmota]
+compatible: [z2m,zha,z4d, tasmota]
 z2m: TS0001_switch_module
 tasmota: TS0001_switch
 mlink: 

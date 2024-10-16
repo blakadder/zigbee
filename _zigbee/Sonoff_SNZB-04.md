@@ -30,8 +30,10 @@ There are connectivity issues with this device. They disconnect form the network
 #### Battery replacement
 
 In theory these devices should automatically re-join the network after battery replacement. I have observed that (at least when working with deconz) they dometimes do not. When they do it is immediately obvious - the status in Phoscon (deconz) is immediately updated, with the device showing open or closed rather than unavailable. When they don't, nothing happens, with the device continuing to show as unavailable. To re-pair them it isn't necessary to delete them and create a new device. Instead:
- - Replace the battery
- - In Phoscon go to *Devices > Sensors > Add new sensor*
- - Click *Other* to start it searching for new devices
- - Put into pairing mode as described above
+
+- Replace the battery
+- In Phoscon go to *Devices > Sensors > Add new sensor*
+- Click *Other* to start it searching for new devices
+- Put into pairing mode as described above
+
 Fairly quickly the device will be re-connected as it originally was. You won't need to re-create it in Deconz or Home Assistant. Hopefully other bluetooth stacks behave the same.

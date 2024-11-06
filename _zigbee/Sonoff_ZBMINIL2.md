@@ -14,5 +14,6 @@ link2: https://www.aliexpress.com/item/1005005190836176.html
 link3: https://www.domadoo.fr/en/peripheriques/6619-sonoff-smart-switch-without-neutral-zigbee-30-zbminil2.html
 link4: https://www.amazon.com/SONOFF-ZBMINIL2-Compatible-SmartThings-ZBBridge-P/dp/B0BYNVBXDM
 link5: https://www.geekbuying.com/item/SONOFF-ZBMINI-L2-Module-Switch-521492.html
-Extra information: Does not work as a router.
 ---
+
+Does not work as a router!

@@ -15,3 +15,5 @@ link3: https://www.domadoo.fr/en/peripheriques/6619-sonoff-smart-switch-without-
 link4: https://www.amazon.com/SONOFF-ZBMINIL2-Compatible-SmartThings-ZBBridge-P/dp/B0BYNVBXDM
 link5: https://www.geekbuying.com/item/SONOFF-ZBMINI-L2-Module-Switch-521492.html
 ---
+
+Does not work as a router!

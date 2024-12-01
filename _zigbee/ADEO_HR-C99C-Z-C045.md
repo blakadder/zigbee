@@ -11,6 +11,7 @@ compatible: [z2m, zha]
 mlink: 
 link: https://www.leroymerlin.fr/produits/electricite-et-domotique/domotique-et-objets-connectes/domotique/solutions-de-commande/telecommande-pour-ampoules-connectees-zigbee-lexman-enki-84372300.html
 link2: 
+link3: 
 EAN: 
   - 3276007069006
   - 3276007274004

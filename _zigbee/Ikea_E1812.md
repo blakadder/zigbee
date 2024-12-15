@@ -16,3 +16,8 @@ EAN:
   - 203.563.82
   - 403.563.81
 ---
+### Pairing
+Pair the switch by pressing the pair button (found under the back cover next to the battery)
+4 times in a row. The red light on the front side should flash a few times and then turn off
+(it's more visible to see the light from the back). After a few seconds it turns back on and pulsates.
+When connected, the light turns off.

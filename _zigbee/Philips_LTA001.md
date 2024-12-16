@@ -1,7 +1,7 @@
 ---
 model: LTA001
 vendor: Philips
-title: Hue White E27 with Bluetooth
+title: Hue White Ambiance E27 with Bluetooth
 category: bulb
 supports: brightness, colortemp
 image: /assets/images/devices/Philips_LTA001.jpg

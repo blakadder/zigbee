@@ -22,12 +22,12 @@ Telink TLSR8258 module
    |            ZYZB010  |
  1 | Vcc             RST | 24
  2 | Gnd              C1 | 23
- 3 | Vcc              C0 | 22
- 4 | SWS-A7        B7-Rx | 21
- 5 | D2            D7-Tx | 20
- 6 | D3               B6 | 19
- 7 | C3               B1 | 18
- 8 | C2               B5 | 17
+ 3 | SWS-A7           C0 | 22
+ 4 | D2            B7-Rx | 21
+ 5 | D3            D7-Tx | 20
+ 6 | C3               B6 | 19
+ 7 | C2               B1 | 18
+ 8 | nc               B5 | 17
  9 | nc               B4 | 16
 10 | D4               A1 | 15
 11 | nc               C4 | 14

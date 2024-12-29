@@ -6,7 +6,7 @@ title: E1 Wireless Remote Switch (Double Rocker)
 category: remote
 supports: action, battery, click mode
 zigbeemodel: ['lumi.remote.acn004']
-compatible: [z2m, deconz]
+compatible: [z2m, deconz, z4d]
 deconz: 6626
 mlink: https://www.xiaomiyoupin.com/detail?gid=147135
 link: https://www.aliexpress.com/item/1005004383740563.html

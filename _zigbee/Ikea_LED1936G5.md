@@ -6,7 +6,7 @@ title: Tradfri LED bulb E27 470 lumen, dimmable, globe white frosted glass
 category: bulb
 supports: brightness
 zigbeemodel: ['TRADFRIbulbG125E27WSopal470lm','TRADFRIbulbG125E26WSopal450lm']
-compatible: [z2m]
+compatible: [z2m, zha]
 mlink: https://www.ikea.com/cz/en/p/tradfri-led-bulb-e27-470-lumen-wireless-dimmable-white-spectrum-globe-white-frosted-glass-20441333/
 link: 
 link2: 

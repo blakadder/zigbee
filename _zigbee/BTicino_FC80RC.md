@@ -7,7 +7,7 @@ category: switch
 type: DIN Relay
 supports: on/off, power meter
 zigbeemodel: ['Teleruptor']
-compatible: ['zha',deconz,z2m]
+compatible: [zha,deconz,z2m]
 deconz: 3040
 z2m: FC80RC
 mlink: https://catalogue.bticino.com/BTI-FC80RC-EN

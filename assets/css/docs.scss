@@ -69,6 +69,7 @@ a.menu {
 		background: $navigation-background;
 		padding: $base-height;
 		overflow: auto;
+		padding-bottom: 4em;
 	}
 
 	.sidebar-mobile {
@@ -76,6 +77,7 @@ a.menu {
 		height: $header-height;
 		padding: $base-height;
 		text-align: right;
+		border-bottom: 2px solid #e1e1e1;
 
 		.close-icon, .menu-icon {
 			width: 18px;
@@ -188,6 +190,10 @@ a.menu {
 		border-right: none;
 		height: $header-height;
 
+		.sidebar-main {
+			padding-bottom: 8em;
+		}
+
 		.sidebar-mobile {
 			display: block;
 
@@ -199,6 +205,7 @@ a.menu {
 		&.opened {
 			overflow: visible;
 			height: auto;
+			max-height: 100dvh;
 			border-bottom: $sidebar-border;
 
 			.sidebar-mobile {

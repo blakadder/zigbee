@@ -328,9 +328,14 @@ input[type='radio'] {
 .container {
   margin: 0 auto;
   max-width: 112.0rem;
-  padding: 0 2.0rem;
+  padding: 0;
   position: relative;
   width: 100%;
+}
+@media (min-width: 40rem) {
+  .container {
+    padding: 0 2rem;
+  }
 }
 
 .row {
@@ -576,7 +581,7 @@ table {
 
 td,
 th {
-  border-bottom: 0.1rem solid #e1e1e1;
+  border-bottom: 2px solid #e1e1e1;
   padding: 0.2rem 0.5rem;
   text-align: left;
 }
@@ -598,7 +603,7 @@ th:last-child {
 
 .td-list,
 .th-list {
-  border-bottom: 0.1rem solid #e1e1e1;
+  border-bottom: 2px solid #e1e1e1;
   padding: 0.1rem 0.5rem;
   text-align: left;
   vertical-align: middle;
@@ -606,10 +611,15 @@ th:last-child {
 
 .td-first,
 .th-first {
-  padding-left: 1;
   text-align: center;
-  width: 14%;
-  min-width: 40px;
+  width: 8%;
+  min-width: 80px;
+}
+
+.td-first img {
+  display: block;
+  max-height:75px;
+  vertical-align: middle;
 }
 
 .td-10,
@@ -622,14 +632,18 @@ th:last-child {
     // width: 150px;
 }
 
-.td-compat {
-  text-align: center;
-  width: 30px;
-  min-width: 25px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  padding: 0.1rem 0rem;
+td.td-compat {
+  display: flex;
+  gap: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+}
+
+.td-compat img {
+  width: 24px;
+  display: block;
+  margin-bottom: 8px;
+  margin-top: 8px;
 }
 
 .th-compat {
@@ -644,7 +658,21 @@ th:last-child {
 .th-second {
   padding-left: 0.6rem;
   width: 40%;
+  font-size: 1.1em;
+  line-height: 1.3;
+  border-bottom: 0;
+}
 
+td.td-second {
+  padding-top: 8px;
+  padding-left: 16px;
+}
+
+td.model {
+  font-size: 0.9em;
+  border-bottom: 0;
+  line-height: 1.2;
+  padding-left: 16px;
 }
 
 .td-last,

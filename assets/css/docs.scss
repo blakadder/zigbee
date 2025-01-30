@@ -76,6 +76,7 @@ a.menu {
 		height: $header-height;
 		padding: $base-height;
 		text-align: right;
+		border-bottom: 2px solid #e1e1e1;
 
 		.close-icon, .menu-icon {
 			width: 18px;

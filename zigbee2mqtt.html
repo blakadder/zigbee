@@ -16,7 +16,7 @@ How to set up <a href="https://www.zigbee2mqtt.io/" target="_blank">Zigbee2MQTT<
         {% for type in vendors %}
         {% assign type_sorted = type.items | sort_natural: 'title' %}     
         {% for template in type_sorted %}
-        {% include tablerow_nocompatibility.html %}
+        {% include tablerow.html hide_compat=true %}
         {% endfor %}
         {% endfor %}
 </tbody>

@@ -13,4 +13,5 @@ link2: https://www.amazon.co.uk/HEIMAN-Monoxide-Detector-Electrochemical-compati
 link3: https://www.aliexpress.com/item/4000209418201.html
 link4: https://www.domadoo.fr/en/peripheriques/5884-heiman-capteur-co-monoxyde-de-carbone-zigbee-30.html
 link5: https://www.aliexpress.com/item/1005003434944721.html
+link6: https://smartdomo.de/products/kohlenmonoxid-melder-co-sensor-zigbee-3-0-hs1ca
 ---

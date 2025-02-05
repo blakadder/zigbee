@@ -1,6 +1,6 @@
 ---
 date_added: 2025-02-05
-model: SLZB-06
+model: SLZB-06noPOE
 vendor: SMLIGHT
 title: Ethernet USB Adapter CC2652P
 category: coordinator

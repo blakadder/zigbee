@@ -1,6 +1,6 @@
 ---
 date_added: 2025-02-05
-model: SLZB-06
+model: SLZB-06M
 vendor: SMLIGHT
 title: POE Ethernet USB Adapter EFR32MG21
 category: coordinator

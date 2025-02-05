@@ -10,5 +10,5 @@ z2m: TS0601_dimmer
 mlink: https://www.bseed.com/collections/zigbee-series/products/bseed-eu-russia-new-zigbee-touch-wifi-light-dimmer-smart-switch
 link: https://www.aliexpress.com/item/1005003249382419.html
 link2: https://www.aliexpress.com/item/1005003391235290.html
-link3: 
+link3: https://www.homebrainz.shop/p/bseed-chytry-stmivac-osvetleni-se-zigbee
 ---

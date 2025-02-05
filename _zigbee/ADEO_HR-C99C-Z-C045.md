@@ -9,8 +9,8 @@ action: on, off, scene_1, scene_2, scene_3, scene_4, color_saturation_step_up, c
 zigbeemodel: ['LXEK-5','ZBEK-26']
 compatible: [z2m, zha]
 mlink: 
-link: https://www.leroymerlin.fr/produits/electricite-domotique/domotique-et-objets-connectes/domotique/accessoires-de-gestion-de-lumiere/telecommande-pour-ampoules-connectees-rgb-ctt-zigbee-lexman-enki-82473188.html
-link2: https://www.leroymerlin.fr/produits/electricite-domotique/domotique-et-objets-connectes/domotique/accessoires-de-gestion-de-lumiere/telecommande-zigbee-rgbw-lexman-enki-84372300.html
+link: https://www.leroymerlin.fr/produits/electricite-et-domotique/domotique-et-objets-connectes/domotique/solutions-de-commande/telecommande-pour-ampoules-connectees-zigbee-lexman-enki-82473188.html
+link2: 
 link3: 
 EAN: 
   - 3276007069006

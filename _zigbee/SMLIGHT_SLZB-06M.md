@@ -6,7 +6,7 @@ title: POE Ethernet USB Adapter EFR32MG21
 category: coordinator
 supports: coordinator
 zigbeemodel:
-compatible: [zha, z2m]
+compatible: [zha, z2m, z4d]
 mlink: https://smlight.tech/product/slzb-06m/
 link: https://www.aliexpress.com/item/1005004996029144.html
 link2: https://www.amazon.com/dp/B0CLCGV1RZ/

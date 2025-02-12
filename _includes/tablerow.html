@@ -1,11 +1,23 @@
 <tr>
-  <td class="td-first"><img src="{{ template.url | remove: ".html" | prepend: '/assets/images/devices' | append: '.webp' | processed_path: 'table' }}" alt="{{ template.vendor }} {{ template.model }}" height="75" style="max-height:75px;vertical-align: middle;" loading="lazy"></td>
-  <td class="td-second"><b><a class="menu" href="{{site.baseurl}}{{ template.url }}">{{ template.vendor }} {{ template.title }}</a></b></td>
-  <td>{{ template.model | truncate: 18, '...'}}</td>
-  <td class="td-compat">{% if template.compatible contains "zha" %}<img alt="Zigbee Home Automation for Home Assistant" title="Zigbee Home Automation for Home Assistant" src="{{site.baseurl}}/assets/images/zha-icon.png">{% else %} {% endif %}</td>
-  <td class="td-compat">{% if template.compatible contains "tasmota" or template.category == "light" or template.category == "dimmer" %}<img alt="Tasmota" title="Tasmota" src="{{site.baseurl}}/assets/images/tasmota-icon.png">{% else %} {% endif %}</td>
-  <td class="td-compat">{% if template.compatible contains "z2m" %}<img alt="Zigbee2MQTT" title="Zigbee2MQTT" src="{{site.baseurl}}/assets/images/z2m-icon.png">{% else %} {% endif %}</td>
-  <td class="td-compat">{% if template.compatible contains "deconz" %}<img alt="deCONZ" title="deCONZ" src="{{site.baseurl}}/assets/images/deconz-icon.png">{% else %} {% endif %}</td>
-  <td class="td-compat">{% if template.compatible contains "z4d" %}<img alt="Zigbee for Domoticz" title="Zigbee for Domoticz" src="{{site.baseurl}}/assets/images/z4d-icon.png">{% else %} {% endif %}</td>
-  <td class="td-compat">{% if template.compatible contains "iob" or template.compatible contains "z2m" %}<img alt="ioBroker.zigbee" title="ioBroker.zigbee" src="{{site.baseurl}}/assets/images/iobroker-icon.png">{% else %} {% endif %}</td>
+  <td class="td-first" rowspan="4"><img src="{{ template.url | remove: ".html" | prepend: '/assets/images/devices' | append: '.webp' | processed_path: 'table' }}" alt="{{ template.vendor }} {{ template.model }}" height="75" loading="lazy"></td>
 </tr>
+<tr>
+  <td class="td-second"><b><a class="menu" href="{{site.baseurl}}{{ template.url }}">{{ template.vendor }} {{ template.title }}</a></b></td>
+</tr>
+<tr>
+  <td class="model">{{ template.model }}</td>
+</tr>
+{% if include.hide_compat %}
+<tr><td></td></tr> {# A hacky way of keeping a table layout more stable #}
+{% else %}
+<tr>
+  <td class="td-compat">
+    {% if template.compatible contains "zha" %}<img alt="Zigbee Home Automation for Home Assistant" title="Zigbee Home Automation for Home Assistant" src="{{site.baseurl}}/assets/images/zha-icon.png">{% endif %}
+    {% if template.compatible contains "tasmota" or template.category == "light" or template.category == "dimmer" %}<img alt="Tasmota" title="Tasmota" src="{{site.baseurl}}/assets/images/tasmota-icon.png">{% endif %}
+    {% if template.compatible contains "z2m" %}<img alt="Zigbee2MQTT" title="Zigbee2MQTT" src="{{site.baseurl}}/assets/images/z2m-icon.png">{% endif %}
+    {% if template.compatible contains "deconz" %}<img alt="deCONZ" title="deCONZ" src="{{site.baseurl}}/assets/images/deconz-icon.png">{% endif %}
+    {% if template.compatible contains "z4d" %}<img alt="Zigbee for Domoticz" title="Zigbee for Domoticz" src="{{site.baseurl}}/assets/images/z4d-icon.png">{% endif %}
+    {% if template.compatible contains "iob" or template.compatible contains "z2m" %}<img alt="ioBroker.zigbee" title="ioBroker.zigbee" src="{{site.baseurl}}/assets/images/iobroker-icon.png">{% endif %}
+  </td>
+</tr>
+{% endif %}

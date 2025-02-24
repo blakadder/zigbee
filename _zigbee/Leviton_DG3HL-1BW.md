@@ -5,7 +5,7 @@ vendor: Leviton
 title: Decora Plug-In Dimmer
 category: dimmer
 zigbeemodel: ['DG3HL']
-compatible: [z2m]
+compatible: [z2m, zha]
 mlink: https://www.leviton.com/en/products/dg3hl-1bw
 link: https://www.amazon.com/dp/B000U39QWU/
 link2: 

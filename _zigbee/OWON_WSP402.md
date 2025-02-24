@@ -6,7 +6,7 @@ title: Smart Plug AU
 category: plug
 supports: on/off, power and energy measurement
 zigbeemodel: ['WSP402']
-compatible: [z2m]
+compatible: [z2m, z4d]
 mlink: https://www.ozsmartthings.com.au/products/oz-zigbee-smart-plug
 link: https://www.alibaba.com/product-detail/US-ZigBee-remote-on-off-setting_62496574196.html
 link2: 

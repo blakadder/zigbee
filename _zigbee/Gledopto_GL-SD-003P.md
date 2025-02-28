@@ -6,7 +6,7 @@ title: DIN Rail AC Dimmer
 category: switch
 supports: on/off
 zigbeemodel: ['GL-SD-003P']
-compatible: [z2m, zha]
+compatible: [z2m, zha, z4d]
 deconz: 6197
 mlink: https://www.gledopto.com/h-col-424.html
 link: https://vi.aliexpress.com/item/1005005454626686.html

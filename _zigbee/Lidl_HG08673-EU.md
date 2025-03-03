@@ -4,6 +4,7 @@ model: HG08673-EU
 vendor: Lidl
 title: SilverCrest Smart Plug EU
 category: plug
+supports: on/off, power metering, voltage, current
 zigbeemodel: ['TS011F', '_TZ3000_j1v25l17']
 z2m: HG08673
 compatible: [z2m, zha, deconz]

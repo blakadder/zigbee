@@ -17,7 +17,7 @@ How to set up <a href="https://tasmota.github.io/docs/Zigbee" target="_blank">Zi
         {% for type in vendors %}
         {% assign type_sorted = type.items | sort_natural: 'title' %}     
         {% for template in type_sorted %}
-        {% include tablerow_nocompatibility.html %}
+        {% include tablerow.html hide_compat=true %}
         {% endfor %}
         {% endfor %}
 </tbody>

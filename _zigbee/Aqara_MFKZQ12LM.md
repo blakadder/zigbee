@@ -7,7 +7,7 @@ category: remote
 type: Controller
 supports: action, batterypct
 zigbeemodel: ['lumi.remote.cagl02']
-compatible: [deconz]
+compatible: [deconz,zha]
 deconz: 5838
 mlink: https://www.aqara.com/aqara_qube_t1_pro_overview
 link: https://www.amazon.com/dp/B0BHWS3VTZ

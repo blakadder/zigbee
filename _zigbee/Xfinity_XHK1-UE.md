@@ -7,7 +7,7 @@ category: remote
 supports: battery, temperature, action
 actions: disarm, arm day zones, identify, arm night zones, arm all zones, invalid code, emergency
 zigbeemodel: ['URC4450BC0-X-R']
-compatible: [z2m, deconz, iob]
+compatible: [z2m, deconz, iob, zha]
 deconz: 6695
 z2m: URC4450BC0-X-R
 mlink: 

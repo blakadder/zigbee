@@ -4,6 +4,7 @@ model: E2201
 vendor: IKEA
 title: Rodret Wireless Dimmer
 category: remote
+supports: action, batterpct
 zigbeemodel: ['RODRET dimmer']
 compatible: [z2m, zha, deconz]
 mlink: https://www.ikea.com/pt/en/p/rodret-wireless-dimmer-power-switch-smart-white-20528128/

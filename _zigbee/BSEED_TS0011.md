@@ -6,7 +6,7 @@ title: Touch Switch 1 Gang
 category: switch
 supports: on/off
 zigbeemodel: ['TS0011', '_TZ3000_hafsqare']
-compatible: [zha][z2m]
+compatible: [zha, z2m]
 mlink:
 link: https://www.aliexpress.com/item/1005002637772369.html
 link2: 

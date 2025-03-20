@@ -19,6 +19,12 @@ html, body {
 	box-sizing: border-box;
 }
 
+[src*="tasmota-icon.png"] {
+	@media (prefers-color-scheme: dark) {
+		filter: invert(1) grayscale(1);
+	}
+}
+
 pre {
 	margin-bottom: ($base-height * 2) !important;
 }
@@ -64,12 +70,33 @@ a.menu {
 	overflow: hidden;
 	color: $sidebar-color;
 
+	@media (prefers-color-scheme: dark) {
+    color: $sidebar-color-dark-mode;
+		border-color: $border-color-dark-mode;
+  }
+
+	.sidebar-logo {
+		background-color: $navigation-background;
+
+		@media (prefers-color-scheme: dark) {
+			background-color: $navigation-background-dark-mode;
+			
+			img {
+				filter: invert(1) grayscale(1);
+			}
+		}
+	}
+
 	.sidebar-main {
 		height: 100%;
 		background: $navigation-background;
 		padding: $base-height;
 		overflow: auto;
 		padding-bottom: 4em;
+
+		@media (prefers-color-scheme: dark) {
+			background-color: $navigation-background-dark-mode;
+		}
 	}
 
 	.sidebar-mobile {
@@ -78,6 +105,10 @@ a.menu {
 		padding: $base-height;
 		text-align: right;
 		border-bottom: 2px solid #e1e1e1;
+
+		@media (prefers-color-scheme: dark) {
+			border-color: $border-color-dark-mode;
+		}
 
 		.close-icon, .menu-icon {
 			width: 18px;
@@ -93,12 +124,21 @@ a.menu {
 	border-bottom: $sidebar-border;
 	padding: 0 $base-height;
 
+	@media (prefers-color-scheme: dark) {
+    border-color:$border-color-dark-mode;
+  }
+
 	.search-input {
 		border: none;
 		font-size: 0.9em;
 		font-weight: 300;
 		width: 100%;
 		height: 100%;
+		color: $content-color;
+
+		@media (prefers-color-scheme: dark) {
+			color: $content-color-dark-mode;
+		}
 	}
 }
 
@@ -164,6 +204,10 @@ a.menu {
 	color: $content-color;
 	line-height: 1.7;
 	word-wrap: break-word;
+
+	@media (prefers-color-scheme: dark) {
+    color: $content-color-dark-mode;
+  }
 }
 
 .inner {
@@ -210,6 +254,10 @@ a.menu {
 
 			.sidebar-mobile {
 				background: $navigation-background;
+
+				@media (prefers-color-scheme: dark) {
+					background-color: $navigation-background-dark-mode;
+				}
 			}
 		}
 	}
@@ -235,4 +283,8 @@ a.menu {
 
 #nothing-found {
 	display: none;
+}
+
+.compat a {
+	text-wrap: nowrap;
 }

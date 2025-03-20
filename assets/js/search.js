@@ -57,41 +57,37 @@
 		var imgSrc = `/assets/images/devices${result.href.replace('.html', '')}.webp`;
 		var compatible = Array.isArray(result.compatible) ? result.compatible : [];
 
-		var searchEntry = $(`<tr>
-			<td class="td-first">
-				<img src="${imgSrc}" height="75" alt="${result.vendor} ${result.model}" loading="lazy" />
-			</td>
-			<td class="td-second">
-				<b>
-					<a class="menu" href="${result.href}">
-						${result.vendor} ${result.title}
-					</a>
-				</b>
-			</td>
-			<td>
-				${result.model.length >= 18 ? result.model.substring(0, 15) + '...' : result.model}
-			</td>
-
-			<td class="td-compat">
-				${compatible.includes('zha') ? '<img alt="zha" title="Zigbee Home Automation for Home Assistant" src="/assets/images/zha-icon.png" />' : ''}
-			</td>
-			<td class="td-compat">
-				${compatible.includes('tasmota') || result.category == 'light' || result.category == 'dimmer' ? '<img alt="Tasmota" title="Tasmota" src="/assets/images/tasmota-icon.png" />' : ''}
-			</td>
-			<td class="td-compat">
-				${compatible.includes('z2m') ? '<img alt="Zigbee2MQTT" title="Zigbee2MQTT" src="/assets/images/z2m-icon.png" />' : ''}
-			</td>
-			<td class="td-compat">
-				${compatible.includes('deconz') ? '<img alt="deCONZ" title="deCONZ" src="/assets/images/deconz-icon.png" />' : ''}
-			</td>
-			<td class="td-compat">
-				${compatible.includes('z4d') ? '<img alt="Zigbee for Domoticz" title="Zigbee for Domoticz" src="/assets/images/z4d-icon.png" />' : ''}
-			</td>
-			<td class="td-compat">
-				${compatible.includes('iob') || compatible.includes('z2m') ? '<img alt="ioBroker.zigbee" title="ioBroker.zigbee" src="/assets/images/iobroker-icon.png" />' : ''}
-			</td>
-		</tr>`
-		);
+		var searchEntry = $(`
+			<tr>
+				<td class="td-first" rowspan="4">
+					<img src="${imgSrc}" height="75" alt="${result.vendor} ${result.model}" loading="lazy" />
+				</td>
+			</tr>
+			<tr>
+				<td class="td-second">
+					<b>
+						<a class="menu" href="${result.href}">
+							${result.vendor} ${result.title}
+						</a>
+					</b>
+				</td>
+			</tr>
+			<tr>
+				<td class="model">
+					${result.model.length >= 18 ? result.model.substring(0, 15) + '...' : result.model}
+				</td>
+			</tr>
+			<tr>
+				<td class="td-compat">
+					${compatible.includes('zha') ? '<img alt="zha" title="Zigbee Home Automation for Home Assistant" src="/assets/images/zha-icon.png" />' : ''}
+					${compatible.includes('tasmota') || result.category == 'light' || result.category == 'dimmer' ? '<img alt="Tasmota" title="Tasmota" src="/assets/images/tasmota-icon.png" />' : ''}
+					${compatible.includes('z2m') ? '<img alt="Zigbee2MQTT" title="Zigbee2MQTT" src="/assets/images/z2m-icon.png" />' : ''}
+					${compatible.includes('deconz') ? '<img alt="deCONZ" title="deCONZ" src="/assets/images/deconz-icon.png" />' : ''}
+					${compatible.includes('z4d') ? '<img alt="Zigbee for Domoticz" title="Zigbee for Domoticz" src="/assets/images/z4d-icon.png" />' : ''}
+					${compatible.includes('iob') || compatible.includes('z2m') ? '<img alt="ioBroker.zigbee" title="ioBroker.zigbee" src="/assets/images/iobroker-icon.png" />' : ''}
+				</td>
+			</tr>
+		`);
 
 		return searchEntry
 	}
@@ -109,7 +105,7 @@
 		}
 
 		var fragment = $(document.createDocumentFragment());
-		results.map(function(entry) {
+		results.map(function (entry) {
 			fragment.append(resultEntry(entry))
 		})
 
@@ -157,7 +153,7 @@
 			switch (event.keyCode) {
 				case EscKeyCode:
 					hide()
-				break
+					break
 			}
 		}
 	}

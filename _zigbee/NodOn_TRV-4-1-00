@@ -6,7 +6,7 @@ title: Thermostatic Radiator Valve
 category: hvac
 supports: temperature, thermostat, battery
 zigbeemodel: ['TRV-4-1-00']
-compatible: [z2m, zha]
+compatible: [z2m, z4d, zha]
 mlink: https://nodon.fr/en/products/zigbee-thermostatic-radiator-valve
 link: https://www.domadoo.fr/fr/chauffage-connecte/7484-nodon-tete-de-vanne-thermostatique-zigbee-30-trv-4-1-00.html
 link2: 

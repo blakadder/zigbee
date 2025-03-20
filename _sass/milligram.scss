@@ -24,6 +24,11 @@ body {
   font-weight: 300;
   letter-spacing: .01em;
   line-height: 1.5;
+  
+  @media (prefers-color-scheme: dark) {
+    background-color: $background-color-dark-mode;
+    color: $content-color-dark-mode;
+  }
 }
 
 blockquote {
@@ -58,6 +63,11 @@ input[type='submit'] {
   text-decoration: none;
   text-transform: uppercase;
   white-space: nowrap;
+
+  @media (prefers-color-scheme: dark) {
+    background-color: $blue-color-dark-mode;
+    border-color:$blue-color-dark-mode
+  }
 }
 
 .button:focus, .button:hover,
@@ -96,6 +106,11 @@ input[type='submit'][disabled]:focus,
 input[type='submit'][disabled]:hover {
   background-color: #002b80;
   border-color: #002b80;
+
+  @media (prefers-color-scheme: dark) {
+    background-color: $blue-color-dark-mode;
+    border-color:$blue-color-dark-mode;
+  }
 }
 
 .button.button-outline,
@@ -105,6 +120,10 @@ input[type='reset'].button-outline,
 input[type='submit'].button-outline {
   background-color: transparent;
   color: #002b80;
+
+  @media (prefers-color-scheme: dark) {
+    color:$blue-color-dark-mode;
+  }
 }
 
 .button.button-outline:focus, .button.button-outline:hover,
@@ -132,6 +151,10 @@ input[type='submit'].button-outline[disabled]:focus,
 input[type='submit'].button-outline[disabled]:hover {
   border-color: inherit;
   color: #002b80;
+
+  @media (prefers-color-scheme: dark) {
+    color:$blue-color-dark-mode;
+  }
 }
 
 .button.button-clear,
@@ -142,6 +165,10 @@ input[type='submit'].button-clear {
   background-color: transparent;
   border-color: transparent;
   color: #002b80;
+
+  @media (prefers-color-scheme: dark) {
+    color:$blue-color-dark-mode;
+  }
 }
 
 .button.button-clear:focus, .button.button-clear:hover,
@@ -169,12 +196,22 @@ input[type='submit'].button-clear[disabled]:focus,
 input[type='submit'].button-clear[disabled]:hover {
   background-color: slategrey;
   color: #002b80;
+
+  @media (prefers-color-scheme: dark) {
+    color:$blue-color-dark-mode;
+  }
 }
 
 /* Custom color */
 .button-black {
   background-color: black;
   border-color: black;
+
+  @media (prefers-color-scheme: dark) {
+    background-color: $content-color-dark-mode;
+    border-color: $content-color-dark-mode;
+    color: $navigation-background-dark-mode;
+  }
 }
 .button-black.button-clear,
 .button-black.button-outline {
@@ -200,7 +237,7 @@ input[type='submit'].button-clear[disabled]:hover {
 
 .button-red {
   background-color: #EF3453;
-  border-color: white;
+  border-color: transparent;
 }
 .button-red.button-clear,
 .button-red.button-outline {
@@ -286,6 +323,10 @@ textarea:focus,
 select:focus {
   border-color: #002b80;
   outline: 0;
+
+  @media (prefers-color-scheme: dark) {
+    border-color:$blue-color-dark-mode;
+  }
 }
 
 select {
@@ -331,6 +372,7 @@ input[type='radio'] {
   padding: 0;
   position: relative;
   width: 100%;
+  padding-bottom: 5dvh;
 }
 @media (min-width: 40rem) {
   .container {
@@ -453,7 +495,14 @@ input[type='radio'] {
 
 .row .column.column-60 {
   flex: 0 0 60%;
-  max-width: 60%;
+  
+  @media (min-width: 40rem) {
+    max-width: 60%;
+  }
+  
+  img {
+    filter: brightness(0.8) contrast(1.1);
+  }
 }
 
 .row .column.column-66, .row .column.column-67 {
@@ -504,6 +553,10 @@ input[type='radio'] {
 a {
   color: #002b80;
   text-decoration: none;
+
+  @media (prefers-color-scheme: dark) {
+    color:$blue-color-dark-mode;
+  }
 }
 
 a:focus, a:hover {
@@ -584,6 +637,10 @@ th {
   border-bottom: 2px solid #e1e1e1;
   padding: 0.2rem 0.5rem;
   text-align: left;
+
+  @media (prefers-color-scheme: dark) {
+    border-color: $border-color-dark-mode;
+  }
 }
 
 td:first-child,
@@ -607,6 +664,10 @@ th:last-child {
   padding: 0.1rem 0.5rem;
   text-align: left;
   vertical-align: middle;
+
+  @media (prefers-color-scheme: dark) {
+    border-color: $border-color-dark-mode;
+  }
 }
 
 .td-first,
@@ -620,6 +681,10 @@ th:last-child {
   display: block;
   max-height:75px;
   vertical-align: middle;
+
+  @media (prefers-color-scheme: dark) {
+    filter: brightness(0.8) contrast(1.1);
+  }
 }
 
 .td-10,

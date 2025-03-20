@@ -20,7 +20,9 @@ html, body {
 }
 
 [src*="tasmota-icon.png"] {
-	filter: invert(1) grayscale(1);
+	@media (prefers-color-scheme: dark) {
+		filter: invert(1) grayscale(1);
+	}
 }
 
 pre {

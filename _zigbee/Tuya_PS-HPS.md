@@ -14,7 +14,7 @@ z2m: TS0601_human_presence_sensor
 compatible: [z2m, tasmota, deconz, zha]
 quirk: https://github.com/zigpy/zha-device-handlers/issues/2059
 deconz: 6752
-tasmota: Tuya_PS-HPS.zb
+tasmota: Tuya_PS-HPS
 ---
 
 Uses HLK-LD2410 24Ghz mmWave radar for presence detection.

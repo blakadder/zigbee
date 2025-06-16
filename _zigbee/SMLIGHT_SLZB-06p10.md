@@ -12,5 +12,6 @@ link: https://www.aliexpress.com/item/1005004996029144.html
 link2: https://www.amazon.com/dp/B0DQ75W1LL
 link3: https://www.domadoo.fr/en/technologie-domotique/7191-smlight-cc2652p10-zigbee-30-poe-ethernet-usb-adapter-zigbee2mqtt.html
 link4: https://cloudfree.shop/product/smlight-zigbee-ethernet-adapter/
+link5: https://www.homebrainz.shop/en/p/smlight-slzb-06p10
 ---
 

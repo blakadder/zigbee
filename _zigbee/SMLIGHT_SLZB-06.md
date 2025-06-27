@@ -12,5 +12,6 @@ link: https://www.aliexpress.com/item/1005004996029144.html
 link2: https://www.amazon.com/dp/B0BL6DQSB3
 link3: https://www.domadoo.fr/en/smart-home-hub/7042-smlight-cc2652p-zigbee-30-poe-ethernet-usb-adapter-zigbee2mqtt-and-zha.html
 link4: https://cloudfree.shop/product/smlight-zigbee-ethernet-adapter/
+link5: https://www.homebrainz.shop/en/p/smlight-slzb-06-recommended-for-zigbee2mqtt
 ---
 

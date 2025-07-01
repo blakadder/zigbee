@@ -12,6 +12,7 @@ link: https://www.amazon.com/dp/B0B6P22YJC/
 link2: https://www.aliexpress.com/item/1005004573213779.html
 link3: https://www.domadoo.fr/en/interface-domotique/6315-sonoff-zigbee-30-usb-key-20dbm-external-antenna-v2-zbdongle-e.html
 link4: https://www.geekbuying.com/item/Sonoff-Zigbee-3-0-USB-Dongle-E-514460.html
+link5: https://sonoff.tech/products/sonoff-zigbee-3-0-usb-dongle-plus-zbdongle-e
 ---
 
 Firmware flashing [instructions](https://sonoff.tech/wp-content/uploads/2022/08/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-.pdf).

@@ -12,6 +12,7 @@ link: https://www.amazon.de/gp/product/B09KXTCMSC
 link2: https://cloudfree.shop/product/sonoff-zigbee-3-0-dongle/
 link3: https://www.domadoo.fr/en/interface-domotique/5976-sonoff-cle-usb-zigbee-30-antenne-externe-20dbm-compatible-zha-zigbee2mqtt.html
 link4: https://www.aliexpress.com/item/1005003606832844.html
+link5: https://sonoff.tech/products/sonoff-zigbee-3-0-usb-dongle-plus-zbdongle-p
 ---
 
 ## Firmware Upgrade

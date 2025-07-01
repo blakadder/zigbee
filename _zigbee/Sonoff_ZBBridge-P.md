@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator
 zigbeemodel:
 compatible: [tasmota,zha,z2m]
-mlink: https://sonoff.tech/product/smart-home-security/zbbridge-p/
+mlink: https://sonoff.tech/products/sonoff-zigbee-bridge-pro
 link: https://itead.cc/product/sonoff-zigbee-bridge-pro/
 link2: https://www.aliexpress.com/item/1005004291712811.html
 link3: https://www.domadoo.fr/en/peripheriques/6321-sonoff-zigbee-30-home-automation-gateway-wifi-pro.html

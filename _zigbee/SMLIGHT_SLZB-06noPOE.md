@@ -6,7 +6,7 @@ title: Ethernet USB Adapter CC2652P
 category: coordinator
 supports: coordinator
 zigbeemodel:
-compatible: [zha, z2m]
+compatible: [zha, z2m, z4d]
 mlink: https://smlight.tech/product/slzb-06/
 link: https://www.aliexpress.com/item/1005007053318619.html
 link2: https://www.amazon.com/dp/B0BL6DQSB3

@@ -6,7 +6,7 @@ title: POE Ethernet USB Adapter CC2652P
 category: coordinator
 supports: coordinator
 zigbeemodel:
-compatible: [zha, z2m]
+compatible: [zha, z2m, z4d]
 mlink: https://smlight.tech/product/slzb-06p7/
 link: https://www.aliexpress.com/item/1005004996029144.html
 link2: https://www.amazon.com/dp/B0D1C9BGGJ

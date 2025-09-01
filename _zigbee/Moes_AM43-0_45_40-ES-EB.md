@@ -11,7 +11,7 @@ deconz: 4663
 z2m: TS0601_cover
 mlink: https://www.moeshouse.com/collections/zigbee-chain-roller-blinds-motor/products/zigbee-smart-diy-motorized-roller-blinds-shades-drive-motor-hub-required-tuya-smart-life-app-control
 link: https://www.aliexpress.com/item/1005001698400295.html
-link2: https://www.aliexpress.com/item/1005001775235402.html
+link2:
 link3: 
 ---
 

@@ -5,7 +5,7 @@ model: SWV
 title: Smart Water Valve
 zigbeemodel: ['SWV']
 category: hvac
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: https://itead.cc/product/sonoff-zigbee-smart-water-valve/
 link: https://sonoff.tech/products/sonoff-zigbee-smart-water-valve
 link2: https://www.amazon.de/gp/product/B0D5B8S8N8

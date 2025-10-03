@@ -16,6 +16,8 @@ link3: https://www.domadoo.fr/en/domotique/5789-moes-capteur-de-temperature-humi
 link4: 
 pairing: "Hold the orange button until three dots appear at the top left of the screen."
 ---
+This device is not recommended, as it has a critical design flaw involving the temperature sensor used vs the available power source - for more details, see here: [https://pvvx.github.io/ZSS-ZK-THL/](https://pvvx.github.io/ZSS-ZK-THL/)
+
 This device will not work correctly unless previously paired with a Tuya compatible gateway (unconfirmed). It may also work with Sonoff dongles (such as the [ZB Dongle-P](/Sonoff_ZBDongle-P.html)), but not sure with Sonoff minis.
 
 A workaround for the inconsistencies presented below is using a Tuya gateway via the Tuya integration, instead of including the sensor and gateway to the HomeAssistant Zigbee mesh. Details were discussed in [this GitHub issue](https://github.com/zigpy/zha-device-handlers/issues/961).

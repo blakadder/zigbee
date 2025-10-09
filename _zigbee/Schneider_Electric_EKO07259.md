@@ -8,5 +8,5 @@ mlink: https://www.se.com/ww/en/product/EKO07258/connected-thermostat-elko-smart
 link: https://www.elektroimportoren.no/elko-smart-zigbee-termostat-rs-renhvit/4523406/Product.html
 link2: https://elkosmart.elko.no/produkter/smarttermostat-plus-polarhvit
 zigbeemodel: EKO07259
-compatible: z2m
+compatible: [zha, z2m]
 ---

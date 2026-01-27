@@ -9,7 +9,7 @@ link: https://www.amazon.com/dp/B0BYDCY4YN
 link2: https://www.aliexpress.com/item/1005005709495172.html
 link3: https://www.aliexpress.com/item/1005005764168560.html
 link4: https://www.alibaba.com/product-detail/Tuya-Zigbee-Light-Control-Smart-Brightness_1600737933127.html
-zigbeemodel: ['TS0601', '_TZE204_sooucan5']
+zigbeemodel: ['TS0601', '_TZE204_sooucan5', '_TZE204_oqtpvx51']
 compatible: [z2m]
 ---
 

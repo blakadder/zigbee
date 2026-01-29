@@ -7,6 +7,10 @@ category: sensor
 mlink: 
 link: https://www.aliexpress.com/item/1005003479153385.html
 zigbeemodel: ['TS0207', '_TZ3000_85czd6fy']
-compatible: [deconz]
+compatible: [deconz, zha]
 deconz: 6623
 ---
+
+## Note 
+
+ZHA does not support the tamper sensor.

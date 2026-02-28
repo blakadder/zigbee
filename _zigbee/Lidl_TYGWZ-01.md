@@ -87,6 +87,8 @@ The script should then print your gateway's root password.
 ## Customise running software on the gateway
 ### This section must be run on Linux or WSL (Or any Bash like shell)
 
+[You may need to add the following options to SSH since the device has a very old serer version: ``` -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa ```]
+
 1. SSH into your gateway with the username `root` and the password you decoded earlier, the SSH server will be running on port `2333` and run the following
 ```bash
 if [ ! -f /tuya/ssh_monitor.original.sh ]; then cp /tuya/ssh_monitor.sh /tuya/ssh_monitor.original.sh; fi

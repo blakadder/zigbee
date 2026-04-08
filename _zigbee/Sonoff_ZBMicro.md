@@ -6,7 +6,7 @@ title: Micro USB Plug and Repeater
 category: plug
 supports: on/off
 zigbeemodel: ['ZBMicro']
-compatible: [zha, z2m, tasmota, ihost]
+compatible: [zha, z2m, deconz, tasmota, ihost]
 mlink: https://itead.cc/product/sonoff-zigbee-smart-plug-iplug-lite/
 link: https://itead.cc/product/sonoff-zigbee-smart-plug-iplug-lite/
 link2: https://www.domadoo.fr/en/devices/7144-sonoff-usb-zigbee-micro-adapter-zbmicro.html

@@ -6,7 +6,7 @@ title: Temperature and Humidty Sensor
 category: sensor
 supports: temperature, humidity, battery
 zigbeemodel: ['TS0201','_TZ3000_amqudjr0']
-compatible: [deconz]
+compatible: [deconz,zha]
 deconz: 6253
 mlink: https://wooxhome.com/woox-r7048-smart-humidity-temperature-sensor-p48
 link: https://www.amazon.de/dp/B08HZGSHSK

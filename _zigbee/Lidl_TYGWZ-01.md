@@ -12,6 +12,8 @@ link: https://www.lidl.de/p/silvercrest-gateway-zigbee-smart-home/p100306596
 link2: https://www.idealo.de/preisvergleich/OffersOfProduct/200961757_-gateway-zigbee-smart-home-silvercrest-multimedia.html
 ---
 
+> **Alternative:** For a fully local open Linux firmware (Zigbee coordinator for Z2M/ZHA, Thread Border Router or standalone Zigbee router, network updates for Linux and EFR32 radio), see [jnilo1/rtl8196e-gateway](https://github.com/jnilo1/rtl8196e-gateway) (formerly `hacking-lidl-silvercrest-gateway`). Serial access is only needed once for the first installation; retrieving the root password below is not required.
+
 ## Retrieve Root Password
 
 Method courtesy Of Paul Banks [here](https://paulbanks.org/projects/lidl-zigbee/root/) and [here](https://paulbanks.org/projects/lidl-zigbee/ha/)

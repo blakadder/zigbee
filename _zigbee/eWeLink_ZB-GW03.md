@@ -26,3 +26,5 @@ ZB-GW03 eWeLink Ethernet Zigbee Gateway (ZB-GW03-V1.0, ZB-GW03-V1.2, ZB-GW03-V1.
 ## Flashing Tasmota
 
 Flashing the Espressif ESP32 chip and Tasmota configuration [instructions](https://templates.blakadder.com/ewelink_ZB-GW03).
+
+Prebuilt Tasmota images are also published automatically for every official upstream release (OTA image for upgrades, factory image for the first flash, sha256 in each release's notes): [lifaon74/tasmota-ZB-GW03 releases](https://github.com/lifaon74/tasmota-ZB-GW03/releases/latest).
